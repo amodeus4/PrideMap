@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>London Pride Map</title>
+    
+    <!-- Mapbox CSS -->
+    <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet' />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div id="map"></div>
+        <div class="sidebar">
+            <div class="header">
+                <h1>London Pride Map</h1>
+                <h5>Find all the best queer events,
+                    updated weekly</h5>
+
+                <div class="filters">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="today">Today</button>
+                    <button class="filter-btn" data-filter="lesbian">Lesbian</button>
+                    <button class="filter-btn" data-filter="lesbian">Gay</button>
+                    <button class="filter-btn" data-filter="bisexual">Bisexual</button>
+                    <button class="filter-btn" data-filter="trans">Trans</button>
+                    <button class="filter-btn" data-filter="trans">Non-Binary</button>
+                    <button class="filter-btn" data-filter="flinta">FLINTA</button>
+                    <button class="filter-btn" data-filter="flinta">BIPOC</button>
+                    
+                </div>
+            </div>
+            <div class="events-list" id="events-list">
+                <!-- Events will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Mapbox JS -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js'></script>
+    
+    <!-- Custom JS -->
+    <script src="js/script.js"></script>
+</body>
+</html>
