@@ -5,6 +5,11 @@ let currentView = 'list'; // 'list' or 'detail'
 let currentEvent = null;
 let isMobile = window.innerWidth <= 768;
 
+// Mobile Bottom Sheet Functionality
+let isDragging = false;
+let startY, startBottom;
+let bottomSheet, dragHandle, mobileEventsList;
+
 const events = [
     {
         id: 1,
@@ -416,10 +421,15 @@ const events = [
 
 // Initialize the application
 async function init() {
-    initializeMap();
-    setupEventListeners();
-    setupScrollTransition();
     await geocodeAllEvents();
+    initializeMap();
+    renderEvents(events);
+    setupEventListeners();
+    
+    // Initialize mobile bottom sheet if on mobile
+    if (isMobile) {
+        initializeMobileBottomSheet();
+    }
 }
 
 // Setup smooth scroll transition for mobile
@@ -538,7 +548,14 @@ function addMarkers(eventsToShow) {
         if (group.events.length === 1) {
             // Single event marker
             el.className = 'marker';
-            el.onclick = () => showEventDetail(group.events[0].id);
+            el.onclick = () => {
+                if (isMobile) {
+                    showMobileEventDetail(group.events[0].id);
+                    showBottomSheet();
+                } else {
+                    showEventDetail(group.events[0].id);
+                }
+            };
         } else {
             // Multiple events marker with count
             el.className = 'marker-cluster';
@@ -590,12 +607,12 @@ function createClusterPopupHTML(group) {
                 <p><strong>${event.venue}</strong></p>
                 <p>${event.time} • ${event.date}</p>
                 <p>${event.price}</p>
-                <button onclick="showEventDetail(${event.id})" class="popup-btn">View Details</button>
+                <button onclick="if(window.isMobile) { window.showMobileEventDetail(${event.id}); window.showBottomSheet(); } else { showEventDetail(${event.id}); }" class="popup-btn">View Details</button>
             </div>
         `;
     } else {
         const eventsHTML = group.events.map(event => `
-            <div class="popup-event" onclick="showEventDetail(${event.id})">
+            <div class="popup-event" onclick="if(window.isMobile) { window.showMobileEventDetail(${event.id}); window.showBottomSheet(); } else { showEventDetail(${event.id}); }">
                 <div class="popup-event-name">${event.name}</div>
                 <div class="popup-event-time">${event.date} • ${event.time}</div>
                 <div class="popup-event-price">${event.price}</div>
@@ -873,3 +890,386 @@ function flyToEvent(lng, lat) {
 // Initialize when DOM is loaded
 document.addEventListener('DOMContentLoaded', init);
 
+// Mobile Bottom Sheet Functionality
+function initializeMobileBottomSheet() {
+    if (!isMobile) return;
+    
+    bottomSheet = document.getElementById('mobile-bottom-sheet');
+    dragHandle = document.querySelector('.drag-handle');
+    mobileEventsList = document.getElementById('mobile-events-list');
+    
+    // Update global variables
+    window.bottomSheet = bottomSheet;
+    
+    // Show bottom sheet in peek mode after a short delay
+    setTimeout(() => {
+        showBottomSheetPeek();
+    }, 1000);
+    
+    // Setup event listeners
+    setupMobileEventListeners();
+}
+
+function setupMobileEventListeners() {
+    // Drag functionality
+    dragHandle.addEventListener('mousedown', startDragging);
+    dragHandle.addEventListener('touchstart', startDragging);
+    
+    // Mobile filter buttons
+    const mobileFilterBtns = document.querySelectorAll('.mobile-filters .filter-btn');
+    mobileFilterBtns.forEach(btn => {
+        btn.addEventListener('click', handleMobileFilterClick);
+    });
+    
+    // Prevent body scroll when bottom sheet is active
+    bottomSheet.addEventListener('touchmove', (e) => {
+        e.stopPropagation();
+    }, { passive: false });
+    
+    // Add scroll listener for progressive reveal
+    setupProgressiveReveal();
+}
+
+function setupProgressiveReveal() {
+    const sheetContent = bottomSheet.querySelector('.sheet-content');
+    if (!sheetContent) return;
+    
+    let isExpanded = false;
+    let scrollThreshold = 50; // Pixels to scroll before expanding
+    
+    // Remove existing scroll listener to prevent duplicates
+    sheetContent.removeEventListener('scroll', handleProgressiveReveal);
+    
+    function handleProgressiveReveal(e) {
+        const scrollTop = e.target.scrollTop;
+        
+        if (scrollTop > scrollThreshold && !isExpanded) {
+            // Expand the bottom sheet
+            bottomSheet.classList.add('expanded');
+            isExpanded = true;
+        } else if (scrollTop <= scrollThreshold && isExpanded) {
+            // Collapse back to peek mode
+            bottomSheet.classList.remove('expanded');
+            isExpanded = false;
+        }
+    }
+    
+    sheetContent.addEventListener('scroll', handleProgressiveReveal);
+    
+    // Also expand on drag handle click
+    dragHandle.addEventListener('click', () => {
+        if (!isExpanded) {
+            bottomSheet.classList.add('expanded');
+            isExpanded = true;
+            // Scroll to top to show content
+            sheetContent.scrollTop = 0;
+        }
+    });
+}
+
+function showBottomSheetPeek() {
+    bottomSheet.classList.add('active');
+    bottomSheet.style.transform = 'translateY(calc(100% - 80px))';
+    bottomSheet.classList.remove('expanded');
+}
+
+function showBottomSheet() {
+    bottomSheet.classList.add('active');
+    bottomSheet.style.transform = 'translateY(0)';
+    bottomSheet.classList.add('expanded');
+}
+
+function hideBottomSheet() {
+    bottomSheet.classList.remove('active');
+    bottomSheet.style.transform = 'translateY(100%)';
+    bottomSheet.classList.remove('expanded');
+}
+
+function startDragging(e) {
+    e.preventDefault();
+    isDragging = true;
+    
+    const touch = e.touches ? e.touches[0] : e;
+    startY = touch.clientY;
+    startBottom = parseInt(getComputedStyle(bottomSheet).bottom) || 0;
+    
+    document.addEventListener('mousemove', drag);
+    document.addEventListener('mouseup', stopDragging);
+    document.addEventListener('touchmove', drag);
+    document.addEventListener('touchend', stopDragging);
+    
+    dragHandle.style.cursor = 'grabbing';
+}
+
+function drag(e) {
+    if (!isDragging) return;
+    
+    const touch = e.touches ? e.touches[0] : e;
+    const deltaY = startY - touch.clientY;
+    const newBottom = Math.max(startBottom + deltaY, 0);
+    
+    // Prevent the bottom sheet from going below the peek position
+    const maxTranslateY = window.innerHeight - 80; // Keep at least 80px visible
+    const translateY = Math.max(0, Math.min(maxTranslateY, newBottom));
+    
+    bottomSheet.style.transform = `translateY(${Math.max(0, -translateY)}px)`;
+}
+
+function stopDragging() {
+    isDragging = false;
+    
+    document.removeEventListener('mousemove', drag);
+    document.removeEventListener('mouseup', stopDragging);
+    document.removeEventListener('touchmove', drag);
+    document.removeEventListener('touchend', stopDragging);
+    
+    dragHandle.style.cursor = 'grab';
+    
+    // Snap to position
+    const currentTransform = getComputedStyle(bottomSheet).transform;
+    const translateY = currentTransform !== 'none' ? 
+        parseInt(currentTransform.split(',')[5]) : 0;
+    
+    if (translateY < -100) {
+        // Snap to peek mode (minimum visible)
+        showBottomSheetPeek();
+    } else if (translateY > -50) {
+        // Snap to expanded
+        showBottomSheet();
+    } else {
+        // Snap to peek
+        showBottomSheetPeek();
+    }
+}
+
+function handleMobileFilterClick(event) {
+    const filter = event.target.dataset.filter;
+    
+    // Update active state for mobile filters
+    document.querySelectorAll('.mobile-filters .filter-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    event.target.classList.add('active');
+    
+    // Also update desktop filters for consistency
+    document.querySelectorAll('.filters .filter-btn').forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.dataset.filter === filter) {
+            btn.classList.add('active');
+        }
+    });
+    
+    // Apply filter
+    filterEvents(filter);
+}
+
+// Override renderEvents to also populate mobile list
+const originalRenderEvents = renderEvents;
+renderEvents = function(eventsToShow) {
+    // Call original function for desktop
+    originalRenderEvents(eventsToShow);
+    
+    // Also populate mobile list
+    if (isMobile && mobileEventsList) {
+        mobileEventsList.innerHTML = '';
+        eventsToShow.forEach(event => {
+            const eventCard = createEventCardHTML(event);
+            mobileEventsList.innerHTML += eventCard;
+        });
+        
+        // Add click listeners to mobile event cards
+        const mobileEventCards = mobileEventsList.querySelectorAll('.event-card');
+        mobileEventCards.forEach((card, index) => {
+            card.addEventListener('click', () => {
+                const eventId = eventsToShow[index].id;
+                showMobileEventDetail(eventId);
+            });
+        });
+    }
+};
+
+// Mobile-specific event detail function
+function showMobileEventDetail(eventId) {
+    const event = events.find(e => e.id === eventId);
+    if (!event) return;
+    
+    currentEvent = event;
+    currentView = 'detail';
+    
+    // Fly to event location on map
+    if (event.coordinates) {
+        flyToEvent(event.coordinates[0], event.coordinates[1]);
+    }
+    
+    // Replace mobile bottom sheet content with event detail
+    const sheetContent = bottomSheet.querySelector('.sheet-content');
+    sheetContent.innerHTML = createMobileEventDetailHTML(event);
+    
+    // Scroll to top of bottom sheet
+    sheetContent.scrollTop = 0;
+}
+
+// Create mobile event detail HTML
+function createMobileEventDetailHTML(event) {
+    const allTags = [
+        ...event.tags.map(tag => `<span class="tag">${tag}</span>`),
+        ...(event.generes && event.generes.length > 0 ? event.generes.map(genre => `<span class="tag genre">${genre}</span>`) : []),
+        ...(event.age ? [`<span class="tag age">${event.age}</span>`] : [])
+    ].join('');
+    
+    // Create image container with type tag overlay
+    const imageHTML = event.image ? `
+        <div class="event-detail-image-container">
+            <img src="${event.image}" alt="${event.name}" class="event-detail-image">
+            <div class="event-detail-type-overlay">${event.type.charAt(0).toUpperCase() + event.type.slice(1)}</div>
+        </div>
+    ` : '';
+    
+    // Format description with proper line breaks
+    const formattedDescription = event.description ? event.description.replace(/\n/g, '<br>') : '';
+    
+    return `
+        <div class="mobile-event-detail">
+            <div class="mobile-event-detail-header">
+                <button class="mobile-back-btn" onclick="showMobileEventsList()">← Back</button>
+                <h2 class="mobile-event-detail-title">${event.name}</h2>
+            </div>
+            
+            ${imageHTML}
+            
+            <div class="mobile-event-detail-content">
+                <div class="mobile-event-detail-info">
+                    <div class="mobile-event-detail-venue-section">
+                        <div class="mobile-event-detail-venue">${event.venue} • 
+                            <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(event.address)}" target="_blank" class="venue-link">
+                                ${event.address}
+                            </a>
+                        </div> 
+                        <div class="mobile-event-detail-datetime">${event.date} • ${event.time}</div>
+                    </div>
+                    <div class="mobile-event-detail-price">${event.price}</div>
+                </div>
+                
+                <div class="mobile-event-detail-actions">
+                    ${event.ticket_link ? `<a href="${event.ticket_link}" target="_blank" class="action-btn ticket-btn">Get Tickets</a>` : ''}
+                    ${event.website_link ? `<a href="${event.website_link}" target="_blank" class="action-btn website-btn">Website</a>` : ''}
+                </div>
+                
+                <div class="mobile-event-detail-tags" style="margin-top: 24px;">
+                    ${allTags}
+                </div>
+                
+                ${formattedDescription ? `<div class="mobile-event-detail-description">
+                    <h3>About</h3>
+                    <p>${formattedDescription}</p>
+                </div>` : ''}
+            </div>
+        </div>
+    `;
+}
+
+// Mobile-specific events list function
+function showMobileEventsList() {
+    currentView = 'list';
+    currentEvent = null;
+
+    map.flyTo({
+        center: CONFIG.mapCenter,
+        zoom: CONFIG.mapZoom,
+        duration: 1000
+    });
+    
+    // Restore original mobile bottom sheet content
+    const sheetContent = bottomSheet.querySelector('.sheet-content');
+    sheetContent.innerHTML = `
+        <div class="mobile-header">
+            <h1>London Pride Map</h1>
+            <h5>The best local queer events, updated daily</h5>
+        </div>
+        <div class="mobile-filters">
+            <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>
+            <button class="filter-btn ${currentFilter === 'this-week' ? 'active' : ''}" data-filter="this-week">This Week</button>
+            <button class="filter-btn ${currentFilter === 'today' ? 'active' : ''}" data-filter="today">Today</button>
+            <button class="filter-btn ${currentFilter === 'party' ? 'active' : ''}" data-filter="party">Party</button>
+            <button class="filter-btn ${currentFilter === 'social' ? 'active' : ''}" data-filter="social">Social</button>
+            <button class="filter-btn ${currentFilter === 'workshop' ? 'active' : ''}" data-filter="workshop">Workshop</button>
+        </div>
+        <div class="mobile-events-list" id="mobile-events-list">
+            <!-- Events will be populated here -->
+        </div>
+    `;
+    
+    // Re-setup mobile event listeners
+    setupMobileEventListeners();
+    
+    // Re-setup progressive reveal for the new content
+    setupProgressiveReveal();
+    
+    // Re-populate the mobile events list with current filtered events
+    const mobileEventsList = document.getElementById('mobile-events-list');
+    if (mobileEventsList) {
+        // Get current filtered events
+        let filteredEvents = events;
+        if (currentFilter !== 'all') {
+            if (currentFilter === 'today') {
+                filteredEvents = events.filter(event => event.date === 'Today');
+            } else if (currentFilter === 'this-week') {
+                filteredEvents = events.filter(event => isDateInCurrentWeek(event.date));
+            } else {
+                filteredEvents = events.filter(event => event.type === currentFilter);
+            }
+        }
+        
+        // Sort events chronologically
+        filteredEvents.sort((a, b) => {
+            const dateA = parseEventDate(a.date);
+            const dateB = parseEventDate(b.date);
+            return dateA - dateB;
+        });
+        
+        // Populate mobile events list
+        if (filteredEvents.length === 0) {
+            mobileEventsList.innerHTML = '<p style="text-align: center; color: #666; padding: 20px;">No events found for this filter.</p>';
+        } else {
+            mobileEventsList.innerHTML = filteredEvents.map(event => createEventCardHTML(event)).join('');
+            
+            // Add click listeners to mobile event cards
+            const mobileEventCards = mobileEventsList.querySelectorAll('.event-card');
+            mobileEventCards.forEach((card, index) => {
+                card.addEventListener('click', () => {
+                    const eventId = filteredEvents[index].id;
+                    showMobileEventDetail(eventId);
+                });
+            });
+        }
+    }
+}
+
+// Make mobile functions globally accessible
+window.isMobile = isMobile;
+window.bottomSheet = bottomSheet;
+window.showBottomSheet = showBottomSheet;
+window.showMobileEventDetail = showMobileEventDetail;
+window.showMobileEventsList = showMobileEventsList;
+
+// Handle window resize
+window.addEventListener('resize', () => {
+    const wasMobile = isMobile;
+    isMobile = window.innerWidth <= 768;
+    
+    // Update global variables
+    window.isMobile = isMobile;
+    window.bottomSheet = bottomSheet;
+    
+    if (wasMobile !== isMobile) {
+        if (isMobile) {
+            initializeMobileBottomSheet();
+        } else {
+            // Clean up mobile event listeners if switching to desktop
+            if (bottomSheet) {
+                bottomSheet.classList.remove('active');
+                bottomSheet.style.transform = '';
+            }
+        }
+    }
+});

@@ -24,20 +24,6 @@ A map-based web application showing queer events in London during Pride season.
 
 4. **Open the project:**
    - Open `index.html` in your browser
-   - Or host it on GitHub Pages (see below)
-
-## Hosting on GitHub Pages
-
-1. Push your code to GitHub
-2. Go to your repository Settings → Pages
-3. Set source to "Deploy from a branch" → "main" → "/ (root)"
-4. Your site will be available at `https://yourusername.github.io/PrideMap/`
-
-## Security Note
-
-- The `js/config.js` file is in `.gitignore` to keep your API token private
-- Never commit your actual API token to version control
-- For production, consider using environment variables or a backend service
 
 ## Features
 
