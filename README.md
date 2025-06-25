@@ -35,9 +35,7 @@ A map-based web application showing queer events in London during Pride season.
 
 ## Security Note
 
-- The `js/config.js` file is in `.gitignore` to keep your API token private
-- Never commit your actual API token to version control
-- For production, consider using environment variables or a backend service
+Monitoring usage of API key, please use your own.
 
 ## Features
 
