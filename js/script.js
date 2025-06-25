@@ -212,14 +212,15 @@ const events = [
         address: "66 Stoke Newington Road,  London,  N16 7XB",
         time: "19:00-22:00",
         date: "Jul 10",
-        price: "£8-10",
+        price: "£8-9",
         type: "social",
         tags: ["Queer","Drag", "Comedy", "Poetry", "Cabaret", "Music"],
-        description: "",
+        description: "Join us in t'ARTopia for a queer-curated night of drag, comedy, poetry, cabaret and music from some of our most delicious t'ARTs.\n\nWe have invited some of our favourite performers to entertain you all, at a night that will be nothing short of t'ARTopian.\n\nWe will be raising money for gender affirming surgery funds with this evening's raffle, so come with a couple of quid, win art and raise money for good causes!\n\nLet's get mouth-watering\n\nSchedule:\n7:15pm -  Doors Open\n7:30pm - Start\n10:00pm - End\n\nt’ART is a queer-led arts and lit collective, that creates space (on the page and in real life) for marginalised voices.",
         image: "images/artopia.png",
-        website_link: "",
+        website_link: "https://www.vfdalston.com",
         ticket_link: "https://www.outsavvy.com/event/28072/tartopia",
-        coordinates: null
+        coordinates: null,
+        age: "18+"
     },
     {
         id: 13,
@@ -231,11 +232,12 @@ const events = [
         price: "£11.22",
         type: "workshop",
         tags: ["Shibari", "Beginner-Friendly"],
-        description: "",
+        description: "Rope Self-Tie Workshop with Slut Social & Skool 4 Sluts!\n\nIn this workshop you will learn the basics of how to start self tying and a simple chest harness that can be used in play or as a fashion accessory to an outfit.\n\nNo prior experience or knowledge of rope is required for this workshop.\n\nRope will be provided for the workshop. You are welcome to bring your own rope If you prefer or if you would like to wear your harness after the workshop.\n\nTaught by Lois, who has been practicing shibari for 5 years and specifically focuses on self tying and femme lesbian focused ties between people. Lois studied ballet, contortion and gymnastics for many years and brings her knowledge of anatomy to her style of tying.\n\n******\n\nThe workshop will take place as part of STRAPPED / CARABINER Dyke Pride Street Party on Friday 4th July.\n\nThe workshop will run from 7.30 - 8.30pm, inside the venue\n\nSignature Brew is fully wheelchair accessible throughout, with accessible gender neutral toilets",
         image: "images/selftie.png",
         website_link: "https://www.instagram.com/strapped.events/?hl=en",
         ticket_link: "https://dice.fm/event/xepbxe-self-tie-workshop-with-slut-social-skool-4-sluts-4th-jul-signature-brew-haggerston-london-tickets",
-        coordinates: null
+        coordinates: null,
+        age: "18+"
     },
     {
         id: 14,
@@ -266,11 +268,13 @@ const events = [
         price: "£66",
         type: "party",
         tags: ["Festival", "Queer"],
-        description: "",
+        description: "Four stages and distinct stage hosts representing the city's vibrant dance scene, capturing the essence of London's underground and showcasing it in a unique outdoor setting. High energy, uncompromising sound & production and a diverse, cutting-edge lineup.\n\nA long-time champion of London's sound and dancefloors, Azealia Banks returns to London to headline the PXSSY PALACE mainstage at Maiden Voyage Festival after her run of sold out shows last year. This has been 10 years in the making for PXSSY PALACE.\n\nAlongside PXSSY PALACE, FOLD return to host the UNFOLD stage. Last year, we saw UNFOLD residents James Newmarch, Voicedrone and more deliver an exceptional day's programming, with a special guest appearance. Expect more of the same this year.\n\nAdonis join the party, best described by The Face magazine:\n'hypnotising techno and house beats, a bevy of bare-skin bodies romping through the night in a glimmering sheen of sweat’.\n\nTickets on sale Thursday 27th Feb, sign up to the presale via the link in our IG bio.\n\nLast entry 6pm.",
         image: "images/maiden.png",
         website_link: "https://www.instagram.com/maidenvoyagefestival/?hl=en",
         ticket_link: "https://ra.co/events/2048272?fbclid=PAZXh0bgNhZW0CMTEAAadDT-2KPUQplrzpnI4E8uPhllcaqMfOoE9Cxu7Lq9t-42SSXM0QkOAhMqRPTg_aem_C1jA8EFvYjkT9SrFNOou4w",
-        coordinates: null
+        coordinates: null,
+        generes: ["Techno", "Afrobeats", "House", "Pop", "Bass"],
+        age: "18+"
     },
     {
         id: 16,
@@ -298,11 +302,13 @@ const events = [
         price: "£8-10",
         type: "party",
         tags: ["Queer", "Gay", "Non-Binary", "Lesbian"],
-        description: "",
+        description: "Working Classics X Gut Level\n\nCalling all gals, gays & theys, we're slithering down Snake Pass to Sheffield's smuttiest venue Gut Level on July 5th for a night of dark, hot & sexy euphoria!\n\nWe are delighted to welcome Manchester's very own Aiden Francis to the helm for this one! Known for his dynamic mixing style and vibrant energy, the High Hoops resident builds immersive and transformative DJ sets, full of groove and sensuality, that pulse with the energy of the turn of the millennium. Operating within the world of progressive sounds, he effortlessly weaves together ethereal trance, sultry house, electro & tribal sounds in a way that is uniquely his own. Aiden has built a reputation on the underground circuit, cutting his teeth at Manchester's iconic queer parties, he's since performed at legendary venues across the UK and Europe, including the White Hotel, CLUB RAUM, Macadam, OXI, the Warehouse Project & Boiler Room. As a prolific producer, Aiden's music bridges the gap between golden-era dance music & contemporary innovation, with his tracks landing on respected imprints Raidiant Records, Duality Trax, Neptune Discs, Goddezz & more. Aiden knows how to take dancers on a spiritual journey and we can't wait to jet off into the cosmos with him !\n\nJoining him for the ride is Working Classics residents Shauna & Bron (plus one more special guest TBA)..\n\nQueensway alumni (and one of Ireland's best exports after Taytos) Bron has been making waves on the Liverpool scene with their eclectic and hi NRG sets that blend of queer progressive house, lush girly R&B vocal samples & crying in the club heaters. We can't wait to welcome them to Gut Level for their first show outside of Liverpool!\n\nWorking Classics boss & SISU resident Shauna loves the hypnotic & cosmic realm of 4X4. Her trippy & transcendental selections have earned her support slots with the likes of I. JORDAN, PLANNINGTOROCK, Kettama & more. Shauna's own productions frequently pay homage to queer pioneers & innovators, drawing on samples from across our history and weaving them into her own productions to bring together the past, present & future of queer culture\n\nWe're also collaborating with Sisu and Flaw to bring you a DJ Workshop 15:00-18:00 before the party, open to any queer people, women & gender minorities. To sign up, please fill in the form on the Gut Level website (head to their 'What's On' section & find the Flaw X Sisu event)\n\nPlease note the capacity of the workshop is limited to 12 so everyone can get a chance at mixing!\n\nGut Level is a limited capacity sexy sweat-fest so act fast if you want to cum\n\nNo one turned away for lack of funds, email shaunurgh@gmail.com\n\nGut Level is a members-only club so attendees will need to pay their £2 yearly membership to come",
         image: "images/gutlevel.png",
         website_link: "https://www.instagram.com/workingclassicsrecs/?hl=en",
         ticket_link: "https://ra.co/events/2174991",
-        coordinates: null
+        coordinates: null,
+        generes: ["Progressive House", "Trance"],
+        age: "18+"
     },
     {
         id: 18,
@@ -319,7 +325,93 @@ const events = [
         website_link: "https://www.instagram.com/thelovetankcic/?hl=en",
         ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAadEGVxo18SxUsDyxQVsw8DsTBFOM7paHCgjzeWCetGgRApwTMfi1Zu6BPQbrA_aem_N9j85pGpA_0dsTeX5OT1TQ",
         coordinates: null
-    }
+    },
+    {
+        id: 19,
+        name: "ALTERNATIVE PRIDE",
+        venue: "Coven",
+        address: "FABWICK, Queen's Yard, London E9 5EN",
+        time: "20:00-02:00",
+        date: "Jul 5",
+        price: "£11.50",
+        type: "party",
+        tags: ["Queer"],
+        description: "Join us on Saturday 5th July from 20:00 - 02:00 am to enjoy an Alternative Pride Party outside the commercial Pride hype. We're taking over COVEN, a brand-new queer bar and arts space in Hackney Wick. Walk through the portal and step into a new era of queer nightlife and community. Whether you’re ready to dance all night or relax in the outdoor terrace with good company, there’s a vibe for everyone.\n\nThe Alternative Pride Party is an annual celebration by Moonlight Experiences that centres BIPOC queers and brings together a vibrant mix of change-makers, creatives, community builders, and weavers. The event is open to all queers, non-binary folks, trans people, lesbians, dykes, bi babes, the beautifully unlabelled, and allies who want to celebrate within East London’s queer scene. This is the perfect place to get to know new people and listen to some great music from some emerging and talented DJs.\n\nThese powerhouse DJs bring an electrifying mix of genres spanning through Afrobeats, Dancehall, Soca, R&B, Hip-Hop, Funky House, Reggaeton, Pop, and more. From nostalgic Y2K edits to deep global cuts and high-octane carnival rhythms, their sounds are rooted in liberation. Together, they will create dancefloor experiences that are genre-defying, boundary-pushing, and unapologetically queer to enjoy Pride.\n\nSCARBA, Bonnèt Thee Mixtress, Lyvonne The Don, Trojan, Wardi (Host)\n\nDoors open at 20:00 (drop by early to beat the rush or meet some people if you are dropping by solo)\nDjs from 21:00\nParty until 2 am (last entry at 1 am)\n\nPlease note the event is taking upstairs at Coven (above Fabwick) which is currently not wheelchair accessible",
+        image: "images/coven2.png",
+        website_link: "https://www.instagram.com/covenhackney/?hl=en",
+        ticket_link: "https://ra.co/events/2199271",
+        coordinates: null,
+        generes: ["Afrobeats", "Dancehall", "R&B", "Funky House"],
+        age: "18+"
+    },
+    {
+        id: 20,
+        name: "HAG: First Edition",
+        venue: "Coven",
+        address: "FABWICK, Queen's Yard, London E9 5EN",
+        time: "20:00-02:00",
+        date: "Jun 28",
+        price: "£11.50",
+        type: "party",
+        tags: ["Queer", "Performances"],
+        description: "HAG - Saturday 28th June\nA new monthly ritual begins.\n\nCOVEN’s inaugural in-house queer techno night HAG summons you to the floor for a night of pulsing rhythms, deep ritual energy, and euphoric queer chaos. Expect hard techno, acidic breaks, industrial witchery and body-shaking basslines as we conjure a lineup that’s both spellbinding and uncompromising.\n\nFeaturing:\n🜃 Daskaran – pounding industrial techno with transcendent queer ferocity\n🜁 Nina Pixina – acid-laced club spells, percussive hauntings, and techno enchantment\n🜄 Sidthesciencebxtch – experimental body music, high-concept energy, and dark camp brilliance\n🜂 AVGDJ – dark, driving, genre-bending techno for possessed bodies and ecstatic minds\n\nPlus: surprise live performances and plenty of sonic sorcery.\n\nCome dressed to hex.\nBring your demons.\nDance 'til your soul slips sideways.\n\nwear black <3",
+        image: "images/coven3.png",
+        website_link: "https://www.instagram.com/covenhackney/?hl=en",
+        ticket_link: "https://ra.co/events/2200220",
+        coordinates: null,
+        generes: ["Techno"],
+        age: "18+"
+    },
+    {
+        id: 21,
+        name: "STRUT: Queer Line Dancing",
+        venue: "Coven",
+        address: "FABWICK, Queen's Yard, London E9 5EN",
+        time: "19:00-22:00",
+        date: "Jul 15",
+        price: "Free",
+        type: "workshop",
+        tags: ["Queer", "Line Dancing"],
+        description: "SAVE THE DATE, TICKETS DROPPING NEXT WEEK — DISCOUNTS FOR QTIBPOC 🎟️\n\ntime to shine those boots & assemble your posse because the very first STRUT is moseying into town! 🤠\n\nwe’ll be learning a bunch of v beginner-friendly follow-along dances & two full line dances, with breaks & open dance floor for requests in between 👯",
+        image: "images/coven4.png",
+        website_link: "https://www.instagram.com/strut.ldn/?hl=en",
+        ticket_link: "",
+        coordinates: null,
+    },
+    {
+        id: 22,
+        name: "POC Single's Night",
+        venue: "La Camionera",
+        address: "243 Well Street,  London,  E9 6RG",
+        time: "18:00-21:00",
+        date: "Jul 1",
+        price: "Free",
+        type: "social",
+        tags: ["Lesbian", "Trans", "Non-Binary", "POC"],
+        description: "Low pressure speed dating, matchmaking, and games.",
+        image: "images/camionera.png",
+        website_link: "https://www.lacamionera.com/",
+        ticket_link: "",
+        coordinates: null,
+
+    },
+    {
+        id: 23,
+        name: "Life Drawing",
+        venue: "La Camionera",
+        address: "243 Well Street,  London,  E9 6RG",
+        time: "11:00-13:00",
+        date: "Jun 28",
+        price: "£15",
+        type: "social",
+        tags: ["Drawing", "Lesbian", "Trans", "Non-Binary", "POC"],
+        description: "•⁠ ⁠casual, informal, open to all abilities and experience!\n\n\n•⁠ special, experienced models and teachers!\n\n\n•⁠  ⁠11-1.15, with a 15 min break!\n\n\n•⁠ our summer cafe menu, soft drinks, and more available!\n\n\n•⁠  ⁠newsprint and charcoal provided, please bring sketch pads and other materials if you would like them!\n\nxxxxxx",
+        image: "images/camionera1.png",
+        website_link: "https://www.lacamionera.com/",
+        ticket_link: "https://www.outsavvy.com/event/28232/life-drawing-at-la-cami-280625",
+        coordinates: null,
+       
+    },
 
 ];
 
@@ -463,7 +555,7 @@ function addMarkers(eventsToShow) {
         
         new mapboxgl.Marker(el)
             .setLngLat(group.coordinates)
-            .setPopup(new mapboxgl.Popup({ offset: 25 })
+            .setPopup(new mapboxgl.Popup({ offset: 25, closeButton: false })
                 .setHTML(createClusterPopupHTML(group)))
             .addTo(map);
     });
@@ -649,7 +741,11 @@ function showEventDetail(eventId) {
 
 // Create detailed event view HTML
 function createEventDetailHTML(event) {
-    const allTagsHTML = event.tags.map(tag => `<span class="tag ${tag.toLowerCase()}">${tag}</span>`).join('');
+    const allTags = [
+        ...event.tags.map(tag => `<span class=\"tag\">${tag}</span>`),
+        ...(event.generes && event.generes.length > 0 ? event.generes.map(genre => `<span class=\"tag genre\">${genre}</span>`) : []),
+        ...(event.age ? [`<span class=\"tag age\">${event.age}</span>`] : [])
+    ].join('');
     
     // Create image container with type tag overlay
     const imageHTML = event.image ? `
@@ -673,14 +769,14 @@ function createEventDetailHTML(event) {
             
             <div class="event-detail-content">
                 <div class="event-detail-info">
-                    <div class="event-detail-datetime">${event.date} • ${event.time}</div>
+                    
                     <div class="event-detail-venue-section">
-                        <div class="event-detail-venue">${event.venue}</div>
-                        <div class="event-detail-address">
+                        <div class="event-detail-venue">${event.venue} • 
                             <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(event.address)}" target="_blank" class="venue-link">
-                                📍 ${event.address}
+                                ${event.address}
                             </a>
-                        </div>
+                        </div> 
+                        <div class="event-detail-datetime">${event.date} • ${event.time}</div>
                     </div>
                     <div class="event-detail-price">${event.price}</div>
                 </div>
@@ -691,8 +787,8 @@ function createEventDetailHTML(event) {
                     
                 </div>
                 
-                <div class="event-detail-tags">
-                    ${allTagsHTML}
+                <div class="event-detail-tags" style="margin-top: 24px;">
+                    ${allTags}
                 </div>
                 
                 ${formattedDescription ? `<div class="event-detail-description">
