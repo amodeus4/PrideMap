@@ -1,10 +1,9 @@
-// Configuration
-const CONFIG = {
-    mapboxToken: 'pk.eyJ1IjoiYXNpYWFtb2RlbyIsImEiOiJjbGFiMHE4eWUwY3piM3BwZWd5ajRoajBuIn0.Bu2rSIQlVd5_gVI13VprSA', // Replace with your actual token
-    mapCenter: [-0.1276, 51.5074], // London center
-    mapZoom: 11
-};
-
+// Global variables
+let map;
+let currentFilter = 'all';
+let currentView = 'list'; // 'list' or 'detail'
+let currentEvent = null;
+let isMobile = window.innerWidth <= 768;
 
 const events = [
     {
@@ -148,7 +147,7 @@ const events = [
         description: "Join our free saturday queer run club - gayns roadrunner. Whether you're a seasoned runner or you're just starting out - we've got you, boo. Our run club is inclusive and open to all levels.\n\nWe meet every Saturday at More London Place, (London Bridge Station overlooking Tower Bridge) from 9:30 am. We kick off the run at 10am and arrive at The Ministry in Elephant & Castle around 45 minutes later where we have a social.\n\nWe meet on this patch of grass on the map HERE\n\n**The 7k route**: we head across Tower Bridge to start, run along the Thames to Waterloo Bridge, cross the bridge, head toward Blackfriars Bridge and then take a right towards E&C. You can find the route here on Strava.\n\nWe have 3 pace groups, 4:30, 5:30 & 6:30 minutes per km, plus a back sweep who makes sure they are always the last person in the pack.\n\nThere is no bag drop so please travel light.\n\nYou MUST purchase a roadrunner ticket in order to be able to gain entry to the social at The Ministry which is a private members club.\n\n**click here to join our whatsapp group**\n\nFind us easily, stay in touch & meet your new running friends.",
         image: "images/gayns.png",
         website_link: "https://www.instagram.com/getgayns/?hl=en",
-        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-roadrunner-tickets-1006397912247?aff=erelexpmlt&_gl=1*bedhrn*_up*MQ..*_ga*NTA1MjcwODkzLjE3NTA2MDM2OTU.*_ga_TQVES5V6SH*czE3NTA2MDM2OTUkbzEkZzAkdDE3NTA2MDM2OTUkajYwJGwwJGgw",
+        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-roadrunner-tickets-1006397912247?aff=erelexpmlt&_gl=1*bedhrn*_up*MQ..*_ga*NTA1MjcwODkzLjE3NTA2MDM2OTU.*_ga_TQVES5V6SH*czE3NTA2MDM2OTUkajYwJGwwJGgw",
         coordinates: null
     },
     {
@@ -215,7 +214,7 @@ const events = [
         price: "£8-9",
         type: "social",
         tags: ["Queer","Drag", "Comedy", "Poetry", "Cabaret", "Music"],
-        description: "Join us in t'ARTopia for a queer-curated night of drag, comedy, poetry, cabaret and music from some of our most delicious t'ARTs.\n\nWe have invited some of our favourite performers to entertain you all, at a night that will be nothing short of t'ARTopian.\n\nWe will be raising money for gender affirming surgery funds with this evening's raffle, so come with a couple of quid, win art and raise money for good causes!\n\nLet's get mouth-watering\n\nSchedule:\n7:15pm -  Doors Open\n7:30pm - Start\n10:00pm - End\n\nt’ART is a queer-led arts and lit collective, that creates space (on the page and in real life) for marginalised voices.",
+        description: "Join us in t'ARTopia for a queer-curated night of drag, comedy, poetry, cabaret and music from some of our most delicious t'ARTs.\n\nWe have invited some of our favourite performers to entertain you all, at a night that will be nothing short of t'ARTopian.\n\nWe will be raising money for gender affirming surgery funds with this evening's raffle, so come with a couple of quid, win art and raise money for good causes!\n\nLet's get mouth-watering\n\nSchedule:\n7:15pm -  Doors Open\n7:30pm - Start\n10:00pm - End\n\nt'ART is a queer-led arts and lit collective, that creates space (on the page and in real life) for marginalised voices.",
         image: "images/artopia.png",
         website_link: "https://www.vfdalston.com",
         ticket_link: "https://www.outsavvy.com/event/28072/tartopia",
@@ -268,7 +267,7 @@ const events = [
         price: "£66",
         type: "party",
         tags: ["Festival", "Queer"],
-        description: "Four stages and distinct stage hosts representing the city's vibrant dance scene, capturing the essence of London's underground and showcasing it in a unique outdoor setting. High energy, uncompromising sound & production and a diverse, cutting-edge lineup.\n\nA long-time champion of London's sound and dancefloors, Azealia Banks returns to London to headline the PXSSY PALACE mainstage at Maiden Voyage Festival after her run of sold out shows last year. This has been 10 years in the making for PXSSY PALACE.\n\nAlongside PXSSY PALACE, FOLD return to host the UNFOLD stage. Last year, we saw UNFOLD residents James Newmarch, Voicedrone and more deliver an exceptional day's programming, with a special guest appearance. Expect more of the same this year.\n\nAdonis join the party, best described by The Face magazine:\n'hypnotising techno and house beats, a bevy of bare-skin bodies romping through the night in a glimmering sheen of sweat’.\n\nTickets on sale Thursday 27th Feb, sign up to the presale via the link in our IG bio.\n\nLast entry 6pm.",
+        description: "Four stages and distinct stage hosts representing the city's vibrant dance scene, capturing the essence of London's underground and showcasing it in a unique outdoor setting. High energy, uncompromising sound & production and a diverse, cutting-edge lineup.\n\nA long-time champion of London's sound and dancefloors, Azealia Banks returns to London to headline the PXSSY PALACE mainstage at Maiden Voyage Festival after her run of sold out shows last year. This has been 10 years in the making for PXSSY PALACE.\n\nAlongside PXSSY PALACE, FOLD return to host the UNFOLD stage. Last year, we saw UNFOLD residents James Newmarch, Voicedrone and more deliver an exceptional day's programming, with a special guest appearance. Expect more of the same this year.\n\nAdonis join the party, best described by The Face magazine:\n'hypnotising techno and house beats, a bevy of bare-skin bodies romping through the night in a glimmering sheen of sweat'.\n\nTickets on sale Thursday 27th Feb, sign up to the presale via the link in our IG bio.\n\nLast entry 6pm.",
         image: "images/maiden.png",
         website_link: "https://www.instagram.com/maidenvoyagefestival/?hl=en",
         ticket_link: "https://ra.co/events/2048272?fbclid=PAZXh0bgNhZW0CMTEAAadDT-2KPUQplrzpnI4E8uPhllcaqMfOoE9Cxu7Lq9t-42SSXM0QkOAhMqRPTg_aem_C1jA8EFvYjkT9SrFNOou4w",
@@ -336,7 +335,7 @@ const events = [
         price: "£11.50",
         type: "party",
         tags: ["Queer"],
-        description: "Join us on Saturday 5th July from 20:00 - 02:00 am to enjoy an Alternative Pride Party outside the commercial Pride hype. We're taking over COVEN, a brand-new queer bar and arts space in Hackney Wick. Walk through the portal and step into a new era of queer nightlife and community. Whether you’re ready to dance all night or relax in the outdoor terrace with good company, there’s a vibe for everyone.\n\nThe Alternative Pride Party is an annual celebration by Moonlight Experiences that centres BIPOC queers and brings together a vibrant mix of change-makers, creatives, community builders, and weavers. The event is open to all queers, non-binary folks, trans people, lesbians, dykes, bi babes, the beautifully unlabelled, and allies who want to celebrate within East London’s queer scene. This is the perfect place to get to know new people and listen to some great music from some emerging and talented DJs.\n\nThese powerhouse DJs bring an electrifying mix of genres spanning through Afrobeats, Dancehall, Soca, R&B, Hip-Hop, Funky House, Reggaeton, Pop, and more. From nostalgic Y2K edits to deep global cuts and high-octane carnival rhythms, their sounds are rooted in liberation. Together, they will create dancefloor experiences that are genre-defying, boundary-pushing, and unapologetically queer to enjoy Pride.\n\nSCARBA, Bonnèt Thee Mixtress, Lyvonne The Don, Trojan, Wardi (Host)\n\nDoors open at 20:00 (drop by early to beat the rush or meet some people if you are dropping by solo)\nDjs from 21:00\nParty until 2 am (last entry at 1 am)\n\nPlease note the event is taking upstairs at Coven (above Fabwick) which is currently not wheelchair accessible",
+        description: "Join us on Saturday 5th July from 20:00 - 02:00 am to enjoy an Alternative Pride Party outside the commercial Pride hype. We're taking over COVEN, a brand-new queer bar and arts space in Hackney Wick. Walk through the portal and step into a new era of queer nightlife and community. Whether you're ready to dance all night or relax in the outdoor terrace with good company, there's a vibe for everyone.\n\nThe Alternative Pride Party is an annual celebration by Moonlight Experiences that centres BIPOC queers and brings together a vibrant mix of change-makers, creatives, community builders, and weavers. The event is open to all queers, non-binary folks, trans people, lesbians, dykes, bi babes, the beautifully unlabelled, and allies who want to celebrate within East London's queer scene. This is the perfect place to get to know new people and listen to some great music from some emerging and talented DJs.\n\nThese powerhouse DJs bring an electrifying mix of genres spanning through Afrobeats, Dancehall, Soca, R&B, Hip-Hop, Funky House, Reggaeton, Pop, and more. From nostalgic Y2K edits to deep global cuts and high-octane carnival rhythms, their sounds are rooted in liberation. Together, they will create dancefloor experiences that are genre-defying, boundary-pushing, and unapologetically queer to enjoy Pride.\n\nSCARBA, Bonnèt Thee Mixtress, Lyvonne The Don, Trojan, Wardi (Host)\n\nDoors open at 20:00 (drop by early to beat the rush or meet some people if you are dropping by solo)\nDjs from 21:00\nParty until 2 am (last entry at 1 am)\n\nPlease note the event is taking upstairs at Coven (above Fabwick) which is currently not wheelchair accessible",
         image: "images/coven2.png",
         website_link: "https://www.instagram.com/covenhackney/?hl=en",
         ticket_link: "https://ra.co/events/2199271",
@@ -354,7 +353,7 @@ const events = [
         price: "£11.50",
         type: "party",
         tags: ["Queer", "Performances"],
-        description: "HAG - Saturday 28th June\nA new monthly ritual begins.\n\nCOVEN’s inaugural in-house queer techno night HAG summons you to the floor for a night of pulsing rhythms, deep ritual energy, and euphoric queer chaos. Expect hard techno, acidic breaks, industrial witchery and body-shaking basslines as we conjure a lineup that’s both spellbinding and uncompromising.\n\nFeaturing:\n🜃 Daskaran – pounding industrial techno with transcendent queer ferocity\n🜁 Nina Pixina – acid-laced club spells, percussive hauntings, and techno enchantment\n🜄 Sidthesciencebxtch – experimental body music, high-concept energy, and dark camp brilliance\n🜂 AVGDJ – dark, driving, genre-bending techno for possessed bodies and ecstatic minds\n\nPlus: surprise live performances and plenty of sonic sorcery.\n\nCome dressed to hex.\nBring your demons.\nDance 'til your soul slips sideways.\n\nwear black <3",
+        description: "HAG - Saturday 28th June\nA new monthly ritual begins.\n\nCOVEN's inaugural in-house queer techno night HAG summons you to the floor for a night of pulsing rhythms, deep ritual energy, and euphoric queer chaos. Expect hard techno, acidic breaks, industrial witchery and body-shaking basslines as we conjure a lineup that's both spellbinding and uncompromising.\n\nFeaturing:\n🜃 Daskaran – pounding industrial techno with transcendent queer ferocity\n🜁 Nina Pixina – acid-laced club spells, percussive hauntings, and techno enchantment\n🜄 Sidthesciencebxtch – experimental body music, high-concept energy, and dark camp brilliance\n🜂 AVGDJ – dark, driving, genre-bending techno for possessed bodies and ecstatic minds\n\nPlus: surprise live performances and plenty of sonic sorcery.\n\nCome dressed to hex.\nBring your demons.\nDance 'til your soul slips sideways.\n\nwear black <3",
         image: "images/coven3.png",
         website_link: "https://www.instagram.com/covenhackney/?hl=en",
         ticket_link: "https://ra.co/events/2200220",
@@ -372,7 +371,7 @@ const events = [
         price: "Free",
         type: "workshop",
         tags: ["Queer", "Line Dancing"],
-        description: "SAVE THE DATE, TICKETS DROPPING NEXT WEEK — DISCOUNTS FOR QTIBPOC 🎟️\n\ntime to shine those boots & assemble your posse because the very first STRUT is moseying into town! 🤠\n\nwe’ll be learning a bunch of v beginner-friendly follow-along dances & two full line dances, with breaks & open dance floor for requests in between 👯",
+        description: "SAVE THE DATE, TICKETS DROPPING NEXT WEEK — DISCOUNTS FOR QTIBPOC 🎟️\n\ntime to shine those boots & assemble your posse because the very first STRUT is moseying into town! 🤠\n\nwe'll be learning a bunch of v beginner-friendly follow-along dances & two full line dances, with breaks & open dance floor for requests in between 👯",
         image: "images/coven4.png",
         website_link: "https://www.instagram.com/strut.ldn/?hl=en",
         ticket_link: "",
@@ -414,13 +413,6 @@ const events = [
     },
 
 ];
-
-// Global variables
-let map;
-let currentFilter = 'all';
-let currentView = 'list'; // 'list' or 'detail'
-let currentEvent = null;
-let isMobile = window.innerWidth <= 768;
 
 // Initialize the application
 async function init() {
