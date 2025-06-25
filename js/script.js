@@ -925,10 +925,14 @@ function setupMobileEventListeners() {
     dragHandle.addEventListener('mousedown', startDragging);
     dragHandle.addEventListener('touchstart', startDragging);
     
-    // Prevent body scroll when bottom sheet is active
-    bottomSheet.addEventListener('touchmove', (e) => {
-        e.stopPropagation();
-    }, { passive: false });
+    // Allow scrolling in the sheet content while preventing body scroll
+    const sheetContent = bottomSheet.querySelector('.sheet-content');
+    if (sheetContent) {
+        sheetContent.addEventListener('touchmove', (e) => {
+            // Only prevent body scroll, allow content scrolling
+            e.stopPropagation();
+        }, { passive: true });
+    }
     
     // Add scroll listener for progressive reveal
     setupProgressiveReveal();
@@ -1000,6 +1004,7 @@ function hideBottomSheet() {
 
 function startDragging(e) {
     e.preventDefault();
+    e.stopPropagation();
     isDragging = true;
     
     const touch = e.touches ? e.touches[0] : e;
@@ -1008,7 +1013,7 @@ function startDragging(e) {
     
     document.addEventListener('mousemove', drag);
     document.addEventListener('mouseup', stopDragging);
-    document.addEventListener('touchmove', drag);
+    document.addEventListener('touchmove', drag, { passive: false });
     document.addEventListener('touchend', stopDragging);
     
     dragHandle.style.cursor = 'grabbing';
@@ -1016,6 +1021,9 @@ function startDragging(e) {
 
 function drag(e) {
     if (!isDragging) return;
+    
+    e.preventDefault();
+    e.stopPropagation();
     
     const touch = e.touches ? e.touches[0] : e;
     const deltaY = startY - touch.clientY;
