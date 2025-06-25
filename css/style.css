@@ -5,7 +5,9 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: 400;
     background: #f5f5f5;
 }
 
@@ -135,6 +137,9 @@ body {
     margin-right: 12px;
     position: relative;
     z-index: 1;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .event-price {
@@ -308,11 +313,20 @@ body {
     background: rgba(255,255,255,0.3);
 }
 
+.event-detail-title-section {
+    padding: 16px 20px 0 20px;
+    text-align: left;
+}
+
 .event-detail-title {
-    font-size: 20px;
-    font-weight: 600;
-    margin: 0;
-    line-height: 1.3;
+    font-size: 28px;
+    font-weight: bold;
+    color: #222;
+    margin: 0 0 8px 0;
+    line-height: 1.2;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .event-detail-image-container {
@@ -617,12 +631,12 @@ body {
     box-shadow: 0px -3px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
     z-index: 1000;
-    transform: translateY(calc(100% - 80px)); /* Always show at least the header */
+    transform: translateY(calc(100% - 48px)); /* Always show at least the header */
     transition: transform 0.3s ease;
 }
 
 .mobile-bottom-sheet.active {
-    transform: translateY(calc(100% - 80px)); /* Always keep header visible */
+    transform: translateY(calc(100% - 48px)); /* Always keep header visible */
 }
 
 .mobile-bottom-sheet.expanded {
@@ -634,38 +648,30 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px 20px;
+    padding: 0;
     background-color: #ff6b6b;
     color: white;
     position: sticky;
     top: 0;
     z-index: 1001;
-    height: 80px; /* Fixed height for peek state */
-}
-
-.drag-handle {
-    width: 40px;
-    height: 6px;
-    background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 10px;
+    height: 48px; /* Reduced height for less space usage */
     cursor: grab;
-    transition: background-color 0.2s ease;
+    user-select: none;
 }
 
-.drag-handle:active {
+.sheet-header:active {
     cursor: grabbing;
-    background-color: rgba(255, 255, 255, 1);
 }
 
 .sheet-content {
-    height: calc(100% - 80px);
+    height: calc(100% - 48px);
     overflow-y: auto;
     padding: 0;
     transition: height 0.3s ease;
 }
 
 .mobile-bottom-sheet.expanded .sheet-content {
-    height: calc(90vh - 80px);
+    height: calc(90vh - 48px);
 }
 
 .mobile-header {
@@ -746,7 +752,7 @@ body {
     }
     
     .mobile-event-detail-header {
-        padding: 20px;
+        padding: 12px;
         background: #ff6b6b;
         color: white;
         position: sticky;
@@ -769,11 +775,17 @@ body {
         background: rgba(255,255,255,0.3);
     }
     
+    .mobile-event-detail-title-section {
+        padding: 16px 20px 0 20px;
+        text-align: left;
+    }
+    
     .mobile-event-detail-title {
-        font-size: 20px;
-        font-weight: 600;
-        margin: 0;
-        line-height: 1.3;
+        font-size: 24px;
+        font-weight: bold;
+        color: #222;
+        margin: 0 0 8px 0;
+        line-height: 1.2;
     }
     
     .mobile-event-detail-content {
@@ -854,4 +866,33 @@ body {
     .sidebar {
         display: block !important;
     }
+}
+.mobile-event-detail-title-section {
+    padding: 16px 20px 0 20px;
+    text-align: left;
+}
+.mobile-event-detail-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #222;
+    margin: 0 0 8px 0;
+    line-height: 1.2;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.event-detail-title,
+.mobile-event-detail-title,
+.event-name {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.mobile-header h1,
+.mobile-header h5 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
 }

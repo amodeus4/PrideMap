@@ -183,7 +183,7 @@ const events = [
         price: "£8-10",
         type: "party",
         tags: ["Queer"],
-        description: "Escape commercial chaos & get down to the underground… Your favourite superstar DJs pump the dancefloor all the way thru to 4am for SUPERSTORE PRIDE!!!! \n\nIn the lazerpit it's body heaters & floor fillers from 4 adored nightlife babes: \nASHTREY / PERRINHA / ROSS ANDERSON B2B RAUL BOTELLA Plus pure queer chaos on the top deck from RYAN LOVELL, RAKS + MIKE MENACE!! Lending their sensual dancefloor stylings are MARCELLO LUCIO + MISSAVERI!!!",
+        description: "Escape commercial chaos & get down to the underground… Your favourite superstar DJs pump the dancefloor all the way thru to 4am for SUPERSTORE PRIDE!!!! \n\nIn the lazerpit it's body heaters & floor fillers from 4 adored nightlife babes: \nASHTREY / PERRINHA / ROSS ANDERSON B2B RAUL BOTELLA Plus pure queer chaos on the top deck from RYAN LOVELL, RAKS & MIKE MENACE!! Lending their sensual dancefloor stylings are MARCELLO LUCIO & MISSAVERI!!!",
         image: "images/dalston.png",
         website_link: "https://www.instagram.com/dsuperstore/?hl=en",
         ticket_link: "https://www.outsavvy.com/event/28257/pride-2025-at-dalston-superstore-",
@@ -758,9 +758,9 @@ function createEventDetailHTML(event) {
     
     // Create image container with type tag overlay
     const imageHTML = event.image ? `
-        <div class="event-detail-image-container">
-            <img src="${event.image}" alt="${event.name}" class="event-detail-image">
-            <div class="event-detail-type-overlay">${event.type.charAt(0).toUpperCase() + event.type.slice(1)}</div>
+        <div class=\"event-detail-image-container\">
+            <img src=\"${event.image}\" alt=\"${event.name}\" class=\"event-detail-image\">
+            <div class=\"event-detail-type-overlay\">${event.type.charAt(0).toUpperCase() + event.type.slice(1)}</div>
         </div>
     ` : '';
     
@@ -768,42 +768,34 @@ function createEventDetailHTML(event) {
     const formattedDescription = event.description ? event.description.replace(/\n/g, '<br>') : '';
     
     return `
-        <div class="event-detail">
-            <div class="event-detail-header">
-                <button class="back-btn" onclick="showEventsList()">← Back</button>
-                <h2 class="event-detail-title">${event.name}</h2>
+        <div class=\"event-detail\">
+            <div class=\"event-detail-header\">
+                <button class=\"back-btn\" onclick=\"showEventsList()\">← Back</button>
             </div>
-            
             ${imageHTML}
-            
-            <div class="event-detail-content">
-                <div class="event-detail-info">
-                    
-                    <div class="event-detail-venue-section">
-                        <div class="event-detail-venue">${event.venue} • 
-                            <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(event.address)}" target="_blank" class="venue-link">
+            <div class=\"event-detail-title-section\">
+                <h2 class=\"event-detail-title\">${event.name}</h2>
+            </div>
+            <div class=\"event-detail-content\">
+                <div class=\"event-detail-info\">
+                    <div class=\"event-detail-venue-section\">
+                        <div class=\"event-detail-venue\">${event.venue} • 
+                            <a href=\"https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(event.address)}\" target=\"_blank\" class=\"venue-link\">
                                 ${event.address}
                             </a>
                         </div> 
-                        <div class="event-detail-datetime">${event.date} • ${event.time}</div>
+                        <div class=\"event-detail-datetime\">${event.date} • ${event.time}</div>
                     </div>
-                    <div class="event-detail-price">${event.price}</div>
+                    <div class=\"event-detail-price\">${event.price}</div>
                 </div>
-                
-                <div class="event-detail-actions">
-                    ${event.ticket_link ? `<a href="${event.ticket_link}" target="_blank" class="action-btn ticket-btn">Get Tickets</a>` : ''}
-                    ${event.website_link ? `<a href="${event.website_link}" target="_blank" class="action-btn website-btn">Website</a>` : ''}
-                    
+                <div class=\"event-detail-actions\">
+                    ${event.ticket_link ? `<a href=\"${event.ticket_link}\" target=\"_blank\" class=\"action-btn ticket-btn\">Get Tickets</a>` : ''}
+                    ${event.website_link ? `<a href=\"${event.website_link}\" target=\"_blank\" class=\"action-btn website-btn\">Website</a>` : ''}
                 </div>
-                
-                <div class="event-detail-tags" style="margin-top: 24px;">
+                <div class=\"event-detail-tags\" style=\"margin-top: 24px;\">
                     ${allTags}
                 </div>
-                
-                ${formattedDescription ? `<div class="event-detail-description">
-                    <h3>About</h3>
-                    <p>${formattedDescription}</p>
-                </div>` : ''}
+                ${formattedDescription ? `<div class=\"event-detail-description\"><h3>About</h3><p>${formattedDescription}</p></div>` : ''}
             </div>
         </div>
     `;
@@ -893,33 +885,45 @@ document.addEventListener('DOMContentLoaded', init);
 // Mobile Bottom Sheet Functionality
 function initializeMobileBottomSheet() {
     if (!isMobile) return;
-    
+
     bottomSheet = document.getElementById('mobile-bottom-sheet');
-    dragHandle = document.querySelector('.drag-handle');
+    dragHandle = document.querySelector('.sheet-header');
     mobileEventsList = document.getElementById('mobile-events-list');
-    
+
     // Update global variables
     window.bottomSheet = bottomSheet;
-    
+
     // Show bottom sheet in peek mode after a short delay
     setTimeout(() => {
         showBottomSheetPeek();
     }, 1000);
-    
-    // Setup event listeners
+
+    // Setup drag event listeners
     setupMobileEventListeners();
+
+    // Set up filter event delegation - this will work for all filter buttons in the bottom sheet
+    bottomSheet.addEventListener('click', (event) => {
+        if (
+            event.target.classList.contains('filter-btn') &&
+            event.target.closest('.mobile-filters')
+        ) {
+            handleMobileFilterClick(event);
+        }
+    });
+
+    // Add click event to map to collapse bottom sheet
+    const mapDiv = document.getElementById('map');
+    if (mapDiv) {
+        mapDiv.addEventListener('click', () => {
+            showBottomSheetPeek();
+        });
+    }
 }
 
 function setupMobileEventListeners() {
     // Drag functionality
     dragHandle.addEventListener('mousedown', startDragging);
     dragHandle.addEventListener('touchstart', startDragging);
-    
-    // Mobile filter buttons
-    const mobileFilterBtns = document.querySelectorAll('.mobile-filters .filter-btn');
-    mobileFilterBtns.forEach(btn => {
-        btn.addEventListener('click', handleMobileFilterClick);
-    });
     
     // Prevent body scroll when bottom sheet is active
     bottomSheet.addEventListener('touchmove', (e) => {
@@ -969,14 +973,23 @@ function setupProgressiveReveal() {
 
 function showBottomSheetPeek() {
     bottomSheet.classList.add('active');
-    bottomSheet.style.transform = 'translateY(calc(100% - 80px))';
+    bottomSheet.style.transform = `translateY(calc(100% - 48px))`;
+    bottomSheet.classList.remove('expanded');
+    bottomSheet.classList.remove('half');
+}
+
+function showBottomSheetHalf() {
+    bottomSheet.classList.add('active');
+    bottomSheet.style.transform = `translateY(50vh)`;
+    bottomSheet.classList.add('half');
     bottomSheet.classList.remove('expanded');
 }
 
 function showBottomSheet() {
     bottomSheet.classList.add('active');
-    bottomSheet.style.transform = 'translateY(0)';
+    bottomSheet.style.transform = `translateY(0)`;
     bottomSheet.classList.add('expanded');
+    bottomSheet.classList.remove('half');
 }
 
 function hideBottomSheet() {
@@ -1017,28 +1030,55 @@ function drag(e) {
 
 function stopDragging() {
     isDragging = false;
-    
+
     document.removeEventListener('mousemove', drag);
     document.removeEventListener('mouseup', stopDragging);
     document.removeEventListener('touchmove', drag);
     document.removeEventListener('touchend', stopDragging);
-    
+
     dragHandle.style.cursor = 'grab';
-    
-    // Snap to position
+
+    // Get current translateY
     const currentTransform = getComputedStyle(bottomSheet).transform;
-    const translateY = currentTransform !== 'none' ? 
-        parseInt(currentTransform.split(',')[5]) : 0;
-    
-    if (translateY < -100) {
-        // Snap to peek mode (minimum visible)
-        showBottomSheetPeek();
-    } else if (translateY > -50) {
-        // Snap to expanded
-        showBottomSheet();
+    let translateY = 0;
+    if (currentTransform !== 'none') {
+        const match = currentTransform.match(/matrix.*\\((.+)\\)/);
+        if (match) {
+            const values = match[1].split(', ');
+            translateY = parseFloat(values[5]);
+        }
+    }
+
+    const windowHeight = window.innerHeight;
+    const snapPoints = [
+        windowHeight - 48, // peek
+        windowHeight / 2,  // half
+        0                  // expanded
+    ];
+
+    // Find the closest snap point
+    let closest = snapPoints[0];
+    let minDist = Math.abs(translateY - snapPoints[0]);
+    for (let i = 1; i < snapPoints.length; i++) {
+        const dist = Math.abs(translateY - snapPoints[i]);
+        if (dist < minDist) {
+            minDist = dist;
+            closest = snapPoints[i];
+        }
+    }
+
+    // Animate to the closest snap point
+    bottomSheet.style.transition = 'transform 0.3s cubic-bezier(.4,0,.2,1)';
+    bottomSheet.style.transform = `translateY(${closest}px)`;
+
+    // Set classes for state (optional, for styling)
+    bottomSheet.classList.remove('expanded', 'half', 'peek');
+    if (closest === 0) {
+        bottomSheet.classList.add('expanded');
+    } else if (closest === windowHeight / 2) {
+        bottomSheet.classList.add('half');
     } else {
-        // Snap to peek
-        showBottomSheetPeek();
+        bottomSheet.classList.add('peek');
     }
 }
 
@@ -1058,6 +1098,9 @@ function handleMobileFilterClick(event) {
             btn.classList.add('active');
         }
     });
+    
+    // Update current filter
+    currentFilter = filter;
     
     // Apply filter
     filterEvents(filter);
@@ -1085,6 +1128,14 @@ renderEvents = function(eventsToShow) {
                 showMobileEventDetail(eventId);
             });
         });
+        
+        // Ensure mobile filter buttons show correct active state
+        document.querySelectorAll('.mobile-filters .filter-btn').forEach(btn => {
+            btn.classList.remove('active');
+            if (btn.dataset.filter === currentFilter) {
+                btn.classList.add('active');
+            }
+        });
     }
 };
 
@@ -1108,20 +1159,19 @@ function showMobileEventDetail(eventId) {
     // Scroll to top of bottom sheet
     sheetContent.scrollTop = 0;
 }
-
 // Create mobile event detail HTML
 function createMobileEventDetailHTML(event) {
     const allTags = [
-        ...event.tags.map(tag => `<span class="tag">${tag}</span>`),
-        ...(event.generes && event.generes.length > 0 ? event.generes.map(genre => `<span class="tag genre">${genre}</span>`) : []),
-        ...(event.age ? [`<span class="tag age">${event.age}</span>`] : [])
+        ...event.tags.map(tag => `<span class=\"tag\">${tag}</span>`),
+        ...(event.generes && event.generes.length > 0 ? event.generes.map(genre => `<span class=\"tag genre\">${genre}</span>`) : []),
+        ...(event.age ? [`<span class=\"tag age\">${event.age}</span>`] : [])
     ].join('');
     
     // Create image container with type tag overlay
     const imageHTML = event.image ? `
-        <div class="event-detail-image-container">
-            <img src="${event.image}" alt="${event.name}" class="event-detail-image">
-            <div class="event-detail-type-overlay">${event.type.charAt(0).toUpperCase() + event.type.slice(1)}</div>
+        <div class=\"event-detail-image-container\">
+            <img src=\"${event.image}\" alt=\"${event.name}\" class=\"event-detail-image\">
+            <div class=\"event-detail-type-overlay\">${event.type.charAt(0).toUpperCase() + event.type.slice(1)}</div>
         </div>
     ` : '';
     
@@ -1129,40 +1179,34 @@ function createMobileEventDetailHTML(event) {
     const formattedDescription = event.description ? event.description.replace(/\n/g, '<br>') : '';
     
     return `
-        <div class="mobile-event-detail">
-            <div class="mobile-event-detail-header">
-                <button class="mobile-back-btn" onclick="showMobileEventsList()">← Back</button>
-                <h2 class="mobile-event-detail-title">${event.name}</h2>
+        <div class=\"mobile-event-detail\">
+            <div class=\"mobile-event-detail-header\">
+                <button class=\"mobile-back-btn\" onclick=\"showMobileEventsList()\">← Back</button>
             </div>
-            
             ${imageHTML}
-            
-            <div class="mobile-event-detail-content">
-                <div class="mobile-event-detail-info">
-                    <div class="mobile-event-detail-venue-section">
-                        <div class="mobile-event-detail-venue">${event.venue} • 
-                            <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(event.address)}" target="_blank" class="venue-link">
+            <div class=\"mobile-event-detail-title-section\">
+                <h2 class=\"mobile-event-detail-title\">${event.name}</h2>
+            </div>
+            <div class=\"mobile-event-detail-content\">
+                <div class=\"mobile-event-detail-info\">
+                    <div class=\"mobile-event-detail-venue-section\">
+                        <div class=\"mobile-event-detail-venue\">${event.venue} • 
+                            <a href=\"https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(event.address)}\" target=\"_blank\" class=\"venue-link\">
                                 ${event.address}
                             </a>
                         </div> 
-                        <div class="mobile-event-detail-datetime">${event.date} • ${event.time}</div>
+                        <div class=\"mobile-event-detail-datetime\">${event.date} • ${event.time}</div>
                     </div>
-                    <div class="mobile-event-detail-price">${event.price}</div>
+                    <div class=\"mobile-event-detail-price\">${event.price}</div>
                 </div>
-                
-                <div class="mobile-event-detail-actions">
-                    ${event.ticket_link ? `<a href="${event.ticket_link}" target="_blank" class="action-btn ticket-btn">Get Tickets</a>` : ''}
-                    ${event.website_link ? `<a href="${event.website_link}" target="_blank" class="action-btn website-btn">Website</a>` : ''}
+                <div class=\"mobile-event-detail-actions\">
+                    ${event.ticket_link ? `<a href=\"${event.ticket_link}\" target=\"_blank\" class=\"action-btn ticket-btn\">Get Tickets</a>` : ''}
+                    ${event.website_link ? `<a href=\"${event.website_link}\" target=\"_blank\" class=\"action-btn website-btn\">Website</a>` : ''}
                 </div>
-                
-                <div class="mobile-event-detail-tags" style="margin-top: 24px;">
+                <div class=\"mobile-event-detail-tags\" style=\"margin-top: 24px;\">
                     ${allTags}
                 </div>
-                
-                ${formattedDescription ? `<div class="mobile-event-detail-description">
-                    <h3>About</h3>
-                    <p>${formattedDescription}</p>
-                </div>` : ''}
+                ${formattedDescription ? `<div class=\"mobile-event-detail-description\"><h3>About</h3><p>${formattedDescription}</p></div>` : ''}
             </div>
         </div>
     `;

@@ -35,9 +35,48 @@ A map-based web application showing queer events in London during Pride season.
 
 ## Security Note
 
-- The `js/config.js` file is in `.gitignore` to keep your API token private
-- Never commit your actual API token to version control
-- For production, consider using environment variables or a backend service
+Monitoring usage of API key, please use your own.
+
+## Features
+
+- Interactive map showing event locations
+- Filter events by type (party, social, workshop)
+- Event details with images and descriptions
+- Mobile-responsive design
+- Real-time geocoding of event addresses
+
+## Technologies Used
+
+- HTML5, CSS3, JavaScript
+- Mapbox GL JS for mapping
+- Mapbox Geocoding API
+
+# London Pride Map
+
+A map-based web application showing queer events in London during Pride season.
+
+## Setup
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/amodeus4/PrideMap.git
+   cd PrideMap
+   ```
+
+2. **Get a Mapbox API token:**
+
+   - Go to [Mapbox](https://account.mapbox.com/)
+   - Create an account and get your access token
+   - Copy the token
+
+3. **Configure your API token:**
+
+   - Copy `js/config.example.js` to `js/config.js`
+   - Replace `YOUR_MAPBOX_TOKEN_HERE` with your actual Mapbox token
+
+4. **Open the project:**
+   - Open `index.html` in your browser
 
 ## Features
 
