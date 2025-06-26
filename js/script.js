@@ -27,7 +27,8 @@ const events = [
         website_link: "https://www.instagram.com/strapped.events/?hl=en",
         coordinates: null,
         generes: [],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 2,
@@ -45,7 +46,8 @@ const events = [
         ticket_link: "https://dice.fm/partner/537-media/event/g526aa-strapped-x-carabiner-dyke-pride-4th-jul-signature-brew-haggerston-london-tickets?dice_id=6172401&dice_channel=web&dice_tags=organic&dice_campaign=537+Media&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAaf4HCtfgUaAwUGnZ7nH0t0Ej5sAX_qtz-xBypSuttMNO0AdRqSWktIy_j84qA_aem_ng_qjAGmgsMlFwplmrdUzA&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=537+Media&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAw3JSQ6CMBQA0Nu4E5qAQ0yI%2BRIEF6ARCYRNQ2nLWIZSg7Dw7Pq2r1RqmE663lZdo9EqZxoXukMINYyM52xvnjnJ24paD0iTEpEiKNMY2f7LAci46dmKF1EGc%2BR26aHzkEJOvZsgwaNat5%2FLMoRvpfzgjoA%2BxzBu1G3B9dEcAWdM4K7AYw2uKCa%2Fvc5DKySNVth8JeNMyurfRPbzxKRll7IX7AcqM4EArgAAAA%3D%3D",
         coordinates: null,
         generes: [],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 3,
@@ -63,8 +65,8 @@ const events = [
         ticket_link: "https://www.headfirstbristol.co.uk/whats-on/jam-jar/sat-12-jul-popola-extra-special-pride-edition-132095#e132095",
         coordinates: null,
         generes: ["Afrobeats", "Raggaeton", "Electro", "Salsa", "Dancehall"],
-        age: "18+"
-
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 4,
@@ -82,8 +84,8 @@ const events = [
         ticket_link: "https://ra.co/events/2156157",
         coordinates: null,
         generes: ["Techno", "Bass", "House"],
-        age: "18+"
-
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 5,
@@ -101,7 +103,8 @@ const events = [
         ticket_link: "https://ra.co/events/2176933",
         coordinates: null,
         generes: ["Techno", "House"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 6,
@@ -119,7 +122,8 @@ const events = [
         ticket_link: "https://www.outsavvy.com/event/27619/leatherette-dyke-fantasy-den",
         coordinates: null,
         generes: ["Techno", "Bass", "Pop"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 7,
@@ -137,7 +141,8 @@ const events = [
         ticket_link: "https://www.tickettailor.com/events/ballerfc/1690980?fbclid=PAZXh0bgNhZW0CMTEAAad0P2IkCyJovW4pWJdFrrb1ehCi5jezdR93xUc7CntUmgXX0H38zrloQDVWYw_aem_sULMts2WJOUvSl11swfOLA",
         coordinates: null,
         generes: [],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 8,
@@ -149,7 +154,15 @@ const events = [
         price: "Free",
         type: "social",
         tags: ["Running Club", "Queer"],
-        description: "Join our free saturday queer run club - gayns roadrunner. Whether you're a seasoned runner or you're just starting out - we've got you, boo. Our run club is inclusive and open to all levels.\n\nWe meet every Saturday at More London Place, (London Bridge Station overlooking Tower Bridge) from 9:30 am. We kick off the run at 10am and arrive at The Ministry in Elephant & Castle around 45 minutes later where we have a social.\n\nWe meet on this patch of grass on the map HERE\n\n**The 7k route**: we head across Tower Bridge to start, run along the Thames to Waterloo Bridge, cross the bridge, head toward Blackfriars Bridge and then take a right towards E&C. You can find the route here on Strava.\n\nWe have 3 pace groups, 4:30, 5:30 & 6:30 minutes per km, plus a back sweep who makes sure they are always the last person in the pack.\n\nThere is no bag drop so please travel light.\n\nYou MUST purchase a roadrunner ticket in order to be able to gain entry to the social at The Ministry which is a private members club.\n\n**click here to join our whatsapp group**\n\nFind us easily, stay in touch & meet your new running friends.",
+        description: `Join our free Saturday queer run club – <strong>gayns roadrunner</strong>! Whether you're a seasoned runner or just starting out, we've got you, boo. Our run club is inclusive and open to all levels.<br><br>
+We meet every Saturday at More London Place (London Bridge Station overlooking Tower Bridge) from 9:30am. We kick off the run at 10am and arrive at The Ministry in Elephant & Castle around 45 minutes later for a social.<br><br>
+We meet on this patch of grass on the map <a href="https://www.google.com/maps/place/Potters+Fields+Park/@51.5043692,-0.0801188,17z/data=!4m6!3m5!1s0x487603458c0ed97d:0x5a5acabbe5506060!8m2!3d51.5041452!4d-0.0783269!16s%2Fm%2F012dsd54?entry=tts&g_ep=EgoyMDI0MDkxMS4wKgBIAVAD" target="_blank">HERE</a>.<br><br>
+<strong>The 7k route:</strong> We head across Tower Bridge to start, run along the Thames to Waterloo Bridge, cross the bridge, head toward Blackfriars Bridge, and then take a right towards E&C. You can find the route <a href="https://www.strava.com/routes/3257415780539092614?_branch_match_id=1315684561249060249&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1q9yyzcMyHHyrfBNAgBlgS7mIwAAAA%3D%3D" target="_blank">here on Strava</a>.<br><br>
+We have 3 pace groups: 4:30, 5:30 & 6:30 minutes per km, plus a back sweep who makes sure they are always the last person in the pack.<br><br>
+There is no bag drop, so please travel light.<br><br>
+You <strong>MUST</strong> purchase a roadrunner ticket to gain entry to the social at The Ministry, which is a private members club.<br><br>
+<a href="https://chat.whatsapp.com/KRPD6cqshnZEGqIK4ePEci" target="_blank">Click here to join our WhatsApp group</a>.<br>
+Find us easily, stay in touch, and meet your new running friends!`,
         image: "images/gayns.png",
         website_link: "https://www.instagram.com/getgayns/?hl=en",
         ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-roadrunner-tickets-1006397912247?aff=erelexpmlt&_gl=1*bedhrn*_up*MQ..*_ga*NTA1MjcwODkzLjE3NTA2MDM2OTU.*_ga_TQVES5V6SH*czE3NTA2MDM2OTUkajYwJGwwJGgw",
@@ -171,7 +184,8 @@ const events = [
         ticket_link: "https://ra.co/events/2140155",
         coordinates: null,
         generes: ["Disco", "House", "Techno", "Garage"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 10,
@@ -189,7 +203,8 @@ const events = [
         ticket_link: "https://www.outsavvy.com/event/28257/pride-2025-at-dalston-superstore-",
         coordinates: null,
         generes: ["House", "Techno", "Pop"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 11,
@@ -207,7 +222,8 @@ const events = [
         ticket_link: "https://dalstonsuperstore.com/event/trans-pride-2025/",
         coordinates: null,
         generes: ["House", "Techno", "Pop"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 12,
@@ -224,7 +240,8 @@ const events = [
         website_link: "https://www.vfdalston.com",
         ticket_link: "https://www.outsavvy.com/event/28072/tartopia",
         coordinates: null,
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 13,
@@ -241,7 +258,8 @@ const events = [
         website_link: "https://www.instagram.com/strapped.events/?hl=en",
         ticket_link: "https://dice.fm/event/xepbxe-self-tie-workshop-with-slut-social-skool-4-sluts-4th-jul-signature-brew-haggerston-london-tickets",
         coordinates: null,
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 14,
@@ -259,8 +277,8 @@ const events = [
         ticket_link: "https://ra.co/events/2199301",
         coordinates: null,
         generes: ["Global Bass", "Afrobeats"],
-        age: "18+"
-
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 15,
@@ -278,7 +296,8 @@ const events = [
         ticket_link: "https://ra.co/events/2048272?fbclid=PAZXh0bgNhZW0CMTEAAadDT-2KPUQplrzpnI4E8uPhllcaqMfOoE9Cxu7Lq9t-42SSXM0QkOAhMqRPTg_aem_C1jA8EFvYjkT9SrFNOou4w",
         coordinates: null,
         generes: ["Techno", "Afrobeats", "House", "Pop", "Bass"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 16,
@@ -294,7 +313,9 @@ const events = [
         image: "images/gutlevel.png",
         website_link: "https://www.instagram.com/workingclassicsrecs/?hl=en",
         ticket_link: "https://gutlevel.co.uk/whatson/flawxsisu?fbclid=PAQ0xDSwK9I2dleHRuA2FlbQIxMAABp5caQIknyoc7Qcu-Eal3WRgW2zSkVMw4hr03kQbicMSnGDSR-naSnIM4TmKp_aem_24S-I3hWxGFPJ3u3jCwF6A",
-        coordinates: null
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 17,
@@ -312,7 +333,8 @@ const events = [
         ticket_link: "https://ra.co/events/2174991",
         coordinates: null,
         generes: ["Progressive House", "Trance"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 18,
@@ -328,7 +350,9 @@ const events = [
         image: "images/game.png",
         website_link: "https://www.instagram.com/thelovetankcic/?hl=en",
         ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAadEGVxo18SxUsDyxQVsw8DsTBFOM7paHCgjzeWCetGgRApwTMfi1Zu6BPQbrA_aem_N9j85pGpA_0dsTeX5OT1TQ",
-        coordinates: null
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 19,
@@ -346,7 +370,8 @@ const events = [
         ticket_link: "https://ra.co/events/2199271",
         coordinates: null,
         generes: ["Afrobeats", "Dancehall", "R&B", "Funky House"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 20,
@@ -364,7 +389,8 @@ const events = [
         ticket_link: "https://ra.co/events/2200220",
         coordinates: null,
         generes: ["Techno"],
-        age: "18+"
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 21,
@@ -373,14 +399,26 @@ const events = [
         address: "FABWICK, Queen's Yard, London E9 5EN",
         time: "19:00-22:00",
         date: "Jul 15",
-        price: "Free",
+        price: "£9",
         type: "workshop",
         tags: ["Queer", "Line Dancing"],
-        description: "SAVE THE DATE, TICKETS DROPPING NEXT WEEK — DISCOUNTS FOR QTIBPOC 🎟️\n\ntime to shine those boots & assemble your posse because the very first STRUT is moseying into town! 🤠\n\nwe'll be learning a bunch of v beginner-friendly follow-along dances & two full line dances, with breaks & open dance floor for requests in between 👯",
+        description: `Giddy up girls, gays, and theys—assemble your posse because STRUT Queer Line Dancing is moseying into town!<br><br>
+Come learn to line dance with other queer hotties to Chappell Roan, Beyoncé, Britney, Charli XCX, Rihanna, Lady Gaga, Janet Jackson, Caroline Polachek, country classics, and more!<br><br>
+<strong>Discounted tickets for QTIBPOC</strong><br>
+<strong>Lessons from 7:30pm – no experience necessary</strong><br><br>
+You'll learn a bunch of beginner-friendly follow-alongs and two full line dances, with breaks and an open dance floor for requests throughout.<br><br>
+Polish your boots and get ready to STRUT!<br><br>
+<strong>ACCESSIBILITY:</strong><br>
+The venue is above FABWICK, accessed via a set of metal stairs and is unfortunately not currently wheelchair accessible.<br><br>
+Line dancing involves footwork such as stepping from foot to foot in different directions, stamping, kicking, and winding steps like the grapevine, as well as twisting, turning, and spinning.<br><br>
+There is a covered outdoor terrace with picnic benches and plenty of seating inside the venue at the back of the dance floor.`,
         image: "images/coven4.png",
         website_link: "https://www.instagram.com/strut.ldn/?hl=en",
-        ticket_link: "",
+        ticket_link: "https://www.outsavvy.com/event/28477/strut",
         coordinates: null,
+        generes: ["Country", "Pop", "Rock"],
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 22,
@@ -397,7 +435,8 @@ const events = [
         website_link: "https://www.lacamionera.com/",
         ticket_link: "",
         coordinates: null,
-
+        age: "18+",
+        sellingFast: false
     },
     {
         id: 23,
@@ -414,9 +453,9 @@ const events = [
         website_link: "https://www.lacamionera.com/",
         ticket_link: "https://www.outsavvy.com/event/28232/life-drawing-at-la-cami-280625",
         coordinates: null,
-       
+        age: "18+",
+        sellingFast: false
     },
-
 ];
 // Initialize the application
 async function init() {
@@ -634,27 +673,28 @@ function renderEvents(eventsToShow) {
 
 // Create event card HTML
 function createEventCardHTML(event) {
-    // Limit tags to maximum 5
-    const limitedTags = event.tags.slice(0, 5);
-    const tagsHTML = limitedTags.map(tag => `<span class="tag ${tag.toLowerCase()}">${tag}</span>`).join('');
-    
-    // Add background image if available
-    const backgroundStyle = event.image ? 
-        `background-image: linear-gradient(rgba(255, 255, 255, 0.70), rgba(255, 255, 255, 0.70)), url('${event.image}'); background-size: cover; background-position: center;` : 
-        '';
-    
+    const tagsHTML = (event.tags || []).slice(0, 5).map(tag => `<span class="tag">${tag}</span>`).join('');
     return `
-        <div class="event-card" onclick="showEventDetail(${event.id})" style="${backgroundStyle}">
-            <div class="event-header">
-                <div class="event-name">${event.name}</div>
-                <div class="event-price">${event.price}</div>
-            </div>
-            <div class="event-info">
-                <div class="event-datetime">${event.date} • ${event.time}</div>
-                <div class="event-venue">${event.venue}</div>
-            </div>
-            <div class="event-tags">${tagsHTML}</div>
+    <div class="event-card card-media" onclick="showEventDetail(${event.id})">
+      <div class="card-media-object-container">
+        <div class="card-media-object" style="background-image: url('${event.image}');"></div>
+        ${event.sellingFast ? '<span class="card-media-object-tag subtle">Selling Fast</span>' : ''}
+      </div>
+      <div class="card-media-body">
+        <div class="card-media-body-top">
+          <span class="subtle">${event.date}, ${event.time}</span>
+          <span class="event-price-top subtle ">${event.price}</span>
         </div>
+        <span class="card-media-body-heading">${event.name}</span>
+        <div class="card-media-body-supporting-bottom">
+          <span class="card-media-body-supporting-bottom-text subtle">${event.venue}</span>
+          
+        </div>
+        <div class="card-media-body-supporting-bottom card-media-body-supporting-bottom-reveal">
+          <span class="card-media-body-supporting-bottom-text subtle">${tagsHTML}</span>
+        </div>
+      </div>
+    </div>
     `;
 }
 
@@ -760,9 +800,7 @@ function createEventDetailHTML(event) {
     
     return `
         <div class=\"event-detail\">
-            <div class=\"event-detail-header\">
-                <button class=\"back-btn\" onclick=\"showEventsList()\">← Back</button>
-            </div>
+            <button class=\"back-btn-sharp\" onclick=\"showEventsList()\">← Back</button>
             ${imageHTML}
             <div class=\"event-detail-title-section\">
                 <h2 class=\"event-detail-title\">${event.name}</h2>
@@ -788,6 +826,18 @@ function createEventDetailHTML(event) {
                 </div>
                 ${formattedDescription ? `<div class=\"event-detail-description\"><h3>About</h3><p>${formattedDescription}</p></div>` : ''}
             </div>
+            ${event.address ? `
+                <div class="event-detail-map-preview">
+                    <iframe
+                        width="100%"
+                        height="200"
+                        frameborder="0"
+                        style="border:0; border-radius: 8px; margin-top: 24px;"
+                        src="https://www.google.com/maps?q=${encodeURIComponent(event.address)}&output=embed"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            ` : ''}
         </div>
     `;
 }
