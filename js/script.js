@@ -777,6 +777,10 @@ function showEventDetail(eventId) {
     // Replace sidebar content with event detail
     const sidebar = document.querySelector('.sidebar');
     sidebar.innerHTML = createEventDetailHTML(event);
+    
+    // Scroll sidebar to top when opening event detail
+    sidebar.scrollTop = 0;
+    window.scrollTo(0, 0); // For mobile browsers
 }
 
 // Create detailed event view HTML
