@@ -761,7 +761,7 @@ function filterEvents(filter) {
     addMarkers(filteredEvents);
 }
 
-// Show event detail view
+// Show event detail view - Updated with scroll to top
 function showEventDetail(eventId) {
     const event = events.find(e => e.id === eventId);
     if (!event) return;
@@ -778,9 +778,15 @@ function showEventDetail(eventId) {
     const sidebar = document.querySelector('.sidebar');
     sidebar.innerHTML = createEventDetailHTML(event);
     
-    // Scroll sidebar to top when opening event detail
+    // FIX: Scroll to top of the sidebar when opening event detail
     sidebar.scrollTop = 0;
-    window.scrollTo(0, 0); // For mobile browsers
+    
+    // MOBILE FIX: Also scroll the main document/window to top on mobile
+    if (isMobile) {
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    }
 }
 
 // Create detailed event view HTML
@@ -846,7 +852,7 @@ function createEventDetailHTML(event) {
     `;
 }
 
-// Show events list view
+// Show events list view - Updated with scroll to top
 function showEventsList() {
     currentView = 'list';
     currentEvent = null;
@@ -876,6 +882,16 @@ function showEventsList() {
             <!-- Events will be populated here -->
         </div>
     `;
+    
+    // FIX: Scroll to top when returning to events list
+    sidebar.scrollTop = 0;
+    
+    // MOBILE FIX: Also scroll the main document/window to top on mobile
+    if (isMobile) {
+        window.scrollTo(0, 0);
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    }
     
     // Re-setup event listeners and show events
     setupEventListeners();
