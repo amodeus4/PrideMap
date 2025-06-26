@@ -418,7 +418,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         coordinates: null,
         generes: ["Country", "Pop", "Rock"],
         age: "18+",
-        sellingFast: false
+        sellingFast: true
     },
     {
         id: 22,
@@ -456,6 +456,31 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: false
     },
+    {
+        id: 24,
+        name: "HOMOSTASH PRIDE RAVE",
+        venue: "Colours Hoxton",
+        address: "2-4 Hoxton Square,  London,  N1 6NU",
+        time: "21:30-03:30",
+        date: "Jul 5",
+        price: "£13-250 ",
+        type: "party",
+        tags: ["Gay", "Queer", "Rave"],
+        description: `Join the <strong>HOMOSTASH PRIDE RAVE</strong> at Colours Hoxton as part of our 11th year anniversary celebrations with an incredible queer line-up and all-night wild energy!<br><br>
+🌀 <strong>Room 1 (techno):</strong> Ukrainian DJ sensation CATMINT + residents TAFKANIK & TELEOPATH<br><br>
+🌈 <strong>Room 2 (disco/house + happy vibes):</strong> FILIUS, MARIANNA, NAWTY NICKY, N.U. NEIGHBOUR<br><br>
+🔥 Expect sexy, moustachioed go-gos, wild performers including Christian Nimri, Daisy Puller, Jools, Rylee and the one-and-only Becky aka Prince of Poland & Ronnie as your hosts.<br><br>
+🎉 This isn't just a Pride party – it's going to be <strong>WILD!</strong><br><br>
+And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
+        image: "images/homostash.png",
+        website_link: "https://www.instagram.com/homostash/?hl=en",
+        ticket_link: "https://www.outsavvy.com/event/27347/homostash-pride-rave-colours-hoxton",
+        coordinates: null,
+        generes: ["House", "Techno", "Disco", "Happy Vibes"],
+        age: "18+",
+        sellingFast: true
+    },
+    
 ];
 // Initialize the application
 async function init() {
