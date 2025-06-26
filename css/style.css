@@ -637,13 +637,10 @@ html, body {
     
     /* Event detail takes full screen on mobile */
     .event-detail {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100vw;
-        height: 100vh;
-        z-index: 1000;
-        background: white;
+        position: static;
+        height: auto;
+        min-height: 100vh;
+        overflow-y: visible;
     }
     
     /* Smooth scrolling for events list */
@@ -672,6 +669,21 @@ html, body {
     
     .header h1 {
         display: none;
+    }
+    
+    .card-media-body-supporting-bottom-reveal {
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-top: 8px;
+    }
+    .tag {
+        font-size: 12px;
+        padding: 4px 8px;
+        margin-right: 4px;
+        margin-bottom: 4px;
+        display: inline-block;
+        max-width: 100%;
+        word-break: break-word;
     }
 }
 
