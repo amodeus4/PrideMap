@@ -685,6 +685,11 @@ html, body {
         max-width: 100%;
         word-break: break-word;
     }
+    
+    .event-card.card-media {
+        height: 170px;
+        min-height: 170px;
+    }
 }
 
 /* Desktop styles */
