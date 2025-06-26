@@ -480,6 +480,57 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         age: "18+",
         sellingFast: true
     },
+    {
+        id: 25,
+        name: "Mothership Vol.3",
+        venue: "Bermondsey Social Club",
+        address: "Arch 19 Almond Road,  Bermondsey,  London,  SE16 3LR ",
+        time: "21:00-04:30",
+        date: "Jun 27",
+        price: "£5-20 ",
+        type: "party",
+        tags: ["Queer", "Bisexual", "Trans", "Lesbian", "Non-Binary"],
+        description: `🚨🚨 <strong>ANNOUNCEMENT</strong> 🚨🚨<br>
+We're back you gorgeous space beauties, for <strong>MOTHERSHIP - VOLUME 3</strong> 🌟 This time in a new venue for us, Bermondsey Social Club on Friday 27th of June 👾 We had so much fun last time that we needed to do it all again - but this time <strong>ALIEN themed</strong> 👽 ⭐️ Whether that conjures images of a sweaty Sigourney Weaver fighting her way around the Nostromo, the ultimate gender fluid icon, Pleakley, or the stylistic and thrilling visions of Slava Tsukerman's 'Liquid Sky' we want to see your sexy, camp, queer outfits 🤩<br>
+Expect drag performances, incredible DJs, and a whole lot of debaucherous dykery! 👽<br><br>
+
+<strong>The where, when, and how</strong><br>
+📍 <strong>Venue:</strong> Arch 19 Almond Road, Bermondsey, London, SE16 3LR<br>
+📆 <strong>Date:</strong> Fri 27th June 2025<br>
+⌚️ <strong>Time:</strong> 9pm - 4am<br>
+👩‍🚀 <strong>Optional Dresscode:</strong> ALIEN (Inspo moodboard on our instagram)<br>
+If you bring inclusive vibes we want you to come party with us ⭐️  This is first and foremost a queer space so we are centring queer, trans, lesbian, bisexual and non-binary folx. If this isn't you then just be mindful to hold the space for all and let everyone feel comfortable and feel the joy of having a super queer party!<br><br>
+
+<strong>Accessibility</strong><br>
+Bermondsey Social Club have the ability to open the shutter for flat access for anyone in a wheel chair and the venue is flat throughout. However, they do not have a toilet with wheelchair access.<br>
+If you have any access needs please get in contact with us after purchasing your tickets either via Outsavvy or on our email mothership.ldn@gmail.com. There is reserved seating upon request as well as free companion tickets available.<br><br>
+
+<strong>How to get to Bermondsey Social Club</strong><br>
+Before attending the night, please read below as google sometimes will send you the to the trading estate or onto Raymouth Road.<br>
+Coming From Bermondsey tube (Jubilee Line) or South Bermondsey Station:<br>
+- When you get to Southwark Park Road, head towards the Ancient Foresters pub near the roundabout<br>
+- Head towards the little Alleyway next to the foresters.<br>
+- They are arch 19, 3rd from the end so walk all the way down and you will find BSC. They don't have a sign outside so look out for no 19<br><br>
+
+<strong>Lighting & Sound</strong><br>
+The space will be dimly lit with strobing lights plus has colour changing moving lights and a smoke machine. Disposable earplugs are available at the bar should you need them.<br><br>
+
+<strong>Quiet Space</strong><br>
+Should you need a quiet moment there is a smoking area with no music available at the back of the venue and lots of quality queer time can be had there 👀<br><br>
+
+<strong>Zero Tolerance Policy</strong><br>
+We hold space for everybody and take a zero tolerance approach to any form of harassment. If you have any issue on the night please speak to one of our event staff or venue management and we will ensure any harassment is appropriately dealt with. 🙅🏻‍♀️💪<br><br>
+
+<strong>Low Income/Unwaged Tickets</strong><br>
+We want all our queer hunnies to be able to come and party with us 🌈 if you are on a low income or are unwaged please either DM us on Insta or send an email to mothership.ldn@gmail.com and we will send you a discount code.`,
+        image: "images/mothership.png",
+        website_link: "https://www.instagram.com/mothership_ldn?igsh=bzE1cWNndnd1djB5",
+        ticket_link: "https://www.outsavvy.com/event/27397/mothership-vol-3",
+        coordinates: null,
+        generes: ["Pop", "House", "Techno"],
+        age: "18+",
+        sellingFast: true
+    },
     
 ];
 // Initialize the application
