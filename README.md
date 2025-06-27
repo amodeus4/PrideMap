@@ -1,4 +1,4 @@
-# London Pride Map
+# Gaydar
 
 A map-based web application showing queer events in London during Pride season.
 

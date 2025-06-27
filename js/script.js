@@ -309,7 +309,7 @@ Find us easily, stay in touch, and meet your new running friends!`,
         price: "Free",
         type: "workshop",
         tags: ["Queer", "Gay", "Non-Binary", "Lesbian"],
-        description: "",
+        description: "This special collab session with SISU & FLAW includes:\n\nCDJ tutorials\nHow to create a set\nHow to download music\nRekordbox tutorials\nAny experience level is welcome!!! So please don't feel put off from coming down if you've never mixed music before.\n\nThere are 12 slots available for this session. Please sign up below to confirm your spot.\n\nThis session is free but you need to have a ticket for the party in the evening - info here and tickets here.",
         image: "images/gutlevel.png",
         website_link: "https://www.instagram.com/workingclassicsrecs/?hl=en",
         ticket_link: "https://gutlevel.co.uk/whatson/flawxsisu?fbclid=PAQ0xDSwK9I2dleHRuA2FlbQIxMAABp5caQIknyoc7Qcu-Eal3WRgW2zSkVMw4hr03kQbicMSnGDSR-naSnIM4TmKp_aem_24S-I3hWxGFPJ3u3jCwF6A",
@@ -489,7 +489,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         date: "Jun 27",
         price: "£5-20 ",
         type: "party",
-        tags: ["Queer", "Bisexual", "Trans", "Lesbian", "Non-Binary"],
+        tags: ["Community", "Bisexual", "Trans", "Lesbian", "Non-Binary"],
         description: `🚨🚨 <strong>ANNOUNCEMENT</strong> 🚨🚨<br>
 We're back you gorgeous space beauties, for <strong>MOTHERSHIP - VOLUME 3</strong> 🌟 This time in a new venue for us, Bermondsey Social Club on Friday 27th of June 👾 We had so much fun last time that we needed to do it all again - but this time <strong>ALIEN themed</strong> 👽 ⭐️ Whether that conjures images of a sweaty Sigourney Weaver fighting her way around the Nostromo, the ultimate gender fluid icon, Pleakley, or the stylistic and thrilling visions of Slava Tsukerman's 'Liquid Sky' we want to see your sexy, camp, queer outfits 🤩<br>
 Expect drag performances, incredible DJs, and a whole lot of debaucherous dykery! 👽<br><br>
@@ -621,6 +621,25 @@ We want all our queer hunnies to be able to come and party with us 🌈 if you a
         ticket_link: "https://ra.co/events/2189288",
         coordinates: null,
         generes: ["Techno", "Industrial","House"],
+        age: "18+",
+        sellingFast: false
+    },
+    {
+        id: 31,
+        name: "THE UNOFFICIAL LDN PRIDE AFTERS",
+        venue: "M.O.T",
+        address: "Orion Business Centre, Surrey Canal Rd SE14 5RT",
+        time: "22:00-05:00",
+        date: "Jul 5",
+        price: "£5.50-17.30",
+        type: "party",
+        tags: ["Queer", "High Energy"],
+        description: "We're back at our beloved venue to keep the Pride part going all night! — and we're bringing a full night of high-energy music to celebrate with our beautiful community! Expect an eclectic mix of Techno, Jungletek, Bassline, Baile, Hardcore, Footwork, and all the bassy bangers to keep you dancing all night long.\n\nWe're so excited to welcome some of our favourite up-and-coming queer DJs and producers from across the UK — it's going to be a night full of connection, joy, and movement. \n\nAs always, this is a queer-centered safe space. Please respect each other and the space around you. Our house rules are shared before every event on Instagram @jungyalsngays <3 xx",
+        image: "images/jungle.png",
+        website_link: "https://www.instagram.com/jungyalsngays/?hl=en",
+        ticket_link: "https://ra.co/events/2198789?fbclid=PAZXh0bgNhZW0CMTEAAacR-Tq0vJHowH1cTO3DUBeacpt4bbw6juZZ_0-0kOT49R7oVOxIQwYwWv7S4w_aem_Wno0FwticBuXX6Rjk6AXqA",
+        coordinates: null,
+        generes: ["Jungle", "Techno", "Hardcore","Bassline", "Baile"],
         age: "18+",
         sellingFast: false
     },
@@ -1047,7 +1066,7 @@ function showEventsList() {
     const sidebar = document.querySelector('.sidebar');
     sidebar.innerHTML = `
         <div class="header">
-            <h1>London Pride Map</h1>
+            <h1>Gaydar</h1>
             <h5>The best local queer events, updated daily</h5>
             <div class="filters">
                 <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>

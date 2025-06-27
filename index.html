@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>London Pride Map</title>
+    <title>Gaydar</title>
     
+
+
     <!-- Mapbox CSS -->
     <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet' />
     
@@ -13,13 +15,23 @@
 
     <!-- Roboto font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3Y7XDQTWMR"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-3Y7XDQTWMR');
+    </script>
 </head>
 <body>
     <div class="container">
         <div id="map"></div>
         <div class="sidebar">
             <div class="header">
-                <h1>London Pride Map</h1>
+                <h1>Gaydar</h1>
                 <h5>The best local queer events, updated daily</h5>
 
                 <div class="filters">

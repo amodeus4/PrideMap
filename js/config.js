@@ -4,3 +4,6 @@ const CONFIG = {
     mapCenter: [-0.1276, 51.5074], 
     mapZoom: 10
 }; 
+
+
+
