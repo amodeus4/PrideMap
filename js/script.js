@@ -643,6 +643,26 @@ We want all our queer hunnies to be able to come and party with us 🌈 if you a
         age: "18+",
         sellingFast: false
     },
+    {
+        id: 32,
+        name: "La Camionera Party",
+        venue: "Dream Bags Jaguar Shoes",
+        address: "32-34 Kingsland Rd, London E2 8DA",
+        time: "21:00-1:30",
+        date: "Jun 28",
+        price: "Free",
+        type: "party",
+        tags: ["FLINTA"],
+        description: "DJ sets from Alex Loveless, Sascha Smiley and more. \nMake sure to arrive early to guarantee entry. <3 xx",
+        image: "images/cami2.png",
+        website_link: "https://www.instagram.com/camionera.e9/?hl=en",
+        ticket_link: "https://dice.fm/event/xepx2l-la-camionera-28th-jun-dream-bags-jaguar-shoes-london-tickets",
+        coordinates: null,
+        generes: ["Disco", "Pop", "Edits", "Cunty"],
+        age: "18+",
+        sellingFast: false
+    },
+    
     
 ];
 // Initialize the application
