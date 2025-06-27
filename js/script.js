@@ -297,7 +297,7 @@ Find us easily, stay in touch, and meet your new running friends!`,
         coordinates: null,
         generes: ["Techno", "Afrobeats", "House", "Pop", "Bass"],
         age: "18+",
-        sellingFast: false
+        sellingFast: true
     },
     {
         id: 16,
@@ -530,6 +530,99 @@ We want all our queer hunnies to be able to come and party with us 🌈 if you a
         generes: ["Pop", "House", "Techno"],
         age: "18+",
         sellingFast: true
+    },
+    {
+        id: 26,
+        name: "Playbody 009",
+        venue: "Secret Location",
+        address: "",
+        time: "21:00-04:30",
+        date: "Jul 5",
+        price: "Free ",
+        type: "party",
+        tags: ["Music", "Experience", "Art", "Fashion"],
+        description: "Next week's program for what is set to be a sun-kissed, sweaty playbody 009 ⋆·˚ ༘ * \n\nIf you're with us, dm for the ticket password. we prioritise our community and spots are super limited so not all will receive a code",
+        image: "images/playbody.png",
+        website_link: "https://www.instagram.com/playbody.london/",
+        ticket_link: "https://www.playbody.london/initiation?fbclid=PAZXh0bgNhZW0CMTEAAaf6cCtR_nKCo0rOxLFdw4T0G9-gNX-xu8zf0_8UJFz3Q-aNS_MUyUP6sOHnjw_aem_qUf7oaGnLGcKqeLW41jJGg",
+        coordinates: null,
+        generes: ["Techno"],
+        age: "18+",
+        sellingFast: false
+    },
+    {
+        id: 27,
+        name: "Sappho's Circle - Writing Club",
+        venue: "The Post Bar",
+        address: "316 High Road,  London,  N15 4BP",
+        time: "14:00-17:00",
+        date: "Jun 29",
+        price: "£5",
+        type: "workshop",
+        tags: ["Writing", "Lesbian", "Creative"],
+        description: "Are you a Sapphic writer looking for a creative community that will inspire you to hone your craft? Whether you're working on a novel, you're a freelance writer, a poet (like the great Sappho herself) or working on your next substack article, this is the perfect collaborative, friendly and motivating environment to focus on your work and be held accountable (I know how hard it is to dedicate time to writing!)\n\nIn these writing workshops you can expect:\n\n1 hour of workshopping - we will work from prompts to create short pieces - this first workshop will focus on writing sapphic 🌶️🌶️🌶️ scenes 👀\nThe rest of time to work on your own projects, ask others to read your work, be supported through writers block or generally find inspiration through good conversation over some drinks!\nA sunny terrace with coffee, food and drinks!\n\nCan't wait to see you there!\nLove Tyff xx",
+        image: "images/sappho.png",
+        website_link: "",
+        ticket_link: "https://www.outsavvy.com/event/28272/sapphos-circle-writing-club",
+        coordinates: null,
+        sellingFast: false
+    },
+    {
+        id: 28,
+        name: "BAILE TRAMA - BOAT PARTY",
+        venue: "The Dutch Master",
+        address: "Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom",
+        time: "18:30-23:59",
+        date: "Jun 28",
+        price: "£25.30",
+        type: "party",
+        tags: ["Queer", "Boat Party"],
+        description: "TRAMA on board - Get ready!\n\nSummer is here, and to keep the temperatures warmer we have prepared our first boat party for a hot day in Thames river London! Cruising smooth, with the crew, no brakes!\n\nWe've put together a line-up with names that move the BR scene around Europe, bringing the best of FUNK combined with other rhythms so that no one will stand still!\n\n// INFO\nBoarding at 6:30pm from Tower Millennium Pier.\nWe sail at 7pm sharp — don't be late, we can't wait.\nBack at midnight, same spot.\nClosest station: Tower Hill.\n\n// TRAMA is a Brazilian plural movement focused on promoting cultural and musical connections between Brazil and the world, especially in Europe. With an inclusive proposal, the project brings together prominent guests, rising artists and local DJs, creating a fusion between the power of Brazilian music and other rhythms. The movement strengthens the scene, connecting cultures and bringing the best of our sound to each event (\"Baile\").\n\n*We aim for an environment to feel safe, comfortable and empowered. No form of intolerance will be accepted here.",
+        image: "images/baile.png",
+        website_link: "https://www.instagram.com/bailetrama/",
+        ticket_link: "https://ra.co/events/2182034",
+        coordinates: null,
+        generes: ["Baile Funk", "Electronica"],
+        age: "18+",
+        sellingFast: false
+    },
+    {
+        id: 29,
+        name: "club cetera: angel 777 launch",
+        venue: "Ormside Projects",
+        address: "32 Ormside St, London SE15 1TR, UK",
+        time: "23:00-05:00",
+        date: "Jul 12",
+        price: "£10-15",
+        type: "party",
+        tags: ["FLINTA"],
+        description: "step into the ethereal & enter all things club music •*¨*•.¸¸☆*\n\ncelebrating melba's 'angel 777' EP launch on Hypercolour. featuring a SUPER special secret headliner to transcend your expectations on club music, which will be revealed JUST before the night...\n\nguaranteed innovative and energetic certified bangers. expect club beats, femme and FLINTA* centred aura, sexy sonics, fast bpm's and contagious melodies.\n\nmoving through club edits, footwork, deconstructed club, trance and everything in-between.\n\nNectax, melba, e-kitty, princess elf bar & bemme blu will all be brining their own unique and individual flavours which transcend genres and aid in the natural flow of music progressing through the night.\n\ncombining inclusivity and underground club sounds. club cetera in London will be a really unique experience at the beautiful ormside projects.\n\nour previous events welcomed Miss Jay, Evissimax, and latesleeper (as Peroxiide). And this next headliner wont disappoint.\n\ndiscounted tickets available for QTPOC/low income. no one will be turned away for the lack of funds. message on socials for this <3 @clubcetera\n\n♡ 𝓙𝓾𝓵𝔂 12\n♡ ormside projects, London\n♡ tickets: £7/£9/£12/£15\n\n𓆩♡𓆪",
+        image: "images/cetera.png",
+        website_link: "https://www.instagram.com/clubcetera/",
+        ticket_link: "https://ra.co/events/2190104?fbclid=PAZXh0bgNhZW0CMTEAAac4Q1Hhu0KSWNS0ojtZj0vbSIfoxEo2l8o_bgmW7g17eqTy2NnzX3z4BRMKmg_aem_nwEli3lVg344dOFAydtwHw",
+        coordinates: null,
+        generes: ["160bpm", "Club", "Breaks", "Baile Funk"],
+        age: "18+",
+        sellingFast: false
+    },
+    {
+        id: 30,
+        name: "SOMA PEOPLE Summer Day Party",
+        venue: "Night Tales Loft",
+        address: "207, 1 Westgate St, Hackney, London E8 3RL",
+        time: "15:00-23:00",
+        date: "Jul 13",
+        price: "£15-25",
+        type: "party",
+        tags: ["FLINTA", "Art", "Community"],
+        description: "The Circle Forms – Community Support (With Love) – £30\nThis ticket is for those who feel called to support us a little extra. It helps us fund our events, as we pay every artist, crew member, and the venue fairly. Your love keeps Soma People alive, growing, and grounded in care. Thank you for being part of the circle\n\nTechno, Tech House music, breathwork/meditation, art installations, video art, and more\n\nOur Vision in Action\n\nAs a community-based collective, our events are built on values of respect, inclusivity, consent, and genuine connection.\n\n• A FLINTA*-centered lineup, from tech house to hypnotic, dark, sensual techno infused with feminine energy and art\n\n* Females, Lesbians, Intersex, Non-binary, Trans, and A gender\n\n• Music and vibes inspired by Panorama Bar and Berghain\n\n• A loft with a quality sound system and rooftop terrace blending Persian warmth and Berlin freedom\n\n• Art, video installations, and sensual visuals adding rich layers\n\n• An inclusive, safe space for FLINTA, queer community, and allies to express and celebrate\n\n• Strict no-photo/ video policy to keep you present and respect your privacy\n\nLeave feeling empowered, seen, and connected.\n\n-----------------------------------------------------------------------------------\nQuick Info:\n\n• No Physical ID, No Entry - Minimum age 21+\n• Cloakroom: Available at the venue\n• Snacks/ fruits available at the venue\n• No photo/ video policy; except for our photographer\n-----------------------------------------------------------------------------------\n\nIMPORTANT – PLEASE READ\nOur Social Contract: What You Agree to by Entering\n\n• Inclusive Space\nFLINTA individuals are prioritised. Everyone is welcome - if they respect the space, each other, and the community.\n\n• Respect First\nWe have zero tolerance for discrimination, harassment, racism, sexism, transphobia, homophobia, ableism, misogyny, or abusive behaviour of any kind.\n\n• Entry Is Not Guaranteed\nYour ticket gets you to the door, but final entry is at the discretion of our door team. This helps us maintain the safety and energy of the space.\n\n• Right to Refuse or Remove\nAnyone violating our values or disrupting the energy will be asked to leave. No refunds will be issued.\n\n• No Photos or Videos\nTo protect privacy and intimacy, phone use for photos/videos is not allowed. Our photographer is the only exception.\n\n• Consent is Key\nAlways ask before initiating physical contact. Boundaries matter.\n\n• No Outside Liquids\nFor safety reasons, outside drinks are not permitted. Violating this policy will result in removal from the venue.\n-----------------------------------------------------------------------------------\n\nOther Things to Know\n\n• Flashing Lights Warning\nThe event may include strobe and flashing lights. If you're photosensitive or epileptic, please take precautions.\n\n• On-Site Support\nIf you feel unwell or unsafe, reach out to the venue manager or security. We're here for you.\n\n• Creating the Vibe Together\nOur team is here to ensure a welcoming and safe space. Your presence contributes to the collective atmosphere.\n\n• Express Yourself\nBring your full self - bold, playful, unapologetic. This is a space to honour your individuality and express it with care and creativity.\n\n• Respect the Space & Team\nTreat the venue and all staff as you would a friend's home - with kindness and care.",
+        image: "images/soma.png",
+        website_link: "https://www.instagram.com/soma.people/",
+        ticket_link: "https://ra.co/events/2189288",
+        coordinates: null,
+        generes: ["Techno", "Industrial","House"],
+        age: "18+",
+        sellingFast: false
     },
     
 ];
@@ -817,7 +910,7 @@ function filterEvents(filter) {
     
     if (filter !== 'all') {
         if (filter === 'today') {
-            filteredEvents = events.filter(event => event.date === 'Today');
+            filteredEvents = events.filter(event => isEventToday(event.date));
         } else if (filter === 'this-week') {
             filteredEvents = events.filter(event => isDateInCurrentWeek(event.date));
         } else {
@@ -835,6 +928,17 @@ function filterEvents(filter) {
     
     renderEvents(filteredEvents);
     addMarkers(filteredEvents);
+}
+
+// Add this new function to check if a date is today
+function isEventToday(dateString) {
+    const eventDate = parseEventDate(dateString);
+    const today = new Date();
+    
+    // Compare year, month, and day
+    return eventDate.getFullYear() === today.getFullYear() &&
+           eventDate.getMonth() === today.getMonth() &&
+           eventDate.getDate() === today.getDate();
 }
 
 // Show event detail view - Updated with scroll to top
