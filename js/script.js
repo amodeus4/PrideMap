@@ -263,23 +263,56 @@ Find us easily, stay in touch, and meet your new running friends!`,
     },
     {
         id: 14,
-        name: "Coven Presents: MAJÓTACHI",
-        venue: "Coven",
-        address: "FABWICK, Queen's Yard, London E9 5EN",
-        time: "20:00-01:00",
-        date: "Jun 27",
-        price: "£11.50",
-        type: "party",
-        tags: ["Queer"],
-        description: "A spellbinding night of global bass and queer magic, MAJÓTACHI is where boundary-breaking sound meets community ritual. Curated by DJ and sonic shapeshifter ŌKAMI, this new party series brings together some of the boldest voices in underground club music, honouring ancestral rhythms, diasporic pulse, and the power of the femme spirit.\n\nDISCO MONDE:\nDisco Monde are a DJ duo, collective, and club night where dance music from the Global South is at the forefront. Drawing inspiration from the queer and femme-led club nights that paved the way, Disco Monde thrives on the fusion of genres and cultures, embracing a musical journey that knows no boundaries. Refusing to be confined by labels, they believe that when it comes to music, nothing is off-limits. At Disco Monde, the dance floor becomes a celebration of diversity, where the sounds of the world unite in a shared rhythm of joy and freedom.\n\nThey have been booked to play at popular venues, such as Soho House, The Jago, Grow Hackney. They also played Brighton Pride 2024, Twist Festival 2025 and have been featured on Loose FM and Foundation FM.\n\nDJ AC:\nDJ AC spins bassy global club goodness inspired by her upbringing across Aotearoa, Taiwan, and London. Expect a queer flow through the polyrhythmic sounds of the afro and latinx diaspora infused with tasty edits from afrobeats to UKG.\n\nDR. MAZZA:\nDr. Mazza - Marie-Ermelinda Mayassi is a Paris-born, Congolese DJ, community curator and NGO founder currently based in London. Based in East London, Dr. Mazza is a co-founder of the Echoes Collective, a member of the Original Soundsystem collective and a new resident at Oroko Radio.\n\nDr. Mazza seeks to channel her unconditional love for the dancefloor by sharing her favourite mix of genres, including an eclectic range of electronic music from alternative techno to GQOM and jersey club, inspired by her French, Congolese and British roots. You can explore her musical universe through her performances on NTS, foundation fm and keep hush. Find her behind the DJ booth near you.\n\nŌKAMI:\nNamed after the Japanese word for wolf, ŌKAMI is the side project of artist Kamī; a space where she channels her fundamental belief that sound is a sacred vessel through which communities of colour can connect in solidarity and find true liberation in the dance.\n\nWhile ŌKAMI has a deep affinity for the atmospheric and sub-heavy frequencies of dubstep, grime, drill and jungle you can often find her playfully switching gear into rich club sounds from across the world such as dancehall, bhangra, gqom, Asian dance sub-genres, baile funk and ballroom - with plenty of attitude.\n\nINDA FLO:\ninda Flo is a disc jockey, radio host, and event promoter pushing and pulling up on the underground club scene to bend and blend cultural sounds in her stomping ground of Global Bass, Techno, Percussive Club, Electronic, and World.\n\nHer sets guarantee a nonstop high and bouncy energy that reach across waters and beyond borders of Asia, Africa, Latin America, The Middle East, The Caribbean, Europe, and the diasporic world. Expect to move and sweat to heavy basslines, relentless rhythms, and certified bangers - accompanied with her signature sound of euphoric instrumentals ranging from brass, percussion, strings, wind, and vocal melodies.\n\nHer mission? To remind the world that every cultural sound, identity, and expression gets to co-exist.\n\nSet in COVEN – East London's new queer bar and arts space – MAJOTACHI is more than a club night. It's a portal. Come ready to sweat, chant, bounce, and be transformed.\n\nPlease note the event is taking upstairs at Coven (above Fabwick) which is currently not wheelchair accessible.",
-        image: "images/coven.png",
-        website_link: "https://www.instagram.com/covenhackney/?hl=en",
-        ticket_link: "https://ra.co/events/2199301",
+        name: "Pride in Southwark",
+        venue: "Southwark",
+        address: "Mint Street Park, 14 Weller St, London SE1 1QU, UK",
+        time: "12:00-18:00",
+        date: "Jun 28",
+        price: "Free",
+        type: "social",
+        tags: ["Pride March", "Drinks", "Drag", "Food", "Music"],
+        description: `🕐 Stage Times: 1pm – 5pm
+
+Join us in the heart of SE1 for Pride in Southwark 2025 – a bold, beautiful celebration of LGBTQ+ joy, resistance, and community spirit!
+
+We’ll kick off the day with a Pride March (starting location TBC) as we take to the streets and make our voices heard, before arriving at Mint Street Park, where the party truly begins.
+
+From 1pm to 5pm, the park will come alive with:
+
+✨ Live music and fierce drag performances
+🏳️‍🌈 Community stalls showcasing local organisations and creatives
+🍹 A fully stocked bar to keep spirits high
+🎉 And plenty more surprises to keep you dancing all afternoon!
+
+This is a Pride for the community – proudly grassroots, unapologetically queer, and free from corporate sponsors. Whether you’re local or visiting, expect a warm welcome and a fabulous atmosphere created by the community, for the community.
+
+Bring your friends, bring your flags, bring your full authentic selves – and come celebrate Southwark’s queer brilliance!
+
+The Stage Line-up from 1pm - 6pm includes:
+
+Naomi Carter from RuPaul's Drag Race UK S5
+Claudia Kariuki
+Adam All
+Ross Harmon
+Samba Sisters Collective
+Moi Koi Theatre Group
+Alpha Dancers
+Phoebe Constantine
+
+The Official Afterparty at The Rising SE1 will feature drag and live music from:
+
+Weslie Dykes
+Ophelia Love X Herr
+DJ Jack on the decks until 2am`,
+        image: "images/southwark.png",
+        website_link: "https://www.prideinsouthwark.org/",
+        ticket_link: "https://www.prideinsouthwark.org/events/2025-programme",
         coordinates: null,
-        generes: ["Global Bass", "Afrobeats"],
-        age: "18+",
+        age: "All Ages",
         sellingFast: false
     },
+
+
     {
         id: 15,
         name: "Maiden Voyage",
@@ -480,57 +513,8 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         age: "18+",
         sellingFast: true
     },
-    {
-        id: 25,
-        name: "Mothership Vol.3",
-        venue: "Bermondsey Social Club",
-        address: "Arch 19 Almond Road,  Bermondsey,  London,  SE16 3LR ",
-        time: "21:00-04:30",
-        date: "Jun 27",
-        price: "£5-20 ",
-        type: "party",
-        tags: ["Community", "Bisexual", "Trans", "Lesbian", "Non-Binary"],
-        description: `🚨🚨 <strong>ANNOUNCEMENT</strong> 🚨🚨<br>
-We're back you gorgeous space beauties, for <strong>MOTHERSHIP - VOLUME 3</strong> 🌟 This time in a new venue for us, Bermondsey Social Club on Friday 27th of June 👾 We had so much fun last time that we needed to do it all again - but this time <strong>ALIEN themed</strong> 👽 ⭐️ Whether that conjures images of a sweaty Sigourney Weaver fighting her way around the Nostromo, the ultimate gender fluid icon, Pleakley, or the stylistic and thrilling visions of Slava Tsukerman's 'Liquid Sky' we want to see your sexy, camp, queer outfits 🤩<br>
-Expect drag performances, incredible DJs, and a whole lot of debaucherous dykery! 👽<br><br>
 
-<strong>The where, when, and how</strong><br>
-📍 <strong>Venue:</strong> Arch 19 Almond Road, Bermondsey, London, SE16 3LR<br>
-📆 <strong>Date:</strong> Fri 27th June 2025<br>
-⌚️ <strong>Time:</strong> 9pm - 4am<br>
-👩‍🚀 <strong>Optional Dresscode:</strong> ALIEN (Inspo moodboard on our instagram)<br>
-If you bring inclusive vibes we want you to come party with us ⭐️  This is first and foremost a queer space so we are centring queer, trans, lesbian, bisexual and non-binary folx. If this isn't you then just be mindful to hold the space for all and let everyone feel comfortable and feel the joy of having a super queer party!<br><br>
 
-<strong>Accessibility</strong><br>
-Bermondsey Social Club have the ability to open the shutter for flat access for anyone in a wheel chair and the venue is flat throughout. However, they do not have a toilet with wheelchair access.<br>
-If you have any access needs please get in contact with us after purchasing your tickets either via Outsavvy or on our email mothership.ldn@gmail.com. There is reserved seating upon request as well as free companion tickets available.<br><br>
-
-<strong>How to get to Bermondsey Social Club</strong><br>
-Before attending the night, please read below as google sometimes will send you the to the trading estate or onto Raymouth Road.<br>
-Coming From Bermondsey tube (Jubilee Line) or South Bermondsey Station:<br>
-- When you get to Southwark Park Road, head towards the Ancient Foresters pub near the roundabout<br>
-- Head towards the little Alleyway next to the foresters.<br>
-- They are arch 19, 3rd from the end so walk all the way down and you will find BSC. They don't have a sign outside so look out for no 19<br><br>
-
-<strong>Lighting & Sound</strong><br>
-The space will be dimly lit with strobing lights plus has colour changing moving lights and a smoke machine. Disposable earplugs are available at the bar should you need them.<br><br>
-
-<strong>Quiet Space</strong><br>
-Should you need a quiet moment there is a smoking area with no music available at the back of the venue and lots of quality queer time can be had there 👀<br><br>
-
-<strong>Zero Tolerance Policy</strong><br>
-We hold space for everybody and take a zero tolerance approach to any form of harassment. If you have any issue on the night please speak to one of our event staff or venue management and we will ensure any harassment is appropriately dealt with. 🙅🏻‍♀️💪<br><br>
-
-<strong>Low Income/Unwaged Tickets</strong><br>
-We want all our queer hunnies to be able to come and party with us 🌈 if you are on a low income or are unwaged please either DM us on Insta or send an email to mothership.ldn@gmail.com and we will send you a discount code.`,
-        image: "images/mothership.png",
-        website_link: "https://www.instagram.com/mothership_ldn?igsh=bzE1cWNndnd1djB5",
-        ticket_link: "https://www.outsavvy.com/event/27397/mothership-vol-3",
-        coordinates: null,
-        generes: ["Pop", "House", "Techno"],
-        age: "18+",
-        sellingFast: true
-    },
     {
         id: 26,
         name: "Playbody 009",
