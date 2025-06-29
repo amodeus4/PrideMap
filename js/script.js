@@ -106,25 +106,11 @@ const events = [
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 6,
-        name: "Leatherette: dyke fantasy den",
-        venue: "Avalon Cafe",
-        address: "Avalon cafe, unit D, Juno Way, SE14 5RW",
-        time: "20:00-02:00",
-        date: "Jun 28",
-        price: "£8",
-        type: "party",
-        tags: ["Lesbian", "Queer", "FLINTA"],
-        description: "London's late night dyke dance party LEATHERETTE is back this June for a hot 'n' heavy midsummer blowout!\n\nSpotlighting the hottest FLINTA talent from across the capital, with bass-forward DJs, electric live shows and plenty of dark corners to find/lose yourself in. This time, we're heading back South for an all night takeover of Avalon Cafe!\n\n**DJs**\nJess Hands\nLO-LOW\nMilk Shandy\nRuby Quick\n\n**Performances by**\nFinn Love\nJessica Winter\nMiss Averi\n\n**LIMITED PRESALE TICKETS AVAILABLE NOW:**\n£8 Mailing list early access\n£10 Earlybirds\n£12 Second Release\n£14 General Admission",
-        image: "images/letherette.png",
-        website_link: "https://www.instagram.com/leatherette_ldn/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/27619/leatherette-dyke-fantasy-den",
-        coordinates: null,
-        generes: ["Techno", "Bass", "Pop"],
-        age: "18+",
-        sellingFast: false
-    },
+    
+
+
+
+
     {
         id: 7,
         name: "Uhaul Dyke Rescue",
@@ -261,56 +247,7 @@ Find us easily, stay in touch, and meet your new running friends!`,
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 14,
-        name: "Pride in Southwark",
-        venue: "Southwark",
-        address: "Mint Street Park, 14 Weller St, London SE1 1QU, UK",
-        time: "12:00-18:00",
-        date: "Jun 28",
-        price: "Free",
-        type: "social",
-        tags: ["Pride March", "Drinks", "Drag", "Food", "Music"],
-        description: `🕐 Stage Times: 1pm – 5pm
-
-Join us in the heart of SE1 for Pride in Southwark 2025 – a bold, beautiful celebration of LGBTQ+ joy, resistance, and community spirit!
-
-We’ll kick off the day with a Pride March (starting location TBC) as we take to the streets and make our voices heard, before arriving at Mint Street Park, where the party truly begins.
-
-From 1pm to 5pm, the park will come alive with:
-
-✨ Live music and fierce drag performances
-🏳️‍🌈 Community stalls showcasing local organisations and creatives
-🍹 A fully stocked bar to keep spirits high
-🎉 And plenty more surprises to keep you dancing all afternoon!
-
-This is a Pride for the community – proudly grassroots, unapologetically queer, and free from corporate sponsors. Whether you’re local or visiting, expect a warm welcome and a fabulous atmosphere created by the community, for the community.
-
-Bring your friends, bring your flags, bring your full authentic selves – and come celebrate Southwark’s queer brilliance!
-
-The Stage Line-up from 1pm - 6pm includes:
-
-Naomi Carter from RuPaul's Drag Race UK S5
-Claudia Kariuki
-Adam All
-Ross Harmon
-Samba Sisters Collective
-Moi Koi Theatre Group
-Alpha Dancers
-Phoebe Constantine
-
-The Official Afterparty at The Rising SE1 will feature drag and live music from:
-
-Weslie Dykes
-Ophelia Love X Herr
-DJ Jack on the decks until 2am`,
-        image: "images/southwark.png",
-        website_link: "https://www.prideinsouthwark.org/",
-        ticket_link: "https://www.prideinsouthwark.org/events/2025-programme",
-        coordinates: null,
-        age: "All Ages",
-        sellingFast: false
-    },
+    
 
 
     {
@@ -406,25 +343,9 @@ DJ Jack on the decks until 2am`,
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 20,
-        name: "HAG: First Edition",
-        venue: "Coven",
-        address: "FABWICK, Queen's Yard, London E9 5EN",
-        time: "20:00-02:00",
-        date: "Jun 28",
-        price: "£11.50",
-        type: "party",
-        tags: ["Queer", "Performances"],
-        description: "HAG - Saturday 28th June\nA new monthly ritual begins.\n\nCOVEN's inaugural in-house queer techno night HAG summons you to the floor for a night of pulsing rhythms, deep ritual energy, and euphoric queer chaos. Expect hard techno, acidic breaks, industrial witchery and body-shaking basslines as we conjure a lineup that's both spellbinding and uncompromising.\n\nFeaturing:\n🜃 Daskaran – pounding industrial techno with transcendent queer ferocity\n🜁 Nina Pixina – acid-laced club spells, percussive hauntings, and techno enchantment\n🜄 Sidthesciencebxtch – experimental body music, high-concept energy, and dark camp brilliance\n🜂 AVGDJ – dark, driving, genre-bending techno for possessed bodies and ecstatic minds\n\nPlus: surprise live performances and plenty of sonic sorcery.\n\nCome dressed to hex.\nBring your demons.\nDance 'til your soul slips sideways.\n\nwear black <3",
-        image: "images/coven3.png",
-        website_link: "https://www.instagram.com/covenhackney/?hl=en",
-        ticket_link: "https://ra.co/events/2200220",
-        coordinates: null,
-        generes: ["Techno"],
-        age: "18+",
-        sellingFast: false
-    },
+    
+
+
     {
         id: 21,
         name: "STRUT: Queer Line Dancing",
@@ -471,24 +392,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 23,
-        name: "Life Drawing",
-        venue: "La Camionera",
-        address: "243 Well Street,  London,  E9 6RG",
-        time: "11:00-13:00",
-        date: "Jun 28",
-        price: "£15",
-        type: "social",
-        tags: ["Drawing", "Lesbian", "Trans", "Non-Binary", "POC"],
-        description: "•⁠ ⁠casual, informal, open to all abilities and experience!\n\n\n•⁠ special, experienced models and teachers!\n\n\n•⁠  ⁠11-1.15, with a 15 min break!\n\n\n•⁠ our summer cafe menu, soft drinks, and more available!\n\n\n•⁠  ⁠newsprint and charcoal provided, please bring sketch pads and other materials if you would like them!\n\nxxxxxx",
-        image: "images/camionera1.png",
-        website_link: "https://www.lacamionera.com/",
-        ticket_link: "https://www.outsavvy.com/event/28232/life-drawing-at-la-cami-280625",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
+    
     {
         id: 24,
         name: "HOMOSTASH PRIDE RAVE",
@@ -551,25 +455,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         coordinates: null,
         sellingFast: false
     },
-    {
-        id: 28,
-        name: "BAILE TRAMA - BOAT PARTY",
-        venue: "The Dutch Master",
-        address: "Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom",
-        time: "18:30-23:59",
-        date: "Jun 28",
-        price: "£25.30",
-        type: "party",
-        tags: ["Queer", "Boat Party"],
-        description: "TRAMA on board - Get ready!\n\nSummer is here, and to keep the temperatures warmer we have prepared our first boat party for a hot day in Thames river London! Cruising smooth, with the crew, no brakes!\n\nWe've put together a line-up with names that move the BR scene around Europe, bringing the best of FUNK combined with other rhythms so that no one will stand still!\n\n// INFO\nBoarding at 6:30pm from Tower Millennium Pier.\nWe sail at 7pm sharp — don't be late, we can't wait.\nBack at midnight, same spot.\nClosest station: Tower Hill.\n\n// TRAMA is a Brazilian plural movement focused on promoting cultural and musical connections between Brazil and the world, especially in Europe. With an inclusive proposal, the project brings together prominent guests, rising artists and local DJs, creating a fusion between the power of Brazilian music and other rhythms. The movement strengthens the scene, connecting cultures and bringing the best of our sound to each event (\"Baile\").\n\n*We aim for an environment to feel safe, comfortable and empowered. No form of intolerance will be accepted here.",
-        image: "images/baile.png",
-        website_link: "https://www.instagram.com/bailetrama/",
-        ticket_link: "https://ra.co/events/2182034",
-        coordinates: null,
-        generes: ["Baile Funk", "Electronica"],
-        age: "18+",
-        sellingFast: false
-    },
+    
     {
         id: 29,
         name: "club cetera: angel 777 launch",
@@ -624,25 +510,6 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         ticket_link: "https://ra.co/events/2198789?fbclid=PAZXh0bgNhZW0CMTEAAacR-Tq0vJHowH1cTO3DUBeacpt4bbw6juZZ_0-0kOT49R7oVOxIQwYwWv7S4w_aem_Wno0FwticBuXX6Rjk6AXqA",
         coordinates: null,
         generes: ["Jungle", "Techno", "Hardcore","Bassline", "Baile"],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 32,
-        name: "La Camionera Party",
-        venue: "Dream Bags Jaguar Shoes",
-        address: "32-34 Kingsland Rd, London E2 8DA",
-        time: "21:00-1:30",
-        date: "Jun 28",
-        price: "Free",
-        type: "party",
-        tags: ["FLINTA"],
-        description: "DJ sets from Alex Loveless, Sascha Smiley and more. \nMake sure to arrive early to guarantee entry. <3 xx",
-        image: "images/cami2.png",
-        website_link: "https://www.instagram.com/camionera.e9/?hl=en",
-        ticket_link: "https://dice.fm/event/xepx2l-la-camionera-28th-jun-dream-bags-jaguar-shoes-london-tickets",
-        coordinates: null,
-        generes: ["Disco", "Pop", "Edits", "Cunty"],
         age: "18+",
         sellingFast: false
     },
