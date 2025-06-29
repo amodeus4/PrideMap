@@ -5,6 +5,48 @@ let currentView = 'list'; // 'list' or 'detail'
 let currentEvent = null;
 let isMobile = window.innerWidth <= 768;
 
+// Google Analytics Event Tracking Functions
+function trackEvent(action, category, label, value) {
+    if (typeof gtag !== 'undefined') {
+        gtag('event', action, {
+            event_category: category,
+            event_label: label,
+            value: value
+        });
+        console.log(`GA Event: ${action} - ${category} - ${label} - ${value}`);
+    }
+}
+
+function trackEventView(eventId, eventName, eventType) {
+    trackEvent('view_event', 'Event Interaction', eventName, eventId);
+    trackEvent('view_event_detail', 'Event Detail', `${eventName} (${eventType})`, eventId);
+}
+
+function trackFilterUsage(filter) {
+    trackEvent('filter_events', 'Filter Usage', filter, null);
+}
+
+function trackButtonClick(buttonType, eventName = null, eventId = null) {
+    trackEvent('button_click', 'Button Interaction', buttonType, eventId);
+    if (eventName) {
+        trackEvent('button_click_with_event', 'Button Interaction', `${buttonType} - ${eventName}`, eventId);
+    }
+}
+
+function trackMapInteraction(interactionType, eventName = null, eventId = null) {
+    trackEvent('map_interaction', 'Map Interaction', interactionType, eventId);
+    if (eventName) {
+        trackEvent('map_interaction_with_event', 'Map Interaction', `${interactionType} - ${eventName}`, eventId);
+    }
+}
+
+function trackNavigation(fromView, toView, eventName = null) {
+    trackEvent('navigation', 'Navigation', `${fromView}_to_${toView}`, null);
+    if (eventName) {
+        trackEvent('navigation_with_event', 'Navigation', `${fromView}_to_${toView} - ${eventName}`, null);
+    }
+}
+
 // Mobile Bottom Sheet Functionality
 let isDragging = false;
 let startY, startBottom;
@@ -106,8 +148,27 @@ const events = [
         age: "18+",
         sellingFast: false
     },
-    
 
+    {
+        id: 6,
+        name: "UNFOLD CII",
+        venue: "Fold",
+        address: "Gillian House, Stephenson St, London E16 4SA",
+        time: "14:00-23:59",
+        date: "Jul 6",
+        price: "£15-20",
+        type: "party",
+        tags: ["Queer"],
+        description: "A day of joy, a celebration of love; UNFOLD returns on Sunday 6th July.\n\nDoors open at 14:00. As always, the line-up is unannounced and tickets are only available on the door.\n\nEntrance is not guaranteed and is at the sole discretion of our Entrance Team.\n\nDress to sweat.\n\nNO RACISM, NO SEXISM, NO HOMOPHOBIA, NO TRANSPHOBIA, NO ABLEISM.\n\nFold operates a strict 21+ and ID check at the door policy.\n\nYour ticket does not guarantee entry to FOLD; admission is at the sole discretion of our Entrance Team. Please respect their decision.\n\nPhysical ID is mandatory.\n\nClosest transport:\n- Star Lane\n- Canning town",
+        image: "images/fold.png",
+        website_link: "",
+        ticket_link: "https://ra.co/events/2200339",
+        coordinates: null,
+        generes: ["Techno"],
+        age: "21+",
+        sellingFast: false
+    },
+    
 
     {
         id: 7,
@@ -245,8 +306,27 @@ Find us easily, stay in touch, and meet your new running friends!`,
         age: "18+",
         sellingFast: false
     },
-    
 
+    {
+        id: 14,
+        name: "RIPOSTE - HOT QUEER DAY RAVE & clothes swap",
+        venue: "The Cause",
+        address: "60 Dock Road, London, E16 1YZ",
+        time: "14:00-23:00",
+        date: "Jul 13",
+        price: "£16-19",
+        type: "party",
+        tags: ["Rave", "Playroom", "Clothes Swap", "Art"],
+        description: "HOT HOT LINE UP \n2 DANCEFLOORS\n1 PLAYROOM\nPERFORMANCES\nHUGE CLOTHES SWAP:Bring something & leave with something!",
+        image: "images/reposte.png",
+        website_link: "https://www.instagram.com/riposte.london",
+        ticket_link: "https://ra.co/events/2175793",
+        coordinates: null,
+        age: "18+",
+        generes: ["Techno", "House"],
+        sellingFast: false
+    },
+    
 
     {
         id: 15,
@@ -341,6 +421,25 @@ Find us easily, stay in touch, and meet your new running friends!`,
         age: "18+",
         sellingFast: false
     },
+    {
+        id: 20,
+        name: "THE LESBIAN PUB QUIZ",
+        venue: "The Clapham North Pub",
+        address: "409 Clapham Road Upstairs bar London SW9 9BT",
+        time: "19:00-22:00",
+        date: "Jul 20",
+        price: "£11.55",
+        type: "party",
+        tags: ["LGBTQ+"],
+        description: "Every month this quiz attracts a room full of competitive queers ready to test their LGBTQ knowledge and chance winning fabulous prizes!",
+        image: "images/island.png",
+        website_link: "https://www.instagram.com/lesbian_island_/?hl=en",
+        ticket_link: "https://www.eventbrite.co.uk/e/the-lesbian-pub-quiz-tickets-1409338522459?aff=ebdsoporgprofile&_gl=1*nwy600*_up*MQ..*_ga*MTk0ODM2MjUwMi4xNzUxMjI2MjI0*_ga_TQVES5V6SH*czE3NTEyMjYyMjQkbzEkZzAkdDE3NTEyMjYyMjQkajYwJGwwJGgw",
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
+    },
+    
     
 
 
@@ -390,6 +489,23 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: false
     },
+    {
+        id: 23,
+        name: "Second Tuesday Monologues - HEAT",
+        venue: "The Common Counter",
+        address: "118 Bethnal Green Road, London, E2 6DG",
+        time: "18:00-21:00",
+        date: "Jul 8",
+        price: "Free",
+        type: "social",
+        tags: ["Queer", "Dog-Friendly", "Monologues"],
+        description: "📅 Tuesday, 8th of June 2025\n⏰ Doors 7 PM, Monologues 7:30 PM\n📍 The Common Press, 118 Bethnal Green Rd, London E2 6DG\n\nThis July, Second Tuesday Monologues is turning up the temperature with the theme HEAT. 🔥☀️\n\nWhether it's a scorching summer romance, the heat of political resistance, or the slow burn of desire and tension—expect stories that sizzle, spark, and smoulder. From steamy confessions to fiery truths, this will be a night of storytelling that glows hot with queer power and passion.\n\nHOW IT WORKS:\n\n🎭 Monologists have up to 10 minutes to share their unique take on the theme.\n🛋️ After the performances, we settle in for an open group discussion.\n\n🎟️ FREE ENTRY – but pre-booking is highly recommended!\n🍸 Support The Common Press – grab a drink from the bar and enjoy the night!\n🐶 Dog-friendly venue\n♿ Fully wheelchair accessible (entrance via Common Press Bookshop, additional level-access available)\n🚻 Please note: The bookshop itself doesn't have toilets, but accessible restrooms are available across the street at Rich Mix.\n\n💬 WANT TO PERFORM?\n\nWe're always on the lookout for new voices! Email Rob at maureen@thelovetank.info if you'd like to be a monologuist at this or future editions. Monologuists receive a small fee as a token of gratitude.\n\n✨ UPCOMING THEMES:\n\n📅 Aug 12: Freedom 🦅\n📅 Sept 9: Shadows 🌘\n📅 Oct 14: Black Queer Horror 🧟‍♀️👻\n📅 Nov 11: Legacy 🕊️\n📅 Dec 9: Chosen 🎁🫂\n\n➡️ If you can no longer attend, please let us know so we can offer your spot to someone else.\n\n📢 Follow @thelovetankcic for updates on this and other free queer community events! 🌈💜\n\n💕 Join us for a night of queer creativity, community, and connection. RSVP now to reserve your spot—space is limited!",
+        image: "images/mono.png",
+        website_link: "https://www.instagram.com/thelovetankcic/followers/mutualOnly?hl=en",
+        ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAacu5JvQWXXyLIPixlOXmTg2nzRiRTPCG4V4Ht-rbjyonPcN_WAuL2Zqz0KiYg_aem_dILYj-QY3XgKPk1guE1IBQ",
+        coordinates: null,
+        sellingFast: false
+    },
     
     {
         id: 24,
@@ -436,23 +552,9 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 27,
-        name: "Sappho's Circle - Writing Club",
-        venue: "The Post Bar",
-        address: "316 High Road,  London,  N15 4BP",
-        time: "14:00-17:00",
-        date: "Jun 29",
-        price: "£5",
-        type: "workshop",
-        tags: ["Writing", "Lesbian", "Creative"],
-        description: "Are you a Sapphic writer looking for a creative community that will inspire you to hone your craft? Whether you're working on a novel, you're a freelance writer, a poet (like the great Sappho herself) or working on your next substack article, this is the perfect collaborative, friendly and motivating environment to focus on your work and be held accountable (I know how hard it is to dedicate time to writing!)\n\nIn these writing workshops you can expect:\n\n1 hour of workshopping - we will work from prompts to create short pieces - this first workshop will focus on writing sapphic 🌶️🌶️🌶️ scenes 👀\nThe rest of time to work on your own projects, ask others to read your work, be supported through writers block or generally find inspiration through good conversation over some drinks!\nA sunny terrace with coffee, food and drinks!\n\nCan't wait to see you there!\nLove Tyff xx",
-        image: "images/sappho.png",
-        website_link: "",
-        ticket_link: "https://www.outsavvy.com/event/28272/sapphos-circle-writing-club",
-        coordinates: null,
-        sellingFast: false
-    },
+    
+
+
     
     {
         id: 29,
