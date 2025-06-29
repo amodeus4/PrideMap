@@ -109,8 +109,6 @@ const events = [
     
 
 
-
-
     {
         id: 7,
         name: "Uhaul Dyke Rescue",
@@ -937,7 +935,7 @@ function showEventsList() {
     const sidebar = document.querySelector('.sidebar');
     sidebar.innerHTML = `
         <div class="header">
-            <h1>Gaydar</h1>
+            <h1>On My Gaydar</h1>
             <h5>The best local queer events, updated daily</h5>
             <div class="filters">
                 <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>
