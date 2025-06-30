@@ -68,6 +68,26 @@ const events = [
         age: "18+",
         sellingFast: false
     },
+
+    {
+        id: 39,
+        name: "La camionera Pride After Party",
+        venue: "La Camionera",
+        address: "243 Well Street,  London,  E9 6RG",
+        time: "10:00-22:00",
+        date: "Jul 5",
+        price: "£10",
+        type: "social",
+        tags: ["Lesbian", "FLINTA", "Karaoke", "Music"],
+        description: "ADONIS PRIDE! \nSATURDAY 5TH OF JULY@ THE CAUSE \nTICKET DOESN'T GUARANTEE ENTRY, RIGHT OF ADMISSION RESERVED. \nDOORS OPEN 10AM - 17:30",
+        website_link: "https://www.lacamionera.com/?fbclid=PAZXh0bgNhZW0CMTEAAac1EPzQ0lCkVw6J1KVwB_DtF4FyQmcrWp7utxVE1o7gIh-lgBNwFqvgy080ig_aem_ZKmz-W_S2f3plzY8RLgDRg",
+        image: "images/lacami2.png",
+        ticket_link: "https://www.outsavvy.com/event/28500/party-after-pride-la-cam-3",
+        coordinates: null,
+        age: "18+",
+        sellingFast: true
+    },
+    
     {
         id: 4,
         name: "HOWL Pride",
@@ -728,7 +748,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         sellingFast: false
     },
     {
-        id: 36,
+        id: 37,
         name: "ROAST: LONDON PRIDE",
         venue: "Electrowerkz",
         address: "7 Torrens Street, London EC1V 1NQ",
@@ -748,7 +768,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
     },
 
     {
-        id: 37,
+        id: 38,
         name: "ADONIS PRIDE",
         venue: "The Cause",
         address: "60 Dock Rd, London, london, E16 1YZ",
