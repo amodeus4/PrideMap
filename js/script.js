@@ -5,48 +5,6 @@ let currentView = 'list'; // 'list' or 'detail'
 let currentEvent = null;
 let isMobile = window.innerWidth <= 768;
 
-// Google Analytics Event Tracking Functions
-function trackEvent(action, category, label, value) {
-    if (typeof gtag !== 'undefined') {
-        gtag('event', action, {
-            event_category: category,
-            event_label: label,
-            value: value
-        });
-        console.log(`GA Event: ${action} - ${category} - ${label} - ${value}`);
-    }
-}
-
-function trackEventView(eventId, eventName, eventType) {
-    trackEvent('view_event', 'Event Interaction', eventName, eventId);
-    trackEvent('view_event_detail', 'Event Detail', `${eventName} (${eventType})`, eventId);
-}
-
-function trackFilterUsage(filter) {
-    trackEvent('filter_events', 'Filter Usage', filter, null);
-}
-
-function trackButtonClick(buttonType, eventName = null, eventId = null) {
-    trackEvent('button_click', 'Button Interaction', buttonType, eventId);
-    if (eventName) {
-        trackEvent('button_click_with_event', 'Button Interaction', `${buttonType} - ${eventName}`, eventId);
-    }
-}
-
-function trackMapInteraction(interactionType, eventName = null, eventId = null) {
-    trackEvent('map_interaction', 'Map Interaction', interactionType, eventId);
-    if (eventName) {
-        trackEvent('map_interaction_with_event', 'Map Interaction', `${interactionType} - ${eventName}`, eventId);
-    }
-}
-
-function trackNavigation(fromView, toView, eventName = null) {
-    trackEvent('navigation', 'Navigation', `${fromView}_to_${toView}`, null);
-    if (eventName) {
-        trackEvent('navigation_with_event', 'Navigation', `${fromView}_to_${toView} - ${eventName}`, null);
-    }
-}
-
 // Mobile Bottom Sheet Functionality
 let isDragging = false;
 let startY, startBottom;
@@ -532,6 +490,26 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         sellingFast: true
     },
 
+    {
+        id: 25,
+        name: "~\\ LILITH //~ chrysalis",
+        venue: "Secret Location",
+        address: "",
+        time: "14:00-23:00",
+        date: "Jul 12",
+        price: "Donations",
+        type: "party",
+        tags: ["Day Party", "BBQ", "Queer"],
+        description: "🦋𝓬𝓱𝓻𝔂𝓼𝓪𝓵𝓲𝓼 𖤓 𝓰𝓸𝓸 𖤓 𝓭𝓲𝓪𝓹𝓱𝓪𝓷𝓸𝓾𝓼 𖤓 𝓫𝓵𝓸𝓸𝓶 𖤓 𝓹𝓾𝓹𝓪𝓮 𖤓 𝓹𝓪𝓻𝓽𝔂 🦋\n\n🥵delicious activities to be announced - basic bitch bbq, SO MUCH MORE tba 👀\n\n🍬sweetheart DJ line up🍬\n\nGoh\nInda Flo\nAilish\nWatcha\nKamran\nHeavedny\nlilith luvrs more tba\n\n\n🧚🏻‍♂️keep eyes peeled + hearts open for delicious activities announcement🧚🏻‍♂️\n\n\n\n🌀20 min walk from Enfield Lock station - riverside party spot 🌀we dance under a willowtree 🧚🏻‍♂️\n\n\n\nevent location sent to ticket holders the day before.\n\n\n\nDonation-based tickets, pay-what-you-can.\n\nWe break even if everyone chips in around £15 - this will include snacks, activities etc. but anything appreciated x",
+        image: "images/lilith.png",
+        website_link: "",
+        ticket_link: "https://www.eventbrite.com/e/lilith-chrysalis-tickets-1391278975869",
+        coordinates: null,
+        generes: ["Afrobeats", "UK Bass", "Edits", "House"],
+        age: "18+",
+        sellingFast: false
+    },
+
 
     {
         id: 26,
@@ -553,7 +531,45 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         sellingFast: false
     },
     
+    {
+        id: 27,
+        name: "Klub Verboten: TEARS FOR BEERS x EAST",
+        venue: "Secret Location",
+        address: "",
+        time: "19:00-22:45",
+        date: "Jul 16",
+        price: "£15",
+        type: "party",
+        tags: ["Kinky", "Queer"],
+        description: "* PLEASE READ ALL FAQs IN TICKET LINK BEFORE BUYING A TICKET *",
+        image: "images/beers.png",
+        website_link: "https://www.instagram.com/klubverboten/?hl=en",
+        ticket_link: "https://dice.fm/event/6d6r67-tears-for-beers-x-east-16th-jul-undisclosed-location-london-london-tickets",
+        coordinates: null,
+        generes: ["Techno"],
+        age: "21+",
+        sellingFast: false
+    },
 
+    {
+        id: 28,
+        name: "PLASTYK",
+        venue: "Venue M.O.T",
+        address: "Surrey Canal Road,  London,  SE14 5RT",
+        time: "22:00-04:00",
+        date: "Aug 8",
+        price: "£13-22",
+        type: "party",
+        tags: ["Lesbian", "Queer", "Trans", "Non-Binary", "POC"],
+        description: "PLASTYK is back for a single-room summer party. Get your tix ASAP, they'll sell out quick x \n\n \n\nBlack trans femmes go free - use code PLASTYKLIST.\n\nIf you are TRANS, POC or DISABLED and need a discount code, check out the info pinned to our Instagram @plastyk__\n\n \n\nWho is this event for? This event prioritizes d*kes of all kinds. Trans femmes and trans mascs to the front! The event is NOT for cishet people. Anyone disrupting the safety/comfort of the space will be removed. TERFs STAY AT HOME. \n\n \n\nAccess: Full access info is on our Instagram.",
+        image: "images/plastyk.png",
+        website_link: "https://www.instagram.com/plastyk__/?hl=en",
+        ticket_link: "https://www.outsavvy.com/event/28339/plastyk-august?fbclid=PAZXh0bgNhZW0CMTEAAaeNZD04lgh_zcLJu3bCXcsERgSIcfhIQxAx5E_44jOqF441RzF0AIpAEXF5uw_aem_HBrkpo5feAPlAJYPHkD4tA",
+        coordinates: null,
+        generes: ["Techno"],
+        age: "18+",
+        sellingFast: true
+    },
 
     
     {
@@ -881,12 +897,14 @@ function isDateInCurrentWeek(dateString) {
     const eventDate = parseEventDate(dateString);
     const today = new Date();
     
-    // Get start of current week (Sunday)
+    // Get start of current week (Monday)
     const weekStart = new Date(today);
-    weekStart.setDate(today.getDate() - today.getDay());
+    const dayOfWeek = today.getDay();
+    const daysToMonday = dayOfWeek === 0 ? 6 : dayOfWeek - 1; // If Sunday (0), go back 6 days; otherwise go back (dayOfWeek - 1) days
+    weekStart.setDate(today.getDate() - daysToMonday);
     weekStart.setHours(0, 0, 0, 0);
     
-    // Get end of current week (Saturday)
+    // Get end of current week (Sunday)
     const weekEnd = new Date(weekStart);
     weekEnd.setDate(weekStart.getDate() + 6);
     weekEnd.setHours(23, 59, 59, 999);
