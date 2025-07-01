@@ -4,11 +4,11 @@ let currentFilter = 'all';
 let currentView = 'list'; // 'list' or 'detail'
 let currentEvent = null;
 let isMobile = window.innerWidth <= 768;
+let mobileViewMode = 'list'; // 'list' or 'map' for mobile
 
-// Mobile Bottom Sheet Functionality
+// Mobile view state
 let isDragging = false;
 let startY, startBottom;
-let bottomSheet, dragHandle, mobileEventsList;
 
 const events = [
     {
@@ -87,7 +87,7 @@ const events = [
         age: "18+",
         sellingFast: true
     },
-    
+
     {
         id: 4,
         name: "HOWL Pride",
@@ -654,7 +654,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         id: 32,
         name: "Feel It: Pride",
         venue: "Omera",
-        address: "6 O’Meara St, SE1 1TE",
+        address: "6 O'Meara St, SE1 1TE",
         time: "22:30-05:00",
         date: "Jul 5",
         price: "£22 OTD",
@@ -757,7 +757,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         price: "Waitlist",
         type: "party",
         tags: ["Men Only"],
-        description: "𝙇𝙊𝙉𝘿𝙊𝙉’𝙎 𝘽𝙀𝙀𝙁𝙄𝙀𝙎𝙏 𝘾𝙇𝙐𝘽𝙉𝙄𝙂𝙃𝙏 - 𝙀𝙇𝙀𝘾𝙏𝙍𝙊𝙒𝙀𝙍𝙆𝙕 10PM-6AM ROAST; Bears, cubs, chubs, chasers, muscle bears, trans men, muscle men, and admirers. 10 DJ'S, 5 rooms, 1 big darkroom. MEN ONLY. LAST ENTRY 3AM - NO PHYSICAL ID = NO ENTRY. 18+\nPlease be advised that there may be promotional and/or commercial photography and visual and/or audio recording at this event - by entering this event, you consent to your picture or footage of you possibly being taken and used by ROAST and/or Electrowerkz for promotional and/or commercial purposes.\nBy attending ROAST, commit to treating your fellow community members with respect and kindness - without judgment or bias.\n\nTeam ROAST 🧡",
+        description: "𝙇𝙊𝙉𝘿𝙊𝙉'𝙎 𝘽𝙀𝙀𝙁𝙄𝙀𝙎𝙏 𝘾𝙇𝙐𝘽𝙉𝙄𝙂𝙃𝙏 - 𝙀𝙇𝙀𝘾𝙏𝙍𝙊𝙒𝙀𝙍𝙆𝙕 10PM-6AM ROAST; Bears, cubs, chubs, chasers, muscle bears, trans men, muscle men, and admirers. 10 DJ'S, 5 rooms, 1 big darkroom. MEN ONLY. LAST ENTRY 3AM - NO PHYSICAL ID = NO ENTRY. 18+\nPlease be advised that there may be promotional and/or commercial photography and visual and/or audio recording at this event - by entering this event, you consent to your picture or footage of you possibly being taken and used by ROAST and/or Electrowerkz for promotional and/or commercial purposes.\nBy attending ROAST, commit to treating your fellow community members with respect and kindness - without judgment or bias.\n\nTeam ROAST 🧡",
         website_link: "https://www.instagram.com/roast.london.roast/?hl=en",
         image: "images/roast.png",
         ticket_link: "https://dice.fm/event/92lvp6-roast-london-pride-5th-jul-electrowerkz-london-tickets",
@@ -786,6 +786,173 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         age: "18+",
         sellingFast: false
     },
+    {
+        id: 40,
+        name: "Avalon Social Club",
+        venue: "Avalon Cafe",
+        address: "Juno Wy., London SE14 5RZ",
+        time: "18:00-21:00",
+        date: "Jul 7",
+        price: "£8 OTD",
+        type: "social",
+        tags: ["LGBT+ Allies", "Chess", "Knitting"],
+        description: "head to Avalon for an evening social: come hang out, play chess, bring your knitting, your mate or come solo for a friendly cuppa/pint.",
+        website_link: "https://www.instagram.com/avaloncafebermondsey/",
+        image: "images/avalon4.png",
+        ticket_link: "",
+        coordinates: null,
+        sellingFast: false
+    },
+
+    {
+        id: 41,
+        name: "Avalon Choir",
+        venue: "Avalon Cafe",
+        address: "Juno Wy., London SE14 5RZ",
+        time: "19:00-21:00",
+        date: "Jul 7",
+        price: "£8 OTD",
+        type: "social",
+        tags: ["LGBT+ Allies", "Choir"],
+        description: "A community choir, singing a variety of songs and styles in multiple harmony. Everyone is welcome - just turn up!",
+        website_link: "https://www.instagram.com/avaloncafebermondsey/",
+        image: "images/avalon3.png",
+        ticket_link: "",
+        coordinates: null,
+        sellingFast: false
+    },
+
+    {
+        id: 42,
+        name: "Lesbian+ Social",
+        venue: "The Albany Pub",
+        address: "1 Queen's Rd, Twickenham TW1 4EZ, UK",
+        time: "19:00-22:00",
+        date: "Jul 3",
+        price: "Free",
+        type: "social",
+        tags: ["LGBTQ+"],
+        description: "Join us on the first Thursday of every month from 19:00 for an informal meet-up and an opportunity to meet new friends. Open to LGBTQ+ Women and those who are non-binary.",
+        website_link: "https://www.wlqp.org/",
+        image: "images/wlqp.png",
+        ticket_link: "https://www.wlqp.org/event-details/lesbian-social-23",
+        coordinates: null,
+        sellingFast: false
+    },
+
+    {
+        id: 43,
+        name: "West London Workouts - Spin",
+        venue: "Gunnersbury Park Sports Hub",
+        address: "Gunnersbury Park Sports Hub, Gunnersbury Park, Popes Ln, London W3 8LQ",
+        time: "18:30-19:30",
+        date: "Jul 4",
+        price: "£4",
+        type: "workshop",
+        tags: ["LGBTQ+", "Spin"],
+        description: "This is an all fitness levels class, open to beginners and seasoned gym goers.\n\nChanging rooms and lockers are available but please bring your own padlock if you wish to utilise the lockers. We also recommend that attendees bring their own towel and water bottle.\n\nPlease plan your arrival time to ensure you are ready to warm up on your bike by the class start time. Your instructor or a member of the WLQP team will be on hand from 10 minutes before the session to help you get set up on your bike, ready to work up a sweat and burn calories.\n\nStudio cycling is an exciting yet rigorous form of endurance training, ideal for improving lower body strength and kicking your cardiovascular fitness up a gear.",
+        website_link: "https://www.wlqp.org/",
+        image: "images/wlqp2.png",
+        ticket_link: "https://www.wlqp.org/event-details/west-london-workouts-spin-2025-07-04-18-30",
+        coordinates: null,
+        sellingFast: false
+    },
+
+    {
+        id: 44,
+        name: "West London Workouts - Circuits",
+        venue: "Gunnersbury Park Sports Hub",
+        address: "Gunnersbury Park Sports Hub, Gunnersbury Park, Popes Ln, London W3 8LQ",
+        time: "20:00-21:00",
+        date: "Jul 7",
+        price: "£12",
+        type: "workshop",
+        tags: ["LGBTQ+", "Workout"],
+        description: "Monthly pass for our weekly Circuits class, every Monday at 8pm. By purchasing a monthly pass you do not need to book each class individually. \nIn the event that WLQP cancel a class, then you will be credited an additional session to book the following month. \nThis covers 7, 14, 21 & 28 July",
+        website_link: "https://www.wlqp.org/",
+        image: "images/wlqp3.png",
+        ticket_link: "https://www.wlqp.org/event-details/west-london-workouts-circuits-monthly-pass-july",
+        coordinates: null,
+        sellingFast: false
+    },
+
+    {
+        id: 45,
+        name: "LGBTQ+ Professionals Networking",
+        venue: "The Pontoon",
+        address: "566 Chiswick High Rd., Chiswick, London W4 5AN, UK",
+        time: "18:00-22:00",
+        date: "Jul 10",
+        price: "£10",
+        type: "social",
+        tags: ["LGBTQ+", "Networking"],
+        description: "Unity Afloat: An LGBTQ+ Networking Event – Join us for a vibrant summer evening of connection and conversation on the scenic pontoon at Chiswick Business Park. \nTickets include a free glass of bubbles or a soft drink on arrival.",
+        website_link: "https://www.wlqp.org/",
+        image: "images/wlqp4.png",
+        ticket_link: "https://www.wlqp.org/event-details/lgbtq-professionals-networking-2",
+        coordinates: null,
+        sellingFast: false
+    },
+    {
+        id: 46,
+        name: "QUEER Bachata Drop-In Class",
+        venue: "SHE Bar",
+        address: "23a Old Compton Street,  London,  W1D 5JL",
+        time: "18:00-20:30",
+        date: "Jul 6",
+        price: "£11-30",
+        type: "social",
+        tags: ["FLINTA", "LGBTQ+", "Salsa", "Bachata"],
+        description: "Get ready to sizzle, Sanura dancers!\n\nWe're thrilled to announce our partnership with the iconic SHE Soho Bar for our new QUEER Bachata Sundays!\n\nEmbrace your inner rhythm and join us for an evening of EMPOWERMENT through dance in the heart of London. As always, we're proudly FLINTA-focused, FEMINIST, and LGBTQ+ space, creating a space where everyone can shine on the dance floor.\n\nHere's what's heating up your Sunday nights:\nBachata Bliss\n6-7PM: Open Level Bachata Class\nLearn to both LEAD & FOLLOW, because who says you can't do it all?\nLatin Fever\nFrom 7.30: Latin Party with DJ Daniella\nKeep the energy high and the moves flowing!\n📍 SHE Soho Bar - London's premier girls-only venue\n\nDon't miss out on this incredible night of dance, community, and joy. Grab your tickets now and bring your friends – the more, the merrier! Let's make these autumn Sundays unforgettable together.\n\nFollow us on Instagram @sanuradance for the latest updates and behind-the-scenes fun.\n\nRemember, at Sanura Dance, every step is a celebration of who you are. See you on the dance floor!",
+        website_link: "https://www.instagram.com/sanuradance/?hl=en",
+        image: "images/sanura.png",
+        ticket_link: "https://www.outsavvy.com/event/23411/queer-bachata-sundays-she-soho-bar-drop-ins",
+        coordinates: null,
+        sellingFast: false,
+        age: "18+",
+    },
+    {
+        id: 47,
+        name: "QUEER Salsa & Bachata Socials",
+        venue: "The Castle",
+        address: "44 Commercial Road,  London,  E1 1LN",
+        time: "18:00-20:30",
+        date: "Jul 2",
+        price: "£11-16",
+        type: "social",
+        tags: ["FLINTA", "LGBTQ+", "Salsa", "Bachata"],
+        description: "📅 First Thursday of EVERY Month\n6:30 PM: Doors Open\n6:45-7:45 PM: Salsa Beginner Class (25 spots)\n7:55-8:55 PM: Salsa Improver Class (25 spots)\n9-11 PM: Social Dancing\n\n🔥 Our Vibe:\nNot a dancer? No worries!\nCome hang out, meet new people\nEnjoy the atmosphere\nGrab a drink\nMake connections\n\n✨Who is this for?\nCurious first-timers\nSocial butterflies\nCommunity supporters\nDance enthusiasts\nThose wanting to explore a FLINTA, FEMINIST & LGBTQ+ space\n\n🏠 About The Castle\nA historic pub dating back to 1792, The Castle offers an intimate, welcoming environment perfect for connecting, socialising, and experiencing something new. Located at 44 Commercial Road, this venue has walls that have seen it all - from boxing training to incredible music nights.\n\n🤝 Help Us Keep This Space Alive\nChip in to keep the space open - every little helps! Your presence, support, and community spirit are what keep these vital spaces thriving.\n\nJoin us in keeping our queer spaces alive and thriving. Come for the dance, stay for the community!",
+        website_link: "https://www.instagram.com/sanuradance/?hl=en",
+        image: "images/sanura1.png",
+        ticket_link: "https://www.outsavvy.com/event/25082/queer-salsa-bachata-socials-first-thursday-of-every-month#anchor",
+        coordinates: null,
+        sellingFast: false,
+        age: "18+",
+    },
+
+    {
+        id: 48,
+        name: "AS ONE IN THE PARK",
+        venue: "Walpole Park",
+        address: "Walpole Park Mattock Lane London W5 5EQ in London",
+        time: "12:00-22:00",
+        date: "Jul 19",
+        price: "£22.50-67.50",
+        type: "party",
+        tags: ["LGBTQ+", "Festival"],
+        description: "London's LGBTQ+ Festival! 🏳️‍🌈\n\nFor one day only this Summer, we will be celebrating all things LGBTQ+ with 5 Stages of Music covering every genre under the Sun! With some of the HOTTEST DJs and performers around, we CAN'T WAIT to share with you the amazing line up!\n\nTaking over Ealing's beautiful Walpole Park, surrounded by ancient woodland and picturesque ponds,12 minutes from Central London, we couldn't be happier to be back in 2025.\n\nAs One has Something for Everyone! From DJs to Drag Shows, Dance Troupes to Live Acts, Cabaret, Street Food, Cocktail Bars, Comedy, Circus acts, and the list goes on!\n\nIn response to the AMAZING feedback from last year's event As One moves to a Saturday for the 2025 edition!\n\nUpdates on the festival can be found on our Instagram - https://www.instagram.com/asonefestival\n\nImportant Info:\n\nTimes - Saturday 19th July 2025 - 12pm to 10pm. (Last Entry 6pm)\n\nTickets - We have 3 Main Ticket tiers,\n\nEntry before 2pm - Your ticket must be scanned before 2pm. We recommend that you arrive early between 12pm - 1:30pm. If your ticket is scanned after 2pm there will be a surcharge on the door\n\nAnytime Entry - Valid all day between 12pm and 6pm.\n\nVIP - Our VIP ticket grants you access to our VIP Area which includes a Private Stage with performances from SPECIAL GUEST Performers, VIP only Bars & Toilets, Queue jump and Free Entry to Afterparty at Fire!\n\nTransport - As One is taking place at Walpole Park, Ealing. The full address is Walpole Park, Mattock Ln, London W5 5EQ.\nThere are 2 Tube Stations within an 8-minute walk of the Site Entrance - Ealing Broadway (Circle, Elizabeth & District Lines) and South Ealing (Picadilly Line) The site also has great bus connections. If arriving by car please note that the site does not offer parking and for Taxi pick up and Drop off please use the postcode W5 5EQ.\n\nFood & Drink - We will have over 20 Food Stalls providing tasty dishes catering to all cuisines and dietary needs! The site will also have numerous well located Fully Stocked Bars, to make sure you keep hydrated and we keep queuing to a minimum. Please note that due to licensing we cannot allow any food or drink to be brought into the festival.\n\nLocation - Ealing's Walpole Park is our Home! Surrounded by ancient woodland and picturesque ponds we strive to do our best to make sure that we look after it and the residents that live nearby. Please be mindful of noise when arriving and leaving the site and to not leave litter. Please do not bring any chairs or gazebos as we will have plenty of seating and cover. We will not have a coat check so please try to only bring the essentials!",
+        website_link: "https://www.instagram.com/asonefestival/?hl=en",
+        image: "images/asone.png",
+        ticket_link: "https://www.skiddle.com/festivals/as-one-in-the-park/?fbclid=PAZXh0bgNhZW0CMTEAAad8Uw9i3gkrM3L6NjA-oHPK4XpYpyEwvsFAbAxe2H_04RLoxjk6egOyGNHJJw_aem_wjEe_Awr9QSAI5TX8fExYg#tickets",
+        coordinates: null,
+        sellingFast: false,
+        generes: ["Pop", "House", "Raggaeton", ""],
+        age: "18+",
+    },
+    
+
+
+    //#40 next
     
     
 ];
@@ -795,6 +962,26 @@ async function init() {
     initializeMap();
     renderEvents(events);
     setupEventListeners();
+    
+    // Initialize mobile view properly
+    if (isMobile) {
+        setupMobileView();
+    }
+}
+
+// Setup mobile view functionality
+function setupMobileView() {
+    // Ensure map is hidden by default on mobile
+    const mapElement = document.getElementById('map');
+    if (mapElement) {
+        mapElement.style.display = 'none';
+    }
+    
+    // Set initial mobile view mode
+    mobileViewMode = 'list';
+    
+    // Setup scroll transition for mobile
+    setupScrollTransition();
 }
 
 // Setup smooth scroll transition for mobile
@@ -911,11 +1098,8 @@ function addMarkers(eventsToShow) {
         const el = document.createElement('div');
         
         if (group.events.length === 1) {
-            // Single event marker
+            // Single event marker - no direct click handler, only popup
             el.className = 'marker';
-            el.onclick = () => {
-                showEventDetail(group.events[0].id);
-            };
         } else {
             // Multiple events marker with count
             el.className = 'marker-cluster';
@@ -961,23 +1145,41 @@ function groupEventsByLocation(events) {
 function createClusterPopupHTML(group) {
     if (group.events.length === 1) {
         const event = group.events[0];
+        const viewDetailsFunction = isMobile ? `showEventDetailFromMap(${event.id})` : `showEventDetail(${event.id})`;
+        const imageHTML = isMobile && event.image ? `
+            <div style="margin-bottom: 12px;">
+                <img src="${event.image}" alt="${event.name}" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px;">
+            </div>
+        ` : '';
+        
         return `
             <div class="popup-single">
+                ${imageHTML}
                 <h3>${event.name}</h3>
                 <p><strong>${event.venue}</strong></p>
                 <p>${event.time} • ${event.date}</p>
                 <p>${event.price}</p>
-                <button onclick="showEventDetail(${event.id})" class="popup-btn">View Details</button>
+                <button onclick="${viewDetailsFunction}" class="popup-btn">View Details</button>
             </div>
         `;
     } else {
-        const eventsHTML = group.events.map(event => `
-            <div class="popup-event" onclick="showEventDetail(${event.id})">
-                <div class="popup-event-name">${event.name}</div>
-                <div class="popup-event-time">${event.date} • ${event.time}</div>
-                <div class="popup-event-price">${event.price}</div>
-            </div>
-        `).join('');
+        const eventsHTML = group.events.map(event => {
+            const viewDetailsFunction = isMobile ? `showEventDetailFromMap(${event.id})` : `showEventDetail(${event.id})`;
+            const imageHTML = isMobile && event.image ? `
+                <img src="${event.image}" alt="${event.name}" style="width: 40px; height: 40px; object-fit: cover; border-radius: 4px; margin-right: 8px; float: left;">
+            ` : '';
+            
+            return `
+                <div class="popup-event" onclick="${viewDetailsFunction}">
+                    ${imageHTML}
+                    <div style="margin-left: ${isMobile && event.image ? '48px' : '0'};">
+                        <div class="popup-event-name">${event.name}</div>
+                        <div class="popup-event-time">${event.date} • ${event.time}</div>
+                        <div class="popup-event-price">${event.price}</div>
+                    </div>
+                </div>
+            `;
+        }).join('');
         
         return `
             <div class="popup-cluster">
@@ -1131,6 +1333,12 @@ function showEventDetail(eventId) {
         window.scrollTo(0, 0);
         document.body.scrollTop = 0; // For Safari
         document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        
+        // If we're in map view, switch back to list view to show event detail
+        if (mobileViewMode === 'map') {
+            mobileViewMode = 'list';
+            showMobileListView();
+        }
     }
 }
 
@@ -1222,6 +1430,14 @@ function showEventsList() {
                 <button class="filter-btn ${currentFilter === 'social' ? 'active' : ''}" data-filter="social">Social</button>
                 <button class="filter-btn ${currentFilter === 'workshop' ? 'active' : ''}" data-filter="workshop">Workshop</button>
             </div>
+            ${isMobile ? `
+                <div class="mobile-view-toggle">
+                    <button class="view-toggle-btn" data-view="map">
+                        <span class="toggle-icon">🗺️</span>
+                        <span class="toggle-text">Map View</span>
+                    </button>
+                </div>
+            ` : ''}
         </div>
         <div class="events-list" id="events-list">
             <!-- Events will be populated here -->
@@ -1257,10 +1473,24 @@ function setupEventListeners() {
         btn.addEventListener('click', handleFilterClick);
     });
     
+    // Mobile view toggle event listeners
+    document.querySelectorAll('.view-toggle-btn').forEach(btn => {
+        btn.addEventListener('click', handleViewToggle);
+    });
+    
     // Handle window resize
     window.addEventListener('resize', () => {
         isMobile = window.innerWidth <= 768;
     });
+    
+    // Ensure mobile view is properly set up if we're on mobile
+    if (isMobile && !document.querySelector('.mobile-view-toggle')) {
+        // If mobile toggle is missing, re-render the header
+        const header = document.querySelector('.header');
+        if (header && currentView === 'list') {
+            showEventsList();
+        }
+    }
 }
 
 // Handle filter button clicks
@@ -1274,6 +1504,95 @@ function handleFilterClick(event) {
     // Update current filter and apply it
     currentFilter = btn.dataset.filter;
     filterEvents(currentFilter);
+}
+
+// Handle mobile view toggle
+function handleViewToggle(event) {
+    const btn = event.target.closest('.view-toggle-btn');
+    if (!btn) return;
+    
+    // Only handle map view since we only have one button now
+    showMobileMapView();
+}
+
+// Show mobile map view
+function showMobileMapView() {
+    const container = document.querySelector('.container');
+    const mapElement = document.getElementById('map');
+    const sidebar = document.querySelector('.sidebar');
+    
+    if (!mapElement || !sidebar) {
+        console.error('Map or sidebar element not found');
+        return;
+    }
+    
+  
+    
+    // Show map, hide sidebar
+    mapElement.style.display = 'block';
+    sidebar.style.display = 'none';
+    
+    // Ensure map takes full screen
+    mapElement.style.height = '100vh';
+    mapElement.style.width = '100vw';
+    mapElement.style.position = 'fixed';
+    mapElement.style.top = '0';
+    mapElement.style.left = '0';
+    mapElement.style.zIndex = '1000';
+    
+    // Add back button to map view
+    if (!document.querySelector('.mobile-map-back-btn')) {
+        const backBtn = document.createElement('button');
+        backBtn.className = 'mobile-map-back-btn';
+        backBtn.innerHTML = '← Back to List';
+        backBtn.onclick = () => {
+            mobileViewMode = 'list';
+            showMobileListView();
+        };
+        document.body.appendChild(backBtn);
+    }
+    
+    // Resize map to fit new container
+    if (map) {
+        setTimeout(() => {
+            map.resize();
+        }, 100);
+    }
+}
+
+// Show mobile list view
+function showMobileListView() {
+    const container = document.querySelector('.container');
+    const mapElement = document.getElementById('map');
+    const sidebar = document.querySelector('.sidebar');
+    
+    if (!mapElement || !sidebar) {
+        console.error('Map or sidebar element not found');
+        return;
+    }
+    
+    // Hide map, show sidebar
+    mapElement.style.display = 'none';
+    mapElement.style.position = 'static';
+    mapElement.style.top = 'auto';
+    mapElement.style.left = 'auto';
+    mapElement.style.zIndex = 'auto';
+    sidebar.style.display = 'block';
+    
+    // Restore sidebar to full height
+    sidebar.style.height = '100vh';
+    sidebar.style.width = '100%';
+    
+    // Remove back button from map view
+    const backBtn = document.querySelector('.mobile-map-back-btn');
+    if (backBtn) {
+        backBtn.remove();
+    }
+    
+    // Ensure events are displayed
+    if (currentView === 'list') {
+        filterEvents(currentFilter);
+    }
 }
 
 // Fly to event location on map
@@ -1301,13 +1620,60 @@ window.addEventListener('resize', () => {
     
     if (wasMobile !== isMobile) {
         if (isMobile) {
-            // Initialize mobile bottom sheet if switching to mobile
-            initializeMobileBottomSheet();
+            // Initialize mobile view when switching to mobile
+            setupMobileView();
+            // Reset to list view when switching to mobile
+            mobileViewMode = 'list';
+            showMobileListView();
         } else {
-            // Clean up mobile event listeners if switching to desktop
+            // Clean up mobile view when switching to desktop
+            const backBtn = document.querySelector('.mobile-map-back-btn');
+            if (backBtn) {
+                backBtn.remove();
+            }
+            
+            // Reset map display for desktop
+            const mapElement = document.getElementById('map');
+            if (mapElement) {
+                mapElement.style.display = 'block';
+                mapElement.style.position = 'static';
+                mapElement.style.top = 'auto';
+                mapElement.style.left = 'auto';
+                mapElement.style.zIndex = 'auto';
+                mapElement.style.height = '100vh';
+                mapElement.style.width = 'auto';
+            }
+            
+            // Reset sidebar for desktop
+            const sidebar = document.querySelector('.sidebar');
+            if (sidebar) {
+                sidebar.style.display = 'block';
+                sidebar.style.width = '600px';
+                sidebar.style.height = '100vh';
+            }
+            
+            // Reset mobile view mode
+            mobileViewMode = 'list';
+            
+            // Resize map for desktop
             if (map) {
-                map.remove();
+                setTimeout(() => {
+                    map.resize();
+                }, 100);
             }
         }
     }
 });
+
+// Show event detail from map view (mobile)
+function showEventDetailFromMap(eventId) {
+    const event = events.find(e => e.id === eventId);
+    if (!event) return;
+    
+    // Switch to list view first
+    mobileViewMode = 'list';
+    showMobileListView();
+    
+    // Show event detail immediately
+    showEventDetail(eventId);
+}

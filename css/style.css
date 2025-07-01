@@ -46,7 +46,7 @@ html, body {
 /* Filters */
 .filters {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 8px;
     margin-top: 15px;
     position: sticky;
@@ -55,6 +55,7 @@ html, body {
     background: white;
     padding-bottom: 10px;
     margin-bottom: 0;
+    overflow-x: auto;
 }
 
 .filter-btn {
@@ -132,6 +133,7 @@ html, body {
 /* Events list */
 .events-list {
     padding: 20px;
+    padding-top: 0px; /* Reduced top padding to bring events closer to Map View button */
 }
 
 /* Event card layout */
@@ -618,6 +620,82 @@ html, body {
     margin-bottom: 0;
 }
 
+/* Mobile view toggle */
+.mobile-view-toggle {
+    margin: 12px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.view-toggle-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 8px 40px;
+    border: none;
+    border-radius: 20px;
+    background: #f0f0f0;
+    color: #333;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    min-height: 36px;
+}
+
+.view-toggle-btn:hover {
+    background: #e0e0e0;
+}
+
+.view-toggle-btn:active {
+    background: #d0d0d0;
+}
+
+.toggle-icon {
+    font-size: 14px;
+}
+
+.toggle-text {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+/* Mobile map back button */
+.mobile-map-back-btn {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.95);
+    border: none;
+    border-radius: 12px;
+    padding: 14px 18px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(10px);
+    transition: all 0.2s ease;
+    min-height: 44px; /* Better touch target */
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.mobile-map-back-btn:hover {
+    background: rgba(255, 255, 255, 1);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.mobile-map-back-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .container {
@@ -625,7 +703,7 @@ html, body {
     }
     
     #map {
-        display: none; /* Hide map on mobile */
+        display: none; /* Hide map on mobile by default */
     }
     
     .sidebar {
@@ -647,6 +725,18 @@ html, body {
     .events-list {
         overflow-y: auto;
         scroll-behavior: smooth;
+    }
+    
+    /* Mobile-specific filter adjustments */
+    .filters {
+        gap: 4px;
+        padding-bottom: 8px;
+    }
+    
+    .filter-btn {
+        padding: 6px 10px;
+        font-size: 12px;
+        border-radius: 16px;
     }
     
     /* Mobile-specific event card adjustments */
