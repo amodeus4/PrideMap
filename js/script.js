@@ -1422,20 +1422,8 @@ function showEventsList() {
         <div class="header">
             <h1>On My Gaydar</h1>
             <div class="header-subtitle-section">
-                <h5>The best local queer events, updated daily</h5>
-                ${isMobile ? `
-                    <a href="https://mailchi.mp/54e006ea8469/gaydar-newsletter-sign-up" target="_blank" class="mobile-newsletter-link">
-                        📧 Get Weekly Round-ups
-                    </a>
-                ` : ''}
+                <h5>The best local queer events, updated daily. <a href="https://mailchi.mp/54e006ea8469/gaydar-newsletter-sign-up" target="_blank" class="newsletter-link">Sign up for weekly roundups</a></h5>
             </div>
-            ${!isMobile ? `
-                <div class="newsletter-signup">
-                    <a href="https://mailchi.mp/54e006ea8469/gaydar-newsletter-sign-up" target="_blank" class="newsletter-btn">
-                        📧 Get Weekly Round-ups
-                    </a>
-                </div>
-            ` : ''}
             <div class="filters">
                 <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>
                 <button class="filter-btn ${currentFilter === 'this-week' ? 'active' : ''}" data-filter="this-week">This Week</button>
