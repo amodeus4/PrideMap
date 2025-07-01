@@ -43,6 +43,48 @@ html, body {
     margin-bottom: 10px;
 }
 
+.header-subtitle-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.header-subtitle-section h5 {
+    margin: 0;
+    flex: 1;
+}
+
+/* Newsletter signup */
+.newsletter-signup {
+    margin: 15px 0;
+    text-align: center;
+}
+
+.newsletter-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 500;
+    font-size: 14px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+}
+
+.newsletter-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+    background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+}
+
+.newsletter-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(102, 126, 234, 0.3);
+}
+
 /* Filters */
 .filters {
     display: flex;
@@ -759,6 +801,47 @@ html, body {
     
     .header h1 {
         display: none;
+    }
+    
+    .header-subtitle-section {
+        flex-direction: row;
+        align-items: center;
+        gap: 8px;
+    }
+    
+    .mobile-newsletter-link {
+        display: inline-block;
+        padding: 4px 8px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        text-decoration: none;
+        border-radius: 12px;
+        font-weight: 500;
+        font-size: 11px;
+        transition: all 0.3s ease;
+        box-shadow: 0 1px 3px rgba(102, 126, 234, 0.3);
+    }
+    
+    .mobile-newsletter-link:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+        background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+    }
+    
+    .mobile-newsletter-link:active {
+        transform: translateY(0);
+        box-shadow: 0 1px 2px rgba(102, 126, 234, 0.3);
+    }
+    
+    .newsletter-signup {
+        margin: 10px 0;
+    }
+    
+    .newsletter-btn {
+        padding: 8px 16px;
+        font-size: 13px;
+        width: 100%;
+        max-width: 200px;
     }
     
     .card-media-body-supporting-bottom-reveal {
