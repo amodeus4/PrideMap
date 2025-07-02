@@ -970,7 +970,25 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         generes: ["Latin Core", "UK Bass", "Techno", "Cunty"],
         age: "18+",
     },
-  
+    {
+        id: 50,
+        name: "Seasoned: Double Denim Day party",
+        venue: "Pergola Brixton",
+        address: "Coldharbour Lane, Lambeth, London, SW9 8PR, United Kingdom",
+        time: "17:30-22:30",
+        date: "Jul 20",
+        price: "£16",
+        type: "party",
+        tags: ["LGBTQ+"],
+        description: "After 2 sold out events we are back for episode 3 and we are running back the Pergola day party, this time in double denim 🙂‍↕️ \nOn July 20th we will be taking over the stunning rooftop of Pergola Brixton where 600 of us will vibe into the sunset 😍 \nDJ’s Donnie Sunshine, Glade Marie, Ken Styles, Arliiiyah and Harvz\nDATE: July 20th \nTIME: 5.30pm- 10.30pm \nLast entry: 7pm \nVenue: Pergola Brixton \nThe venue is wheelchair accessible and has disabled toilets. \nSTRICTLY 25+ for the Girls, Gays and Theys.",
+        image: "images/seasoned.png",
+        website_link: "https://www.instagram.com/asonefestival/?hl=en",
+        ticket_link: "https://dice.fm/partner/seasoned/event/eoeav6-seasoned-double-denim-day-party-20th-jul-pergola-brixton-london-tickets?dice_id=6478472&dice_channel=web&dice_tags=organic&dice_campaign=SEASONED&dice_feature=mio_marketing&utm_source=web&utm_campaign=SEASONED&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdLMTUwTTRJSTayMLavK0pNSy0qysxLj08qyi8vTi2y9cwrLklML0rMBQD%2B5NKiPgAAAA%3D%3D&_branch_match_id=1469019422367661175",
+        coordinates: null,
+        sellingFast: true,
+        generes: ["Afrobeats", "Raggaeton", "Soca", "Carribean"],
+        age: "25+",
+    },
     
 
 
