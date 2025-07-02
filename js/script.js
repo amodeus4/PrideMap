@@ -449,24 +449,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: true
     },
-    {
-        id: 22,
-        name: "POC Single's Night",
-        venue: "La Camionera",
-        address: "243 Well Street,  London,  E9 6RG",
-        time: "18:00-21:00",
-        date: "Jul 1",
-        price: "Free",
-        type: "social",
-        tags: ["Lesbian", "Trans", "Non-Binary", "POC"],
-        description: "Low pressure speed dating, matchmaking, and games.",
-        image: "images/camionera.png",
-        website_link: "https://www.lacamionera.com/",
-        ticket_link: "",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
+   
     {
         id: 23,
         name: "Second Tuesday Monologues - HEAT",
