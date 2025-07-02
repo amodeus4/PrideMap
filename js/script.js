@@ -449,7 +449,25 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: true
     },
+    {
+        id: 22,
+        name: "Nightlife Organising For Palestine",
+        venue: "Ormside Projects",
+        address: "32 Ormside Street London SE15 1TR",
+        time: "15:00-19:00",
+        date: "Jul 6",
+        price: "Free",
+        type: "workshop",
+        tags: ["Conversation", "Palestine", "Allies", "Panel Talk"],
+        description: "An afternoon of conversation, strategy and tools for Palestine Solidarity\n\nOrganised by and for nightlife workers\n\nRoundtable Discussion + Workshop\n\n________\n\nRoundtable:\n\nSpeakers tba\n\n________\n\nWorkshop With Tipping Point UK:\n\nThe banking and insurance industries in the UK are fueling the global climate crisis, enabling the arms industry, supporting the genocide in Palestine and funding the border & detention industries. We will learn more about organisational boycotts, our theory of change, and how to organise so that your local institutions, workplaces and organisations boycott bloody banks and insurers.\n\n________\n\nVenue Accessibility:\n\nUnfortunately the venue is located on the first floor via 18 steps over two flights of stairs.\n\nThere is currently no lift access to the venue.\n\nPlease get in touch with anji.jelly@hotmail.com if you have any access requirements that would help you take part and we will do our best to meet them.",
+        image: "images/palestine.png",
+        website_link: "",
+        ticket_link: "https://www.eventbrite.com/e/palestine-solidarity-for-nightlife-workers-tickets-1405517824649?aff=ebdsoporgprofile&_gl=1*pnr2w8*_up*MQ..*_ga*OTEzODE2NjYxLjE3NTEyODU1NjE.*_ga_TQVES5V6SH*czE3NTEyODU1NjAkbzEkZzAkdDE3NTEyODU1NjAkajYwJGwwJGgw",
+        coordinates: null,
+        sellingFast: false
+    },
    
+
     {
         id: 23,
         name: "Second Tuesday Monologues - HEAT",
@@ -579,7 +597,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         id: 29,
         name: "club cetera: angel 777 launch",
         venue: "Ormside Projects",
-        address: "32 Ormside St, London SE15 1TR, UK",
+        address: "32 Ormside St, London SE15 1TR",
         time: "23:00-05:00",
         date: "Jul 12",
         price: "£10-15",
@@ -932,6 +950,27 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         generes: ["Pop", "House", "Raggaeton", ""],
         age: "18+",
     },
+
+    {
+        id: 49,
+        name: "PXSSY PALACE x SUZIO x SUBSKATE PARTY",
+        venue: "Jumbi",
+        address: "Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN",
+        time: "18:00-02:00",
+        date: "Jul 19",
+        price: "RSVP",
+        type: "party",
+        tags: ["LGBTQ+", "Skating", "Arcade", "High Energy", "Party"],
+        description: "PXSSY PALACE x SUZIO\nOne unmissable night. One continuous, high-energy party. 24hrs to sign up and secure your early bird tickets. \n\nFrom 6PM right through 'til 2AM, two of the best parties and Queer institutions are taking over the warehouse for a full-throttle baddie experience. \n\nSkate early, dance late: the skating track's open 'til 10PM (£5 optional add-on) if you want to glide before you go all in.\n\n🕺 700+ capacity dancefloor\n🎶 DJs all night long\n🛍️ Traders handpicked by PXSSY PALACE\n🌇 Rooftop terrace open 'til 10PM\n🕹️ Arcade machines, pool tables & chill-out zones\n\nDon't miss this. Sign up to lock in your place.\n\nOne night only. Come roll with us.",
+        image: "images/pxxy.png",
+        website_link: "https://www.instagram.com/asonefestival/?hl=en",
+        ticket_link: "https://laylo.com/jumbi/aSkOhg0x?utm_campaign=feed&utm_medium=referral&utm_source=later-linkinbio&fbclid=PAZXh0bgNhZW0CMTEAAacnd24VYF7H5TDVyVV0RdCaGhwu53XQhWSYDlzSPMVYUChiTpTTWvSmndd-0w_aem_JAZUUULzK_q1suG9WmxgHQ",
+        coordinates: null,
+        sellingFast: false,
+        generes: ["Latin Core", "UK Bass", "Techno", "Cunty"],
+        age: "18+",
+    },
+  
     
 
 
