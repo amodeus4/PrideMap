@@ -5,6 +5,7 @@ let currentView = 'list'; // 'list' or 'detail'
 let currentEvent = null;
 let isMobile = window.innerWidth <= 768;
 let mobileViewMode = 'list'; // 'list' or 'map' for mobile
+let selectedTags = []; // Track selected tags for filtering
 
 // Mobile view state
 let isDragging = false;
@@ -980,7 +981,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         price: "£16",
         type: "party",
         tags: ["LGBTQ+"],
-        description: "After 2 sold out events we are back for episode 3 and we are running back the Pergola day party, this time in double denim 🙂‍↕️ \nOn July 20th we will be taking over the stunning rooftop of Pergola Brixton where 600 of us will vibe into the sunset 😍 \nDJ’s Donnie Sunshine, Glade Marie, Ken Styles, Arliiiyah and Harvz\nDATE: July 20th \nTIME: 5.30pm- 10.30pm \nLast entry: 7pm \nVenue: Pergola Brixton \nThe venue is wheelchair accessible and has disabled toilets. \nSTRICTLY 25+ for the Girls, Gays and Theys.",
+        description: "After 2 sold out events we are back for episode 3 and we are running back the Pergola day party, this time in double denim 🙂‍↕️ \nOn July 20th we will be taking over the stunning rooftop of Pergola Brixton where 600 of us will vibe into the sunset 😍 \nDJ's Donnie Sunshine, Glade Marie, Ken Styles, Arliiiyah and Harvz\nDATE: July 20th \nTIME: 5.30pm- 10.30pm \nLast entry: 7pm \nVenue: Pergola Brixton \nThe venue is wheelchair accessible and has disabled toilets. \nSTRICTLY 25+ for the Girls, Gays and Theys.",
         image: "images/seasoned.png",
         website_link: "",
         ticket_link: "https://dice.fm/partner/seasoned/event/eoeav6-seasoned-double-denim-day-party-20th-jul-pergola-brixton-london-tickets?dice_id=6478472&dice_channel=web&dice_tags=organic&dice_campaign=SEASONED&dice_feature=mio_marketing&utm_source=web&utm_campaign=SEASONED&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdLMTUwTTRJSTayMLavK0pNSy0qysxLj08qyi8vTi2y9cwrLklML0rMBQD%2B5NKiPgAAAA%3D%3D&_branch_match_id=1469019422367661175",
@@ -1025,6 +1026,9 @@ async function init() {
     if (isMobile) {
         setupMobileView();
     }
+    
+    // Initialize tag filter
+    setupTagFilterDropdown();
 }
 
 // Setup mobile view functionality
@@ -1329,7 +1333,7 @@ function isDateInCurrentWeek(dateString) {
     return eventDate >= weekStart && eventDate <= weekEnd;
 }
 
-// Update the filterEvents function to handle 'this-week'
+// Update the filterEvents function to handle 'this-week' and tag filtering
 function filterEvents(filter) {
     let filteredEvents = events;
     
@@ -1342,6 +1346,15 @@ function filterEvents(filter) {
             // Filter by type (party, social, workshop)
             filteredEvents = events.filter(event => event.type === filter);
         }
+    }
+    
+    // Apply tag filtering if tags are selected
+    if (selectedTags.length > 0) {
+        filteredEvents = filteredEvents.filter(event => {
+            if (!event.tags) return false;
+            // Event must have at least one of the selected tags
+            return selectedTags.some(tag => event.tags.includes(tag));
+        });
     }
     
     // Sort events chronologically (Today first, then Jun 4, Jul 5, etc.)
@@ -1489,7 +1502,11 @@ function showEventsList() {
                 <button class="filter-btn ${currentFilter === 'party' ? 'active' : ''}" data-filter="party">Party</button>
                 <button class="filter-btn ${currentFilter === 'social' ? 'active' : ''}" data-filter="social">Social</button>
                 <button class="filter-btn ${currentFilter === 'workshop' ? 'active' : ''}" data-filter="workshop">Workshop</button>
+                <button class="filter-btn tags-filter-btn ${selectedTags.length > 0 ? 'active' : ''}" onclick="toggleTagFilter()">
+                    🔍 Tags ${selectedTags.length > 0 ? `(${selectedTags.length})` : ''}
+                </button>
             </div>
+            <div class="tag-filter-dropdown-container"></div>
             ${isMobile ? `
                 <div class="mobile-view-toggle">
                     <button class="view-toggle-btn" data-view="map">
@@ -1530,13 +1547,18 @@ function getDirections(address) {
 function setupEventListeners() {
     // Filter button event listeners
     document.querySelectorAll('.filter-btn').forEach(btn => {
-        btn.addEventListener('click', handleFilterClick);
+        if (!btn.classList.contains('tags-filter-btn')) {
+            btn.addEventListener('click', handleFilterClick);
+        }
     });
     
     // Mobile view toggle event listeners
     document.querySelectorAll('.view-toggle-btn').forEach(btn => {
         btn.addEventListener('click', handleViewToggle);
     });
+    
+    // Setup tag filter dropdown
+    setupTagFilterDropdown();
     
     // Handle window resize
     window.addEventListener('resize', () => {
@@ -1550,6 +1572,52 @@ function setupEventListeners() {
         if (header && currentView === 'list') {
             showEventsList();
         }
+    }
+}
+
+// Setup tag filter dropdown functionality
+function setupTagFilterDropdown() {
+    const container = document.querySelector('.tag-filter-dropdown-container');
+    if (!container) return;
+    
+    // Create and append dropdown
+    const dropdown = createTagFilterDropdown();
+    container.appendChild(dropdown);
+    
+    // Add event listeners
+    dropdown.addEventListener('click', (e) => {
+        if (e.target.classList.contains('close-tag-filter')) {
+            toggleTagFilter();
+        } else if (e.target.classList.contains('clear-tags-btn')) {
+            clearTagSelections();
+        } else if (e.target.classList.contains('apply-tags-btn')) {
+            handleTagSelection();
+            toggleTagFilter();
+            filterEvents(currentFilter);
+            updateTagsFilterButton();
+        } else if (e.target.type === 'checkbox') {
+            // Handle individual checkbox changes
+            setTimeout(() => {
+                handleTagSelection();
+                updateTagsFilterButton();
+            }, 0);
+        }
+    });
+    
+    // Close dropdown when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!dropdown.contains(e.target) && !e.target.classList.contains('tags-filter-btn')) {
+            dropdown.style.display = 'none';
+        }
+    });
+}
+
+// Update the tags filter button text
+function updateTagsFilterButton() {
+    const tagsBtn = document.querySelector('.tags-filter-btn');
+    if (tagsBtn) {
+        tagsBtn.textContent = `🔍 Tags ${selectedTags.length > 0 ? `(${selectedTags.length})` : ''}`;
+        tagsBtn.classList.toggle('active', selectedTags.length > 0);
     }
 }
 
@@ -1736,4 +1804,78 @@ function showEventDetailFromMap(eventId) {
     
     // Show event detail immediately
     showEventDetail(eventId);
+}
+
+// Function to extract all unique tags from events
+function getAllUniqueTags() {
+    const allTags = [];
+    events.forEach(event => {
+        if (event.tags) {
+            event.tags.forEach(tag => {
+                if (!allTags.includes(tag)) {
+                    allTags.push(tag);
+                }
+            });
+        }
+    });
+    return allTags.sort(); // Sort alphabetically
+}
+
+// Function to create tag filter dropdown
+function createTagFilterDropdown() {
+    const uniqueTags = getAllUniqueTags();
+    const dropdown = document.createElement('div');
+    dropdown.className = 'tag-filter-dropdown';
+    dropdown.style.display = 'none';
+    
+    const tagList = uniqueTags.map(tag => `
+        <div class="tag-filter-option" data-tag="${tag}">
+            <input type="checkbox" id="tag-${tag}" ${selectedTags.includes(tag) ? 'checked' : ''}>
+            <label for="tag-${tag}">${tag}</label>
+        </div>
+    `).join('');
+    
+    dropdown.innerHTML = `
+        <div class="tag-filter-header">
+            <h4>Filter by Tags</h4>
+            <button class="close-tag-filter">×</button>
+        </div>
+        <div class="tag-filter-content">
+            ${tagList}
+        </div>
+        <div class="tag-filter-actions">
+            <button class="clear-tags-btn">Clear All</button>
+            <button class="apply-tags-btn">Apply Filters</button>
+        </div>
+    `;
+    
+    return dropdown;
+}
+
+// Function to show/hide tag filter dropdown
+function toggleTagFilter() {
+    const dropdown = document.querySelector('.tag-filter-dropdown');
+    if (dropdown) {
+        dropdown.style.display = dropdown.style.display === 'none' ? 'block' : 'none';
+    }
+}
+
+// Function to handle tag selection
+function handleTagSelection() {
+    const checkboxes = document.querySelectorAll('.tag-filter-option input[type="checkbox"]');
+    selectedTags = [];
+    checkboxes.forEach(checkbox => {
+        if (checkbox.checked) {
+            selectedTags.push(checkbox.id.replace('tag-', ''));
+        }
+    });
+}
+
+// Function to clear all tag selections
+function clearTagSelections() {
+    selectedTags = [];
+    const checkboxes = document.querySelectorAll('.tag-filter-option input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = false;
+    });
 }
