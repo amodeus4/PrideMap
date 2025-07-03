@@ -1497,14 +1497,14 @@ function showEventsList() {
             </div>
             <div class="filters">
                 <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>
+                <button class="filter-btn tags-filter-btn ${selectedTags.length > 0 ? 'active' : ''}" onclick="toggleTagFilter()">
+                    🔍 Tags ${selectedTags.length > 0 ? `(${selectedTags.length})` : ''}
+                </button>
                 <button class="filter-btn ${currentFilter === 'this-week' ? 'active' : ''}" data-filter="this-week">This Week</button>
                 <button class="filter-btn ${currentFilter === 'today' ? 'active' : ''}" data-filter="today">Today</button>
                 <button class="filter-btn ${currentFilter === 'party' ? 'active' : ''}" data-filter="party">Party</button>
                 <button class="filter-btn ${currentFilter === 'social' ? 'active' : ''}" data-filter="social">Social</button>
                 <button class="filter-btn ${currentFilter === 'workshop' ? 'active' : ''}" data-filter="workshop">Workshop</button>
-                <button class="filter-btn tags-filter-btn ${selectedTags.length > 0 ? 'active' : ''}" onclick="toggleTagFilter()">
-                    🔍 Tags ${selectedTags.length > 0 ? `(${selectedTags.length})` : ''}
-                </button>
             </div>
             <div class="tag-filter-dropdown-container"></div>
             ${isMobile ? `
