@@ -824,23 +824,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         sellingFast: false
     },
 
-    {
-        id: 42,
-        name: "Lesbian+ Social",
-        venue: "The Albany Pub",
-        address: "1 Queen's Rd, Twickenham TW1 4EZ, UK",
-        time: "19:00-22:00",
-        date: "Jul 3",
-        price: "Free",
-        type: "social",
-        tags: ["LGBTQ+"],
-        description: "Join us on the first Thursday of every month from 19:00 for an informal meet-up and an opportunity to meet new friends. Open to LGBTQ+ Women and those who are non-binary.",
-        website_link: "https://www.wlqp.org/",
-        image: "images/wlqp.png",
-        ticket_link: "https://www.wlqp.org/event-details/lesbian-social-23",
-        coordinates: null,
-        sellingFast: false
-    },
+    
 
     {
         id: 43,
@@ -990,24 +974,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         generes: ["Afrobeats", "Raggaeton", "Soca", "Carribean"],
         age: "25+",
     },
-    {
-        id: 51,
-        name: " audioimmersive // fetish // life drawing",
-        venue: "Sui Generis",
-        address: "588 kingsland road E84AH",
-        time: "19:00-22:00",
-        date: "Jul 3",
-        price: "£10-15",
-        type: "workshop",
-        tags: ["LGBTQ+", "Life Drawing"],
-        description: "Art Club is a monthly fetish life drawing session featuring a live electronic soundscape, held in the iconic Dalston basement bar Sui Generis. \nDoors open at 7pm and poses begin at 7.30pm. There will be a mixture of long and short poses. Guests are encouraged to bring their own materials, however some drawing materials including paper, drawing boards, charcoal and pencils will be provided. \nArt Club is a queer, SWer led event. We do not tolerate homophobia, transphobia, racism, body-shaming, whorephobia, etc etc. Any disrespect towards the models/other guests will result in you being asked to leave immediately. \nLow income tickets available on request x \nFind us on Instagram @___art___club___",
-        image: "images/artclub.png",
-        website_link: "",
-        ticket_link: "https://ra.co/events/2188711",
-        coordinates: null,
-        generes: ["Ambient", "Techno"],
-        age: "18+",
-    },
+    
     {
         id: 52,
         name: "The QA Pride",
