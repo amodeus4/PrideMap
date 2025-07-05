@@ -12,44 +12,8 @@ let isDragging = false;
 let startY, startBottom;
 
 const events = [
-    {
-        id: 1,
-        name: "Strapped x Carabiner: Street Party",
-        venue: "Signature Brew",
-        address: "Railway Arch 340, Acton Mews, Haggerston, London, E8 4EA",
-        time: "18:00-21:00",
-        date: "Jul 4",
-        price: "Free",
-        type: "party",
-        tags: ["Lesbian", "Food", "Astrology", "Workshops"],
-        description: "DYKE PRIDE STREET PARTY\n4/7\n\nBefore we kick off your pride celebrations with the cxntiest collab club night the London dyke scene has ever had, get those wife pleasers on because we're throwing you a summer sun street party!\n\nSTRAPPED x CARABINER: Dyke Pride Street Party\nFriday 4 July\n6-9pm | @signaturebrewe8\nNo booking required - free entry\n\nFeaturing:\n❤️‍🔥 An all-dyke run makers market & food pop ups\n❤️‍🔥 Tarot, astrology and workshops from @slut.social @collectiveofpleasure @materialgrrrlz (details to be announced soon)\n❤️‍🔥 An advocacy corner to meet and chat with queer activists\n❤️‍🔥 Pints and music in the sun with your fellow dyk3s before the pure chaos of Pride weekend - with a solo goers meeting point\n\nTickets are still available (although over half the tix gone already !) for our Dyke Pride party starting at 9pm and featuring some of the best performers and DJs on the scene. Expect slaggy pop, R&B and cxnty dance.\n\nDyke Pride is a celebration of dyke culture, chaos and love. A pride party that centres trans+ people, POC and a dancefloor where you can feel empowered, free and sexy in a space that is made for us, by us.\n\nDyke Pride (both street party & after-party) is a space for queer women, trans and non-binary people.\n\nSignature Brew is wheelchair accessible throughout, with gender-neutral accessible toilets. There will be an access co-ordinator available throughout the evening.",
-        image: "images/strapped2.png",
-        ticket_link:"",
-        website_link: "https://www.instagram.com/strapped.events/?hl=en",
-        coordinates: null,
-        generes: [],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 2,
-        name: "Strapped x Carabiner: After Party",
-        venue: "Signature Brew",
-        address: "Railway Arch 340, Acton Mews, Haggerston, London, E8 4EA",
-        time: "21:00-2:00",
-        date: "Jul 4",
-        price: "Waitlist",
-        type: "party",
-        tags: ["Lesbian","Trans", "POC", "Non-Binary"],
-        description: "GET READY FOR THE DYK3 PRIDE PARTY OF YOUR DREAMS, HONEY!\n\nTwo of London's hottest parties are joining forces to bring you the ultimate lezzie collab 🫦\n\n❤️‍🔥 STRAPPED x CARABINER: Dyke Pride\n❤️‍🔥 Friday 4 July\n❤️‍🔥 9pm - 2am\n\nDyk3 Pride is a celebration of dyk3 culture, chaos and love. A pride party that centres a safer space for trans+ people, POC, and a dancefloor where you can feel empowered, free and sexy in a space that is made for us, by us.\n\nKick off your pride weekend with us at our fave East London venue @signaturebrewe8 in Haggerston, and BEST BELIEVE we'll be bringing you the most incredible performers and collectives on London's dyk3 scene\n\nMusic will be an absolute priority. We'll be showcasing 3 amazing DJ's - think slaggy pop, R&B and cxnty dance.\n\nKeep your eyes peeled for performers and DJ announcements over the next few days. And if you've ever been to a STRAPPED or CARABINER party before, you KNOW you're in for a night of dyke delights 🎆\n\nExpect lots more surprise announcements!\n\n****\n\nNow more than ever, community has got to be not just a cute buzzword but a way of life. There's no pride in gen0cide and f*ck pinkwashing corporations who slap a rainbow on their logo for a month and call it a day. Pride is an event that so often leaves the most marginalised members of the queer community on the sidelines - so at Dyk3 Pride we want to centre and showcase those queers with love and joy 💜\n\nDyke Pride is a party for queer women, trans and non-binary people.\n\nSignature Brew is wheelchair accessible throughout, with gender neutral accessible toilets. There will be an access coordinator available throughout the evening.\n\n💫💫💫",
-        image: "images/strapped.png",
-        website_link: "https://www.instagram.com/strapped.events/?hl=en",
-        ticket_link: "https://dice.fm/partner/537-media/event/g526aa-strapped-x-carabiner-dyke-pride-4th-jul-signature-brew-haggerston-london-tickets?dice_id=6172401&dice_channel=web&dice_tags=organic&dice_campaign=537+Media&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAaf4HCtfgUaAwUGnZ7nH0t0Ej5sAX_qtz-xBypSuttMNO0AdRqSWktIy_j84qA_aem_ng_qjAGmgsMlFwplmrdUzA&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=537+Media&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAw3JSQ6CMBQA0Nu4E5qAQ0yI%2BRIEF6ARCYRNQ2nLWIZSg7Dw7Pq2r1RqmE663lZdo9EqZxoXukMINYyM52xvnjnJ24paD0iTEpEiKNMY2f7LAci46dmKF1EGc%2BR26aHzkEJOvZsgwaNat5%2FLMoRvpfzgjoA%2BxzBu1G3B9dEcAWdM4K7AYw2uKCa%2Fvc5DKySNVth8JeNMyurfRPbzxKRll7IX7AcqM4EArgAAAA%3D%3D",
-        coordinates: null,
-        generes: [],
-        age: "18+",
-        sellingFast: false
-    },
+    
+    
     {
         id: 3,
         name: "Popola: Pride Edition",
@@ -267,24 +231,7 @@ Find us easily, stay in touch, and meet your new running friends!`,
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 13,
-        name: "Self-Tie workshop",
-        venue: "Signature Brew",
-        address: "Railway Arch 340, Acton Mews, Haggerston, London, E8 4EA",
-        time: "19:00-20:00",
-        date: "Jul 4",
-        price: "£11.22",
-        type: "workshop",
-        tags: ["Shibari", "Beginner-Friendly"],
-        description: "Rope Self-Tie Workshop with Slut Social & Skool 4 Sluts!\n\nIn this workshop you will learn the basics of how to start self tying and a simple chest harness that can be used in play or as a fashion accessory to an outfit.\n\nNo prior experience or knowledge of rope is required for this workshop.\n\nRope will be provided for the workshop. You are welcome to bring your own rope If you prefer or if you would like to wear your harness after the workshop.\n\nTaught by Lois, who has been practicing shibari for 5 years and specifically focuses on self tying and femme lesbian focused ties between people. Lois studied ballet, contortion and gymnastics for many years and brings her knowledge of anatomy to her style of tying.\n\n******\n\nThe workshop will take place as part of STRAPPED / CARABINER Dyke Pride Street Party on Friday 4th July.\n\nThe workshop will run from 7.30 - 8.30pm, inside the venue\n\nSignature Brew is fully wheelchair accessible throughout, with accessible gender neutral toilets",
-        image: "images/selftie.png",
-        website_link: "https://www.instagram.com/strapped.events/?hl=en",
-        ticket_link: "https://dice.fm/event/xepbxe-self-tie-workshop-with-slut-social-skool-4-sluts-4th-jul-signature-brew-haggerston-london-tickets",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
+    
 
     {
         id: 14,
@@ -826,23 +773,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
 
     
 
-    {
-        id: 43,
-        name: "West London Workouts - Spin",
-        venue: "Gunnersbury Park Sports Hub",
-        address: "Gunnersbury Park Sports Hub, Gunnersbury Park, Popes Ln, London W3 8LQ",
-        time: "18:30-19:30",
-        date: "Jul 4",
-        price: "£4",
-        type: "workshop",
-        tags: ["LGBTQ+", "Spin"],
-        description: "This is an all fitness levels class, open to beginners and seasoned gym goers.\n\nChanging rooms and lockers are available but please bring your own padlock if you wish to utilise the lockers. We also recommend that attendees bring their own towel and water bottle.\n\nPlease plan your arrival time to ensure you are ready to warm up on your bike by the class start time. Your instructor or a member of the WLQP team will be on hand from 10 minutes before the session to help you get set up on your bike, ready to work up a sweat and burn calories.\n\nStudio cycling is an exciting yet rigorous form of endurance training, ideal for improving lower body strength and kicking your cardiovascular fitness up a gear.",
-        website_link: "https://www.wlqp.org/",
-        image: "images/wlqp2.png",
-        ticket_link: "https://www.wlqp.org/event-details/west-london-workouts-spin-2025-07-04-18-30",
-        coordinates: null,
-        sellingFast: false
-    },
+    
 
     {
         id: 44,
@@ -975,24 +906,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         age: "25+",
     },
     
-    {
-        id: 52,
-        name: "The QA Pride",
-        venue: "The Queen Adelaide",
-        address: "483 Hackney Road, E2 9ED",
-        time: "19:00-03:00",
-        date: "Jul 4",
-        price: "Free",
-        type: "party",
-        tags: ["LGBTQ+", "Muic", "Performance"],
-        description: "🌈 It’s three FULL DAYS of queer joy & community magic and YES, it’s all FREE ENTRY‼️Curated alongside QA resident Djs KingPraun & Stav B 🏠🪩 \n\n🎧 FRIDAY kicks off at 7PM till 10PM DJs every hour — then we hand it over to the ICONIC @stavb to take you late into the night 🌒",
-        image: "images/qa.png",
-        website_link: "https://www.instagram.com/p/DKsMH2Ji6A3/?hl=en",
-        ticket_link: "",
-        coordinates: null,
-        generes: ["Electro", "House"],
-        age: "18+",
-    },
+    
 
     {
         id: 53,
