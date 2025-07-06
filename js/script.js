@@ -34,63 +34,9 @@ const events = [
         sellingFast: false
     },
 
-    {
-        id: 39,
-        name: "La camionera Pride After Party",
-        venue: "La Camionera",
-        address: "243 Well Street,  London,  E9 6RG",
-        time: "10:00-22:00",
-        date: "Jul 5",
-        price: "£10",
-        type: "social",
-        tags: ["Lesbian", "FLINTA", "Karaoke", "Music"],
-        description: "ADONIS PRIDE! \nSATURDAY 5TH OF JULY@ THE CAUSE \nTICKET DOESN'T GUARANTEE ENTRY, RIGHT OF ADMISSION RESERVED. \nDOORS OPEN 10AM - 17:30",
-        website_link: "https://www.lacamionera.com/?fbclid=PAZXh0bgNhZW0CMTEAAac1EPzQ0lCkVw6J1KVwB_DtF4FyQmcrWp7utxVE1o7gIh-lgBNwFqvgy080ig_aem_ZKmz-W_S2f3plzY8RLgDRg",
-        image: "images/lacami2.png",
-        ticket_link: "https://www.outsavvy.com/event/28500/party-after-pride-la-cam-3",
-        coordinates: null,
-        age: "18+",
-        sellingFast: true
-    },
 
-    {
-        id: 4,
-        name: "HOWL Pride",
-        venue: "Hackney Wick",
-        address: "Hackney Wick, London E9",
-        time: "14:00-18:00",
-        date: "Jul 5",
-        price: "£26-40",
-        type: "party",
-        tags: ["Queer", "Festival", "Workshops", "Stalls"],
-        description: "HOWL PRIDE is back BIGGER than ever!\n\nEscape corporate pride with your beloved babes in East London, no questionable bank sponsored floats in sight, we are going XXXL for a day to night multi-venue party.\n\nMore dance floors, more artists, more performances. As always our infamous darkroom for all genders and sexualities will be making it's return.\n\n-------------------------------------------------------------------------------------------\n\nCommunity Tickets / Unemployed/Low-waged tickets:\n\nOur community are suffering and experiencing hardships on many fronts - because of this we are committed to holding back tickets for those in need as everyone deserves to celebrate together.\n\nReach out to our social channels and join our Whatsapp community where we will will be offering resources and low cost tickets for all HOWL events.",
-        image: "images/howl.png",
-        website_link: "https://www.instagram.com/howlworldwide/?hl=en",
-        ticket_link: "https://ra.co/events/2156157",
-        coordinates: null,
-        generes: ["Techno", "Bass", "House"],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 5,
-        name: "JUNK: Pride",
-        venue: "Low Profile Studios",
-        address: "94 Vale Rd, Harringay Warehouse District, London N4 1PT",
-        time: "22:00-05:00",
-        date: "Jul 5",
-        price: "£12",
-        type: "party",
-        tags: ["Queer"],
-        description: "We are back this Pride! bringing you an immersive industrial experience of sweat, smoke, and sound.\n\nWhere the Power Tools meet the Power Bottoms. get ready to enter the JUNK FACTORY! queer nightlife is reengineered.\n\ncome sweat in the steelworks with a production line-up including Jeanie Crystal, Cassine, Fullenglish, Kurtis Lincoln (live), Goff and one very special ladeh we are keeping on the hush!\n\nCome join the night shift of your wet dreams.\n\nDress the part - you tradie tart: boiler suits, leather, mesh, metal, high-vis, harnesses — whatever your version of industrial looks like, bring your grease, gears and gag refelexes.\n\nclank – clack – cunt\n\nsee you there and don't be late x",
-        image: "images/junk.png",
-        website_link: "https://www.instagram.com/clubjunk/?hl=en",
-        ticket_link: "https://ra.co/events/2176933",
-        coordinates: null,
-        generes: ["Techno", "House"],
-        age: "18+",
-        sellingFast: false
-    },
+
+
 
     {
         id: 6,
@@ -112,88 +58,9 @@ const events = [
         sellingFast: false
     },
     
-
-    {
-        id: 7,
-        name: "Uhaul Dyke Rescue",
-        venue: "Signature brew",
-        address: "Signature Brew, Blackhorse Rd, E17 5QJ",
-        time: "13:00-01:00",
-        date: "Jul 5",
-        price: "£10",
-        type: "social",
-        tags: ["Football", "Lesbian", "Queer"],
-        description: "📣 PRIDE IS COMING HOME 📣\n\nSaturday 5th July sees our biggest party yet as we celebrate Pride in London - and England and Wales launching their tournament campaigns ⚽️🏟️🏆\n\nWe've got a 12 hour spectacular festival for y'all at Signature Brew Blackhorse Road with some of our favourite promoters and football collectives – Uhaul Dyke Rescue, Match of the Gay, Purple Pool as well as our indoor cinema where you can catch the incredible queer short footy films Solers United and We'll Go Down in History (Truk United FC) 🎞️⚽️\n\nYou'll be well fed by The Deaf Chefs + 7 Bone Burger food trucks 🍔 and well watered by all the Signature Brew bars plus Uhaul will be pulling up with their Mobile Dyke Bar 🚚 - they'll be knocking out frozen margaritas 🍹with a side serving of arm wrestling 💪\n\nAfter nightfall, they'll be hosting a DJ takeover in the Brewhall with Rescue icons Harietta and Daisy Gadd on the decks 🪩\n\nPlease DM us with any Qs and requirements - @signaturebrewbh Blackhorse Road is an accessible site with accessible toilets.",
-        image: "images/uhaul.png",
-        website_link: "https://www.instagram.com/uhaul.dyke.rescue/?hl=en",
-        ticket_link: "https://www.tickettailor.com/events/ballerfc/1690980?fbclid=PAZXh0bgNhZW0CMTEAAad0P2IkCyJovW4pWJdFrrb1ehCi5jezdR93xUc7CntUmgXX0H38zrloQDVWYw_aem_sULMts2WJOUvSl11swfOLA",
-        coordinates: null,
-        generes: [],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 8,
-        name: "GAYNS Presents: roadrunner",
-        venue: "Potters Fields Park",
-        address: "Tooley Street London SE1 2UD",
-        time: "10:00-12:30",
-        date: "Jul 5",
-        price: "Free",
-        type: "social",
-        tags: ["Running Club", "Queer"],
-        description: `Join our free Saturday queer run club – <strong>gayns roadrunner</strong>! Whether you're a seasoned runner or just starting out, we've got you, boo. Our run club is inclusive and open to all levels.<br><br>
-We meet every Saturday at More London Place (London Bridge Station overlooking Tower Bridge) from 9:30am. We kick off the run at 10am and arrive at The Ministry in Elephant & Castle around 45 minutes later for a social.<br><br>
-We meet on this patch of grass on the map <a href="https://www.google.com/maps/place/Potters+Fields+Park/@51.5043692,-0.0801188,17z/data=!4m6!3m5!1s0x487603458c0ed97d:0x5a5acabbe5506060!8m2!3d51.5041452!4d-0.0783269!16s%2Fm%2F012dsd54?entry=tts&g_ep=EgoyMDI0MDkxMS4wKgBIAVAD" target="_blank">HERE</a>.<br><br>
-<strong>The 7k route:</strong> We head across Tower Bridge to start, run along the Thames to Waterloo Bridge, cross the bridge, head toward Blackfriars Bridge, and then take a right towards E&C. You can find the route <a href="https://www.strava.com/routes/3257415780539092614?_branch_match_id=1315684561249060249&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1q9yyzcMyHHyrfBNAgBlgS7mIwAAAA%3D%3D" target="_blank">here on Strava</a>.<br><br>
-We have 3 pace groups: 4:30, 5:30 & 6:30 minutes per km, plus a back sweep who makes sure they are always the last person in the pack.<br><br>
-There is no bag drop, so please travel light.<br><br>
-You <strong>MUST</strong> purchase a roadrunner ticket to gain entry to the social at The Ministry, which is a private members club.<br><br>
-<a href="https://chat.whatsapp.com/KRPD6cqshnZEGqIK4ePEci" target="_blank">Click here to join our WhatsApp group</a>.<br>
-Find us easily, stay in touch, and meet your new running friends!`,
-        image: "images/gayns.png",
-        website_link: "https://www.instagram.com/getgayns/?hl=en",
-        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-roadrunner-tickets-1006397912247?aff=erelexpmlt&_gl=1*bedhrn*_up*MQ..*_ga*NTA1MjcwODkzLjE3NTA2MDM2OTU.*_ga_TQVES5V6SH*czE3NTA2MDM2OTUkajYwJGwwJGgw",
-        coordinates: null
-    },
-    {
-        id: 9,
-        name: "Homoelectric: Pride Party",
-        venue: "Metropolis",
-        address: "234 Cambridge Heath Road, Bethnal Green, London E2 9NN",
-        time: "22:00-4:00",
-        date: "Jul 5",
-        price: "£6-11.50",
-        type: "party",
-        tags: ["Gay", "Lesbian", "Queer", "Trans"],
-        description: "Homoelectric are delighted to announce the full line up for their July holiday in London. With Bestley, Harry Gay, Gina Breeze, Jamie Bull, Jonjo Jury, Kath McDermott, Laura Jackson and Seb Odyssey all stuffed into their suitcases for the month, we are in for some TREATS every Saturday this July \n\nIncoming London. Manchester's own Homoelectric are packing their suitcases and setting sail for the Big Smoke, as the fam move outta their Mancunian gutter and into Bethnal Green's Metropolis for a month-long summer holiday in July. \n\nThe Manchester underground queer collective will be hosting the first ever Metropolis month-long residency since the transformed East London str!p club's inception — and they will be raising hell across every Saturday in July. Alongside the flags and the dirty outfits, they have stuffed their suitcases with an extended Mancunian crew and will be bringing their dysfunctional disco on tour. \n\nThey will be bringing you four non-stop exotic discos for homos, lesbos, don't knows, kings, queens, trans, pans, queers and their straight peers. That's four raves for the late-night disenfranchised, the refuse-to-be-categorised, and for the dirty ba3tars3 who know that music is LIFE. So that's six hours of music, melodrama, and muck, every Saturday in July. + over 12 DJs including their Homoelectric residents and Homoelectric regulars to be revealed on the line-up as they go… \n\nInto the music melting pot each week, they will throw a hot sweaty homo-made mix of disco, house, techno, garage, sleaze and dirty basslines with no pomp, no snobbery and no pretension! Sexual orientation and music genres are irrelevant on the Homoelectric dancefloors. \n\nRemember the motto: love is the message, music is the life, Homoelectric is for the late night disenfranchised. A Queer party for all. \n\nThis is going to be a vacation to remember. See you at the Villa (aka Metropolis) this July!",
-        image: "images/homoelectric.png",
-        website_link: "https://www.instagram.com/homoelectric/?hl=en",
-        ticket_link: "https://ra.co/events/2140155",
-        coordinates: null,
-        generes: ["Disco", "House", "Techno", "Garage"],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 10,
-        name: "Daslton Superstore Pride 2025",
-        venue: "Dalston Superstore",
-        address: "117 Kingsland High Street, London, E8 2PB",
-        time: "22:00-4:00",
-        date: "Jul 5",
-        price: "£8-10",
-        type: "party",
-        tags: ["Queer"],
-        description: "Escape commercial chaos & get down to the underground… Your favourite superstar DJs pump the dancefloor all the way thru to 4am for SUPERSTORE PRIDE!!!! \n\nIn the lazerpit it's body heaters & floor fillers from 4 adored nightlife babes: \nASHTREY / PERRINHA / ROSS ANDERSON B2B RAUL BOTELLA Plus pure queer chaos on the top deck from RYAN LOVELL, RAKS & MIKE MENACE!! Lending their sensual dancefloor stylings are MARCELLO LUCIO & MISSAVERI!!!",
-        image: "images/dalston.png",
-        website_link: "https://www.instagram.com/dsuperstore/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/28257/pride-2025-at-dalston-superstore-",
-        coordinates: null,
-        generes: ["House", "Techno", "Pop"],
-        age: "18+",
-        sellingFast: false
-    },
+    
+    
+    
     {
         id: 11,
         name: "Trans Pride",
@@ -273,43 +140,8 @@ Find us easily, stay in touch, and meet your new running friends!`,
         age: "18+",
         sellingFast: true
     },
-    {
-        id: 16,
-        name: "SISU x FLAW: DJ Workshop",
-        venue: "Gut level",
-        address: "32-34 Chapel Walk, Sheffield, S1 2PD",
-        time: "15:00-18:00",
-        date: "Jul 5",
-        price: "Free",
-        type: "workshop",
-        tags: ["Queer", "Gay", "Non-Binary", "Lesbian"],
-        description: "This special collab session with SISU & FLAW includes:\n\nCDJ tutorials\nHow to create a set\nHow to download music\nRekordbox tutorials\nAny experience level is welcome!!! So please don't feel put off from coming down if you've never mixed music before.\n\nThere are 12 slots available for this session. Please sign up below to confirm your spot.\n\nThis session is free but you need to have a ticket for the party in the evening - info here and tickets here.",
-        image: "images/gutlevel.png",
-        website_link: "https://www.instagram.com/workingclassicsrecs/?hl=en",
-        ticket_link: "https://gutlevel.co.uk/whatson/flawxsisu?fbclid=PAQ0xDSwK9I2dleHRuA2FlbQIxMAABp5caQIknyoc7Qcu-Eal3WRgW2zSkVMw4hr03kQbicMSnGDSR-naSnIM4TmKp_aem_24S-I3hWxGFPJ3u3jCwF6A",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 17,
-        name: "Working Classics",
-        venue: "Gut level",
-        address: "32-34 Chapel Walk, Sheffield, S1 2PD",
-        time: "21:00-02:00",
-        date: "Jul 5",
-        price: "£8-10",
-        type: "party",
-        tags: ["Queer", "Gay", "Non-Binary", "Lesbian"],
-        description: "Working Classics X Gut Level\n\nCalling all gals, gays & theys, we're slithering down Snake Pass to Sheffield's smuttiest venue Gut Level on July 5th for a night of dark, hot & sexy euphoria!\n\nWe are delighted to welcome Manchester's very own Aiden Francis to the helm for this one! Known for his dynamic mixing style and vibrant energy, the High Hoops resident builds immersive and transformative DJ sets, full of groove and sensuality, that pulse with the energy of the turn of the millennium. Operating within the world of progressive sounds, he effortlessly weaves together ethereal trance, sultry house, electro & tribal sounds in a way that is uniquely his own. Aiden has built a reputation on the underground circuit, cutting his teeth at Manchester's iconic queer parties, he's since performed at legendary venues across the UK and Europe, including the White Hotel, CLUB RAUM, Macadam, OXI, the Warehouse Project & Boiler Room. As a prolific producer, Aiden's music bridges the gap between golden-era dance music & contemporary innovation, with his tracks landing on respected imprints Raidiant Records, Duality Trax, Neptune Discs, Goddezz & more. Aiden knows how to take dancers on a spiritual journey and we can't wait to jet off into the cosmos with him !\n\nJoining him for the ride is Working Classics residents Shauna & Bron (plus one more special guest TBA)..\n\nQueensway alumni (and one of Ireland's best exports after Taytos) Bron has been making waves on the Liverpool scene with their eclectic and hi NRG sets that blend of queer progressive house, lush girly R&B vocal samples & crying in the club heaters. We can't wait to welcome them to Gut Level for their first show outside of Liverpool!\n\nWorking Classics boss & SISU resident Shauna loves the hypnotic & cosmic realm of 4X4. Her trippy & transcendental selections have earned her support slots with the likes of I. JORDAN, PLANNINGTOROCK, Kettama & more. Shauna's own productions frequently pay homage to queer pioneers & innovators, drawing on samples from across our history and weaving them into her own productions to bring together the past, present & future of queer culture\n\nWe're also collaborating with Sisu and Flaw to bring you a DJ Workshop 15:00-18:00 before the party, open to any queer people, women & gender minorities. To sign up, please fill in the form on the Gut Level website (head to their 'What's On' section & find the Flaw X Sisu event)\n\nPlease note the capacity of the workshop is limited to 12 so everyone can get a chance at mixing!\n\nGut Level is a limited capacity sexy sweat-fest so act fast if you want to cum\n\nNo one turned away for lack of funds, email shaunurgh@gmail.com\n\nGut Level is a members-only club so attendees will need to pay their £2 yearly membership to come",
-        image: "images/gutlevel.png",
-        website_link: "https://www.instagram.com/workingclassicsrecs/?hl=en",
-        ticket_link: "https://ra.co/events/2174991",
-        coordinates: null,
-        generes: ["Progressive House", "Trance"],
-        age: "18+",
-        sellingFast: false
-    },
+   
+   
     {
         id: 18,
         name: "Queer Game Club",
@@ -328,25 +160,7 @@ Find us easily, stay in touch, and meet your new running friends!`,
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 19,
-        name: "ALTERNATIVE PRIDE",
-        venue: "Coven",
-        address: "FABWICK, Queen's Yard, London E9 5EN",
-        time: "20:00-02:00",
-        date: "Jul 5",
-        price: "£11.50",
-        type: "party",
-        tags: ["Queer"],
-        description: "Join us on Saturday 5th July from 20:00 - 02:00 am to enjoy an Alternative Pride Party outside the commercial Pride hype. We're taking over COVEN, a brand-new queer bar and arts space in Hackney Wick. Walk through the portal and step into a new era of queer nightlife and community. Whether you're ready to dance all night or relax in the outdoor terrace with good company, there's a vibe for everyone.\n\nThe Alternative Pride Party is an annual celebration by Moonlight Experiences that centres BIPOC queers and brings together a vibrant mix of change-makers, creatives, community builders, and weavers. The event is open to all queers, non-binary folks, trans people, lesbians, dykes, bi babes, the beautifully unlabelled, and allies who want to celebrate within East London's queer scene. This is the perfect place to get to know new people and listen to some great music from some emerging and talented DJs.\n\nThese powerhouse DJs bring an electrifying mix of genres spanning through Afrobeats, Dancehall, Soca, R&B, Hip-Hop, Funky House, Reggaeton, Pop, and more. From nostalgic Y2K edits to deep global cuts and high-octane carnival rhythms, their sounds are rooted in liberation. Together, they will create dancefloor experiences that are genre-defying, boundary-pushing, and unapologetically queer to enjoy Pride.\n\nSCARBA, Bonnèt Thee Mixtress, Lyvonne The Don, Trojan, Wardi (Host)\n\nDoors open at 20:00 (drop by early to beat the rush or meet some people if you are dropping by solo)\nDjs from 21:00\nParty until 2 am (last entry at 1 am)\n\nPlease note the event is taking upstairs at Coven (above Fabwick) which is currently not wheelchair accessible",
-        image: "images/coven2.png",
-        website_link: "https://www.instagram.com/covenhackney/?hl=en",
-        ticket_link: "https://ra.co/events/2199271",
-        coordinates: null,
-        generes: ["Afrobeats", "Dancehall", "R&B", "Funky House"],
-        age: "18+",
-        sellingFast: false
-    },
+   
     {
         id: 20,
         name: "THE LESBIAN PUB QUIZ",
@@ -434,30 +248,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         sellingFast: false
     },
     
-    {
-        id: 24,
-        name: "HOMOSTASH PRIDE RAVE",
-        venue: "Colours Hoxton",
-        address: "2-4 Hoxton Square,  London,  N1 6NU",
-        time: "21:30-03:30",
-        date: "Jul 5",
-        price: "£13-250 ",
-        type: "party",
-        tags: ["Gay", "Queer", "Rave"],
-        description: `Join the <strong>HOMOSTASH PRIDE RAVE</strong> at Colours Hoxton as part of our 11th year anniversary celebrations with an incredible queer line-up and all-night wild energy!<br><br>
-🌀 <strong>Room 1 (techno):</strong> Ukrainian DJ sensation CATMINT + residents TAFKANIK & TELEOPATH<br><br>
-🌈 <strong>Room 2 (disco/house + happy vibes):</strong> FILIUS, MARIANNA, NAWTY NICKY, N.U. NEIGHBOUR<br><br>
-🔥 Expect sexy, moustachioed go-gos, wild performers including Christian Nimri, Daisy Puller, Jools, Rylee and the one-and-only Becky aka Prince of Poland & Ronnie as your hosts.<br><br>
-🎉 This isn't just a Pride party – it's going to be <strong>WILD!</strong><br><br>
-And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
-        image: "images/homostash.png",
-        website_link: "https://www.instagram.com/homostash/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/27347/homostash-pride-rave-colours-hoxton",
-        coordinates: null,
-        generes: ["House", "Techno", "Disco", "Happy Vibes"],
-        age: "18+",
-        sellingFast: true
-    },
+    
 
     {
         id: 25,
@@ -480,25 +271,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
     },
 
 
-    {
-        id: 26,
-        name: "Playbody 009",
-        venue: "Secret Location",
-        address: "",
-        time: "21:00-04:30",
-        date: "Jul 5",
-        price: "Free ",
-        type: "party",
-        tags: ["Music", "Experience", "Art", "Fashion"],
-        description: "Next week's program for what is set to be a sun-kissed, sweaty playbody 009 ⋆·˚ ༘ * \n\nIf you're with us, dm for the ticket password. we prioritise our community and spots are super limited so not all will receive a code",
-        image: "images/playbody.png",
-        website_link: "https://www.instagram.com/playbody.london/",
-        ticket_link: "https://www.playbody.london/initiation?fbclid=PAZXh0bgNhZW0CMTEAAaf6cCtR_nKCo0rOxLFdw4T0G9-gNX-xu8zf0_8UJFz3Q-aNS_MUyUP6sOHnjw_aem_qUf7oaGnLGcKqeLW41jJGg",
-        coordinates: null,
-        generes: ["Techno"],
-        age: "18+",
-        sellingFast: false
-    },
+    
     
     {
         id: 27,
@@ -579,45 +352,8 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 31,
-        name: "THE UNOFFICIAL LDN PRIDE AFTERS",
-        venue: "M.O.T",
-        address: "Orion Business Centre, Surrey Canal Rd SE14 5RT",
-        time: "22:00-05:00",
-        date: "Jul 5",
-        price: "£5.50-17.30",
-        type: "party",
-        tags: ["Queer", "High Energy"],
-        description: "We're back at our beloved venue to keep the Pride part going all night! — and we're bringing a full night of high-energy music to celebrate with our beautiful community! Expect an eclectic mix of Techno, Jungletek, Bassline, Baile, Hardcore, Footwork, and all the bassy bangers to keep you dancing all night long.\n\nWe're so excited to welcome some of our favourite up-and-coming queer DJs and producers from across the UK — it's going to be a night full of connection, joy, and movement. \n\nAs always, this is a queer-centered safe space. Please respect each other and the space around you. Our house rules are shared before every event on Instagram @jungyalsngays <3 xx",
-        image: "images/jungle.png",
-        website_link: "https://www.instagram.com/jungyalsngays/?hl=en",
-        ticket_link: "https://ra.co/events/2198789?fbclid=PAZXh0bgNhZW0CMTEAAacR-Tq0vJHowH1cTO3DUBeacpt4bbw6juZZ_0-0kOT49R7oVOxIQwYwWv7S4w_aem_Wno0FwticBuXX6Rjk6AXqA",
-        coordinates: null,
-        generes: ["Jungle", "Techno", "Hardcore","Bassline", "Baile"],
-        age: "18+",
-        sellingFast: false
-    },
+  
 
-    {
-        id: 32,
-        name: "Feel It: Pride",
-        venue: "Omera",
-        address: "6 O'Meara St, SE1 1TE",
-        time: "22:30-05:00",
-        date: "Jul 5",
-        price: "£22 OTD",
-        type: "party",
-        tags: ["Queer"],
-        description: "🚨Queer Super-Party\n🔥3 Rooms of pleasure\n⏰10:30 till 5am\n🚪Last entry 3am\n💥£22 on the door, no pre-sale\n Concession ticket available in Instagram bio",
-        image: "images/feelit.png",
-        website_link: "https://www.instagram.com/feelitparty/?hl=en",
-        ticket_link: "",
-        coordinates: null,
-        generes: ["Tech House", "Techno", "House"],
-        age: "18+",
-        sellingFast: false
-    },
     {
         id: 33,
         name: "BUTCH DAY PARTY",
@@ -696,45 +432,9 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 37,
-        name: "ROAST: LONDON PRIDE",
-        venue: "Electrowerkz",
-        address: "7 Torrens Street, London EC1V 1NQ",
-        time: "21:00-03:00",
-        date: "Jul 5",
-        price: "Waitlist",
-        type: "party",
-        tags: ["Men Only"],
-        description: "𝙇𝙊𝙉𝘿𝙊𝙉'𝙎 𝘽𝙀𝙀𝙁𝙄𝙀𝙎𝙏 𝘾𝙇𝙐𝘽𝙉𝙄𝙂𝙃𝙏 - 𝙀𝙇𝙀𝘾𝙏𝙍𝙊𝙒𝙀𝙍𝙆𝙕 10PM-6AM ROAST; Bears, cubs, chubs, chasers, muscle bears, trans men, muscle men, and admirers. 10 DJ'S, 5 rooms, 1 big darkroom. MEN ONLY. LAST ENTRY 3AM - NO PHYSICAL ID = NO ENTRY. 18+\nPlease be advised that there may be promotional and/or commercial photography and visual and/or audio recording at this event - by entering this event, you consent to your picture or footage of you possibly being taken and used by ROAST and/or Electrowerkz for promotional and/or commercial purposes.\nBy attending ROAST, commit to treating your fellow community members with respect and kindness - without judgment or bias.\n\nTeam ROAST 🧡",
-        website_link: "https://www.instagram.com/roast.london.roast/?hl=en",
-        image: "images/roast.png",
-        ticket_link: "https://dice.fm/event/92lvp6-roast-london-pride-5th-jul-electrowerkz-london-tickets",
-        coordinates: null,
-        generes: ["Techno", "House"],
-        age: "18+",
-        sellingFast: false
-    },
+ 
 
-    {
-        id: 38,
-        name: "ADONIS PRIDE",
-        venue: "The Cause",
-        address: "60 Dock Rd, London, london, E16 1YZ",
-        time: "10:00-22:00",
-        date: "Jul 5",
-        price: "£12.50-25",
-        type: "party",
-        tags: ["Gay", "Queer"],
-        description: "ADONIS PRIDE! \nSATURDAY 5TH OF JULY@ THE CAUSE \nTICKET DOESN'T GUARANTEE ENTRY, RIGHT OF ADMISSION RESERVED. \nDOORS OPEN 10AM - 17:30",
-        website_link: "https://www.instagram.com/adonis.adonis.adonis/?hl=en",
-        image: "images/adonis.png",
-        ticket_link: "https://adonis.eventcube.io/events/72635/adonis-pride-sat-5th-july-25",
-        coordinates: null,
-        generes: ["Techno", "House"],
-        age: "18+",
-        sellingFast: false
-    },
+   
     {
         id: 40,
         name: "Avalon Social Club",
@@ -908,24 +608,7 @@ And whether you rock a moustache or just love them, everyone is welcome. 🖤`,
     
     
 
-    {
-        id: 53,
-        name: "The QA Pride",
-        venue: "The Queen Adelaide",
-        address: "483 Hackney Road, E2 9ED",
-        time: "16:00-03:00",
-        date: "Jul 5",
-        price: "Free",
-        type: "party",
-        tags: ["LGBTQ+", "Muic", "High Energy"],
-        description: "💿 SATURDAY gets lively from 4PM till 10PM with DJs switching every hour = pure dancefloor chaos 💃Then from 10PM @kingpraun_ brings the house down boots & trust us, you don’t wanna miss this 🔥\n\n⚡️Expect looks, dancing ‘til sunrise, endless drinks, glitter everywhere and absolutely no thoughts of tomorrow 💅",
-        image: "images/qa1.png",
-        website_link: "https://www.instagram.com/p/DKsMH2Ji6A3/?hl=en",
-        ticket_link: "",
-        coordinates: null,
-        generes: ["Electro", "House", "Disco"],
-        age: "18+",
-    },
+    
     {
         id: 54,
         name: "The QA Pride: Open Decks/Open Mic",
