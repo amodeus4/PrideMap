@@ -137,6 +137,81 @@ Accessibility Information:
         sellingFast: true
     },
 
+    {
+        id: 6,
+        name: "Singles Night at La Camionera",
+        venue: "La Camionera",
+        address: "43 Well Street,  London,  E9 6RG",
+        time: "19:00-22:00",
+        date: "Jul 8",
+        price: "Free",
+        type: "social",
+        tags: ["Speed Dating", "Lesbian", "NB", "Trans"],
+        description: "Join us for an evening of speed dating, live matchmaking, and cocktails. Speed dating starts at 7 PM, but feel free to arrive from 4 to grab a drink, chat with others and meet some new faces before it all kicks off.Free tickets, and walk-ins are welcome after the event has started :) .  But we recommend you book ahead as it gets quite busy.  All ages are welcome, see you Tuesday.   XOXO This is a LGBTQTIA+ event",
+        image: "images/lacam.png",
+        website_link: "https://www.instagram.com/camionera.e9/?hl=en",
+        ticket_link: "https://www.outsavvy.com/event/28650/singles-night-at-la-camionera-free-tickets-080725",
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
+    },
+    {
+        id: 7,
+        name: "PIANO BAR KARAOKE",
+        venue: "Coven",
+        address: "Unit 4 Queen's Yard,  London,  E9 5EN",
+        time: "19:00-23:59",
+        date: "Jul 10",
+        price: "£5",
+        type: "social",
+        tags: ["Karaoke", "Queer"],
+        description: "Sing your heart out with a professional live pianist backing you up.  After the incredible success of our debut event, we're making this a weekly celebration. Whether you're belting out power ballads or crooning intimate classics, our talented pianist will make you sound like a star.Perfect for a great night out with friends in COVEN's intimate, inclusive atmosphere. Come solo and make new connections, or bring your crew for an unforgettable evening of music and community.Every Thursday from 6pm-midnight at the first permanent queer venue in Hackney Wick.",
+        image: "images/coven3.png",
+        website_link: "https://www.instagram.com/covenhackney/?hl=en",
+        ticket_link: "https://www.outsavvy.com/event/28687/piano-bar-karaoke-at-coven",
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
+    },
+    {
+        id: 8,
+        name: "THE RETURN TO LONDON: ZACH WITNESS & FRIENDS",
+        venue: "Coven",
+        address: "Unit 4 Queen's Yard,  London,  E9 5EN",
+        time: "20:30-01:30",
+        date: "Jul 11",
+        price: "£10",
+        type: "party",
+        tags: ["Music", "Dancing", "Queer"],
+        description: "London quieten down she needs to make a sound.  Texas born artist, DJ, and producer Zach Witness makes his official return home to London with his gang of supernova friends.  Expect dancefloor divinity from Rush Davis, Serenda b2b L-VIS 1990, Bestley, and Madame Gandhi.  As well as a very special live performance from Zach himself. Located at East London’s new queer sanctuary, Coven 🕊️",
+        image: "images/coven5.png",
+        website_link: "https://www.instagram.com/covenhackney/?hl=en",
+        ticket_link: "https://www.outsavvy.com/event/28685/the-return-to-london-zach-witness-friends",
+        coordinates: null,
+        generes: ["Techno", "Electronic"],
+        age: "18+",
+        sellingFast: false
+    },
+    {
+        id: 9,
+        name: "After Life Drawing",
+        venue: "Coven",
+        address: "Unit 4 Queen's Yard,  London,  E9 5EN",
+        time: "12:00-14:00",
+        date: "Jul 13",
+        price: "Pay what you can",
+        type: "workshop",
+        tags: ["Drawing", "Queer"],
+        description: "Queer life drawing @coven (above Fabwick) in Queen’s Yard, Hackney Wick To be hosted by Spencer Grimshaw (slpgtattoo), artist and tattooist After moving to London a year ago Spencer found that the life drawing sessions available either didn’t feature a diverse range of models, didn’t feel like a safe space for queer people or weren’t regular enough to create a community so decided to create that space and community of like minded people All abilities are welcome from beginner to experienced.  As I will be offering options to be tutored or non-tutoredWe will be here every Sunday beginning on 6th July Materials will be provided however, if there is anything specific that you require please provide this yourself Every week we will be hosting a diverse range of queer modelsThis weeks model TBA",
+        image: "images/coven6.png",
+        website_link: "https://www.instagram.com/covenhackney/?hl=en",
+        ticket_link: "https://www.outsavvy.com/event/28679/after-life-drawing",
+        coordinates: null,
+        age: "18+",
+        sellingFast: true
+    },
+
+
     
     
     {
