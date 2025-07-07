@@ -15,6 +15,41 @@ const events = [
     
     
     {
+        id: 1,
+        name: "Avalon Summer Market",
+        venue: "Avalon Cafe",
+        address: "Juno Way, SE14 5RW",
+        time: "13:00-18:00",
+        date: "Jul 13",
+        price: "Free",
+        type: "social",
+        tags: ["Pop-up Shop", "Market", "BBQ", "Clothing"],
+        description: "🌹 THIS SUNDAY ! We are turning Avalon into one big pop-up shop! 🌹 \n\nFull of independent makers and local designers. 🌾 \n\nIt set to be a scorcher ! 🌤🌷 \nso it would be rude not to get the BBQ out! 🦐🍒🌭 \n\nWith stalls indoors and out ft. \n\njewellery / ceramics / clothing / keychains / accessories / glass work / print and publications / latex / bikinis / zines and more !!!!",
+        image: "images/avalon1.png",
+        website_link: "https://www.instagram.com/avaloncafebermondsey/?hl=en",
+        ticket_link: "",
+        coordinates: null,
+        sellingFast: false
+    },
+    {
+        id: 2,
+        name: "London Trans pride",
+        venue: "Langham Place",
+        address: "Juno Way, SE14 5RW",
+        time: "13:00-16:00",
+        date: "Jul 26",
+        price: "Free",
+        type: "social",
+        tags: ["Protest", "Trans", "Queer"],
+        image: "images/transpride.png",
+        description: "Following our record breaking march last year of over 60,000 participants we're excited to take to the streets in protest for trans+ rights with you all again on Saturday, 26 July! /n/nKEY DETAILS: \n\n• As always, bring bottled water and sun protection (umbrellas, hats, etc.) as well as signs & banners, face masks to protect yourself and others, flowers, and friends x \n• We'll be meeting in the streets from 1pm (13:00) at Langham Place and we will set off marching at 2pm (14:00)!\n• This year's march will end around 4pm (16:00) at Parliament Square Gardens and its surrounding streets (NOT Wellington Arch), where there will be speeches from members of the community. \n• For disabled comrades and anyone wanting to attend without doing full 2-hour march, remember: you have the option of going straight to Parliament Square Gardens from 14:00! \n• We highly recommend dressing up in whatever way you feel comfortable and, of course, consensual handholding is always encouraged ☺️ \nWe look forward to raising our voices and marching proudly with you all.\nAs always , \nLove + Rage \nLT+P",
+        website_link: "https://www.instagram.com/londontranspride/?hl=en",
+        ticket_link: "",
+        coordinates: null,
+        sellingFast: false
+    },
+    
+    {
         id: 3,
         name: "Popola: Pride Edition",
         venue: "The Jam Jar",
@@ -34,31 +69,74 @@ const events = [
         sellingFast: false
     },
 
+    {
+        id: 4,
+        name: "Queer Film Club",
+        venue: "The Green House",
+        address: "244-254 Cambridge Heath Road,  London,  E2 9DA",
+        time: "18:30-21:30",
+        date: "Jul 12",
+        price: "Free",
+        type: "party",
+        tags: ["POC", "Queer Migrants"],
+        description: `📅 Date: Monday, 21st of July 2025 (more dates soon!)
+🕡 Time: Doors 18:30, Movie introduction 18:50, Screening 19:00 (sharp!)
+📍 Location: THE LOVE TANK, 244-254 Cambridge Heath Rd, Cambridge Heath, London E2 9DA
 
+Step into the vibrant world of LGBTQ+ cinema with our Queer Film Club, specially curated for queer migrants and queer people of colour and hosted by Krzysztof Dubicki, a Polish queer film expert. Discover powerful, independent, queer films from across the globe, each thoughtfully selected to celebrate diverse voices and stories, as Krzysztof guides us through an evening of cinematic exploration. With his background in film and screen media studies, along with his role as an assistant to the London Independent Film Festival, Krzysztof is always up to date with the newest film premieres, ensuring an enriching and engaging experience for all attendees.
 
+📽️Movie we will see📽️
 
+Supernova (2020) Sam and Tusker are traveling across England in their old RV to visit friends, family and places from their past. Since Tusker was diagnosed with dementia two years ago, their time together is the most important thing they have.. For trailer click here.
+
+What to Expect: 
+
+🎬 Film Screenings: Experience ambitious and inspiring LGBTQ+ films that delve into themes of identity, love, and resilience. 
+
+🎤 Engaging Introductions: Before each screening, dive into the film's background with a brief introduction and some fascinating fun facts. 
+
+🎙️ Exclusive Interviews: Gain deeper insights into the movie with interviews featuring actors or directors, available for viewing after the screening. 
+
+💬 Post-Film Discussions: Share your thoughts and insights in stimulating discussions exploring the film's themes or broader topics, fostering learning and connection within our community.
+
+Come as you are and join us for an enriching cinematic experience filled with warmth, inclusivity, and celebration of queer narratives. Reserve your free ticket now! 🌈🎬
+
+Stay Connected: 
+
+Follow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!
+
+Accessibility Information: 
+
+🏠 Accessible Venue: The event takes place on the step-free ground floor, with accessible toilets and wheelchair accessibility. 
+
+🔊 Language Accessibility: All movies will have either English dubbing or English subtitles.`,
+        image: "images/filmclub.png",
+        website_link: "https://www.instagram.com/thelovetankcic/?hl=en",
+        ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAaev87fpIP3ADovLSSYZUZCOvumURo_yKtHl9tYl28SBnshbAfJsYYsSunL6hA_aem_S6MFVthxlyC18G6tRBtYzA",
+        coordinates: null,
+        sellingFast: true
+    },
 
     {
-        id: 6,
-        name: "UNFOLD CII",
-        venue: "Fold",
-        address: "Gillian House, Stephenson St, London E16 4SA",
-        time: "14:00-23:59",
-        date: "Jul 6",
-        price: "£15-20",
+        id: 5,
+        name: "Dykes on Decks X Femmme Fraiche Pride",
+        venue: "The Tempest Inn",
+        address: "159-161 Kings Road Arches, Brighton, BN1 1NB",
+        time: "20:00-03:00",
+        date: "Aug 1",
+        price: "£12-15",
         type: "party",
-        tags: ["Queer", "High Energy", "Vibey"],
-        description: "A day of joy, a celebration of love; UNFOLD returns on Sunday 6th July.\n\nDoors open at 14:00. As always, the line-up is unannounced and tickets are only available on the door.\n\nEntrance is not guaranteed and is at the sole discretion of our Entrance Team.\n\nDress to sweat.\n\nNO RACISM, NO SEXISM, NO HOMOPHOBIA, NO TRANSPHOBIA, NO ABLEISM.\n\nFold operates a strict 21+ and ID check at the door policy.\n\nYour ticket does not guarantee entry to FOLD; admission is at the sole discretion of our Entrance Team. Please respect their decision.\n\nPhysical ID is mandatory.\n\nClosest transport:\n- Star Lane\n- Canning town",
-        image: "images/fold.png",
-        website_link: "",
-        ticket_link: "https://ra.co/events/2200339",
+        tags: ["DJs", "FLINTA", "Lesbian", "Trans", "NB"],
+        description: "Dykes on Decks X Femmme Fraiche Pride 2025 🌈 \nIt’s the one you’ve all been waiting for!! Soaked in sapphic energy! We’ve invited some of the hottest queer DJs and promoters on the scene! 💖",
+        image: "images/dykesdecks.png",
+        website_link: "https://www.instagram.com/dykes_on_decks/?hl=en",
+        ticket_link: "https://www.headfirstbristol.co.uk/whats-on/jam-jar/sat-12-jul-popola-extra-special-pride-edition-132095#e132095",
         coordinates: null,
-        generes: ["Techno"],
-        age: "21+",
-        sellingFast: false
+        generes: ["Undeground", "Trance", "Techno", "Electro", "Hard House"],
+        age: "18+",
+        sellingFast: true
     },
-    
-    
+
     
     
     {
@@ -158,7 +236,7 @@ const events = [
         ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAadEGVxo18SxUsDyxQVsw8DsTBFOM7paHCgjzeWCetGgRApwTMfi1Zu6BPQbrA_aem_N9j85pGpA_0dsTeX5OT1TQ",
         coordinates: null,
         age: "18+",
-        sellingFast: false
+        sellingFast: true
     },
    
     {
@@ -211,23 +289,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: true
     },
-    {
-        id: 22,
-        name: "Nightlife Organising For Palestine",
-        venue: "Ormside Projects",
-        address: "32 Ormside Street London SE15 1TR",
-        time: "15:00-19:00",
-        date: "Jul 6",
-        price: "Free",
-        type: "workshop",
-        tags: ["Conversation", "Palestine", "Allies", "Panel Talk"],
-        description: "An afternoon of conversation, strategy and tools for Palestine Solidarity\n\nOrganised by and for nightlife workers\n\nRoundtable Discussion + Workshop\n\n________\n\nRoundtable:\n\nSpeakers tba\n\n________\n\nWorkshop With Tipping Point UK:\n\nThe banking and insurance industries in the UK are fueling the global climate crisis, enabling the arms industry, supporting the genocide in Palestine and funding the border & detention industries. We will learn more about organisational boycotts, our theory of change, and how to organise so that your local institutions, workplaces and organisations boycott bloody banks and insurers.\n\n________\n\nVenue Accessibility:\n\nUnfortunately the venue is located on the first floor via 18 steps over two flights of stairs.\n\nThere is currently no lift access to the venue.\n\nPlease get in touch with anji.jelly@hotmail.com if you have any access requirements that would help you take part and we will do our best to meet them.",
-        image: "images/palestine.png",
-        website_link: "",
-        ticket_link: "https://www.eventbrite.com/e/palestine-solidarity-for-nightlife-workers-tickets-1405517824649?aff=ebdsoporgprofile&_gl=1*pnr2w8*_up*MQ..*_ga*OTEzODE2NjYxLjE3NTEyODU1NjE.*_ga_TQVES5V6SH*czE3NTEyODU1NjAkbzEkZzAkdDE3NTEyODU1NjAkajYwJGwwJGgw",
-        coordinates: null,
-        sellingFast: false
-    },
+   
    
 
     {
@@ -350,7 +412,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         coordinates: null,
         generes: ["Techno", "Industrial","House"],
         age: "18+",
-        sellingFast: false
+        sellingFast: true
     },
   
 
@@ -374,25 +436,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         sellingFast: false
     },
 
-    {
-        id: 34,
-        name: "Horse Meat Disco",
-        venue: "Eagle London",
-        address: "Eagle London, 349 Kennington Ln, London SE11 5QY, UK",
-        time: "20:30-03:00",
-        date: "Jul 6",
-        price: "£8.20",
-        type: "party",
-        tags: ["Queer"],
-        description: "London's legendary Sunday night discotheque, every Sunday at Eagle London for more than 21 years. Pride Special with guests Jaye Ward and Bestley, with resident Luke Howard. 8pm-3am with Vauxhall's best value Happy Hour drinks offers till 9pm. £8.",
-        website_link: "https://www.instagram.com/horse_meat_disco/?hl=en",
-        image: "images/horse.png",
-        ticket_link: "https://www.eaglelondon.com/event-details/horse-meat-disco-2025-07-06-20-00",
-        coordinates: null,
-        generes: ["Disco","House"],
-        age: "18+",
-        sellingFast: false
-    },
+    
 
     {
         id: 35,
@@ -510,24 +554,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         coordinates: null,
         sellingFast: false
     },
-    {
-        id: 46,
-        name: "QUEER Bachata Drop-In Class",
-        venue: "SHE Bar",
-        address: "23a Old Compton Street,  London,  W1D 5JL",
-        time: "18:00-20:30",
-        date: "Jul 6",
-        price: "£11-30",
-        type: "social",
-        tags: ["FLINTA", "LGBTQ+", "Salsa", "Bachata"],
-        description: "Get ready to sizzle, Sanura dancers!\n\nWe're thrilled to announce our partnership with the iconic SHE Soho Bar for our new QUEER Bachata Sundays!\n\nEmbrace your inner rhythm and join us for an evening of EMPOWERMENT through dance in the heart of London. As always, we're proudly FLINTA-focused, FEMINIST, and LGBTQ+ space, creating a space where everyone can shine on the dance floor.\n\nHere's what's heating up your Sunday nights:\nBachata Bliss\n6-7PM: Open Level Bachata Class\nLearn to both LEAD & FOLLOW, because who says you can't do it all?\nLatin Fever\nFrom 7.30: Latin Party with DJ Daniella\nKeep the energy high and the moves flowing!\n📍 SHE Soho Bar - London's premier girls-only venue\n\nDon't miss out on this incredible night of dance, community, and joy. Grab your tickets now and bring your friends – the more, the merrier! Let's make these autumn Sundays unforgettable together.\n\nFollow us on Instagram @sanuradance for the latest updates and behind-the-scenes fun.\n\nRemember, at Sanura Dance, every step is a celebration of who you are. See you on the dance floor!",
-        website_link: "https://www.instagram.com/sanuradance/?hl=en",
-        image: "images/sanura.png",
-        ticket_link: "https://www.outsavvy.com/event/23411/queer-bachata-sundays-she-soho-bar-drop-ins",
-        coordinates: null,
-        sellingFast: false,
-        age: "18+",
-    },
+    
     {
         id: 47,
         name: "DYKE MARCH SOCIALS",
@@ -609,24 +636,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
     
 
     
-    {
-        id: 54,
-        name: "The QA Pride: Open Decks/Open Mic",
-        venue: "The Queen Adelaide",
-        address: "483 Hackney Road, E2 9ED",
-        time: "17:00-01:00",
-        date: "Jul 6",
-        price: "Free",
-        type: "social",
-        tags: ["LGBTQ+", "Open Decks", "Open Mic"],
-        description: "Open Decks from 5:30pm – All abilities welcome (USB only!)\n🎙 Open Mic from 7pm – Singers, rappers, poets, comedians + more!\n🎉 Free entry & Sign up sheet on the day\n🌈 Grab your friends & let your pride and talent shine! \nShare this post with a friend who would love to share their art and work in a safe space 🫶",
-        image: "images/qa2.png",
-        website_link: "https://www.instagram.com/p/DKsMH2Ji6A3/?hl=en",
-        ticket_link: "",
-        coordinates: null,
-        generes: ["Any Genres Welcome"],
-        age: "18+",
-    },
+    
 
     
     
