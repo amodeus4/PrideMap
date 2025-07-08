@@ -251,6 +251,24 @@ Accessibility Information:
         age: "18+",
         sellingFast: false
     },
+
+    {
+        id: 13,
+        name: "gayns presents: roadrunner",
+        venue: "Potters Fields Park",
+        address: "Tooley Street, London, England, SE1 2UD",
+        time: "9:00-11:30",
+        date: "Jul 12",
+        price: "Free",
+        type: "social",
+        tags: ["Running Club", "LGBTQ+"],
+        description: "a free, weekly run club for gay and queer people in central london.",
+        image: "images/gayns2.png",
+        website_link: "",
+        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-roadrunner-tickets-1006397922277",
+        coordinates: null,
+        sellingFast: false
+    },
     
 
     {
@@ -292,6 +310,40 @@ Accessibility Information:
         generes: ["Techno", "Afrobeats", "House", "Pop", "Bass"],
         age: "18+",
         sellingFast: true
+    },
+    {
+        id: 16,
+        name: "gayns presents: rush",
+        venue: "The Ministry, Borough",
+        address: "79-81 Borough Road, London, England, SE1 1DN",
+        time: "10:30-11:30",
+        date: "Jul 12",
+        price: "£15",
+        type: "social",
+        tags: ["Condtioning", "LGBTQ+"],
+        description: "A 45 minute conditioning class",
+        image: "images/gayns3.png",
+        website_link: "",
+        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-rush-tickets-1127536836029",
+        coordinates: null,
+        sellingFast: false
+    },
+    {
+        id: 17,
+        name: "gayns presents: fold",
+        venue: "The Ministry, Borough",
+        address: "79-81 Borough Road, London, England, SE1 1DN",
+        time: "10:30-11:30",
+        date: "Jul 12",
+        price: "£15",
+        type: "social",
+        tags: ["Yoga", "LGBTQ+"],
+        description: "An hour long yoga class with george pearse",
+        image: "images/gayns4.png",
+        website_link: "",
+        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-fold-tickets-1127557858909",
+        coordinates: null,
+        sellingFast: false
     },
    
    
@@ -632,7 +684,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         date: "Jul 20",
         price: "£16",
         type: "party",
-        tags: ["LGBTQ+"],
+        tags: ["25+", "LGBTQ+"],
         description: "After 2 sold out events we are back for episode 3 and we are running back the Pergola day party, this time in double denim 🙂‍↕️ \nOn July 20th we will be taking over the stunning rooftop of Pergola Brixton where 600 of us will vibe into the sunset 😍 \nDJ's Donnie Sunshine, Glade Marie, Ken Styles, Arliiiyah and Harvz\nDATE: July 20th \nTIME: 5.30pm- 10.30pm \nLast entry: 7pm \nVenue: Pergola Brixton \nThe venue is wheelchair accessible and has disabled toilets. \nSTRICTLY 25+ for the Girls, Gays and Theys.",
         image: "images/seasoned.png",
         website_link: "",
