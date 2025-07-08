@@ -35,7 +35,7 @@ const events = [
         id: 2,
         name: "London Trans pride",
         venue: "Langham Place",
-        address: "Juno Way, SE14 5RW",
+        address: "Langham Place,W1W",
         time: "13:00-16:00",
         date: "Jul 26",
         price: "Free",
@@ -59,9 +59,9 @@ const events = [
         price: "£0-12",
         type: "party",
         tags: ["QTIPOC","Queer"],
-        description: "",
+        description: "Amores\n\nVery excited to announce our Twerk Temple Pride Extra Special Edition on 12th July at the beloved Jam Jar\n\nBringing our Twerk Temple decolonising sanctuary where diasporic queens, QPOC babes, and allies come together to honour heritage and celebrate culture. Where Latinx and Afro-Caribbean culture comes alive through reggaeton, soca, dancehall, salsa, afrobeats, and moreee\n\nExpect a night of joyful, anti-colonial resistance as incredible DJs, go-go perras, and performers take you on a caliente journey of self-expression, liberation, and pure ancestral fire\n\nMusic by:\n\n- Girl on Girl DJ Collective - Fierce queer non-binary collective celebrating sexuality through art and movement, crafting sacred spaces for authentic self-expression.\n\n- DJ Ivicore - Explosive Venezuelan force delivering electrifying Latinx and Caribbean fire with her signature Elektro Afro Perreo sound.\n\n- DJ Cheza - Multi-dimensional artivist weaving soca, dembow, amapiano, jungle, dubstep, and garage into transcendent underground liberation.\n\nLimited free tickets for our QPOC babes\nEarly bird tickets start at £5\n\nNos vemos",
         image: "images/popola.png",
-        website_link: "Amores\n\nVery excited to announce our Twerk Temple Pride Extra Special Edition on 12th July at the beloved Jam Jar\n\nBringing our Twerk Temple decolonising sanctuary where diasporic queens, QPOC babes, and allies come together to honour heritage and celebrate culture. Where Latinx and Afro-Caribbean culture comes alive through reggaeton, soca, dancehall, salsa, afrobeats, and moreee\n\nExpect a night of joyful, anti-colonial resistance as incredible DJs, go-go perras, and performers take you on a caliente journey of self-expression, liberation, and pure ancestral fire\n\nMusic by:\n\n- Girl on Girl DJ Collective - Fierce queer non-binary collective celebrating sexuality through art and movement, crafting sacred spaces for authentic self-expression.\n\n- DJ Ivicore - Explosive Venezuelan force delivering electrifying Latinx and Caribbean fire with her signature Elektro Afro Perreo sound.\n\n- DJ Cheza - Multi-dimensional artivist weaving soca, dembow, amapiano, jungle, dubstep, and garage into transcendent underground liberation.\n\nLimited free tickets for our QPOC babes\nEarly bird tickets start at £5\n\nNos vemos",
+        website_link: "",
         ticket_link: "https://www.headfirstbristol.co.uk/whats-on/jam-jar/sat-12-jul-popola-extra-special-pride-edition-132095#e132095",
         coordinates: null,
         generes: ["Afrobeats", "Raggaeton", "Electro", "Salsa", "Dancehall"],
@@ -295,24 +295,7 @@ Accessibility Information:
     },
    
    
-    {
-        id: 18,
-        name: "Queer Game Club",
-        venue: "The Green House",
-        address: "244-254 Cambridge Heath Road, London, E2 9DA",
-        time: "18:00-21:00",
-        date: "Jul 7",
-        price: "Free",
-        type: "social",
-        tags: ["Board Games", "Queer Migrants", "POC"],
-        description: "🎲 Queer Game Night: Let the Games Begin! 🎮\n\nGrab your tokens, shuffle your cards, and get ready for a night of games, snacks, and queer joy! This Queer Game Night is for queer migrants and queer people of colour, so bring your best game face and let's play! 🌈\n\nWhether you're a board game newbie or a seasoned pro who always 'accidentally' wins at Monopoly, this night is for you. We'll have some games ready, and you can also bring your own favourites to share! Snacks and refreshments will keep your energy up, no matter how intense the competition gets.\n\nWhat's in store?\n🎲 Meet amazing people and maybe even new gaming buddies\n🎉 Level up your social skills IRL\n🥂 Gobble snacks like Pac-Man\n🩺 Bonus treasure: Free sexual health resources and STI self-test kits to take home\n\nAccessibility: The venue is wheelchair accessible.\n\nSpaces are limited—bring your A-game (or just your love of snacks) and let's have a blast!",
-        image: "images/game.png",
-        website_link: "https://www.instagram.com/thelovetankcic/?hl=en",
-        ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAadEGVxo18SxUsDyxQVsw8DsTBFOM7paHCgjzeWCetGgRApwTMfi1Zu6BPQbrA_aem_N9j85pGpA_0dsTeX5OT1TQ",
-        coordinates: null,
-        age: "18+",
-        sellingFast: true
-    },
+   
    
     {
         id: 20,
@@ -554,63 +537,15 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
  
 
    
-    {
-        id: 40,
-        name: "Avalon Social Club",
-        venue: "Avalon Cafe",
-        address: "Juno Wy., London SE14 5RZ",
-        time: "18:00-21:00",
-        date: "Jul 7",
-        price: "Free",
-        type: "social",
-        tags: ["LGBT+ Allies", "Chess", "Knitting"],
-        description: "head to Avalon for an evening social: come hang out, play chess, bring your knitting, your mate or come solo for a friendly cuppa/pint.",
-        website_link: "https://www.instagram.com/avaloncafebermondsey/",
-        image: "images/avalon4.png",
-        ticket_link: "",
-        coordinates: null,
-        sellingFast: false
-    },
+    
 
-    {
-        id: 41,
-        name: "Avalon Choir",
-        venue: "Avalon Cafe",
-        address: "Juno Wy., London SE14 5RZ",
-        time: "19:00-21:00",
-        date: "Jul 7",
-        price: "£8 OTD",
-        type: "social",
-        tags: ["LGBT+ Allies", "Choir"],
-        description: "A community choir, singing a variety of songs and styles in multiple harmony. Everyone is welcome - just turn up!",
-        website_link: "https://www.instagram.com/avaloncafebermondsey/",
-        image: "images/avalon3.png",
-        ticket_link: "",
-        coordinates: null,
-        sellingFast: false
-    },
+    
 
     
 
     
 
-    {
-        id: 44,
-        name: "West London Workouts - Circuits",
-        venue: "Gunnersbury Park Sports Hub",
-        address: "Gunnersbury Park Sports Hub, Gunnersbury Park, Popes Ln, London W3 8LQ",
-        time: "20:00-21:00",
-        date: "Jul 7",
-        price: "£12",
-        type: "workshop",
-        tags: ["LGBTQ+", "Workout"],
-        description: "Monthly pass for our weekly Circuits class, every Monday at 8pm. By purchasing a monthly pass you do not need to book each class individually. \nIn the event that WLQP cancel a class, then you will be credited an additional session to book the following month. \nThis covers 7, 14, 21 & 28 July",
-        website_link: "https://www.wlqp.org/",
-        image: "images/wlqp3.png",
-        ticket_link: "https://www.wlqp.org/event-details/west-london-workouts-circuits-monthly-pass-july",
-        coordinates: null,
-        sellingFast: false
-    },
+
 
     {
         id: 45,
