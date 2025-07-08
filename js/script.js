@@ -670,6 +670,9 @@ async function init() {
     
     // Initialize tag filter
     setupTagFilterDropdown();
+    
+    // Set up automatic refresh to remove ended events
+    setupAutoRefresh();
 }
 
 // Setup mobile view functionality
@@ -954,6 +957,46 @@ function parseEventDate(dateString) {
     return parsedDate;
 }
 
+// Function to check if an event has ended
+function isEventEnded(event) {
+    const eventDate = parseEventDate(event.date);
+    const now = new Date();
+    
+    // If event is not today, check if the date has passed
+    if (eventDate.getTime() !== new Date().setHours(0, 0, 0, 0)) {
+        return eventDate < new Date().setHours(0, 0, 0, 0);
+    }
+    
+    // If event is today, check if the end time has passed
+    const timeMatch = event.time.match(/(\d{1,2}):(\d{2})/);
+    if (timeMatch) {
+        const endHour = parseInt(timeMatch[1]);
+        const endMinute = parseInt(timeMatch[2]);
+        
+        // Handle events that go past midnight (like "22:00-4:00")
+        let endTime = new Date();
+        endTime.setHours(endHour, endMinute, 0, 0);
+        
+        // If end time is earlier than start time, it means the event goes past midnight
+        // In this case, add 24 hours to the end time
+        if (endHour < 12) { // Assuming events don't end before noon
+            endTime.setDate(endTime.getDate() + 1);
+        }
+        
+        return now > endTime;
+    }
+    
+    // If we can't parse the time, assume event ends at 11:59 PM
+    const endOfDay = new Date();
+    endOfDay.setHours(23, 59, 59, 999);
+    return now > endOfDay;
+}
+
+// Function to filter out ended events
+function filterOutEndedEvents(eventsArray) {
+    return eventsArray.filter(event => !isEventEnded(event));
+}
+
 // Add this new function to check if a date is in the current week
 function isDateInCurrentWeek(dateString) {
     const eventDate = parseEventDate(dateString);
@@ -978,14 +1021,17 @@ function isDateInCurrentWeek(dateString) {
 function filterEvents(filter) {
     let filteredEvents = events;
     
+    // First, filter out ended events automatically
+    filteredEvents = filterOutEndedEvents(filteredEvents);
+    
     if (filter !== 'all') {
         if (filter === 'today') {
-            filteredEvents = events.filter(event => isEventToday(event.date));
+            filteredEvents = filteredEvents.filter(event => isEventToday(event.date));
         } else if (filter === 'this-week') {
-            filteredEvents = events.filter(event => isDateInCurrentWeek(event.date));
+            filteredEvents = filteredEvents.filter(event => isDateInCurrentWeek(event.date));
         } else {
             // Filter by type (party, social, workshop)
-            filteredEvents = events.filter(event => event.type === filter);
+            filteredEvents = filteredEvents.filter(event => event.type === filter);
         }
     }
     
@@ -1518,5 +1564,23 @@ function clearTagSelections() {
     const checkboxes = document.querySelectorAll('.tag-filter-option input[type="checkbox"]');
     checkboxes.forEach(checkbox => {
         checkbox.checked = false;
+    });
+}
+
+// Set up automatic refresh to remove ended events
+function setupAutoRefresh() {
+    // Check for ended events every minute
+    setInterval(() => {
+        // Only refresh if we're in list view (not in event detail)
+        if (currentView === 'list') {
+            filterEvents(currentFilter);
+        }
+    }, 60000); // Check every minute
+    
+    // Also check when the page becomes visible (user returns to tab)
+    document.addEventListener('visibilitychange', () => {
+        if (!document.hidden && currentView === 'list') {
+            filterEvents(currentFilter);
+        }
     });
 }
