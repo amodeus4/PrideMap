@@ -210,6 +210,24 @@ Accessibility Information:
         age: "18+",
         sellingFast: true
     },
+    {
+        id: 10,
+        name: "BALLER FC x TEAM UHAUL DJS",
+        venue: "Signature Brew Haggerston",
+        address: "Railway Arches, 340 Acton Mews, London E8 4EA",
+        time: "19:00-00:15",
+        date: "Jul 11",
+        price: "£5",
+        type: "social",
+        tags: ["Women's Football", "Music", "DJs"],
+        description: "Slaying the Field’s in the rearview mirror of our Uhaul truck, but we just can’t get over those 🔥 vibes so we’re bringing the Dyke Rescue DJs back to Haggerston this Friday night! \n\nWe’ve got Baller’s Laura Brat back with Topbins tunes for pre-match warm up and 1-800 Dyke Rescue will finish you off after the game. \n\nDoors at 7pm, we’re dual screening Portugal v Belgium AND Italy v Spain - it’s going to be a total Barn Burner after witnessing the drama in group B this wk (Oh Mariona!) \n\nEarlybird tickets are £5. General Admission is £8. Limited amount of tickets available on the door!",
+        image: "images/ballerfc.png",
+        website_link: "https://www.instagram.com/ballerfc_ldn/?hl=en",
+        ticket_link: "https://www.tickettailor.com/events/ballerfc/1775337",
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
+    },
 
 
     
@@ -342,6 +360,24 @@ Accessibility Information:
         image: "images/gayns4.png",
         website_link: "",
         ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-fold-tickets-1127557858909",
+        coordinates: null,
+        sellingFast: false
+    },
+    {
+        id: 18,
+        name: "PxssyCat Club",
+        venue: "Secret Location",
+        address: "",
+        time: "16:00-22:30",
+        date: "Jul 13",
+        price: "£20",
+        type: "party",
+        tags: ["Rave", "Playroom", "FLINTA", "Performance", "No Cis Men"],
+        description: "Founded by the team behind Catnip, we are run by and for queer, POC, trans and SWer individuals. We're here to create the safe and sxxy space we need to dance, connect and play, free from the judgement and expectations of hetero and cis-normative society. For this reason, Pxssycat Club is FLINTA (Female, Lesbian, Intersex, Nonbinary, Trans and Agender) ONLY.  We do not admit cis men.\n\nWe do ask that you read our rules on Instagram here before attending.\n\nWe have an experienced welfare team who will be on hand throughout the event to ensure attendees are safe, respected and well cared for. They will be identifiable by LED armbands. Consent and safety is PxssyCat Club's number one priority. Take care not to over-intoxicate, look out for each other, and always reach out to a safeguard if you need assistance.\n\nVetting:\nVetting for PxssyCat Club is done on the door (also known as a vibe check) with a short conversation at the point of scanning your ticket.  This is not as scary as it sounds, our welfare team are lovely, it is simply to ensure guests are aware of our rules and the space they are entering and will be respectful of each other.\n\nWe will not police anyone's gender expression, we simply ask for your honesty and sincerity that you belong to at least one of the identities in the FLINTA (Female, Lesbian, Intersex, Nonbinary, Trans and Agender) acronym.\n\nWe will reject or eject anyone who is found to be making other guests uncomfortable or breaking the PxssyCat Club Rules.\n\nDresscode:\nThis is the place to show up as your sexiest self!\n\nIn order to maintain the vibe of PxssyCat Club, we ask guests to stick to kink wear. We expect to see leather, lingerie, rubber, fishnets, harnesses, latex etc. Feel free to wear affirming items such as binders and packers.\n\nLow effort, casual day-wear and jeans are not allowed. This is to make sure no other guests are made to feel uncomfortable when dressed up.\n\nWe encourage everyone to express their creativity through their outfits, but please avoid cultural appropriation, cop or military styles.\n\nAccessibility Information:  \nAs always, for the safety of all our guests the venue details are top secret.  Full details will be sent to ticket holders 24hrs before the event.\n\nWhat we can say, is the closest rail links are Hoxton, Cambridge Heath and Bethnal Green.\n\nTo enter Pxssycat Club the door is off the main street, it has a shutter 2150mm wide and 1920mm tall, followed by 7 steps with a handrail on one side leading to heavy-duty double doors. This entrance is on the same level as the WCs. There are three WCs in total, two with accordion doors and one slightly larger with a sliding door.\n\nThere is an alternative entrance which leads on to the main road which is 910mm wide and 2190mm tall and acts as a fire exit. To exit the venue this way, there are 12 steps, including some spiral steps, with a handrail on one side. To reach those stairs from the main floor you'll step on a small elevated platform before accessing the steps.\n\nDue to the venue being in a locally listed building, we are unfortunately unable to to provide lift or ramp access. For more accessibility info, please feel free to contact us.\n\nConcessions:\nWe have a limited number of low cost tickets for low income, SW and vulnerable attendees.\n\nIf you would like a code to unlock our concession tickets, please send an email to catnip.productions.london@gmail.com\n\nWe also have a small donation-based cab fund for vulnerable attendees which allows us to contribute towards fares, we encourage those with the means to donate to this fund when buying your ticket.\n\nAs it is donation based we are unable to specify how much we can contribute until after the event so please ensure, if you need a taxi home, that you have it covered.\n\nTo access the fund please contact us at catnip.productions.london@gmail.com within 24hrs of the event starting, we will add your name to the list and send details on how to claim it the following day.\n\n 15% off with code G3t$tr@pp3d",
+        image: "images/pxssycat.png",
+        website_link: "https://www.instagram.com/pxssycatclub_london/?hl=en",
+        ticket_link: "https://www.outsavvy.com/event/27635/pxssycat-club-july-13th-2025?fbclid=PAZXh0bgNhZW0CMTEAAafyI8fK87oJ5haN60wZdwRNgztSBqZmFRFqnyHdp4JPETjhZzSntCH-88xs_g_aem_NbJi_24YAc5T3K0pGW4RAw",
+        age: "21+",
         coordinates: null,
         sellingFast: false
     },
