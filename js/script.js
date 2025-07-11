@@ -1013,7 +1013,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         venue: "Metropolis",
         address: "234 Cambridge Heath Road; Bethnal Green; London E2 9NN",
         time: "22:30-04:00",
-        date: "Jul 19",
+        date: "Jul 26",
         price: "£6-11",
         type: "party",
         tags: ["Party", "Dancing", "Gay", "LGBTQ+"],
