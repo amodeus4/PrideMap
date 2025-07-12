@@ -1064,6 +1064,24 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: false
     },
+    {
+        id: 55,
+        name: "Singles Night at La Camionera",
+        venue: "La Camionera",
+        address: "243 Well Street,  London,  E9 6RG",
+        time: "19:00-22:00",
+        date: "Jul 15",
+        price: "Free",
+        type: "social",
+        tags: ["Speed Dating", "Cocktails", "LGBTQIA+"],
+        description: "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4 to grab a drink, chat with others and meet some new faces before it all kicks off. \n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy.  \n\nAll ages are welcome, see you Tuesday! \n\nXOXO \n\nThis is a LGBTQTIA+ event",
+        website_link: "",
+        image: "images/lacam1.png",
+        ticket_link: "https://www.outsavvy.com/event/28775/singles-night-at-la-camionera-free-tickets-150725",
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
+    },
     
     
 
