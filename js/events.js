@@ -1217,6 +1217,25 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "",
         sellingFast: false
     },
+    {
+        id: 64,
+        name: "Horse Meat Disco",
+        venue: "Eagle London",
+        address: "349 Kennington Ln, London SE11 5QY",
+        time: "20:00-03:00",
+        date: "Jul 21",
+        price: "£8",
+        type: "party",
+        tags: ["Music", "Party", "Gay", "LGBTQ+"],
+        description: "London's legendary Sunday night discotheque, every Sunday at Eagle London for more than 21 years. With James Hillard and special guest Stacy Christine (LA). 8pm-3am with Vauxhall's best value Happy Hour drinks offers till 9pm. £8.",
+        website_link: "https://www.eaglelondon.com/horse-meat-disco",
+        image: "images/horsemeat1.png",
+        generes: ["house", "disco", "80s"],
+        ticket_link: "https://www.eaglelondon.com/event-details/horse-meat-disco-2025-07-20-20-00",
+        coordinates: null,
+        age: "18+",
+        sellingFast: false
+    },
     
     {
         "id": 801496833,
