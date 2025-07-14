@@ -1236,6 +1236,26 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: false
     },
+    {
+        id: 65,
+        name: "Queer Sober Social Launch Party",
+        venue: "Alerta Coffee",
+        address: "Brook Street Liverpool L3 9PJ",
+        time: "18:00-22:00",
+        date: "Jul 19",
+        price: "£0 to £6.13",
+        type: "social",
+        tags: ["Social", "Party", "Sober", "LGBTQ+", "Mocktails"],
+        description: "London's legendary Sunday night discotheque, every Sunday at Eagle London for more than 21 years. With James Hillard and special guest Stacy Christine (LA). 8pm-3am with Vauxhall's best value Happy Hour drinks offers till 9pm. £8.",
+        website_link: "",
+        image: "images/soberclub.png",
+        generes: ["house", "disco", "80s"],
+        ticket_link: "https://www.eventbrite.co.uk/e/queer-sober-social-launch-party-tickets-1376480232429?aff=oddtdtcreator",
+        coordinates: null,
+        age: "18+",
+        sellingFast: true
+    },
+
     
     {
         "id": 801496833,
