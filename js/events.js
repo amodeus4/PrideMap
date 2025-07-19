@@ -2097,5 +2097,438 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
             "disco", "italo disco"
         ],
         "age": "18+"
-    }
+    },
+    {
+        "id": 4294406129,
+        "name": "Life Drawing at La Cami 02/08/25",
+        "venue": "243 Well St",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "11:00-13:15",
+        "date": "Aug 2",
+        "price": "£15",
+        "type": "workshop",
+        "tags": [
+            "art",
+            "drinks",
+            "flinta"
+        ],
+        "description": "•⁠ ⁠casual, informal, open to all abilities and experience!\n •⁠ special, experienced models and teachers!\n\n•⁠  ⁠11-1.15, with a 15 min break!\n •⁠ our summer cafe menu, soft drinks, and more available!\n\n•⁠  ⁠newsprint and charcoal provided, please bring sketch pads and other materials if you would like them!\n xxxxxx\n\n ",
+        "image": "https://cdn.outsavvy.com/events/10e7b1a2-4144-4aca-9de6-ca17f4ef833a.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28779/life-drawing-at-la-cami-020825",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.643809",
+        "generes": [
+           
+        ],
+        "age": "18+"
+    },
+    
+    
+    {
+        "id": 1732617879,
+        "name": "Twerk Temple - Dalston Superstore",
+        "venue": "Dalston Superstore",
+        "address": "117 Kingsland High Street,  London,  E8 2PB",
+        "time": "22:00-16:00",
+        "date": "Aug 15",
+        "price": "£8.50",
+        "type": "party",
+        "tags": [
+            "dancing",
+            "social",
+            "Carribean",
+            "flinta",
+            "trans",
+            "bisexual",
+           
+          
+        ],
+        "description": "Get ready, London! Popola's Twerk Temple returns to the beloved Dalston Superstore for our bi-monthly residency on FRIDAY, August 15th!\n As a QPOC-led movement, Popola is all about celebrating and unifying Queer Latinx and Afro-Caribbean diasporas. This night is a vibrant dedication to diasporic queens, QPOC babes, and allies ready to worship at the altar of radical self-expression. We're creating safer spaces that honour authentic cultural expressions and foster genuine integration, recognising the beautiful complexity of our intersectional heritages and identities.\nPrepare to unite through the powerful rhythms of our heritage: Reggaeton, Soca, Dancehall, Salsa, Afrobeats, and more. We'll honour the culture with explosive, culo-shaking beats that perfectly blend Latinx & Afro-Caribbean sounds. Our fire lineup of DJs, go-go dancers, and performers will turn every move into an act of resistance, transforming music and movement into liberation.\n\nBeyond the dance floor, we're taking our activism further by partnering with relevant charities to amplify vital causes. Come shake your culo, connect with the community, support meaningful work, and help us shake the system!",
+        "image": "https://cdn.outsavvy.com/events/3ac1859e-4a34-4402-9278-e886211d18b8.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28853/twerk-temple-dalston-superstore",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.644895",
+        "generes": [
+            "afrobeats",
+            "latin",
+            "reggae"
+        ],
+        "age": "18+"
+    },
+    {
+        "id": 1639933393,
+        "name": "Queer Salsoteka III",
+        "venue": "The Glove That Fits",
+        "address": "179 Morning Lane,  London,  E9 6LH",
+        "time": "15:00-21:00",
+        "date": "Sep 7",
+        "price": "£8 to £15",
+        "type": "workshop",
+        "tags": [
+            "dancing",
+            "workshop",
+            "social",
+            "afro",
+            "latinx",
+            "queer",
+          
+        ],
+        "description": "Amoressssss 💖\n Get ready to dance with pals, lovers and new friends to the rich and vibrant rhythms of Afro Latinx music and partner dance.\nSALSOTEKA is back, III Edition mis amores. This time during the day and outside 🌞 bringing the heat to The Glove That Fits this Sunday 7th September 💃🏾💃🏾 A space to celebrate the soul of Afro Latinx culture and connect with one another through the joy of dancing together. Starting with 2 workshops it’s a space for all levels of dancer, from complete beginners of Afro-Latin partner dancing to more seasoned dancers.\n 3 - 4pm we’ll start with a complete Beginners Salsa class led by Queer Salsa. You’ll get to choose whether to lead or follow, and we’ll be switching partners throughout to help you meet new people. We’ll cover the basics, explore playful moves like spins, and most importantly, learn how to connect through rhythm and movement ✨\n 4 - 5pm Tropican Dance will be leading our first ever Merengue class. Merengue is a beautiful partner dance that can feel more rooted and connected than Salsa. The basic step is a little less complicated and slower, so you can really focus on moving your body to the rhythm. You’ll be dancing a bit closer to your dance partners (again we will be swapping throughout) so you’ll really learn the beauty of dancing with new people and connecting through movement.\nBy the end of the sessions, you’ll have danced with a bunch of new people and be more than ready for the afters.\n Then from 5 PM, we open the dancefloor with an after party featuring Popola DJs Amancai and Ivicore.\n Queer Salsa Guardian Dancers will be around on the dance floor to approach beginners and newbies for dances and help you confidentially transition from a workshop environment to the dance floor.\n Doors open at 2:30 PM. Please arrive on time ready to start the first workshop at 3pm.\nWorkshop capacity is limited and we have separate cheaper tickets for people that just want to come for the party from 5pm.\nDoors will briefly close at 3 PM sharp for the workshop to begin, then reopen again at 5 PM for the party\n Nos vemossss 💋💋💋",
+        "image": "https://cdn.outsavvy.com/events/e3821426-1936-4287-bedb-5773a745a468.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28889/queer-salsoteka-iii",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.644964",
+        "generes": [
+            "afrobeats",
+            "latin",
+        ],
+        "age": "18+"
+    },
+    
+    {
+        "id": 3487128225,
+        "name": "speed dating at damsel collective",
+        "venue": "Damsel Collective",
+        "address": "70-72 Kingsland Road,  London,  E2 8DP",
+        "time": "19:00-22:00",
+        "date": "Jul 24",
+        "price": "£10",
+        "type": "social",
+        "tags": [
+            "speed dating",
+            "flinta",
+            "bisexual",
+            "drinks"
+        ],
+        "description": "calling all damsels (whether in distress or not)! \ncome join us at London's newest bar by women+, for women+. \nthey're mixing up sexy, inclusive vibes and delicious drinks, and we're pumped to run their very first speed dating! \n How does it work?\nA survey will be emailed to you before the event, and we'll use your results to make sure you get to meet the best people for you. All queer identities are welcome (TERFS need not apply). \nyou'll have 5-10 short, approx 5 minute dates (with prompts!) to get to know as many new people as possible! \n Who's welcome? \nAnyone who resonates with the dyke/sapphic/lesbian experience - from bisexuals, to trans folks, to nonbinary folks - if you've ever loved queer women, this is the event for you. \n What ages is this for? \nWe have all ages! If you're the only one in your age category (which rarely happens), we'll send you a heads up ahead of time so you're never caught off guard. \n What if I'm poly/ENM? \nCome on in! We have all relationship styles! If you are the only person of that style, we'll also send you a heads up (this has never happened!) \n This venue is accessible upstairs, and their downstairs WILL be wheelchair accessible but they are in the process of installing a ramp. Accessible loos as well. If you have any accessibility needs or specifics - this will be asked for in the survey so please do let us know. If you need to make arrangements in advance, please feel free to reach out and we'll be back to you ASAP! ",
+        "image": "https://cdn.outsavvy.com/events/20d297e5-9c00-4d5d-b4aa-a68865b290ca.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28854/speed-dating-at-damsel-collective",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.645111",
+        "generes": [
+            
+        ]
+    },
+    
+    {
+        "id": 1514745769,
+        "name": "SPANKYS ⛓️‍💥 Kink Disco",
+        "venue": "Dalston Superstore",
+        "address": "117 Kingsland High Street,  London,  E8 2PB",
+        "time": "22:00-26:00",
+        "date": "Jul 25",
+        "price": "£8 to £10",
+        "type": "party",
+        "tags": [
+            "dancing",
+            "kinky",
+            "leather"
+        ],
+        "description": "We’re celebrating kink all month long at Dalston Superstore.\nKeep your tickets for SPANKYS - the leather + latex disco - under lock & key.\nDark Disco / EBM / New Wave / Electroclash / Synth Pop / Italo\n★ HOSTED BY MARIE DEVILREUX ★\n★ PRINCESS JULIA ★\n★ RICARDO CASTRO ★\n★ PROTEUS ★\n★ LESS THAN HUMAN ★\n★ UGLY DRUGLESS ★\n★ ROTTEN BABE ★\n\n★ Artwork by CADET KID ★",
+        "image": "https://cdn.outsavvy.com/events/58a6ce07-92a7-41d0-9458-966add864dfd.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28821/spankys-kink-disco",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.645253",
+        "generes": [
+            
+        ]
+    },
+    {
+        "id": 916541581,
+        "name": "🏳️‍⚧️ TRANS PRIDE 2025 AT DALSTON SUPERSTORE FT. MYKKI BLANCO !! 🏳️‍⚧️",
+        "venue": "Dalston Superstore",
+        "address": "117 Kingsland High Street,  London,  E8 2PB",
+        "time": "22:00-27:00",
+        "date": "Jul 26",
+        "price": "£10",
+        "type": "party",
+        "tags": [
+            "dancing",
+            "fundraiser",
+            "queer",
+            "art",
+            
+        ],
+        "description": "Dalston Superstore proudly presents our annual TRANS PRIDE party & fundraiser!!!  🎉\nAll proceeds go to Not A Phase: the trans-led, grassroots charity committed to uplifting and improving the lives of trans+ adults through awareness campaigning, social projects and funding trans+ lead initiatives.\nCome down after the London Trans Pride march for an absolutely stacked lineup alll nite long 😈💘 With some surprises in store to keep your eyes peeled for…\n\nSTARRING:\nMYKKI BLANCO (DJ SET) \nMYA MEHMI\nHAZEL MARIMBA\nHARIETTA\nIAN THE DJ\nMISTERRCHA\nDJ DOLL\nSAKEEMA\nCHERRY\n\nGrab your tix now to secure your spot on the dancefloor!!! ",
+        "image": "https://cdn.outsavvy.com/events/e6420d11-9c48-4c31-9ba5-1595d09cd7e3.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28904/-trans-pride-2025-at-dalston-superstore-",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.645317",
+        "generes": [
+           
+        ]
+    },
+
+    {
+        "id": 3350117967,
+        "name": "LUCID - Sober Rave",
+        "venue": "COVEN",
+        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+        "time": "17:00-20:00",
+        "date": "Jul 19",
+        "price": "£10",
+        "type": "party",
+        "tags": [
+            "dancing",
+            "social",
+            "party",
+            "lgbtq+",
+            "sober"
+        ],
+        "description": "A Queer Sober Pop Rave LUCID is a sweaty, sexy, sober utopia for the queer community — a pop-fuelled fever dream where clarity meets chaos. \nNo booze. \nNo bullshit. \nJust high-energy euphoria, booming beats, and unfiltered connection. \n Expect a leather-slicked night of raunch, rhythm and radical joy, powered by thumping queer anthems and a floor full of sweaty bodies in motion. Alongside the dancefloor, explore a hand-picked market of queer makers and creatives, including a flash tattoo stall, DIY necklace-making, and more immersive delights. LUCID is a celebration of presence, power, and pleasure — no fog, just fire. Come lucid. Leave electric. ",
+        "image": "https://cdn.outsavvy.com/events/f899a938-1b43-4917-ba36-211449e424b8.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28839/lucid-sober-rave",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.645446",
+        "generes": [
+            "pop"
+        ],
+        "age": "18+"
+    },
+    {
+        "id": 1596582643,
+        "name": "After Life Drawing",
+        "venue": "Coven",
+        "address": "Queen's Yard,  London,  E9 5EN",
+        "time": "12:00-14:00",
+        "date": "Jul 20",
+        "price": "Pay what you can",
+        "type": "workshop",
+        "tags": [
+            "social",
+            "queer",
+            "bisexual",
+            "art"
+        ],
+        "description": "Queer life drawing @coven (above Fabwick) in Queen’s Yard, Hackney Wick\n To be hosted by Spencer Grimshaw (slpgtattoo), artist and tattooist\n After moving to London a year ago Spencer found that the life drawing sessions available either didn’t feature a diverse range of models, didn’t feel like a safe space for queer people or weren’t regular enough to create a community so decided to create that space and community of like minded people\n All abilities are welcome from beginner to experienced! As I will be offering options to be tutored or non-tutored\n\nWe will be here every Sunday beginning on 6th July\n Materials will be provided however, if there is anything specific that you require please provide this yourself\n Every week we will be hosting a diverse range of queer models\nThis weeks model Zach Witness! (@zachwitness) ",
+        "image": "https://cdn.outsavvy.com/events/2c1bec75-5483-4f22-96fb-31ea6ce42440.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28679/after-life-drawing",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.645511",
+        "generes": [
+            
+        ],
+        "age": "18+"
+    },
+    {
+        "id": 4115733637,
+        "name": "MINDFUL MOVEMENT WITH THEO CANHAM SPENCE",
+        "venue": "COVEN",
+        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+        "time": "14:30-16:00",
+        "date": "Jul 20",
+        "price": "£10",
+        "type": "workshop",
+        "tags": [
+            "dancing",
+            "bisexual",
+            "workshop",
+            "art"
+        ],
+        "description": "Theo Canham-Spence is a London-based contemporary dance artist and trainee Dance Movement Psychotherapist. His practice weaves together mindful movement, somatic exploration, writing, and reflection to support emotional awareness and embodied expression. Rooted in Dance Movement Psychotherapy theory, Theo’s workshops offer a dynamic, non-clinical space to explore the question: “What is the difference between being moved and choosing to move?” \nParticipants are invited to gently meet themselves through movement, deepening connection to presence, emotion, and insight.",
+        "image": "https://cdn.outsavvy.com/events/a666f499-3913-4ef3-8d35-6ca38600a541.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28880/mindful-movement-with-theo-canham-spence",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-07-19T09:41:33.645580",
+        "generes": [
+            
+        ],
+        "age": "18+"
+    },
+    {
+        "id": 60,
+        "name": "MID WEEK SESSION XXIII",
+        "venue": "AMP Studios",
+        "address": "Arches 68-71, Old Kent Rd, London, SE15 1NL",
+        "time": "19:00-00:00",
+        "date": "Jul 24",
+        "price": "£10-£20",
+        "type": "party",
+        "tags": [
+            "dancing",
+            "hardgroove",
+            "lgbtq+",
+            "outdoor",
+            "indoors"
+          
+        ],
+        "description": "MID WEEK SESSION XXIII - AMP studios (outdoors & indoors) \n\nFor our 23rd edition we have something special prepared - bringing the party to an open-air dancefloor for sun, music and community. \n\nFull lineup includes a journey of hardgroove and electro perfect for a beautiful sunny evening - some of the grooviest artists of the London Underground Scene plus, to celebrate our 23rd edition, a hybrid vinyl and digital set by our founder's newest project DELARA. \n\nThere will be a limited capacity in the event of 150, secure your tickets before they run out. Above all, Mid Week Session is an inclusive community of individuals. If you don't have enough money to purchase tickets and want to come get in touch with us.\n\nMake sure to give us a follow @midweeksession \n\nSee you there!\nXX",
+        "image": "https://images.ra.co/ca47ea2f1cc29939203bd452877ca614e8e7e46a.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2193307",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "hardgroove",
+            "trance"
+            
+        ],
+        "age": "18+"
+    },
+    {
+        "id": 61,
+        "name": "Leztopia: Margate Pride",
+        "venue": "Margate Arts Club",
+        "address": "276 Northdown Road,  Margate,  CT9 2PT",
+        "time": "19:00-02:00",
+        "date": "Aug 8",
+        "price": "£5-£12",
+        "type": "party",
+        "tags": [
+            "dancing",
+            "pride",
+            "party",
+            "flinta",
+            "lesbian"
+
+        ],
+        "description": "LEZTOPIA: MARGATE PRIDE \nFriday 8 August | 19:00–02:00 | Margate Arts Club\n\nLeztopia lands in Margate to kick off Pride weekend with a stacked FLINTA lineup and a night of high-energy music, dancing, and community.\n\nExpect choons from some of the scene’s finest, brought together for one night only in an intimate, queer-led space. \n\nLineup: \nFancy Shews! • Bertie (AU) • Rach • Katie Baxter • Elianne • Liry \n\nThis is a party for lesbian and FLINTA communities. ",
+        "image": "https://cdn.outsavvy.com/events/daf0fa0e-ecf1-4a28-bc06-b611693912d7.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28868/leztopia-margate-pride",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "pop",
+            "house",
+            "electronic"
+            
+        ],
+        "age": "18+"
+    },
+    {
+        "id": 62,
+        "name": "UK Black Pride Official After Party",
+        "venue": "Colour Factory",
+        "address": "8 Queen's Yard,  London,  E9 5EN",
+        "time": "21:00-03:00",
+        "date": "Aug 10",
+        "price": "£10-£20",
+        "type": "party",
+        "tags": [
+            "dancing",
+            "pride",
+            "party",
+            "poc",
+            "lgbtq+"
+
+        ],
+        "description": " Saturday 10th August @ 9PM – 3AM | Colour Factory\n\nThis year marks UK Black Pride’s 20th anniversary, and we're celebrating in full force at our Official After Party at Colour Factory. \n\nJoin us for a night that honours the revolutionary impact of queer BIPOC women, non-binary, and trans DJs who’ve shaped London’s soundscape from 1982 to today. These DJs have been the architects of queer nightlife, sound innovation, and resistance. This party is about recognising that legacy and the continued becoming of our queer scene. \n\nHeld at Colour Factory (Hackney Wick) on 10th August from 9 PM to 3 AM, this fundraising celebration will take over two dance floors, featuring the queer BIPOC DJs and collectives who’ve paved the way and those still pushing boundaries. \n\nFrom legends like Systematic (est. 1982) to today’s fiercest queer BIPOC collectives like Pxssy Palace, POPOLA, Queer Rave Sound System, Pink Island Collective, Fluid, and more. These trailblazers have championed AFAB BIPOC bodies and built affirming spaces where queer women, non-binary, and trans folx shine.",
+        "image": "https://cdn.outsavvy.com/events/5cbbc182-04ee-4b81-afe6-a761bcd3cde3.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28913/uk-black-pride-official-after-party-20th-anniversary-at-colour-factory",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "afrobeats",
+            "Hip Hop",
+            "Baile Funk",
+            "UK Bass",
+            "rave",
+            "soca",
+            "dancehall",
+            "electronic"
+            
+        ],
+        "age": "18+"
+    },
+    {
+        "id": 63,
+        "name": "Ther London Dyke Market",
+        "venue": "Space Station Sixty-Five",
+        "address": "373 Kennington Road, London, SE11 4PT",
+        "time": "13:00-18:00",
+        "date": "Aug 16",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+            "market",
+            "street vendors",
+            "art",
+            "writers",
+            "lgbtq+"
+
+        ],
+        "description": "The London Dyke Market is back! \n\nAfter a successful debut last summer with nearly 2,000 attendees, @thelondondykemarket returns to Space Station Sixty-Five gallery in South London on Saturday 16th August 2025, from 1 - 6pm.  \n\nCurated by @withamemily, this is a community-led event showcasing stalls from the UK’s leading dyke artists, writers and creators. \n\nAll welcome, fully wheelchair accessible, no entry fee. \n\nSee you there!",
+        "image": "images/dykemarket.png",
+        "website_link": "https://www.instagram.com/thelondondykemarket/?hl=en",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "insta",
+        "scraped_date": "",
+        "generes": [
+
+        ],
+        "age":""
+    },
+    {
+        "id": 64,
+        "name": "C-SUITE: the Chappell, Carly, and Charli club night",
+        "venue": "Metropolis London Cafe",
+        "address": "72 Albert Embankment,  London,  SE11 5AW",
+        "time": "13:00-18:00",
+        "date": "Aug 1",
+        "price": "£10-£12",
+        "type": "social",
+        "tags": [
+            "karaoke",
+            "quiz",
+            "party",
+            "lgbtq+"
+
+        ],
+        "description": "The London Dyke Market is back! \n\nAfter a successful debut last summer with nearly 2,000 attendees, @thelondondykemarket returns to Space Station Sixty-Five gallery in South London on Saturday 16th August 2025, from 1 - 6pm.  \n\nCurated by @withamemily, this is a community-led event showcasing stalls from the UK’s leading dyke artists, writers and creators. \n\nAll welcome, fully wheelchair accessible, no entry fee. \n\nSee you there!",
+        "image": "https://cdn.outsavvy.com/events/cd665fa8-93f2-4088-a48f-1c57124022c8.png",
+        "website_link": "https://www.instagram.com/thelondondykemarket/?hl=en",
+        "ticket_link": "https://www.outsavvy.com/event/27064/c-suite-the-chappell-carly-and-charli-club-night",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "pop"
+
+        ],
+        "age":"18+"
+    },
+
+
+
+
+    
 ];

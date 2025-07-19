@@ -33,6 +33,33 @@ A map-based web application showing queer events in London during Pride season.
 3. Set source to "Deploy from a branch" → "main" → "/ (root)"
 4. Your site will be available at `https://yourusername.github.io/PrideMap/`
 
+## Custom Domain Setup (onmygaydar.com)
+
+### DNS Configuration in GoDaddy:
+
+1. Log into your GoDaddy account
+2. Go to DNS Management for onmygaydar.com
+3. Add these A records:
+   - `@` → `185.199.108.153`
+   - `@` → `185.199.109.153`
+   - `@` → `185.199.110.153`
+   - `@` → `185.199.111.153`
+4. Add CNAME record:
+   - `www` → `yourusername.github.io` (replace with your GitHub username)
+
+### GitHub Pages Settings:
+
+1. In your repository Settings → Pages
+2. Enter `onmygaydar.com` in the Custom domain field
+3. **Check "Enforce HTTPS"** (this is crucial for SSL)
+4. Save the settings
+
+### SSL Certificate:
+
+- GitHub Pages will automatically provision an SSL certificate
+- It may take up to 24 hours for the certificate to be active
+- The CNAME file in this repository should contain: `onmygaydar.com`
+
 ## Security Note
 
 Monitoring usage of API key, please use your own.
