@@ -101,6 +101,7 @@ async function geocodeAllEvents() {
         }
     }
     
+    
     // Now that all events have coordinates, show them
     filterEvents('all');
 }
