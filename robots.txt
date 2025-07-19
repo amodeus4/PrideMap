@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://onmygaydar.com/sitemap.xml
+
+# Security
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+Disallow: /.github/ 
