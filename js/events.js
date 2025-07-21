@@ -1,21 +1,5 @@
 const events = [
-    {
-        id: 1,
-        name: "Avalon Summer Market",
-        venue: "Avalon Cafe",
-        address: "Juno Way, SE14 5RW",
-        time: "13:00-18:00",
-        date: "Jul 13",
-        price: "Free",
-        type: "social",
-        tags: ["Pop-up Shop", "Market", "BBQ", "Clothing"],
-        description: "🌹 THIS SUNDAY ! We are turning Avalon into one big pop-up shop! 🌹 \n\nFull of independent makers and local designers. 🌾 \n\nIt set to be a scorcher ! 🌤🌷 \nso it would be rude not to get the BBQ out! 🦐🍒🌭 \n\nWith stalls indoors and out ft. \n\njewellery / ceramics / clothing / keychains / accessories / glass work / print and publications / latex / bikinis / zines and more !!!!",
-        image: "images/avalon1.png",
-        website_link: "https://www.instagram.com/avaloncafebermondsey/?hl=en",
-        ticket_link: "",
-        coordinates: null,
-        sellingFast: false
-    },
+    
     {
         id: 2,
         name: "London Trans pride",
@@ -34,73 +18,8 @@ const events = [
         sellingFast: false
     },
     
-    {
-        id: 3,
-        name: "Popola: Pride Edition",
-        venue: "The Jam Jar",
-        address: "The Old Malt House, Little Ann St, BS2 9EB",
-        time: "22:00-4:00",
-        date: "Jul 12",
-        price: "£0-12",
-        type: "party",
-        tags: ["QTIPOC","Queer"],
-        description: "Amores\n\nVery excited to announce our Twerk Temple Pride Extra Special Edition on 12th July at the beloved Jam Jar\n\nBringing our Twerk Temple decolonising sanctuary where diasporic queens, QPOC babes, and allies come together to honour heritage and celebrate culture. Where Latinx and Afro-Caribbean culture comes alive through reggaeton, soca, dancehall, salsa, afrobeats, and moreee\n\nExpect a night of joyful, anti-colonial resistance as incredible DJs, go-go perras, and performers take you on a caliente journey of self-expression, liberation, and pure ancestral fire\n\nMusic by:\n\n- Girl on Girl DJ Collective - Fierce queer non-binary collective celebrating sexuality through art and movement, crafting sacred spaces for authentic self-expression.\n\n- DJ Ivicore - Explosive Venezuelan force delivering electrifying Latinx and Caribbean fire with her signature Elektro Afro Perreo sound.\n\n- DJ Cheza - Multi-dimensional artivist weaving soca, dembow, amapiano, jungle, dubstep, and garage into transcendent underground liberation.\n\nLimited free tickets for our QPOC babes\nEarly bird tickets start at £5\n\nNos vemos",
-        image: "images/popola.png",
-        website_link: "",
-        ticket_link: "https://www.headfirstbristol.co.uk/whats-on/jam-jar/sat-12-jul-popola-extra-special-pride-edition-132095#e132095",
-        coordinates: null,
-        generes: ["Afrobeats", "Raggaeton", "Electro", "Salsa", "Dancehall"],
-        age: "18+",
-        sellingFast: false
-    },
+    
 
-    {
-        id: 4,
-        name: "Queer Film Club",
-        venue: "The Green House",
-        address: "244-254 Cambridge Heath Road,  London,  E2 9DA",
-        time: "18:30-21:30",
-        date: "Jul 12",
-        price: "Free",
-        type: "party",
-        tags: ["POC", "Queer Migrants"],
-        description: `📅 Date: Monday, 21st of July 2025 (more dates soon!)
-🕡 Time: Doors 18:30, Movie introduction 18:50, Screening 19:00 (sharp!)
-📍 Location: THE LOVE TANK, 244-254 Cambridge Heath Rd, Cambridge Heath, London E2 9DA
-
-Step into the vibrant world of LGBTQ+ cinema with our Queer Film Club, specially curated for queer migrants and queer people of colour and hosted by Krzysztof Dubicki, a Polish queer film expert. Discover powerful, independent, queer films from across the globe, each thoughtfully selected to celebrate diverse voices and stories, as Krzysztof guides us through an evening of cinematic exploration. With his background in film and screen media studies, along with his role as an assistant to the London Independent Film Festival, Krzysztof is always up to date with the newest film premieres, ensuring an enriching and engaging experience for all attendees.
-
-📽️Movie we will see📽️
-
-Supernova (2020) Sam and Tusker are traveling across England in their old RV to visit friends, family and places from their past. Since Tusker was diagnosed with dementia two years ago, their time together is the most important thing they have.. For trailer click here.
-
-What to Expect: 
-
-🎬 Film Screenings: Experience ambitious and inspiring LGBTQ+ films that delve into themes of identity, love, and resilience. 
-
-🎤 Engaging Introductions: Before each screening, dive into the film's background with a brief introduction and some fascinating fun facts. 
-
-🎙️ Exclusive Interviews: Gain deeper insights into the movie with interviews featuring actors or directors, available for viewing after the screening. 
-
-💬 Post-Film Discussions: Share your thoughts and insights in stimulating discussions exploring the film's themes or broader topics, fostering learning and connection within our community.
-
-Come as you are and join us for an enriching cinematic experience filled with warmth, inclusivity, and celebration of queer narratives. Reserve your free ticket now! 🌈🎬
-
-Stay Connected: 
-
-Follow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!
-
-Accessibility Information: 
-
-🏠 Accessible Venue: The event takes place on the step-free ground floor, with accessible toilets and wheelchair accessibility. 
-
-🔊 Language Accessibility: All movies will have either English dubbing or English subtitles.`,
-        image: "images/filmclub.png",
-        website_link: "https://www.instagram.com/thelovetankcic/?hl=en",
-        ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAadDT-2KPUQplrzpnI4E8uPhllcaqMfOoE9Cxu7Lq9t-42SSXM0QkOAhMqRPTg_aem_C1jA8EFvYjkT9SrFNOou4w",
-        coordinates: null,
-        sellingFast: true
-    },
 
     {
         id: 5,
@@ -122,98 +41,9 @@ Accessibility Information:
         sellingFast: true
     },
 
-    {
-        id: 6,
-        name: "Singles Night at La Camionera",
-        venue: "La Camionera",
-        address: "43 Well Street,  London,  E9 6RG",
-        time: "19:00-22:00",
-        date: "Jul 8",
-        price: "Free",
-        type: "social",
-        tags: ["Speed Dating", "Lesbian", "NB", "Trans"],
-        description: "Join us for an evening of speed dating, live matchmaking, and cocktails. Speed dating starts at 7 PM, but feel free to arrive from 4 to grab a drink, chat with others and meet some new faces before it all kicks off.Free tickets, and walk-ins are welcome after the event has started :) .  But we recommend you book ahead as it gets quite busy.  All ages are welcome, see you Tuesday.   XOXO This is a LGBTQTIA+ event",
-        image: "images/lacam.png",
-        website_link: "https://www.instagram.com/camionera.e9/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/28650/singles-night-at-la-camionera-free-tickets-080725",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 7,
-        name: "PIANO BAR KARAOKE",
-        venue: "Coven",
-        address: "Unit 4 Queen's Yard,  London,  E9 5EN",
-        time: "19:00-23:59",
-        date: "Jul 10",
-        price: "£5",
-        type: "social",
-        tags: ["Karaoke", "Queer"],
-        description: "Sing your heart out with a professional live pianist backing you up.  After the incredible success of our debut event, we're making this a weekly celebration. Whether you're belting out power ballads or crooning intimate classics, our talented pianist will make you sound like a star.Perfect for a great night out with friends in COVEN's intimate, inclusive atmosphere. Come solo and make new connections, or bring your crew for an unforgettable evening of music and community.Every Thursday from 6pm-midnight at the first permanent queer venue in Hackney Wick.",
-        image: "images/coven3.png",
-        website_link: "https://www.instagram.com/covenhackney/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/28687/piano-bar-karaoke-at-coven",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 8,
-        name: "THE RETURN TO LONDON: ZACH WITNESS & FRIENDS",
-        venue: "Coven",
-        address: "Unit 4 Queen's Yard,  London,  E9 5EN",
-        time: "20:30-01:30",
-        date: "Jul 11",
-        price: "£10",
-        type: "party",
-        tags: ["Music", "Dancing", "Queer"],
-        description: "London quieten down she needs to make a sound.  Texas born artist, DJ, and producer Zach Witness makes his official return home to London with his gang of supernova friends.  Expect dancefloor divinity from Rush Davis, Serenda b2b L-VIS 1990, Bestley, and Madame Gandhi.  As well as a very special live performance from Zach himself. Located at East London's new queer sanctuary, Coven 🕊️",
-        image: "images/coven5.png",
-        website_link: "https://www.instagram.com/covenhackney/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/28685/the-return-to-london-zach-witness-friends",
-        coordinates: null,
-        generes: ["Techno", "Electronic"],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 9,
-        name: "After Life Drawing",
-        venue: "Coven",
-        address: "Unit 4 Queen's Yard,  London,  E9 5EN",
-        time: "12:00-14:00",
-        date: "Jul 13",
-        price: "Pay what you can",
-        type: "workshop",
-        tags: ["Drawing", "Queer"],
-        description: "Queer life drawing @coven (above Fabwick) in Queen's Yard, Hackney Wick To be hosted by Spencer Grimshaw (slpgtattoo), artist and tattooist After moving to London a year ago Spencer found that the life drawing sessions available either didn't feature a diverse range of models, didn't feel like a safe space for queer people or weren't regular enough to create a community so decided to create that space and community of like minded people All abilities are welcome from beginner to experienced.  As I will be offering options to be tutored or non-tutoredWe will be here every Sunday beginning on 6th July Materials will be provided however, if there is anything specific that you require please provide this yourself Every week we will be hosting a diverse range of queer modelsThis weeks model TBA",
-        image: "images/coven6.png",
-        website_link: "https://www.instagram.com/covenhackney/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/28679/after-life-drawing",
-        coordinates: null,
-        age: "18+",
-        sellingFast: true
-    },
-    {
-        id: 10,
-        name: "BALLER FC x TEAM UHAUL DJS",
-        venue: "Signature Brew Haggerston",
-        address: "Railway Arches, 340 Acton Mews, London E8 4EA",
-        time: "19:00-00:15",
-        date: "Jul 11",
-        price: "£5",
-        type: "social",
-        tags: ["Women's Football", "Music", "DJs"],
-        description: "Slaying the Field's in the rearview mirror of our Uhaul truck, but we just can't get over those 🔥 vibes so we're bringing the Dyke Rescue DJs back to Haggerston this Friday night! \n\nWe've got Baller's Laura Brat back with Topbins tunes for pre-match warm up and 1-800 Dyke Rescue will finish you off after the game. \n\nDoors at 7pm, we're dual screening Portugal v Belgium AND Italy v Spain - it's going to be a total Barn Burner after witnessing the drama in group B this wk (Oh Mariona!) \n\nEarlybird tickets are £5. General Admission is £8. Limited amount of tickets available on the door!",
-        image: "images/ballerfc.png",
-        website_link: "https://www.instagram.com/ballerfc_ldn/?hl=en",
-        ticket_link: "https://www.tickettailor.com/events/ballerfc/1775337",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-
+   
+    
+   
 
     
     
@@ -236,25 +66,7 @@ Accessibility Information:
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 12,
-        name: "t'ARTopia",
-        venue: "VFD Dalston",
-        address: "66 Stoke Newington Road,  London,  N16 7XB",
-        time: "19:00-22:00",
-        date: "Jul 10",
-        price: "£8-9",
-        type: "social",
-        tags: ["Queer","Drag", "Comedy", "Poetry", "Cabaret", "Music"],
-        description: "Join us in t'ARTopia for a queer-curated night of drag, comedy, poetry, cabaret and music from some of our most delicious t'ARTs.\n\nWe have invited some of our favourite performers to entertain you all, at a night that will be nothing short of t'ARTopian.\n\nWe will be raising money for gender affirming surgery funds with this evening's raffle, so come with a couple of quid, win art and raise money for good causes!\n\nLet's get mouth-watering\n\nSchedule:\n7:15pm -  Doors Open\n7:30pm - Start\n10:00pm - End\n\nt'ART is a queer-led arts and lit collective, that creates space (on the page and in real life) for marginalised voices.",
-        image: "images/artopia.png",
-        website_link: "https://www.vfdalston.com",
-        ticket_link: "https://www.outsavvy.com/event/28072/tartopia",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-
+   
     {
         id: 13,
         name: "gayns presents: roadrunner",
@@ -678,44 +490,8 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
 
     
 
-    {
-        id: 35,
-        name: "Horse Meat Disco",
-        venue: "Eagle London",
-        address: "Eagle London, 349 Kennington Ln, London SE11 5QY, UK",
-        time: "20:30-03:00",
-        date: "Jul 13",
-        price: "£8.20",
-        type: "party",
-        tags: ["Queer"],
-        description: "London's legendary Sunday night discotheque, every Sunday at Eagle London for more than 21 years. With Jim Stanton and CJ Cooper. 8pm-3am with Vauxhall's best value Happy Hour drinks offers till 9pm. £8.",
-        website_link: "https://www.instagram.com/horse_meat_disco/?hl=en",
-        image: "images/horse1.png",
-        ticket_link: "https://www.eaglelondon.com/event-details/horse-meat-disco-2025-07-13-20-00",
-        coordinates: null,
-        generes: ["Disco","House"],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 36,
-        name: "Femmme Fraiche #056",
-        venue: "Dalston Superstore",
-        address: "117 Kingsland High Street,  London,  E8 2PB",
-        time: "21:00-04:00",
-        date: "Jul 19",
-        price: "£5-8",
-        type: "party",
-        tags: ["FLINTA", "Femme", "Butch", "Trans", "NB"],
-        description: "On Sat 17th May we're head back at the Mothership Dalston Superstore, for a sweaty summer affair, with a mixture of old friends and new faces. Our basement warm-up is none other than Leatherette and Tantrum mother, the one and only Milk Shandy and joining them we have an LA based legend, Stacy Christine a DJ known for her magnetic energy, eclectic taste, and deep roots in the LA city's underground dance scene. With our beloved resident Michelle Manetti closing out the basement, with hi-NRG fuelled house.\n\nUp in the bar we have a Femmme Fraiche debut DJ set from a longstanding FF regular Urlamelia, in fact, it's shameful quite how long it's taken for us to get her in for a set, because we know she delivers the slaggy bangers. Joining her is our fave NYC babe on her annual cross-Atlantic outing, Dinahfire – all this rounded off by our resident duo of Fraicheness Darren & Linzi on closing duties. Expect twisted pop, trash-tastic faves, and Cunty Slut-Pop bangers. \n\nFor gogo duties, we have Femmme Fraiche firecracker Sabrina Jade and regular superbabe Danni Spooner with, ass-shakin' sexy, stupendous bar-top antics. \n\n \n\nEntry is £8 b4 11pm / £10 after\n\n(for low salary income please contact us for discounted entry) \n\nWith a small selection of £5 early bird tickets and a limited number of General Admission tickets for sale online - these allow you Q-jump and are valid for entry until 11pm only. \n\n \n\nOnce these have sold out entry will be general admission tickets available on the door, on the night. \n\n \n\n*We operate a zero tolerance policy*\n\nOur event is FLINTA focused and aimed as a space for queer wxmn, Trans, NB, and they will be given priority. Allies and friends are welcome, providing they respect the space. ♡",
-        website_link: "https://www.instagram.com/femmmefraiche/?hl=en",
-        image: "images/femme.png",
-        ticket_link: "https://www.outsavvy.com/event/28336/femmme-fraiche-056-with-michelle-manetti-milk-shandy-stacy-christine-dinahfire-urlamelia-more",
-        coordinates: null,
-        generes: ["Techno", "House"],
-        age: "18+",
-        sellingFast: false
-    },
+ 
+   
     {
         id: 37,
         name: "Queer Stitch and Sip: Scrap Textile Collage Workshop",
@@ -1217,25 +993,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "",
         sellingFast: false
     },
-    {
-        id: 64,
-        name: "Horse Meat Disco",
-        venue: "Eagle London",
-        address: "349 Kennington Ln, London SE11 5QY",
-        time: "20:00-03:00",
-        date: "Jul 21",
-        price: "£8",
-        type: "party",
-        tags: ["Music", "Party", "Gay", "LGBTQ+"],
-        description: "London's legendary Sunday night discotheque, every Sunday at Eagle London for more than 21 years. With James Hillard and special guest Stacy Christine (LA). 8pm-3am with Vauxhall's best value Happy Hour drinks offers till 9pm. £8.",
-        website_link: "https://www.eaglelondon.com/horse-meat-disco",
-        image: "images/horsemeat1.png",
-        generes: ["house", "disco", "80s"],
-        ticket_link: "https://www.eaglelondon.com/event-details/horse-meat-disco-2025-07-20-20-00",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
+  
     {
         id: 65,
         name: "Queer Sober Social Launch Party - Leeds",
@@ -2526,5 +2284,37 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
 
         ],
         "age":"18+"
-    }
+    },
+    {
+        "id": 105,
+        "name": "Queer POC walk",
+        "venue": "Osterley Station",
+        "address": "Osterley Station,  Isleworth,  TW7 4PU",
+        "time": "11:00-13:30",
+        "date": "Jul 26",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+            "wellness",
+            "make friends",
+            "hike",
+            "queer"
+
+        ],
+        "description": "Join us for a relaxing Saturday morning walk in Osterley Park!\nThis event is for Queer POC women, nb and trans folks who want to make friends <3\nThis is the perfect chance to connect, explore nature together and meet new people :) P.S. most people come to these events alone :) \n\nKey points:\nSaturday 26th July, 11am, 2 hour\nMeeting point: Osterley Station (Picadilly line) \nThis will be a low intensity walk \n\nextra info: 2pm is Trans pride march, so anyone who is planning to go can travel together after the walk",
+        "image": "https://cdn.outsavvy.com/events/44a7e7c2-f965-42f5-b691-a7c5250d4324.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28953/queer-poc-walk-osterley-park?fbclid=PAZXh0bgNhZW0CMTEAAaex4DFopbNApwotqtbM1vwn8IXL4maR-8LdEMyEbA2J_RuNrfhnpyjbwzNZ2Q_aem_K9Nbj5WJThOZWNNixAxzBQ",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+           
+
+        ],
+        "age":"18+"
+    },
+
+
 ];
