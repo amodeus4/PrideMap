@@ -18,8 +18,6 @@ const events = [
         sellingFast: false
     },
     
-    
-
 
     {
         id: 5,
@@ -41,70 +39,11 @@ const events = [
         sellingFast: true
     },
 
+  
    
-    
-   
+ 
 
-    
-    
-    {
-        id: 11,
-        name: "Trans Pride",
-        venue: "Dalston Superstore",
-        address: "117 Kingsland High Street, London, E8 2PB",
-        time: "22:00-4:00",
-        date: "Jul 26",
-        price: "£8-10",
-        type: "party",
-        tags: ["Party", "Trans", "Queer"],
-        description: "Dalston Superstore proudly presents our annual TRANS PRIDE after party on Saturday 26th of July 2025.",
-        image: "images/dalston2.png",
-        website_link: "https://www.instagram.com/dsuperstore/?hl=en",
-        ticket_link: "https://dalstonsuperstore.com/event/trans-pride-2025/",
-        coordinates: null,
-        generes: ["House", "Techno", "Pop"],
-        age: "18+",
-        sellingFast: false
-    },
-   
-    {
-        id: 13,
-        name: "gayns presents: roadrunner",
-        venue: "Potters Fields Park",
-        address: "Tooley Street, London, England, SE1 2UD",
-        time: "9:00-11:30",
-        date: "Jul 12",
-        price: "Free",
-        type: "social",
-        tags: ["Running Club", "LGBTQ+"],
-        description: "a free, weekly run club for gay and queer people in central london.",
-        image: "images/gayns2.png",
-        website_link: "",
-        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-roadrunner-tickets-1006397922277",
-        coordinates: null,
-        sellingFast: false
-    },
-    
-
-    {
-        id: 14,
-        name: "RIPOSTE - HOT QUEER DAY RAVE & clothes swap",
-        venue: "The Cause",
-        address: "60 Dock Road, London, E16 1YZ",
-        time: "14:00-23:00",
-        date: "Jul 13",
-        price: "£16-19",
-        type: "party",
-        tags: ["Rave", "Playroom", "Clothes Swap", "Art"],
-        description: "HOT HOT LINE UP \n2 DANCEFLOORS\n1 PLAYROOM\nPERFORMANCES\nHUGE CLOTHES SWAP:Bring something & leave with something!",
-        image: "images/reposte.png",
-        website_link: "https://www.instagram.com/riposte.london",
-        ticket_link: "https://ra.co/events/2175793",
-        coordinates: null,
-        age: "18+",
-        generes: ["Techno", "House"],
-        sellingFast: false
-    },
+ 
     
 
     {
@@ -126,58 +65,9 @@ const events = [
         age: "18+",
         sellingFast: true
     },
-    {
-        id: 16,
-        name: "gayns presents: rush",
-        venue: "The Ministry, Borough",
-        address: "79-81 Borough Road, London, England, SE1 1DN",
-        time: "10:30-11:30",
-        date: "Jul 12",
-        price: "£15",
-        type: "social",
-        tags: ["Conditioning", "LGBTQ+"],
-        description: "A 45 minute conditioning class",
-        image: "images/gayns3.png",
-        website_link: "",
-        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-rush-tickets-1127536836029",
-        coordinates: null,
-        sellingFast: false
-    },
-    {
-        id: 17,
-        name: "gayns presents: fold",
-        venue: "The Ministry, Borough",
-        address: "79-81 Borough Road, London, England, SE1 1DN",
-        time: "10:30-11:30",
-        date: "Jul 12",
-        price: "£15",
-        type: "social",
-        tags: ["Yoga", "LGBTQ+"],
-        description: "An hour long yoga class with george pearse",
-        image: "images/gayns4.png",
-        website_link: "",
-        ticket_link: "https://www.eventbrite.co.uk/e/gayns-presents-fold-tickets-1127557858909",
-        coordinates: null,
-        sellingFast: false
-    },
-    {
-        id: 18,
-        name: "PxssyCat Club",
-        venue: "Secret Location",
-        address: "",
-        time: "16:00-22:30",
-        date: "Jul 13",
-        price: "£20",
-        type: "party",
-        tags: ["Rave", "Playroom", "FLINTA", "Performance", "No Cis Men"],
-        description: "Founded by the team behind Catnip, we are run by and for queer, POC, trans and SWer individuals. We're here to create the safe and sxxy space we need to dance, connect and play, free from the judgement and expectations of hetero and cis-normative society. For this reason, Pxssycat Club is FLINTA (Female, Lesbian, Intersex, Nonbinary, Trans and Agender) ONLY.  We do not admit cis men.\n\nWe do ask that you read our rules on Instagram here before attending.\n\nWe have an experienced welfare team who will be on hand throughout the event to ensure attendees are safe, respected and well cared for. They will be identifiable by LED armbands. Consent and safety is PxssyCat Club's number one priority. Take care not to over-intoxicate, look out for each other, and always reach out to a safeguard if you need assistance.\n\nVetting:\nVetting for PxssyCat Club is done on the door (also known as a vibe check) with a short conversation at the point of scanning your ticket.  This is not as scary as it sounds, our welfare team are lovely, it is simply to ensure guests are aware of our rules and the space they are entering and will be respectful of each other.\n\nWe will not police anyone's gender expression, we simply ask for your honesty and sincerity that you belong to at least one of the identities in the FLINTA (Female, Lesbian, Intersex, Nonbinary, Trans and Agender) acronym.\n\nWe will reject or eject anyone who is found to be making other guests uncomfortable or breaking the PxssyCat Club Rules.\n\nDresscode:\nThis is the place to show up as your sexiest self!\n\nIn order to maintain the vibe of PxssyCat Club, we ask guests to stick to kink wear. We expect to see leather, lingerie, rubber, fishnets, harnesses, latex etc. Feel free to wear affirming items such as binders and packers.\n\nLow effort, casual day-wear and jeans are not allowed. This is to make sure no other guests are made to feel uncomfortable when dressed up.\n\nWe encourage everyone to express their creativity through their outfits, but please avoid cultural appropriation, cop or military styles.\n\nAccessibility Information:  \nAs always, for the safety of all our guests the venue details are top secret.  Full details will be sent to ticket holders 24hrs before the event.\n\nWhat we can say, is the closest rail links are Hoxton, Cambridge Heath and Bethnal Green.\n\nTo enter Pxssycat Club the door is off the main street, it has a shutter 2150mm wide and 1920mm tall, followed by 7 steps with a handrail on one side leading to heavy-duty double doors. This entrance is on the same level as the WCs. There are three WCs in total, two with accordion doors and one slightly larger with a sliding door.\n\nThere is an alternative entrance which leads on to the main road which is 910mm wide and 2190mm tall and acts as a fire exit. To exit the venue this way, there are 12 steps, including some spiral steps, with a handrail on one side. To reach those stairs from the main floor you'll step on a small elevated platform before accessing the steps.\n\nDue to the venue being in a locally listed building, we are unfortunately unable to to provide lift or ramp access. For more accessibility info, please feel free to contact us.\n\nConcessions:\nWe have a limited number of low cost tickets for low income, SW and vulnerable attendees.\n\nIf you would like a code to unlock our concession tickets, please send an email to catnip.productions.london@gmail.com\n\nWe also have a small donation-based cab fund for vulnerable attendees which allows us to contribute towards fares, we encourage those with the means to donate to this fund when buying your ticket.\n\nAs it is donation based we are unable to specify how much we can contribute until after the event so please ensure, if you need a taxi home, that you have it covered.\n\nTo access the fund please contact us at catnip.productions.london@gmail.com within 24hrs of the event starting, we will add your name to the list and send details on how to claim it the following day.\n\n 15% off with code G3t$tr@pp3d",
-        image: "images/pxssycat.png",
-        website_link: "https://www.instagram.com/pxssycatclub_london/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/27635/pxssycat-club-july-13th-2025?fbclid=PAZXh0bgNhZW0CMTEAAafyI8fK87oJ5haN60wZdwRNgztSBqZmFRFqnyHdp4JPETjhZzSntCH-88xs_g_aem_NbJi_24YAc5T3K0pGW4RAw",
-        age: "21+",
-        coordinates: null,
-        sellingFast: false
-    },
+  
+
+   
    
     {
         id: 19,
@@ -199,59 +89,7 @@ const events = [
         sellingFast: false
     },
    
-   
-   
-   
-    {
-        id: 20,
-        name: "THE LESBIAN PUB QUIZ",
-        venue: "The Clapham North Pub",
-        address: "409 Clapham Road Upstairs bar London SW9 9BT",
-        time: "19:00-22:00",
-        date: "Jul 20",
-        price: "£11.55",
-        type: "party",
-        tags: ["LGBTQ+"],
-        description: "Every month this quiz attracts a room full of competitive queers ready to test their LGBTQ knowledge and chance winning fabulous prizes!",
-        image: "images/island.png",
-        website_link: "https://www.instagram.com/lesbian_island_/?hl=en",
-        ticket_link: "https://www.eventbrite.co.uk/e/the-lesbian-pub-quiz-tickets-1409338522459?aff=ebdsoporgprofile&_gl=1*nwy600*_up*MQ..*_ga*MTk0ODM2MjUwMi4xNzUxMjI2MjI0*_ga_TQVES5V6SH*czE3NTEyMjYyMjQkbzEkZzAkdDE3NTEyMjYyMjQkajYwJGwwJGgw",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    
-    
 
-
-    {
-        id: 21,
-        name: "STRUT: Queer Line Dancing",
-        venue: "Coven",
-        address: "FABWICK, Queen's Yard, London E9 5EN",
-        time: "19:00-22:00",
-        date: "Jul 15",
-        price: "Sold Out",
-        type: "workshop",
-        tags: ["Queer", "Line Dancing"],
-        description: `Giddy up girls, gays, and theys—assemble your posse because STRUT Queer Line Dancing is moseying into town!<br><br>
-Come learn to line dance with other queer hotties to Chappell Roan, Beyoncé, Britney, Charli XCX, Rihanna, Lady Gaga, Janet Jackson, Caroline Polachek, country classics, and more!<br><br>
-<strong>Discounted tickets for QTIBPOC</strong><br>
-<strong>Lessons from 7:30pm – no experience necessary</strong><br><br>
-You'll learn a bunch of beginner-friendly follow-alongs and two full line dances, with breaks and an open dance floor for requests throughout.<br><br>
-Polish your boots and get ready to STRUT!<br><br>
-<strong>ACCESSIBILITY:</strong><br>
-The venue is above FABWICK, accessed via a set of metal stairs and is unfortunately not currently wheelchair accessible.<br><br>
-Line dancing involves footwork such as stepping from foot to foot in different directions, stamping, kicking, and winding steps like the grapevine, as well as twisting, turning, and spinning.<br><br>
-There is a covered outdoor terrace with picnic benches and plenty of seating inside the venue at the back of the dance floor.`,
-        image: "images/coven4.png",
-        website_link: "https://www.instagram.com/strut.ldn/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/28477/strut",
-        coordinates: null,
-        generes: ["Country", "Pop", "Rock"],
-        age: "18+",
-        sellingFast: false
-    },
     {
         id: 22,
         name: "A Woman Like Eve + ScreenTalk with director Nouchka van Brakel",
@@ -290,68 +128,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         sellingFast: false
     },
     
-    
 
-    {
-        id: 25,
-        name: "~\\ LILITH //~ chrysalis",
-        venue: "Secret Location",
-        address: "",
-        time: "14:00-23:00",
-        date: "Jul 12",
-        price: "Donations",
-        type: "party",
-        tags: ["Day Party", "BBQ", "Queer"],
-        description: "🦋𝓬𝓱𝓻𝔂𝓼𝓪𝓵𝓲𝓼 𖤓 𝓰𝓸𝓸 𖤓 𝓭𝓲𝓪𝓹𝓱𝓪𝓷𝓸𝓾𝓼 𖤓 𝓫𝓵𝓸𝓸𝓶 𖤓 𝓹𝓾𝓹𝓪𝓮 𖤓 𝓹𝓪𝓻𝓽𝔂 🦋\n\n🥵delicious activities to be announced - basic bitch bbq, SO MUCH MORE tba 👀\n\n🍬sweetheart DJ line up🍬\n\nGoh\nInda Flo\nAilish\nWatcha\nKamran\nHeavedny\nlilith luvrs more tba\n\n\n🧚🏻‍♂️keep eyes peeled + hearts open for delicious activities announcement🧚🏻‍♂️\n\n\n\n🌀20 min walk from Enfield Lock station - riverside party spot 🌀we dance under a willowtree 🧚🏻‍♂️\n\n\n\nevent location sent to ticket holders the day before.\n\n\n\nDonation-based tickets, pay-what-you-can.\n\nWe break even if everyone chips in around £15 - this will include snacks, activities etc. but anything appreciated x",
-        image: "images/lilith.png",
-        website_link: "",
-        ticket_link: "https://www.eventbrite.com/e/lilith-chrysalis-tickets-1391278975869",
-        coordinates: null,
-        generes: ["Afrobeats", "UK Bass", "Edits", "House"],
-        age: "18+",
-        sellingFast: false
-    },
-
-    {
-        id: 26,
-        name: "🍑 BOTTOM HEAVY 🍑",
-        venue: "Dalston Superstore",
-        address: "117 Kingsland High Street,  London,  E8 2PB",
-        time: "22:00-04:00",
-        date: "Jul 12",
-        price: "£8-10",
-        type: "party",
-        tags: ["Queer", "Dancing"],
-        description: "Superstore daddy Dan Beaumont and Bottom Heavy resident Wes Baggaley are back and bum to bumming all night long in the lazercave for another edition of Bottom Heavy.  House music for gays from Chicago and Detroit via Wigan. On the top deck, Superstore favourites Stav B, Ryussi &amp; Margo Broom serve up disco debauchery and dancefloor hits n misses all damn night. Shaking their peaches on the bar will are East London icons Cherry and Loren Dell'Arco 🍑CUM N PLAY XXX ",
-        image: "images/bottom.png",
-        website_link: "",
-        ticket_link: "https://www.outsavvy.com/event/28244/-bottom-heavy-",
-        coordinates: null,
-        generes: ["Disco", "Detroit House", "Chicago House"],
-        age: "18+",
-        sellingFast: false
-    },
-
-    
-    {
-        id: 27,
-        name: "Klub Verboten: TEARS FOR BEERS x EAST",
-        venue: "Secret Location",
-        address: "",
-        time: "19:00-22:45",
-        date: "Jul 16",
-        price: "£15",
-        type: "social",
-        tags: ["Kinky", "Queer"],
-        description: "* PLEASE READ ALL FAQs IN TICKET LINK BEFORE BUYING A TICKET *",
-        image: "images/beers.png",
-        website_link: "https://www.instagram.com/klubverboten/?hl=en",
-        ticket_link: "https://dice.fm/event/6d6r67-tears-for-beers-x-east-16th-jul-undisclosed-location-london-london-tickets",
-        coordinates: null,
-        generes: ["Techno"],
-        age: "21+",
-        sellingFast: false
-    },
 
     {
         id: 28,
@@ -373,161 +150,6 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         sellingFast: true
     },
 
-    
-    {
-        id: 29,
-        name: "club cetera: angel 777 launch",
-        venue: "Ormside Projects",
-        address: "32 Ormside St, London SE15 1TR",
-        time: "23:00-05:00",
-        date: "Jul 12",
-        price: "£10-15",
-        type: "party",
-        tags: ["FLINTA", "Allies", "Undeground"],
-        description: "step into the ethereal & enter all things club music •*¨*•.¸¸☆*\n\ncelebrating melba's 'angel 777' EP launch on Hypercolour. featuring a SUPER special secret headliner to transcend your expectations on club music, which will be revealed JUST before the night...\n\nguaranteed innovative and energetic certified bangers. expect club beats, femme and FLINTA* centred aura, sexy sonics, fast bpm's and contagious melodies.\n\nmoving through club edits, footwork, deconstructed club, trance and everything in-between.\n\nNectax, melba, e-kitty, princess elf bar & bemme blu will all be brining their own unique and individual flavours which transcend genres and aid in the natural flow of music progressing through the night.\n\ncombining inclusivity and underground club sounds. club cetera in London will be a really unique experience at the beautiful ormside projects.\n\nour previous events welcomed Miss Jay, Evissimax, and latesleeper (as Peroxiide). And this next headliner wont disappoint.\n\ndiscounted tickets available for QTPOC/low income. no one will be turned away for the lack of funds. message on socials for this <3 @clubcetera\n\n♡ 𝓙𝓾𝓵𝔂 12\n♡ ormside projects, London\n♡ tickets: £7/£9/£12/£15\n\n𓆩♡𓆪",
-        image: "images/cetera.png",
-        website_link: "https://www.instagram.com/clubcetera/",
-        ticket_link: "https://ra.co/events/2190104?fbclid=PAZXh0bgNhZW0CMTEAAac4Q1Hhu0KSWNS0ojtZj0vbSIfoxEo2l8o_bgmW7g17eqTy2NnzX3z4BRMKmg_aem_nwEli3lVg344dOFAydtwHw",
-        coordinates: null,
-        generes: ["Fast", "160bpm", "Club", "Breaks", "Baile Funk"],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 30,
-        name: "SOMA PEOPLE Summer Day Party",
-        venue: "Night Tales Loft",
-        address: "207, 1 Westgate St, Hackney, London E8 3RL",
-        time: "15:00-23:00",
-        date: "Jul 13",
-        price: "£15-25",
-        type: "party",
-        tags: ["FLINTA", "Art", "Community"],
-        description: "The Circle Forms – Community Support (With Love) – £30\nThis ticket is for those who feel called to support us a little extra. It helps us fund our events, as we pay every artist, crew member, and the venue fairly. Your love keeps Soma People alive, growing, and grounded in care. Thank you for being part of the circle\n\nTechno, Tech House music, breathwork/meditation, art installations, video art, and more\n\nOur Vision in Action\n\nAs a community-based collective, our events are built on values of respect, inclusivity, consent, and genuine connection.\n\n• A FLINTA*-centered lineup, from tech house to hypnotic, dark, sensual techno infused with feminine energy and art\n\n* Females, Lesbians, Intersex, Non-binary, Trans, and A gender\n\n• Music and vibes inspired by Panorama Bar and Berghain\n\n• A loft with a quality sound system and rooftop terrace blending Persian warmth and Berlin freedom\n\n• Art, video installations, and sensual visuals adding rich layers\n\n• An inclusive, safe space for FLINTA, queer community, and allies to express and celebrate\n\n• Strict no-photo/ video policy to keep you present and respect your privacy\n\nLeave feeling empowered, seen, and connected.\n\n-----------------------------------------------------------------------------------\nQuick Info:\n\n• No Physical ID, No Entry - Minimum age 21+\n• Cloakroom: Available at the venue\n• Snacks/ fruits available at the venue\n• No photo/ video policy; except for our photographer\n-----------------------------------------------------------------------------------\n\nIMPORTANT – PLEASE READ\nOur Social Contract: What You Agree to by Entering\n\n• Inclusive Space\nFLINTA individuals are prioritised. Everyone is welcome - if they respect the space, each other, and the community.\n\n• Respect First\nWe have zero tolerance for discrimination, harassment, racism, sexism, transphobia, homophobia, ableism, misogyny, or abusive behaviour of any kind.\n\n• Entry Is Not Guaranteed\nYour ticket gets you to the door, but final entry is at the discretion of our door team. This helps us maintain the safety and energy of the space.\n\n• Right to Refuse or Remove\nAnyone violating our values or disrupting the energy will be asked to leave. No refunds will be issued.\n\n• No Photos or Videos\nTo protect privacy and intimacy, phone use for photos/videos is not allowed. Our photographer is the only exception.\n\n• Consent is Key\nAlways ask before initiating physical contact. Boundaries matter.\n\n• No Outside Liquids\nFor safety reasons, outside drinks are not permitted. Violating this policy will result in removal from the venue.\n-----------------------------------------------------------------------------------\n\nOther Things to Know\n\n• Flashing Lights Warning\nThe event may include strobe and flashing lights. If you're photosensitive or epileptic, please take precautions.\n\n• On-Site Support\nIf you feel unwell or unsafe, reach out to the venue manager or security. We're here for you.\n\n• Creating the Vibe Together\nOur team is here to ensure a welcoming and safe space. Your presence contributes to the collective atmosphere.\n\n• Express Yourself\nBring your full self - bold, playful, unapologetic. This is a space to honour your individuality and express it with care and creativity.\n\n• Respect the Space & Team\nTreat the venue and all staff as you would a friend's home - with kindness and care.",
-        image: "images/soma.png",
-        website_link: "https://www.instagram.com/soma.people/",
-        ticket_link: "https://ra.co/events/2189288",
-        coordinates: null,
-        generes: ["Techno", "Industrial","House"],
-        age: "18+",
-        sellingFast: true
-    },
-    {
-        id: 31,
-        name: "dyke speed dating",
-        venue: "Retro Bar",
-        address: "2 George Court,  London,  WC2N 6HH",
-        time: "19:00-21:30",
-        date: "Jul 16",
-        price: "£10-22",
-        type: "social",
-        tags: ["Speed Dating", "Lesbian", "Trans", "Bisexual", "NB"],
-        description: "It only takes one fateful conversation to begin your UHAUL journey.  How does it work?A survey will be emailed to you before the event, and we'll use your results to make sure you get to meet the best people for you. All queer identities are welcome (TERFS need not apply). you'll have 8-10 short, approx 5 minute dates (with prompts. ) to get to know as many new people as possible.  at the end, you'll be able to fill out a sheet with folks you'd like to keep in touch. If they feel the same way, you'll be matched.  Who's welcome? Anyone who resonates with the dyke/sapphic/lesbian experience - from bisexuals, to trans folks, to nonbinary folks - if you've ever loved queer women, this is the event for you. Poly/ENM folks welcome.  Monogamous people also welcome.  We usually have a fairly even split.  What ages is this for? This event is 21+ We'll do our best to make sure there are no major age gaps, and in some cases we'll have two separate groups - it all depends on who signs up.  If you are the only one in your age/relationship style category- I will shoot you an email and give you a heads up ahead of time.   Unfortunately this venue is not wheelchair accessible inside, and has stairs up. Please let us know if you need to sit, require back support, or have mobility issues, and we'll make sure that you get to stay in the same spot throughout the night.  For UC/LOW INCOME – PWYC/sliding scale tickets - shoot us an email or contact us via outsavvy.  ",
-        image: "images/dykedating.png",
-        website_link: "",
-        ticket_link: "https://www.outsavvy.com/event/28403/dyke-speed-dating-at-retro-bar",
-        coordinates: null,
-        age: "21+",
-        sellingFast: true
-    },
-    {
-        id: 32,
-        name: "Trans Sauna Peckham ",
-        venue: "Sauna Social Club",
-        address: "842 Brayards Road,  (Railway Arch),  London,  SE15 2AG",
-        time: "19:45-22:30",
-        date: "Jul 17",
-        price: "£0-10",
-        type: "social",
-        tags: ["Sauna", "Relax", "Social", "Trans", "NB", "Intersex"],
-        description: "Sweat, soak, and unwind! Trans Sauna is back in South London 🔥 \nA night for trans+ people (transgender, non-binary, intersex or gender non-conforming) to warm up, cool down, and connect. Expect hot hot saunas, icy cold plunges and a space that's entirely ours for the evening. This is not a cruising event - it's a care, rest, and community event.  \n\nSee you in the steam. ❤️‍🔥",
-        image: "images/transsauna.png",
-        website_link: "",
-        ticket_link: "https://www.outsavvy.com/event/28415/trans-sauna-peckham-17th-july",
-        coordinates: null,
-        age: "18+",
-        sellingFast: true
-    },
-  
-
-    {
-        id: 33,
-        name: "BUTCH DAY PARTY",
-        venue: "The Divine",
-        address: "33-35 Stoke Newington Road,  London,  N16 8BJ",
-        time: "22:30-05:00",
-        date: "Jul 19",
-        price: "£12.50-15",
-        type: "party",
-        tags: ["Butch", "Lesbian", "Trans", "Queer"],
-        description: "HOT HOT HOT  BUTCH SUMMER \n\n \n\n< theme is. BEACH BUTCH >\n\n \n\ncome and look each at each other in the daylight\n\nand then rave like it's midnight in the basement. \n\n \n\ncome feel hot and free, it's summertime in London town.\n\n…there's a sort of a buzz…\n\n \n\nwhatever makes you feel hot. \n\n \n\ncoming out? \n\n \n\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\nPerformance & DJ's TBA\n\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\n\n\n\nACCESS:\n\nSadly, The Divine is currently not fully accessible.\n\nThe cabaret and club space are in the basement of the venue. There are 17 wide steps with slip resistant treads down to the space with sturdy handrails either side. There are two steps up to the stage. The toilets are in the basement and are not accessible for wheelchair users.",
-        image: "images/butch.png",
-        website_link: "https://www.instagram.com/butchpleaselondon/?hl=en",
-        ticket_link: "https://www.outsavvy.com/event/28539/butch-day-partyhttps://www.instagram.com/butchpleaselondon/?hl=en",
-        coordinates: null,
-        generes: ["Tech House", "Techno", "House"],
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 34,
-        name: "Queer Board Game Group",
-        venue: "Retro Bar",
-        address: "2 George Court,  London,  WC2N 6HH",
-        time: "19:00-21:00",
-        date: "Jul 15",
-        price: "£10-14",
-        type: "social",
-        tags: ["Games", "Women", "Queer", "Trans", "NB"],
-        description: "Are you queer and do you love playing board games? Sappho runs a monthly social event for playing board games, open to LGBTQIA+ women, trans and non-binary people. We have multiple tables set up with games, ranging from quick and easy games to learn for newbies, to medium-length strategy board games. If you've got a game you'd love to bring and teach others to play, please bring it too, as we will have some spare tables for wildcard games on the night. This will be a really friendly environment where we can enjoy playing games with other queers who love games as much as us.  Learn something new, or put a new strategy to the test, and make some new queer friends in the process. Dates: Tuesday 20 May, 17 June, 15 July, 7-9pm Location: Retro Bar, 2 George Court, Westminster, WC2N 6HH (3 minutes walk from Charring Cross underground station)Cost: £14 standard, £10 concession. Booking in advance is essential as we have venue caps. Accessibility: The venue is not step-free, please contact ",
-        image: "images/games1.png",
-        website_link: "",
-        ticket_link: "https://www.outsavvy.com/event/26758/queer-board-game-group",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-
-    
-
- 
-   
-    {
-        id: 37,
-        name: "Queer Stitch and Sip: Scrap Textile Collage Workshop",
-        venue: "Royal Inn on the Park",
-        address: "111 Lauriston Road,  London,  E9 7DA",
-        time: "19:30-21:30",
-        date: "Jul 16",
-        price: "£10-20",
-        type: "workshop",
-        tags: ["Crafts", "Stitching", "Beginner", "Lesbian", "Trans", "NB"],
-        description: "A beginner's introduction to the world of abstract and experimental collage with textiles. \n\nThis workshop begins with an overview of basic embroidery stitches followed by collage exploration using scrap and discarded textile materials. Freely explore a material or idea using intuition and creative stitching techniques in an inclusive and encouraging environment. Develop the confidence to engage with textiles in a therapeutic way, and meet more like minded creative queer people in the process. \n\nThis workshop is suitable for anyone! Both beginners and those with experience are welcome. \n\nYou're welcome to sip on a beverage while you stitch :)  \n\nWhat will be provided? \nEmbroidery hoop, embroidery floss, scissors, needles, scrap fabrics, and one piece of calico fabric cut per attendee. Attendees will take home the textile piece they create. Reuse-able materials such as embroidery hoops, scissors, and needles are for workshop use only. \n\nShould I bring anything? \nIf you have any scrap or craft materials (excess yarn, old clothes, string, scrap paper) that you would like to bring and work with, you are welcome to do so! But it is not necessary, and all attendees will have everything they need provided at the workshop.",
-        website_link: "",
-        image: "images/crafts.png",
-        ticket_link: "https://www.outsavvy.com/event/28452/queer-stitch-and-sip-scrap-textile-collage-workshop",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 38,
-        name: "QUEER Bachata Drop-In Class ",
-        venue: "SHE Soho Bar",
-        address: "23a Old Compton Street,  London,  W1D 5JL",
-        time: "17:30-19:30",
-        date: "Jul 20",
-        price: "£11-30",
-        type: "workshop",
-        tags: ["Bachata", "FLINTA"],
-        description: "Get ready to sizzle, Sanura dancers! \nWe're thrilled to announce our partnership with the iconic SHE Soho Bar for our new QUEER Bachata Sundays! \nEmbrace your inner rhythm and join us for an evening of EMPOWERMENT through dance in the heart of London. As always, we're proudly FLINTA-focused, FEMINIST, and LGBTQ+ space, creating a space where everyone can shine on the dance floor.",
-        website_link: "",
-        image: "images/bachata.png",
-        ticket_link: "https://www.outsavvy.com/event/23411/queer-bachata-sundays-she-soho-bar-drop-ins",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
 
     {
         id: 39,
@@ -547,40 +169,8 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 40,
-        name: "queer speed friending x clay workshop!",
-        venue: "Mud Gang Pottery C.I.C",
-        address: "118 Bethnal Green Road,  London,  E2 6DG",
-        time: "18:45-21:30",
-        date: "Jul 18",
-        price: "£18-25",
-        type: "workshop",
-        tags: ["New Friends", "Pottery", "LGBTQ+", "BYOB"],
-        description: "🚨QUEER FRIENDS ARE JUST AROUND THE CORNER! 🚨 \nHOT + BOTHERED X MUDGANG\n\nRough Schedule \n6:45-7:30 speed friending \n7:45-9:30 clay workshop \nBYOB - we'll have tea on, but feel free to bring wine/beer/etc \n\nWho's welcome? \nAnyone queer of any gender! ",
-        website_link: "",
-        image: "images/mug.png",
-        ticket_link: "https://www.outsavvy.com/event/27784/queer-speed-friending-x-clay-workshop",
-        coordinates: null,
-        sellingFast: false
-    },
-    {
-        id: 41,
-        name: "strip night returns..",
-        venue: "The Cavendish Arms",
-        address: "128 Hartington Road,  London,  SW8 2HJ",
-        time: "19:00-22:30",
-        date: "Jul 20",
-        price: "£14-16",
-        type: "party",
-        tags: ["Srtip Club", "Performance", "Sapphic", "Cabaret", "Burlesque", "Drag Kings"],
-        description: "Pack all of your dollar bills and pound notes and get ready to make it rain. We're curating a sizzling sapphic lineup and sexy vibes for the night of your queerest dreams. We run our night cabaret style, with time between acts to drink, chat, and meet new people.  \n\nPut your name into the draw for a hot lap dance on stage, or buy one ahead of time for ur cheekiest pal! Our acts range in vibe from traditional skripping to burlesque to drag kings, encompassing many different ways to feel and be fucking hot as a queer person.  \n\nSTRIP NIGHT DOLLARS ARE CASH ONLY AT THE VENUE! Get them ahead of time on Outsavvy and pick up at the door.  \n\nCONSENT IS KEY! Please respect all of our performers both on the stage and after. ",
-        website_link: "",
-        image: "images/strip.png",
-        ticket_link: "https://www.outsavvy.com/event/28620/strip-night-returns",
-        coordinates: null,
-        sellingFast: false
-    },
+
+
     {
         id: 42,
         name: "all queer supper club",
@@ -598,24 +188,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         coordinates: null,
         sellingFast: false
     },
-    {
-        id: 43,
-        name: "Queer Singles Night x Funnier Than Your Mum",
-        venue: "The Phoenix",
-        address: "37 Cavendish Square,  London,  W1G 0PP",
-        time: "19:00-23:00",
-        date: "Jul 18",
-        price: "£18",
-        type: "social",
-        tags: ["Comedy", "Dating", "Sapphic", "NB"],
-        description: "Sappho Events is partnering with Funnier Than Your Mum to present a singles night for queer ladies and non-binary people! \n\nComedians from Funnier Than Your Mum will engage with the audience and run interactive activities to help you mingle with ease, eliminating the awkwardness of typical singles events. There's a matchmaking round so you just might meet your future love.",
-        website_link: "",
-        image: "images/singles.png",
-        ticket_link: "https://www.outsavvy.com/event/26718/queer-singles-night-collab-with-women-arent-funny",
-        age: "18+",
-        coordinates: null,
-        sellingFast: false
-    },
+
     {
         id: 44,
         name: "GAYTORADE ♡ TRANS PRIDE TAKEOVER",
@@ -635,139 +208,6 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
     },
 
 
-    {
-        id: 45,
-        name: "LGBTQ+ Professionals Networking",
-        venue: "The Pontoon",
-        address: "566 Chiswick High Rd., Chiswick, London W4 5AN, UK",
-        time: "18:00-22:00",
-        date: "Jul 10",
-        price: "£10",
-        type: "social",
-        tags: ["LGBTQ+", "Networking"],
-        description: "Unity Afloat: An LGBTQ+ Networking Event – Join us for a vibrant summer evening of connection and conversation on the scenic pontoon at Chiswick Business Park. \nTickets include a free glass of bubbles or a soft drink on arrival.",
-        website_link: "https://www.wlqp.org/",
-        image: "images/wlqp4.png",
-        ticket_link: "https://www.wlqp.org/event-details/lgbtq-professionals-networking-2",
-        coordinates: null,
-        sellingFast: false
-    },
-    {
-        id: 46,
-        name: "Homoelectric Residency: Week 2",
-        venue: "Metropolis",
-        address: "234 Cambridge Heath Road; Bethnal Green; London E2 9NN",
-        time: "22:30-03:00",
-        date: "Jul 12",
-        price: "£6-11",
-        type: "party",
-        tags: ["Party", "Dancing", "Gay", "LGBTQ+"],
-        description: "𝐇𝐨𝐦𝐨𝐞𝐥𝐞𝐜𝐭𝐫𝐢𝐜 𝐰𝐢𝐥𝐥 𝐛𝐫𝐢𝐧𝐠 𝐜𝐥𝐮𝐛 𝐜𝐡𝐚𝐨𝐬 𝐟𝐫𝐨𝐦 𝐌𝐚𝐧𝐜𝐡𝐞𝐬𝐭𝐞𝐫 𝐭𝐨 𝐨𝐮𝐫 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 𝐬𝐭𝐫!𝐩 𝐜𝐥𝐮𝐛, 𝐞𝐯𝐞𝐫𝐲 𝐒𝐚𝐭𝐮𝐫𝐝𝐚𝐲 𝐧𝐢𝐠𝐡𝐭 𝐢𝐧 𝐉𝐮𝐥𝐲. \n\n𝟒 𝐬𝐰𝐞𝐚𝐭-𝐟𝐮𝐞𝐥𝐥𝐞𝐝 𝐧𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐡𝐨𝐮𝐬𝐞, 𝐭𝐞𝐜𝐡𝐧𝐨, 𝐝𝐢𝐬𝐜𝐨, 𝐟𝐢𝐥𝐭𝐡𝐲 𝐩𝐨𝐩, 𝐬𝐥𝐞𝐚𝐳𝐞 𝐚𝐧𝐝 𝐝𝐚𝐧𝐜𝐞𝐟𝐥𝐨𝐨𝐫 𝐥𝐢𝐛𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐟𝐫𝐨𝐦 𝐚 𝐩𝐚𝐜𝐤𝐞𝐝 𝐥𝐢𝐧𝐞-𝐮𝐩 𝐨𝐟 𝐭𝐡𝐞𝐢𝐫 𝐚𝐥𝐥-𝐬𝐭𝐚𝐫𝐬. \n\n𝐍𝐨 𝐬𝐧𝐨𝐛𝐛𝐞𝐫𝐲, 𝐧𝐨 𝐩𝐫𝐞𝐭𝐞𝐧𝐬𝐢𝐨𝐧, 𝐣𝐮𝐬𝐭 𝐩𝐮𝐫𝐞 𝐞𝐮𝐩𝐡𝐨𝐫𝐢𝐚 𝐟𝐨𝐫 𝐪𝐮𝐞𝐞𝐫𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞𝐢𝐫 𝐚𝐥𝐥𝐲 𝐩𝐞𝐞𝐫𝐬…",
-        website_link: "",
-        image: "images/homoelectric2.png",
-        ticket_link: "https://ra.co/events/2140158",
-        coordinates: null,
-        generes: ["Disco", "House", "Techno", "Funky"],
-        age: "18+",
-        sellingFast: false
-
-    },
-    
-    {
-        id: 47,
-        name: "DYKE MARCH SOCIALS",
-        venue: "The Abbey Tavern",
-        address: "124 Kentish Town Rd, NW1 9QB",
-        time: "18:00-00:00",
-        date: "Jul 17",
-        price: "£11-16",
-        type: "social",
-        tags: ["Lesbian", "Trans", "Dyke"],
-        description: "We're popping back up with our monthly socials after a crazy June seeing all your lovely faces at the march! 🥾\n\nJoin us on the 17th July at the Abbey Tavern in Kentish Town from 6pm till close. 🍺\n\nIf you're new to our socials it's basically just a load of d¥kes taking over a pub for an evening and making it our own!\n\nIt's free, we always choose accessible venues and we've made sure the pubs are d¥ke/trans friendly! 🏳️‍⚧️\n\nWe'll also have some crafts from the wonderful @thecraftydyke.ldn 🎨\n\nSo - need an excuse to ask someone fit from the march on a date? 💌\n\nMissed the march and want to get ur d¥ke fix? ⛓️\n\nOr maybe you're a regular coming back for more… 💋\n\nWe're a trans inclusive space so pls be miserable at home instead if you're not on board!\n\nDolls and POC low income d¥kes DM us for the free drink code word! 🍸\n\nFootball gays don't fret, we've picked somewhere showing the euros ⚽️\n\nSee you on the 17th babes x",
-        website_link: "https://www.instagram.com/dyke_march/?hl=en",
-        image: "images/dykemarch.png",
-        ticket_link: "",
-        coordinates: null,
-        sellingFast: false,
-
-    },
-
-    {
-        id: 48,
-        name: "AS ONE IN THE PARK",
-        venue: "Walpole Park",
-        address: "Walpole Park Mattock Lane London W5 5EQ in London",
-        time: "12:00-22:00",
-        date: "Jul 19",
-        price: "£22.50-67.50",
-        type: "party",
-        tags: ["LGBTQ+", "Festival"],
-        description: "London's LGBTQ+ Festival! 🏳️‍🌈\n\nFor one day only this Summer, we will be celebrating all things LGBTQ+ with 5 Stages of Music covering every genre under the Sun! With some of the HOTTEST DJs and performers around, we CAN'T WAIT to share with you the amazing line up!\n\nTaking over Ealing's beautiful Walpole Park, surrounded by ancient woodland and picturesque ponds,12 minutes from Central London, we couldn't be happier to be back in 2025.\n\nAs One has Something for Everyone! From DJs to Drag Shows, Dance Troupes to Live Acts, Cabaret, Street Food, Cocktail Bars, Comedy, Circus acts, and the list goes on!\n\nIn response to the AMAZING feedback from last year's event As One moves to a Saturday for the 2025 edition!\n\nUpdates on the festival can be found on our Instagram - https://www.instagram.com/asonefestival\n\nImportant Info:\n\nTimes - Saturday 19th July 2025 - 12pm to 10pm. (Last Entry 6pm)\n\nTickets - We have 3 Main Ticket tiers,\n\nEntry before 2pm - Your ticket must be scanned before 2pm. We recommend that you arrive early between 12pm - 1:30pm. If your ticket is scanned after 2pm there will be a surcharge on the door\n\nAnytime Entry - Valid all day between 12pm and 6pm.\n\nVIP - Our VIP ticket grants you access to our VIP Area which includes a Private Stage with performances from SPECIAL GUEST Performers, VIP only Bars & Toilets, Queue jump and Free Entry to Afterparty at Fire!\n\nTransport - As One is taking place at Walpole Park, Ealing. The full address is Walpole Park, Mattock Ln, London W5 5EQ.\nThere are 2 Tube Stations within an 8-minute walk of the Site Entrance - Ealing Broadway (Circle, Elizabeth & District Lines) and South Ealing (Picadilly Line) The site also has great bus connections. If arriving by car please note that the site does not offer parking and for Taxi pick up and Drop off please use the postcode W5 5EQ.\n\nFood & Drink - We will have over 20 Food Stalls providing tasty dishes catering to all cuisines and dietary needs! The site will also have numerous well located Fully Stocked Bars, to make sure you keep hydrated and we keep queuing to a minimum. Please note that due to licensing we cannot allow any food or drink to be brought into the festival.\n\nLocation - Ealing's Walpole Park is our Home! Surrounded by ancient woodland and picturesque ponds we strive to do our best to make sure that we look after it and the residents that live nearby. Please be mindful of noise when arriving and leaving the site and to not leave litter. Please do not bring any chairs or gazebos as we will have plenty of seating and cover. We will not have a coat check so please try to only bring the essentials!",
-        website_link: "https://www.instagram.com/asonefestival/?hl=en",
-        image: "images/asone.png",
-        ticket_link: "https://www.skiddle.com/festivals/as-one-in-the-park/?fbclid=PAZXh0bgNhZW0CMTEAAad8Uw9i3gkrM3L6NjA-oHPK4XpYpyEwvsFAbAxe2H_04RLoxjk6egOyGNHJJw_aem_wjEe_Awr9QSAI5TX8fExYg#tickets",
-        coordinates: null,
-        sellingFast: false,
-        generes: ["Pop", "House", "Raggaeton"],
-        age: "18+",
-    },
-
-    {
-        id: 49,
-        name: "PXSSY PALACE x SUZIO x SUBSKATE PARTY",
-        venue: "Jumbi",
-        address: "Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN",
-        time: "14:00-02:00",
-        date: "Jul 18",
-        price: "£11-28",
-        type: "party",
-        tags: ["LGBTQ+", "Skating", "Arcade", "High Energy", "Party"],
-        description: "PXSSY PALACE x SUZIO\nOne unmissable night. One continuous, high-energy party. 24hrs to sign up and secure your early bird tickets. \n\nFrom 6PM right through 'til 2AM, two of the best parties and Queer institutions are taking over the warehouse for a full-throttle baddie experience. \n\nSkate early, dance late: the skating track's open 'til 10PM (£5 optional add-on) if you want to glide before you go all in.\n\n🕺 700+ capacity dancefloor\n🎶 DJs all night long\n🛍️ Traders handpicked by PXSSY PALACE\n🌇 Rooftop terrace open 'til 10PM\n🕹️ Arcade machines, pool tables & chill-out zones\n\nDon't miss this. Sign up to lock in your place.\n\nOne night only. Come roll with us.",
-        image: "images/pxxy1.png",
-        website_link: "https://www.instagram.com/pxssypalace/?hl=en",
-        ticket_link: "https://ra.co/events/2192438",
-        sellingFast: false,
-        generes: ["Latin Core", "UK Bass", "Techno", "Cunty"],
-        age: "18+",
-    },
-    {
-        id: 50,
-        name: "Seasoned: Double Denim Day party",
-        venue: "Pergola Brixton",
-        address: "Coldharbour Lane, Lambeth, London, SW9 8PR, United Kingdom",
-        time: "17:30-22:30",
-        date: "Jul 20",
-        price: "£16",
-        type: "party",
-        tags: ["25+", "LGBTQ+"],
-        description: "After 2 sold out events we are back for episode 3 and we are running back the Pergola day party, this time in double denim 🙂‍↕️ \nOn July 20th we will be taking over the stunning rooftop of Pergola Brixton where 600 of us will vibe into the sunset 😍 \nDJ's Donnie Sunshine, Glade Marie, Ken Styles, Arliiiyah and Harvz\nDATE: July 20th \nTIME: 5.30pm- 10.30pm \nLast entry: 7pm \nVenue: Pergola Brixton \nThe venue is wheelchair accessible and has disabled toilets. \nSTRICTLY 25+ for the Girls, Gays and Theys.",
-        image: "images/seasoned.png",
-        website_link: "",
-        ticket_link: "https://dice.fm/partner/seasoned/event/eoeav6-seasoned-double-denim-day-party-20th-jul-pergola-brixton-london-tickets?dice_id=6478472&dice_channel=web&dice_tags=organic&dice_campaign=SEASONED&dice_feature=mio_marketing&utm_source=web&utm_campaign=SEASONED&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdLMTUwTTRJSTayMLavK0pNSy0qysxLj08qyi8vTi2y9cwrLklML0rMBQD%2B5NKiPgAAAA%3D%3D&_branch_match_id=1469019422367661175",
-        coordinates: null,
-        sellingFast: true,
-        generes: ["Afrobeats", "Raggaeton", "Soca", "Carribean"],
-        age: "25+",
-    },
-    {
-        id: 51,
-        name: "Homoelectric Residency: Week 3",
-        venue: "Metropolis",
-        address: "234 Cambridge Heath Road; Bethnal Green; London E2 9NN",
-        time: "22:30-04:00",
-        date: "Jul 19",
-        price: "£6-11",
-        type: "party",
-        tags: ["Party", "Dancing", "Gay", "LGBTQ+"],
-        description: "𝐇𝐨𝐦𝐨𝐞𝐥𝐞𝐜𝐭𝐫𝐢𝐜 𝐰𝐢𝐥𝐥 𝐛𝐫𝐢𝐧𝐠 𝐜𝐥𝐮𝐛 𝐜𝐡𝐚𝐨𝐬 𝐟𝐫𝐨𝐦 𝐌𝐚𝐧𝐜𝐡𝐞𝐬𝐭𝐞𝐫 𝐭𝐨 𝐨𝐮𝐫 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 𝐬𝐭𝐫!𝐩 𝐜𝐥𝐮𝐛, 𝐞𝐯𝐞𝐫𝐲 𝐒𝐚𝐭𝐮𝐫𝐝𝐚𝐲 𝐧𝐢𝐠𝐡𝐭 𝐢𝐧 𝐉𝐮𝐥𝐲. \n\n𝟒 𝐬𝐰𝐞𝐚𝐭-𝐟𝐮𝐞𝐥𝐥𝐞𝐝 𝐧𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐡𝐨𝐮𝐬𝐞, 𝐭𝐞𝐜𝐡𝐧𝐨, 𝐝𝐢𝐬𝐜𝐨, 𝐟𝐢𝐥𝐭𝐡𝐲 𝐩𝐨𝐩, 𝐬𝐥𝐞𝐚𝐳𝐞 𝐚𝐧𝐝 𝐝𝐚𝐧𝐜𝐞𝐟𝐥𝐨𝐨𝐫 𝐥𝐢𝐛𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐟𝐫𝐨𝐦 𝐚 𝐩𝐚𝐜𝐤𝐞𝐝 𝐥𝐢𝐧𝐞-𝐮𝐩 𝐨𝐟 𝐭𝐡𝐞𝐢𝐫 𝐚𝐥𝐥-𝐬𝐭𝐚𝐫𝐬. \n\n𝐍𝐨 𝐬𝐧𝐨𝐛𝐛𝐞𝐫𝐲, 𝐧𝐨 𝐩𝐫𝐞𝐭𝐞𝐧𝐬𝐢𝐨𝐧, 𝐣𝐮𝐬𝐭 𝐩𝐮𝐫𝐞 𝐞𝐮𝐩𝐡𝐨𝐫𝐢𝐚 𝐟𝐨𝐫 𝐪𝐮𝐞𝐞𝐫𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞𝐢𝐫 𝐚𝐥𝐥𝐲 𝐩𝐞𝐞𝐫𝐬…",
-        website_link: "",
-        image: "images/homoelectric3.png",
-        ticket_link: "https://ra.co/events/21401598",
-        coordinates: null,
-        generes: ["Disco", "House", "Techno", "Funky"],
-        age: "18+",
-        sellingFast: false
-    },
     {
         id: 52,
         name: "Homoelectric Residency: Closing Party",
@@ -825,42 +265,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 55,
-        name: "Singles Night at La Camionera",
-        venue: "La Camionera",
-        address: "243 Well Street,  London,  E9 6RG",
-        time: "19:00-22:00",
-        date: "Jul 15",
-        price: "Free",
-        type: "social",
-        tags: ["Speed Dating", "Cocktails", "LGBTQIA+"],
-        description: "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4 to grab a drink, chat with others and meet some new faces before it all kicks off. \n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy.  \n\nAll ages are welcome, see you Tuesday! \n\nXOXO \n\nThis is a LGBTQTIA+ event",
-        website_link: "",
-        image: "images/lacam1.png",
-        ticket_link: "https://www.outsavvy.com/event/28775/singles-night-at-la-camionera-free-tickets-150725",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 56,
-        name: "Joyride",
-        venue: "Corsica Studios",
-        address: "4/5 Elephant Rd, London SE17 1LB",
-        time: "16:00-23:59",
-        date: "Jul 20",
-        price: "Sold Out",
-        type: "party",
-        tags: ["Play Party", "Rave", "Queer"],
-        description: "Joyride is a space to Rave, Play and Connect for the queer and the curious. \n\nCentered on the values of joy, freedom and deviance, Joyride prioritises pleasure and exploration. \n\nEvery other Sunday you’ll find a sweaty dancefloor with a genre-fluid line up of everything from techno to disco, a custom designed playroom and a welfare team on hand for all your support needs.\n\nDOORS CLOSE 19:00\nEvent finishes: Midnight\n\nWe have community tix available for those who are unwaged. If you'd like to access these, email us at info@joyriderave.com\n\nImportant Reminders \nPlease read our Community Guidelines and Dress Code Policies (on our website) before purchasing a ticket / attending an event. \n\nConsent is paramount. Do not touch people without their explicit consent. Be mindful not to assume anyone’s sex, sexuality or gender. No racism, ableism, transphobia, homophobia, body-shaming, ageism. If you feel uncomfortable or if you see something that looks problematic, please let the Joyride Welfare Team know.",
-        website_link: "",
-        image: "images/joyride.png",
-        ticket_link: "https://dice.fm/event/xergve-joyride-20th-jul-corsica-studios-london-tickets",
-        coordinates: null,
-        age: "21+",
-        sellingFast: false
-    },
+
     {
         id: 57,
         name: "Joyride",
@@ -898,121 +303,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         age: "21+",
         sellingFast: false
     },
-    {
-        id: 59,
-        name: "Trans Pride Brighton",
-        venue: "Victoria Gardens",
-        address: "8 Queens Road, Brighton and Hove BN1 3WA",
-        time: "11:00-22:00",
-        date: "Jul 19",
-        price: "Free",
-        type: "social",
-        tags: ["Protest", "Celebration", "Queer"],
-        description: "11:00 - Meeting @ Victoria Gardens\n 11:30 - Speeches\n 12:00 - March Begins\n 12:30 - Accessible Route Meeting @ The Old Ship Hotel \n 13:00 - Arrival back @ Victoria Gardens \n 13:00 - Events begin \n 18:30 - Events end\n 22:00 - Aziz afterparty @ The North Laine Brewhouse",
-        website_link: "https://transpridebrighton.org/",
-        image: "images/transpride1.png",
-        generes: [],
-        ticket_link: "",
-        coordinates: null,
-        age: "",
-        sellingFast: false
-    },
-    {
-        id: 60,
-        name: "Trans Pride Afterparty Brighton",
-        venue: "North laine Brewhouse",
-        address: "27, Gloucester Place, BN1 4AA",
-        time: "10:00-02:00",
-        date: "Jul 19",
-        price: "£5 to £18",
-        type: "party",
-        tags: ["Party", "Trans", "LGBTQ+"],
-        description: "Join us for another unforgettable night of celebration for the Official Trans Pride Brighton 2025 Afterparty! Get ready to bring your love, rage, and solidarity — our theme for the night — it has been a mad year! \n\nWe, AZIZ, have partnered up with Trans Pride Brighton for a second year to help raise funds and come together in a joyous and rage filled celebration. \n\nWe are a collective run by and for Queer, Trans, Intersex, Southern Western Asian and North African (SWANA), Black, Brown People of Colour, who have curated another stellar lineup of Trans DJs and performers to keep you dancing throughout the night. Get ready for a night filled with SWANA party tunes, trans habib/t/is everywhere you look and pure trans joy. \n\nRemember, everyone is welcome at our events! So bring your allyship, love, rage, and solidarity. \n\nWords from our founder Prince:\nWe will be continuing to honour our Black and Brown Trans ancestors who paved the way before us by putting local Trans BIPoC artists at the forefront, paving the way moving forward. So join us in this revolutionary moment where we continue to make Trans Pride Brighton history, as Trans global majority artists are front and centre. \nThis is a fundraiser event raising funds for Trans Pride Brighton and AZIZ poc events. Dancers and DJs to be announced!",
-        website_link: "https://transpridebrighton.org/",
-        image: "images/transpride5.png",
-        generes: [],
-        ticket_link: "https://www.designmynight.com/brighton/pubs/north-laine/the-north-laine-pub-and-brewery/trans-pride-2025-after-party-w-aziz-events?t=tickets&fbclid=PAQ0xDSwLHyo9leHRuA2FlbQIxMAABpyALYfv1IzO4IwZf27NIYRME4OT0LxrRDsuI2OnM-vgn9ue1nLPeLUWrTL7y_aem_-6_Mac8KiFdFemrlEgEANA",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 61,
-        name: "Pride Afters Leeds",
-        venue: "Testbed",
-        address: "Testbed, 110 Hunslet Ln, Leeds LS10 1ES",
-        time: "22:00-04:00",
-        date: "Jul 20",
-        price: "£5",
-        type: "party",
-        tags: ["Party", "Trans", "LGBTQ+"],
-        description: "TICKETS\n\nAll tickets for this are £5 each and can be picked up from Vinyl Whistle & Outlaws Yacht Club. Cash only. 4 Max per person. \n\nQTIPOC, Trans & Accessible Guestlist \nIf you have requested guestlist to access the daytime event then please also let us know if you would like afterparty tickets. These will need to be paid for in advance via PayPal.\n\nOUT OF TOWN \nIf you are coming from outside Leeds then please also ask us via email us to secure aferparty tickets at: the-pleasuredome-must-be-built@outlook.com \nThere will also be a small allocation available to purhcase on the door, it will then be one in one out when at capacity. \n\nOn sale Thursday 26th June",
-        website_link: "https://transpridebrighton.org/",
-        image: "images/leedspride.png",
-        generes: ["electronic", "Bass", "Techno", "House", "Afro Tek"],
-        ticket_link: "",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 62,
-        name: "Pumpathon Leeds",
-        venue: "Testbed",
-        address: "Testbed, 110 Hunslet Ln, Leeds LS10 1ES",
-        time: "15:00-23:00",
-        date: "Jul 20",
-        price: "£5",
-        type: "party",
-        tags: ["Party", "Trans", "LGBTQ+", "QTIPOC"],
-        description: "ITS TIME FOR THE PRIDE PUMPATHON 2025 EDITION! \n\nYour Leeds favourites, Rat Party & Love Muscle are joining forces with club fundraiser The Pleasuredome Must Be Built to serve you up a slice of Pride free from corporate additives or artificial allies.\n\nThis all day rave will take place at Testbed across 2 stages, however as per previous iterations of the pumpathon, we will be running all aspects of event including bars, infrastructure, sound and safer spaces.",
-        website_link: "https://transpridebrighton.org/",
-        image: "images/pumpathon.png",
-        generes: ["electronic", "Bass", "Techno", "House", "Afro Tek"],
-        ticket_link: "",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
-    {
-        id: 63,
-        name: "Sunrise rave",
-        venue: "The Post Bar",
-        address: "316 High Road, N15 4BP",
-        time: "7:00-9:00",
-        date: "Jul 18",
-        price: "Free",
-        type: "social",
-        tags: ["Breakfast", "Music", "Coworking", "Allies"],
-        description: "☕ Get energised before work, have some breakfast with your colleague to our Sober Solarpunk Social Sunrise Rave.\n\n🗓️ When: Friday 18th July\n⏰ Time: 7 - 9 am\n📍Location: The Post Bar, N15 4BN @thepostbartottenham\n\n🕺🏻 Prepare to dance, have fun, and spark ideas for your next Sunrise Rave. Bring a colleague to blur professional and cultural spaces in a conscious way.\n\n💻 There will be a Co-working space from 9 am onwards.\n\n💛 See you there! 💛",
-        website_link: "https://www.instagram.com/solarpunkldn/?hl=en",
-        image: "images/postbar.png",
-        generes: [],
-        ticket_link: "",
-        coordinates: null,
-        age: "",
-        sellingFast: false
-    },
-  
-    {
-        id: 65,
-        name: "Queer Sober Social Launch Party - Leeds",
-        venue: "Alerta Coffee",
-        address: "Brook Street Liverpool L3 9PJ",
-        time: "18:00-22:00",
-        date: "Jul 19",
-        price: "£0 to £6.13",
-        type: "social",
-        tags: ["Social", "Party", "Sober", "LGBTQ+", "Mocktails"],
-        description: "London's legendary Sunday night discotheque, every Sunday at Eagle London for more than 21 years. With James Hillard and special guest Stacy Christine (LA). 8pm-3am with Vauxhall's best value Happy Hour drinks offers till 9pm. £8.",
-        website_link: "",
-        image: "images/soberclub.png",
-        generes: ["house", "disco", "80s"],
-        ticket_link: "https://www.eventbrite.co.uk/e/queer-sober-social-launch-party-tickets-1376480232429?aff=oddtdtcreator",
-        coordinates: null,
-        age: "18+",
-        sellingFast: true
-    },
+
     {
         id: 66,
         name: "SLIVER // 003",
@@ -1035,7 +326,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
 
     
     {
-        "id": 801496833,
+        "id": 1,
         "name": "Singles Night ",
         "venue": "243 Well St",
         "address": "243 Well Street,  London,  E9 6RG",
@@ -1091,7 +382,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
     },
     {
         "id": 2798294172,
-        "name": "30+ Singles Night at La Camionera 29/07/25",
+        "name": "30+ Singles Night at La Camionera",
         "venue": "243 Well St",
         "address": "243 Well Street,  London,  E9 6RG",
         "time": "19:30-23:00",
@@ -1270,60 +561,6 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         ]
     },
     {
-        "id": 3502827604,
-        "name": "TAROT FOR LOVE",
-        "venue": "COVEN",
-        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-        "time": "18:00-18:00",
-        "date": "Jul 17",
-        "price": "£10",
-        "type": "workshop",
-        "tags": [
-            "Tarot Reading",
-            "Witchy",
-            "Queer"
-        ],
-        "description": "Tarot for Love\nCome down to Coven this Thursday for an evening to feed the heart and body with a bespoke menu, some tarot magic and love spells with the Coven resident witches!\nOracle Fausta is a saucy, energy cartographer, helping you to speak your deepest desires and shine a light on your magic. She’ll be your host for this evening and also available for mini readings throughout the night, energy exchange rate starting from £5.00 ✨✨✨✨\nThey’ll be spell weaving by our head witch MATTHEW JACOBS MORGAN. \nWhether you come with your bestie, alone or with your love, it will be a knight of cups, you’ll get to lounge and connect like the empress and wish upon a star.",
-        "image": "https://cdn.outsavvy.com/events/bdad9233-eab6-4cc4-8a90-162ced03e1be.png",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28810/tarot-for-love",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299496",
-        "generes": [
-            "hip hop"
-        ]
-    },
-    {
-        "id": 3864085838,
-        "name": "DIVA SUPPER CLUB",
-        "venue": "COVEN",
-        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-        "time": "18:00-19:00",
-        "date": "Jul 18",
-        "price": "£10",
-        "type": "workshop",
-        "tags": [
-            "dancing",
-            "bisexual",
-            "art",
-            "music",
-            "food"
-        ],
-        "description": "✨ A night for the dolls, the divas, and the dangerously in love. ✨\nJoin us for the launch of DIVA SUPPER CLUB — a decadent evening of food, music, and full-bodied feeling yourself energy, kicking off with none other than the Queen herself: Beyoncé.\nHosted by Matthew Jacobs Morgan, this intimate night features:\n🎤 Live Beyoncé singalongs led by Matthew and a band of live musicians\n🎲 Witchy Beyoncé-themed games and surprises throughout the night\n🍽 A curated set-menu dinner served by candlelight in our atmospheric upstairs space at COVEN\nExpect deep cuts, crowd faves, and all the soulful, powerful, and glittering anthems that have soundtracked our lives. Think “Virgo’s Groove” over dinner, “Love on Top” for dessert.\nCome dressed in your most divine Sasha Fierce or Renaissance fantasy — this is your moment to serve. 💅\nVery limited capacity. Book early.\n\nAll are welcome, but this is a night made for the Beyhive, the heartbreakers, the bad bitches, and the star-crossed lovers.\n Photo by Laurie Kirwan Ashman. \nPoster design by Mason Greenwood. ",
-        "image": "https://cdn.outsavvy.com/events/d92ade54-cf7b-475b-bb4d-22502fe6b5ec.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28811/diva-supper-club",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299566",
-        "generes": [
-            "disco"
-        ]
-    },
-    {
         "id": 353632214,
         "name": "HOMOSTASH 11 YEAR ANNIVERSARY RAVE",
         "venue": "Colours Hoxton",
@@ -1356,99 +593,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         ],
         "age": "18+"
     },
-    {
-        "id": 941930357,
-        "name": "Love as Resistance",
-        "venue": "Shae’s London",
-        "address": "83 Smeed Road,  Bow,  London,  E3 2NR",
-        "time": "19:00-19:00",
-        "date": "Jul 18",
-        "price": "Ticket Resell Live",
-        "type": "workshop",
-        "tags": [
-            "dancing",
-            "social",
-            "party",
-            "queer",
-            "flinta",
-            "trans",
-            "art",
-            "music",
-            "activism"
-        ],
-        "description": "LOVE AS RESISTANCE\n🖤 A celebration of queer joy, grief, and liberation at the edge of empire.\nWhat does it mean to party as the world burns?\nTo gather in pleasure, in protest, in care?\nJoin us for a night of radical tenderness and electric release — where the dancefloor becomes a battleground and the mic becomes a portal.\nWe centre Black and POC queer and trans voices as we make space for joy, grief, resistance, and future-building.\n✨ Featuring:\n— Community conversations led by Black queer elders\n— Live music + open mic\n— Sensual performances\n— Amazing DJs + dancing 'til late\n— Free sexual health testing by Love Tank CIC\nThis is a space for pleasure and politics, for collective rest and ecstatic refusal.\nBlack and POC trans + queer folks are prioritised.\nPay what you can – no one turned away.\n📍 Shae’s London, 83 Smeed Rd, Bow, E3 2NR\n🗓 Friday 18th July | ⏰ 7PM – 2AM\nCome dressed in truth, in joy, in whatever makes you feel most alive.\nThis is love. This is resistance.",
-        "image": "https://cdn.outsavvy.com/events/3d725ebb-faa8-4ace-9d0d-a70a448a1312.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28446/love-as-resistance",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299713",
-        "generes": [
-            
-        ]
-    },
-    {
-        "id": 1934204038,
-        "name": "Queer Hiking Group",
-        "venue": "The Green House | Ethical Property",
-        "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
-        "time": "10:00-18:00",
-        "date": "Jul 19",
-        "price": "Waiting List",
-        "type": "workshop",
-        "tags": [
-            "dancing",
-            "high energy",
-            "queer",
-            "lesbian",
-            "nb",
-            "bisexual",
-            "art"
-        ],
-        "description": "For Queer Migrants And Queer People Of Colour\nSummer is here. Boots are on. Back by popular demand for 2025, it's our Hiking Group for QPoC and queer migrants! And to kick off the season, we're taking on some old favourites alongside some brand new trails! \n Throughout the summer, we'll be taking on a series of small-group hikes, led by our resident mountain leader-trainee, through some of the most picturesque areas of the South and South East of the country. If you've never gone hiking before and want to give it a try with some likeminded people in a small group, this is your chance!\n We'll be releasing spaces for each hike around 2-3 weeks in advance, and we're able to reimburse attendees £10 each to help with the cost of train tickets!\n 🥾 Our Next Hike 🥾\n For July, we'll be taking on not one, but TWO hikes!\n 🗓  Sunday 6th July: Kent Downs Loop, a 12 mile circular walk around the Kent Downs AONB, taking in some beautiful hills, rolling farmland, and quaint villages. This is a moderate hike, with a few ups and downs - the North Downs aren't as challenging as the South Downs - with plenty of opportunities to enjoy the local village life!\n🕒 Time: 10am - 6pm \n 🗓  Saturday 19th July: Devil's Dyke, a 12 mile circular trail leading up to one of the finest views in South East England, with some steep ascents and descents, alongside stiles, fences, and farmland to walk through. We’ll be taking some of the ascents slowly, but overall, it’s a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🚆 How It Works 🚆\nOnce you sign up, we'll send you the details or where we'll meet, what time, and what to bring with you. We'll also send you information on exactly which train ticket/s to purchase, so that we're able to travel together. After the hike, we'll re-imburse everyone at least £10 against the cost of their journey. However, it is up to you to purchase the correct train ticket in advance.\n 🌿 Upcoming Hikes 🌿:\n 6th July: Kent Downs AONB\n19th July: Devil's Dyke\n17th August: Chilterns Ridgeway\n6th September: Devil's Punchbowl\n12th - 14th September: TBC \n 🌟 Wanna take a walk on the wild side? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: The walks include considerable gradients with some steep ascents and descents, over marked and clear but at times, unpaved paths. There are some stiles and gates, and parts of the walk may be muddy. Toilets are usually available at cafes and pubs along the way, but these facilities may not be accessible or gender-neutral. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n  We like to keep the events free so they are easily accessible to our communities! If you want to donate please use this link.\n Spaces at our events are limited and there is a cost implication for all the events we produce or take you along to. Therefore, it is very important and appreciated if you let us know when you can no longer attend an event so we can offer your spot to someone else.\n  Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event.\n  By signing up to this event, you accept being added to The Love Tank's newsletter. You can opt out at anytime.",
-        "image": "https://cdn.outsavvy.com/events/5ba1b659-ae78-4709-ba25-faa24336a945.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/27939/queer-hiking-group",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299781",
-        "generes": [
-            "house"
-        ]
-    },
-    {
-        "id": 271012060,
-        "name": "Queer Kayaking",
-        "venue": "Laburnum Boat Club",
-        "address": "Laburnum Street,  London,  E2 8BH",
-        "time": "14:00-16:00",
-        "date": "Jul 20",
-        "price": "Waiting List",
-        "type": "workshop",
-        "tags": [
-            "dancing",
-            "kayaking",
-            "queer",
-            "bisexual",
-            "workshop",
-            "art",
-            "food"
-        ],
-        "description": "For Queer Migrants And Queer People Of Colour\n\n🗓 Dates: 22nd June, 13th July, 20th July, 3rd August, 17th August, 7th September\n🕒 Time: 2pm to 4pm \n📍 Location: Laburnum Boat Club\n Splish splash, we're back! \n\nOur FREE introductory kayaking sessions, run in collaboration with Laburnum Boat Club, are back for 2025! \n\nWe're running several sessions over the summer, and in each one we'll develop basic paddling skills, teamwork and water-confidence, all under the care and instruction of Laburnums' very experienced Paddle UK qualified instructors. All equipment (including bouncy-aids, harnesses and splash-proof jackets) will be provided, but as part of all the fun, you can expect to get wet! \n The next few sessions will be taking place on:\nSun 22nd June\nSun 13th July \nSun 20th July\nSun 3rd August\nSun 17th August\nSun 7th September\n We'll be releasing new tickets for each month's sessions gradually, so if the class below is full, don't worry, there's plenty of opportunity to join the next one! This event is being run by The Love Tank in partnership with Laburnum Boat Club.\n\nThe kayaking sessions will last for two hours, and are based from Laburnums' club site in Hackney, right next to the canal. \n 🌟 Want to give paddling a try? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: There are accessible toilets on site, and Laburnum's instructors are experienced in working with folks with a variety of access requirements. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
-        "image": "https://cdn.outsavvy.com/events/a2de4eb2-708e-45e1-8fd3-8af4f14cc8a6.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28018/queer-kayaking",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299851",
-        "generes": [
-            
-        ],
-        "age": "18+"
-    },
+ 
     {
         "id": 1069053439,
         "name": "Queer Film Club ",
@@ -1510,7 +655,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
     },
     {
         "id": 2923749413,
-        "name": "Trans Sauna Hackney 21st July",
+        "name": "Trans Sauna",
         "venue": "Hackney Wick Sauna Baths",
         "address": "Eastway,  London,  E9 5JH",
         "time": "18:00-21:30",
@@ -1542,6 +687,39 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         ],
         "age": "18+"
     },
+    {
+        "id": 2,
+        "name": "Rest",
+        "venue": "& Soul Shoreditch",
+        "address": "114 Cheshire St, London E2 6EJ",
+        "time": "17:00-22:00",
+        "date": "Jul 26",
+        "price": "£12",
+        "type": "social",
+        "tags": [
+            "sauna",
+            "yoga",
+            "massage",
+            "wellness",
+            "lgbtq+"
+            
+        ],
+        "description": "Sweat, soak, and unwind! Trans Sauna is at Hackney every month 🔥\nA night for trans+ people (transgender, non-binary, intersex or gender non-conforming) to warm up, cool down, and connect. Expect hot hot saunas, icy cold plunges, wellness facilitators, good food, and a space that’s entirely ours for the evening. This is not a cruising event - it’s a care, rest, and community event. \nSee you in the steam. ❤️‍🔥\nCheck our Instagram closer to the time for updates on massage therapists, food vendors and more!\n This month's reminders:\nIf you're feeling unwell, please consider not attending this event in order to protect others. Take a Covid-19 test if you have any symptoms. \nBe mindful of our wristband system. If the sauna cabins are busy, prioritise those wearing wristbands for the current session. You are welcome to hang around the venue by the fire pits, by the other outdoor seating, or in the café inside the building, if the saunas are full.\nRespect the BPOC only sauna cabin space. If you are white, this is not a space for you. This is usually clearly marked with a laminated sign.\nRespect the quiet sauna. Be mindful of others as they may be looking for peaceful space to reflect. This is usually clearly marked with a wooden sign.\nCLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. \nCheck below for the details, including event policy and what to bring. If there are any changes, we will update ticket holders by email, modify this description and share on our Instagram @trans.sauna and WhatsApp community.\nWhat to bring\n• swimwear \n• two towels, one to sit on in sauna and one to dry off with \n• sandals/ sliders/ flip flops (venue may have spare)\n• a padlock for locker (optional)\n• bathrobe (optional) \n• sauna hat (optional)\nSauna Etiquette\n• CLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. \n• Make space for others to sit where possible. \n• Check with everyone in the sauna before adding water to the stones. Nothing unusual on the stones, water is great. \n• Spreading the heat with a whisk/towel/fan is allowed, but check with those around you. \n• Rinse off in the shower before your first cold plunge. We recommend sauna then rinse then plunge then back to sauna. \n• Listen to your body when inside the sauna, it is not recommended to stay in the sauna for over 15 minutes, there is no need to push yourself. Strictly no sauna competitions. \n• No glass bottles are allowed in the changing rooms, shower room, or the sauna itself. \n• There will be one BPOC only sauna. This is usually clearly marked with a laminated sign.\n• There will be one quiet sauna. This is usually clearly marked with a wooden sign.\n• There will be one “pro” sauna. This is usually clearly marked with a laminated sign. This is for experienced sauna-goers, and should be respected, this means entering and leaving quickly as possible and being able to add water to the stones (but excessive water will bring down the temperature).\nNudity Policy\n• Due to council restrictions, the venue adheres to a strict nudity policy. Breaking these rules may lead to Trans Sauna no longer being able to operate at this venue.\n• There is no full nudity allowed, the only exception is within the sauna cabins.\n• Top nudity is permitted in the outdoors sauna site, you must be wearing something on your lower half.\n• You must wear shoes and either day clothes or a robe over your swimwear to enter the building for the cafe/ toilets. \n• This is a non-sexual/non-cruising sauna event, the venue does not have a sex license.\nSafer Spaces Policy\n• No racism, cis-sexism, transmisogyny, transphobia, ableism, fatphobia, or body commentary. \n• No harassment of any kind, this includes touching without consent, excessive or inappropriate staring, verbal abuse, explicit gesturing, and more.\n• Do not take photos within the sauna space. Be mindful of who may be in the background of your photos and ask for permission.\n• This is a drug and alcohol-free event, though alcohol is sold in the café. Avoid drinking when using saunas.\n• Please show up only when you are healthy and have no flu symptoms.\nTicketing\n• All tickets for any time slot will allow access to the venue for the duration of the event, from 6pm - 9.30pm. \n• The priority slots are to ensure everyone gets a chance to spend time in the sauna, however you are welcome to be at the event outside your slot! You can even enter saunas outside of your slot if there is space, but please prioritise those wearing wristbands for the current session.\n• You are welcome to purchase more than one time slot if you want to guarantee more time within the sauna.\nAccessibility Information\nFor Trans Sauna at Hackney Wick Sauna Baths, The Baths 80, Eastway, London E9 5JH. The nearest step-free station is Hackney Wick (9 min walk), with bus stops P and Hackney Wick (236, 276, 388, N26 buses) both 30 seconds walk away.\n• Venue Access\nThe sauna area is outdoors. To reach it via steps, enter the building (7 steps up), walk through the café, through the right door, down the corridor, exit, and go down 7 steps. To reach it via lifts, use the lift by the steps, up to the café level, cross the café, use the lift by the hall entrance steps, go down, exit through the back left doors (with a small lip). If you need lift access, please message ahead so staff can assist.\nThe sauna area has low lighting, and mixed astro turf and pallet wood flooring which may be uneven or wet. Sandals are recommended.\n• Facilities\n     • Saunas: 7 in total, all with steps or combination step and slopes and narrow doors. None are wheelchair accessible.\n     • Cold plunges: 8 in total, a mix of barrels, water tanks, and metal baths.\n     • Showers: 3 cold showers, all are outdoors and not private.\n     • Changing rooms: 8 private stalls; 3 are step-free, the rest have one step. All have seating.\n     • Lockers: Bring a padlock.\n     • Toilets: Gender neutral toilets and accessible toilet are indoors at the end of the corridor near Library of Things area.\n     • Seating: Available indoors (café) and outdoors.\n     • Café: This is not managed by the Trans Sauna team or venue staff, but you are welcome to use the space.\n• Additional Notes\n     • Weather may be cold/rainy—bring warm, dry clothes. A small fire pit is usually lit.\n     • Warm food with vegan and gluten-free options is usually available for purchase.\n     • Do not attend if you have Covid-19 symptoms or have tested positive—refunds are available in these cases.\n     • There may be other events happening in the building (outside of the sauna area), with cis people attending.\n     • Staff attending to the saunas may be cis, but usually are trans.\n     • For access assistance or questions, contact us, or ask our team/ venue staff on site.\nFeel free to contact us with any questions you may have.\nThe event is organised by the Trans Sauna team - Fey, Jeng and Oran. \nDesign by Jeng Au.",
+        "image": "https://images.momence.com/h/47026/session-banner/c243fb2a-b106-4a65-b28f-4c117a1631dc.jpeg",
+        "website_link": "",
+        "ticket_link": "https://momence.com/The-Sanctuary-&Soul/Rest-by-Pxssy-Palace-x-Anahata-Collective/119264810?skipPreview=true&fbclid=PAZXh0bgNhZW0CMTEAAadI-8MXFE1Z5dh5jAnWdV38xQ6jrfMI3vCEqwK1bD45EV9-PCcT5v2Is0J4tw_aem_UdZpg7P51v8Ca-KN5oGh-w",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "ambient",
+            "chill"
+
+        ],
+        "age": "18+"
+    },
+
     {
         "id": 404134304,
         "name": "Queer social watercolour painting workshop",
@@ -1792,38 +970,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
             "house"
         ]
     },
-    {
-        "id": 1868139132,
-        "name": "Lez Get Writing - July",
-        "venue": "The Mill (Community Centre)",
-        "address": "7-11 Coppermill Lane,  London,  E17 7HA",
-        "time": "19:00-21:00",
-        "date": "Jul 15",
-        "price": "Sold Out",
-        "type": "workshop",
-        "tags": [
-            "social",
-            "writing club",
-            "queer",
-            "lesbian",
-            "nb",
-            "flinta",
-            "trans",
-            "bisexual",
-        ],
-        "description": "Join us for a laid back, supportive, sapphic creative writing workshop. \n\nWe’ll do some facilitated writing exercises, using different lesbian and queer prompts each month. \nEach session will be a mix of quiet time to write and chances to reflect and connect, with a tea break and snacks. \n\nThere will be no pressure to read aloud, but some opportunities to share if you would like to.\n\nYou can come along to any session for the first time. Whether you want to write fiction, poetry, drama, or have no idea, everyone is welcome. \n\nFeedback from previous sessions:\n“Emma always brings inventive ways of getting us to flex our creative muscles and get writing.”\n“I liked how unjudged I felt during this session - everyone is so welcoming, open, and supportive of each other.”\n\"Thank you so much – this has been the best pay what you can activity I have ever attended.\"\n\nThis workshop  welcomes lesbians, queer and bisexual women, trans and non-binary people.\n\nThe Mill is accessible with a flat entrance, wheelchair-friendly doors, and a single-level ground floor. \nThe front door is heavy and not power-assisted - assistance is available via a doorbell. \nNo induction loop system is available. \nLighting is flicker-free.\nAssistance dogs are welcome.\nToilet facilities are gender neutral, wheelchair and baby-friendly accessible.\nSee full access details here: https://themille17.org/whats-on/contact-us-accessibility-information/ ",
-        "image": "https://cdn.outsavvy.com/events/46bd06eb-77a4-4f7c-ab13-bd8bbecdc096.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28571/lez-get-writing-july",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.301279",
-        "generes": [
-            
-        ],
-        "age": "18+"
-    },
+   
     {
         "id": 1325620867,
         "name": "IMPERFECTLY HONEST",
@@ -1858,7 +1005,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
     },
     {
         "id": 4294406129,
-        "name": "Life Drawing at La Cami 02/08/25",
+        "name": "Life Drawing at La Cami",
         "venue": "243 Well St",
         "address": "243 Well Street,  London,  E9 6RG",
         "time": "11:00-13:15",
@@ -2008,7 +1155,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
     },
     {
         "id": 916541581,
-        "name": "🏳️‍⚧️ TRANS PRIDE 2025 AT DALSTON SUPERSTORE FT. MYKKI BLANCO !! 🏳️‍⚧️",
+        "name": "🏳️‍⚧️ TRANS PRIDE 2025 🏳️‍⚧️",
         "venue": "Dalston Superstore",
         "address": "117 Kingsland High Street,  London,  E8 2PB",
         "time": "22:00-27:00",
@@ -2035,91 +1182,7 @@ There is a covered outdoor terrace with picnic benches and plenty of seating ins
         ]
     },
 
-    {
-        "id": 3350117967,
-        "name": "LUCID - Sober Rave",
-        "venue": "COVEN",
-        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-        "time": "17:00-20:00",
-        "date": "Jul 19",
-        "price": "£10",
-        "type": "party",
-        "tags": [
-            "dancing",
-            "social",
-            "party",
-            "lgbtq+",
-            "sober"
-        ],
-        "description": "A Queer Sober Pop Rave LUCID is a sweaty, sexy, sober utopia for the queer community — a pop-fuelled fever dream where clarity meets chaos. \nNo booze. \nNo bullshit. \nJust high-energy euphoria, booming beats, and unfiltered connection. \n Expect a leather-slicked night of raunch, rhythm and radical joy, powered by thumping queer anthems and a floor full of sweaty bodies in motion. Alongside the dancefloor, explore a hand-picked market of queer makers and creatives, including a flash tattoo stall, DIY necklace-making, and more immersive delights. LUCID is a celebration of presence, power, and pleasure — no fog, just fire. Come lucid. Leave electric. ",
-        "image": "https://cdn.outsavvy.com/events/f899a938-1b43-4917-ba36-211449e424b8.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28839/lucid-sober-rave",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-19T09:41:33.645446",
-        "generes": [
-            "pop"
-        ],
-        "age": "18+"
-    },
-    {
-        "id": 1596582643,
-        "name": "After Life Drawing",
-        "venue": "Coven",
-        "address": "Queen's Yard,  London,  E9 5EN",
-        "time": "12:00-14:00",
-        "date": "Jul 20",
-        "price": "Pay what you can",
-        "type": "workshop",
-        "tags": [
-            "social",
-            "queer",
-            "bisexual",
-            "art"
-        ],
-        "description": "Queer life drawing @coven (above Fabwick) in Queen’s Yard, Hackney Wick\n To be hosted by Spencer Grimshaw (slpgtattoo), artist and tattooist\n After moving to London a year ago Spencer found that the life drawing sessions available either didn’t feature a diverse range of models, didn’t feel like a safe space for queer people or weren’t regular enough to create a community so decided to create that space and community of like minded people\n All abilities are welcome from beginner to experienced! As I will be offering options to be tutored or non-tutored\n\nWe will be here every Sunday beginning on 6th July\n Materials will be provided however, if there is anything specific that you require please provide this yourself\n Every week we will be hosting a diverse range of queer models\nThis weeks model Zach Witness! (@zachwitness) ",
-        "image": "https://cdn.outsavvy.com/events/2c1bec75-5483-4f22-96fb-31ea6ce42440.jpeg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28679/after-life-drawing",
-        "coordinates": null,
-        "sellingFast": true,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-19T09:41:33.645511",
-        "generes": [
-            
-        ],
-        "age": "18+"
-    },
-    {
-        "id": 4115733637,
-        "name": "MINDFUL MOVEMENT WITH THEO CANHAM SPENCE",
-        "venue": "COVEN",
-        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-        "time": "14:30-16:00",
-        "date": "Jul 20",
-        "price": "£10",
-        "type": "workshop",
-        "tags": [
-            "dancing",
-            "bisexual",
-            "workshop",
-            "art"
-        ],
-        "description": "Theo Canham-Spence is a London-based contemporary dance artist and trainee Dance Movement Psychotherapist. His practice weaves together mindful movement, somatic exploration, writing, and reflection to support emotional awareness and embodied expression. Rooted in Dance Movement Psychotherapy theory, Theo’s workshops offer a dynamic, non-clinical space to explore the question: “What is the difference between being moved and choosing to move?” \nParticipants are invited to gently meet themselves through movement, deepening connection to presence, emotion, and insight.",
-        "image": "https://cdn.outsavvy.com/events/a666f499-3913-4ef3-8d35-6ca38600a541.png",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28880/mindful-movement-with-theo-canham-spence",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-19T09:41:33.645580",
-        "generes": [
-            
-        ],
-        "age": "18+"
-    },
+
     {
         "id": 100,
         "name": "MID WEEK SESSION XXIII",
