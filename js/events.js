@@ -1378,6 +1378,131 @@ const events = [
         ],
         "age":"18+"
     },
+    {
+        "id": 106,
+        "name": "Sappho’s Circle Book Club",
+        "venue": "The Post Bar",
+        "address": "316 High Road,  London,  N15 4BN",
+        "time": "18:30-20:30",
+        "date": "Aug 13",
+        "price": "£2 to £5",
+        "type": "workshop",
+        "tags": [
+            "book club",
+            "social",
+            "sapphic",
+            "nb"
+
+
+        ],
+        "description": "Join us for our sapphic book club where every month we join together and discuss sapphic literature!  /n/n📚This month’s book: Want by Gillian Anderson /n📍Post Bar N15 4BN /n⏱️ Time and date: 6:30pm - Wed 13th August /n/nWe’ll read our favourite entries of Want and discuss it over some delicious drinks in a lovely sunlit terrace!  /n/nTickets will cover entry, bookish goodies and delicious cake! /n/nIf you’re not in the WhatsApp group chat, message me at: 07852695922 /n/nSappho’s circle is a super fun community where queer women and non binary people are all welcome! ",
+        "image": "https://cdn.outsavvy.com/events/47265bb4-3aca-49d7-bdef-ec01bcd37775.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28979/sapphos-circle-book-club",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+           
+
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 107,
+        "name": "Trans Pride After Party",
+        "venue": "La Camionera",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "19:00-23:59",
+        "date": "Jul 26",
+        "price": "Free Entry OTD",
+        "type": "party",
+        "tags": [
+            "party",
+            "open decks",
+            "sapphic",
+            "trans",
+            "nb"
+
+
+        ],
+        "description": "Come have some fun with us after trans pride. :) /n7pm - late /nOpen decks - bring your usb! \nSunshine - garden open till late ;) /n/nFree entry on the door only /nBecause our last pride event sold out so fast, we're keeping this one simple and fair. No pre booking and entry is free and open to everyone who shows up at the door before we reach capacity. :)",
+        "image": "https://cdn.outsavvy.com/events/ffd81652-3c8b-4459-a723-8423fa990025.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28964/trans-pride-after-party",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+           
+
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 108,
+        "name": "STRAPPED: Carnival",
+        "venue": "Bar Doña",
+        "address": "92 Stoke Newington High Street, Hackney, London, N16 7NY, United Kingdom",
+        "time": "19:00-23:59",
+        "date": "Aug 22",
+        "price": "£11.22",
+        "type": "party",
+        "tags": [
+            "party",
+            "carribean vibes",
+            "DJs",
+            "FLINTA"
+
+        ],
+        "description": "If it’s a serious dose of Caribbean vibes that you're after to start your Carnival weekend, look no further babes! /n/nSTRAPPED has teamed up with East London’s most sensual basement spot Bar Doña to bring you the Queer Carnival party of your dreams. /nWarm up ya waist on Friday 22 August to the very best in Dancehall, Reggaeton & Soca riddims 🌴🍹 It’s giving sexy, sensual, hot, heavy, immaculate vibes /nAnd WHAT A DJ LINEUP we have in stall for you! Lineup to be announced soon /nAnd of course, with any STRAPPED event, expect dancers and some cunty surprises /nFeel free to dress to impress! STRAPPED is a space for queer women, NB and trans hotties to feel safe, seen and sexy. Come party like the queer baddie you are! As always, no pressure to dress up. You are enough as you are <3",
+        "image": "https://dice-media.imgix.net/attachments/2025-07-22/ebbb5c77-bf5a-4a2e-93c2-9f4e378e39ea.jpg?rect=0%2C329%2C1587%2C1587&auto=format%2Ccompress&q=80&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=1 1x,https://dice-media.imgix.net/attachments/2025-07-22/ebbb5c77-bf5a-4a2e-93c2-9f4e378e39ea.jpg?rect=0%2C329%2C1587%2C1587&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
+        "website_link": "",
+        "ticket_link": "https://dice.fm/partner/dice/event/2wbwq6-strapped-carnival-22nd-aug-bar-doa-london-tickets?dice_id=6664539&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAacj1qoCWOfFtJQcBLano93O10uVCMhfE_511_myGWHmL-qKTzjwoA1vBwakwA_aem_XXFfWlSGVMKmmomXKuwEQQ&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXBwQ6CIAAA0L%2FplkLNg22toTNbZuVy4rwwIRBNpFBjdejbe09O03PcuG7fDg%2Fn3jLuCOU%2BKfWZ5604AHwnKOvb%2B%2FaKqlIC2pxlhUGY5hFCNevgS4f4IvbTMWPBqR60v75AMBdhKkVEPAiJ%2BsT4oE7LV5J%2FO6sRfAe2flhEaq5IWe4F7m9xkSZKaVUms42ybPEzXHBj2qEh1Gg7crMNpdGK%2FwEs6dY%2BrgAAAA%3D%3D",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "dancehall",
+            "reggaeton",
+            "Soca"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 109,
+        "name": "NEUROTICA Trans+ Pride Afterparty",
+        "venue": "Venue MOT Unit 18",
+        "address": "Surrey Canal Road,  London,  SE14 5RT",
+        "time": "22:00-05:30",
+        "date": "Jul 26",
+        "price": "Waiting List",
+        "type": "party",
+        "tags": [
+            "party",
+            "lgbtq+",
+            "trans",
+
+        ],
+        "description": "NEUROTICA is back! Providing the ultimate post London Trans+ Pride motive. /nTaking over two rooms at M.O.T. again with an incredible lineup of local talent + an international special guest xxx /nWe expect to sell out quickly, so get your tickets ASAP x ",
+        "image": "https://cdn.outsavvy.com/events/735b8ca8-ff82-47ae-befc-6726438ac15d.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/26557/neurotica-trans-pride-afterparty",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "experimental",
+            "Bass",
+            "Techno"
+        ],
+        "age":"18+"
+    },
+
 
 
 ];
