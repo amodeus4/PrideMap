@@ -1502,6 +1502,107 @@ const events = [
         ],
         "age":"18+"
     },
+    {
+        "id": 110,
+        "name": "Chill:In - Unwind, Create, Connect",
+        "venue": "London Night Cafe",
+        "address": "56 Middlesex Street,  London,  E1 7EZ",
+        "time": "20:00-05:00",
+        "date": "Jul 26",
+        "price": "£12",
+        "type": "social",
+        "tags": [
+            "social",
+            "chill music",
+            "games",
+            "tarot",
+            "byob",
+            "lgbtq+ friendly"
+
+        ],
+        "description": "Join us for the fifth edition of chill:in, a one‑of‑a‑kind evening designed to give you a creative escape from the usual nightlife hustle. Immerse yourself in ambient, downtempo, folktronica, idm, and glitch sounds, spun by our talented DJs and electronic artists, all while diving into hands‑on activities. \n\nThis month's theme is 'somnambulism' — aka sleepwalking: a behavior disorder that originates during deep sleep and results in walking or performing other complex actions while still mostly asleep.\n\nContributing to the music side:\n\n8pm – Benebe – Our chill:in resident DJ will be spinning a fully vinyl-only set featuring the weirdest music from the depths of his crate-digging sojourns around the world. Expect the unexpected — and then some.\n\n10:30pm – T-Coil – Aka Augustine Leudar will be playing a vinyl set featuring bizarre and experimental artists and bands spanning decades — probably going back to the dawn of time.\n\n11:30pm – Ravetombs – Back by popular demand, this Brighton-based artist will perform a live set of all original tracks, including music written specifically for chill:in. Expect dark, twisted beats and lush synths.\n\n12:30am – Glittcherz – One of our resident acts and the first DJ duo couple on the lineup, Glittcherz combine high-production beats with a wide range of sonic textures. No two sets are ever the same — prepare for an interdimensional, astronomical journey.\n\n2:30am – Day for Night – Featuring resident Kafn and chill:in regular Malx, this is the second DJ duo couple on the lineup. After a long hiatus, this will be their first public performance in over a decade. Expect 15th-century bangers, liminal sounds from around the globe, and some auditory hallucinations.\n\nContributing to the activities on the first level:\nChurch of Illusion presents a surround-sound, semi-improvised set and the Holomorph — (brainchild of Augustine Leudar, world-leading authority in spatial sound) which allows users to sculpt and morph sound in 3D space with just their hands.\nPicture this: raise your hand and the sound soars toward the ceiling. Move it in a circle and it gracefully orbits around you. The Holomorph uses advanced techniques like time-stretching and granular synthesis, letting users morph sound in real time. For example, pulling your hands apart stretches the sound in time and spreads it spatially across the speaker array.\n\nWhat to bring?\nWith the theme being sleepwalking, we encourage folx to bring or wear comfy clothes — PJs, nightwear, or loungewear — to fully immerse themselves in the vibe. There will be plenty of cozy cushions, pillows, and seating thanks to the Night Café's event pillowfort from the night before.\n\nWhat is the Night Café?\nIt's a glitch in the matrix — a late-night café that transports you into another reality, blending cyber and salvage-punk with futuristic ideas and Victorian living room aesthetics. Once inside, fuel up with tea, coffee, and biscuits while you explore.\n\nAs always, chill:in is a BYOB event, but please respect the space: it's usually alcohol‑free and all about engaging your creativity, not just getting inebriated. We have a zero‑tolerance policy on harassment. This is an LGBTQIA+ friendly space.",
+        "image": "https://cdn.outsavvy.com/events/93d59d39-5601-494d-912e-b2e6d3290491.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/26819/chillin-unwind-create-connect",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "idm",
+            "ambient",
+            "downtempo",
+            "folktronica",
+            "glitch"
+
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 111,
+        "name": "Smells Like Queer Spirit",
+        "venue": "229",
+        "address": "229 Great Portland Street,  London,  W1W 5PN",
+        "time": "20:00-02:00",
+        "date": "Aug 8",
+        "price": "£12 to £18",
+        "type": "party",
+        "tags": [
+            "party",
+            "performance",
+            "emo",
+            "punk",
+            "metal",
+            "live bands",
+            "lgbtq+"
+
+        ],
+        "description": "Rockin' Queers is excited to announce the next Smells Like Queer Spirit with TWO live bands, a stunning Draglesque Performance and two fantastic queer DJs on the decks, with your favourite rock, metal, punk, emo, and more!\n\nTimings:\n20:00 - 21:00 Social Hour\n21:00 - 23:00 Live Bands - Gender Crisis & SomethingOrOther\n23:00 - 02:00 DJs Izzytrix & GayMerGirl + Performance from Carmen Emissions\n02:00 We All Go Home\n\nNervous about coming solo? Join the group chat to introduce yourself and arrange to meet up with people on the day/night. We can almost guarantee that you'll be invited to join someone's group, or that another solo partier would like a friend. Rockin' Queers also hosts regular casual socials that you can attend in advance - check the Rockin' Queers Community for updates.\n\nSolidarity Tickets: If you are unable to afford the price of a concession ticket, we have tickets that have been donated to help make this event more financially accessible. You can send us a message via OutSavvy, or contact a Rockin' Queers team member directly. If cost is the only thing preventing you from attending, let us help you remove that barrier.\n\nIf you would like to contribute towards the solidarity ticket fund, you may donate here on OutSavvy.\n\nCloakroom: There is a cloakroom provided by the venue. A small fee may apply.\n\nQuiet Room + Market: As always, we will have a 'quiet room' available for folks to chill in if they need to take a break. There will also be a couple of queer market stalls along with the band merchandise.\n\nPlease see here for accessibility information, PA/Carer Tickets, and a map of the venue.\n\nEvent Whatsapp Group 🏳️‍🌈 Rockin' Queers Community 🏳️‍🌈Instagram",
+        "image": "https://cdn.outsavvy.com/events/eb6d9921-77e8-42be-a99f-80453205f72f.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28507/smells-like-queer-spirit-the-alt-queer-gig-club-night",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "emo",
+            "metal",
+            "punk"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 112,
+        "name": "FAE",
+        "venue": "Hackney Bridge",
+        "address": "East Bay Lane,  London,  E15 2SJ",
+        "time": "15:00-22:00",
+        "date": "Aug 10",
+        "price": "£15 to £20",
+        "type": "party",
+        "tags": [
+            "day rave",
+            "queer",
+            "lgbtq+",
+            "dancers",
+
+        ],
+        "description": "We return. For FAE Sunday part 2\n\n- 10th August - Hackney Bridge - 3pm - 10pm\n\nLINE UP TBA\n\nARE YOU A FAE?\nA Femme, Them, Doll or Dyke\nA Butch, Futch, Fairy or Fag\nA T-boy, Twink, stud or stone,\nA Princess, Queen, King or Thing\nBi-sexual, Tri-sexual, A-sexual, Grey-sexual\nPansexuals, Polysexuals, demisexual, homosexual.\nShe, he, her or sir, Xe, Zir, Xem or they\nthe most magical celestial creatures of all.\nWelcome to FAE\n\n⁺˚⋆｡°✩₊✩°｡⋆˚⁺\n\nWelcome to FAE\nA new East London queer rave,\nfor FLINTAs, all & everyone.\nBy @michelle_manetti & @julianshoes\n\n✰♫♪•*¨·٠•●♥✿✿●♥٠·¨*•♪♫✰",
+        "image": "https://cdn.outsavvy.com/events/bdd3ce8b-5adb-40ee-bbc6-2d8a126308a6.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28034/fae",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "house",
+            "cunty"
+        ],
+        "age":"18+"
+    },
 
 
 
