@@ -1603,6 +1603,74 @@ const events = [
         ],
         "age":"18+"
     },
+    {
+        "id": 113,
+        "name": "Club Are: Summer Edition",
+        "venue": "Archives London",
+        "address": "Unit 10, High Cross Centre, Fountayne Rd, London N15 4QN",
+        "time": "18:00-06:00",
+        "date": "Jul 26",
+        "price": "£17.50 to £27.50",
+        "type": "party",
+        "tags": [
+            "big party",
+            "community",
+            "art installation",
+            "dancing",
+            "lgbtq+",
+            "FLINTA"
+
+        ],
+        "description": "In celebration of London Trans Pride weekend! /nClub Are is back, this time for our biggest event yet. \nWe’re taking over Archives London for a full 12 hours, from evening through to sunrise, in celebration of London Trans Pride weekend. Expect a high-energy, late-night journey across sound, movement, and community, built for full self-expression and collective energy. \n\nWe’re yet again transforming the space with an art installation, light, and set design, brought together our selected visual artist, Club Are team and collaborators who’ve helped shape each edition into something layered and alive. From the dancefloor to the visuals, everything is rooted in connection and care. /n/nMusically, we’re going in. A lineup of DJs and artists (TBA) will be taking us deep into progressive house, hard house, tech-house, and techno. pushing boundaries and holding the energy right through to 6AM. Expect bold selections, emotional highs, and beautiful dancefloor moments. /n/nClub Are is always all about community. We’re proud to build a space where queer and trans joy is at the centre and where everyone is welcome, respected, and free to be themselves. /n/nWe operate a zero-tolerance policy for any form of harassment or discrimination. ",
+        "image": "https://static.wixstatic.com/media/16e7fb_bc19f4183ef84378bdf9ec0bb5fa6211~mv2.jpg/v1/fill/w_1890,h_1066,fp_0.50_0.50,q_90,enc_auto/16e7fb_bc19f4183ef84378bdf9ec0bb5fa6211~mv2.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.clubare.org/events/club-are-summer-edition",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "website",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "progressive house",
+            "hard house",
+            "tech house"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 114,
+        "name": "Riot LDN August",
+        "venue": "Electrowerkz",
+        "address": "7 Torrens Street, London EC1V 1NQ",
+        "time": "20:00-05:00",
+        "date": "Aug 1",
+        "price": "£19.56",
+        "type": "party",
+        "tags": [
+            "play party",
+            "kinky",
+            "leather",
+            "playroom",
+            "lgbtqia+",
+            "POC"
+
+        ],
+        "description": "Join us for a special one off Riot on a FRIDAY, as we warm up for UK Black Pride & Notting Hill Carnival Riot style, extending the parties to 2 floors! \n\nEveryone is welcome to attend but we will be platforming primarily POC Artists, DJs & creators to mark the occasion ❤️ \n\n🌈 Middle floor takeover from Taali (Queer House Party) featuring Dancers, DJs and a pop up vogueing Ballroom performance from Haus of Telfar \n🌈 Fully equipped playroom \n🌈 Ground floor DJs including Donnie Sunshine, Janelle Wynter, Gin + more \n🌈 QTIPOC Market with Leroy the Label and Crystals & Couture \n🌈 Chill out in Courtyard /n/nDOORS CLOSE 02:00 (for General Admission & Low Income Ticket holders) /n/nEVENT FINISHES 5AM. YOU MUST COMPLY TO OUR DRESS CODE TO ENTER THE EVENT. DETAILS ON OUR WEBSITE. /n/nPHYSICAL PHOTO ID IS REQUIRED AT THIS EVENT AS PART OF THE VENUES LICENSING (SCREENSHOTS / PHOTOCOPIES NOT ACCEPTED)",
+        "image": "images/riotparty.png",
+        "website_link": "",
+        "ticket_link": "https://dice.fm/event/6dr9g7-riot-ldn-august-1st-aug-electrowerkz-london-tickets?pid=60c4f4ae&_branch_match_id=1287494257629300288&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c81TEpONTQ0s7AwMLYvyEyxNTNINkkzSUxVqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAk4ZWyUgAAAA%3D",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "dice",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "house",
+            "cunty"
+        ],
+        "age":"18+"
+    },
+    
 
 
 
