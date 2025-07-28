@@ -22,7 +22,7 @@ const events = [
     {
         id: 5,
         name: "Dykes on Decks X Femmme Fraiche Pride",
-        venue: "The Tempest Inn",
+        venue: "The Tempest Inn - Brighton",
         address: "159-161 Kings Road Arches, Brighton, BN1 1NB",
         time: "20:00-03:00",
         date: "Aug 1",
@@ -1384,7 +1384,7 @@ const events = [
         "venue": "The Post Bar",
         "address": "316 High Road,  London,  N15 4BN",
         "time": "18:30-20:30",
-        "date": "Aug 13",
+        "date": "Aug 6",
         "price": "£2 to £5",
         "type": "workshop",
         "tags": [
@@ -1667,6 +1667,197 @@ const events = [
             "techno",
             "house",
             "cunty"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 115,
+        "name": "LILITH presents",
+        "venue": "ORMSIDE PROJECTS",
+        "address": "32 Ormside St, London SE15 1TR, UK",
+        "time": "19:00-04:00",
+        "date": "Aug 1",
+        "price": "£5.50 to £9.20",
+        "type": "party",
+        "tags": [
+            "queer party",
+            "community",
+            "fundraiser",
+            "bbq"
+
+        ],
+        "description": "London-based DJ and artist ex.sses curates a one-off club focussed queer party for LILITH at Ormside this Friday. A key figure within London’s subterranean scene and a core member of Sisu and the Nightlife Solidarity Network, ex.sses brings together an all-star lineup for an extended party running from 19:00 - 04:00. Following the Penarth Centre Community BBQ, ex.sses beckons in the later hours alongside expert selectors. /n/nFunds raised from ticket sales will go towards hosting future sessions for the Nightlife Solidarity Network following their event at Ormside earlier in June. The initiative aims to build networks between nightlife workers and open up a space for conversation, resource sharing and focused workshops. \n\n*The Free to attend Penarth Centre Community BBQ organised by Montez Press Radio & London Performance Studios (Running 15:00 to 19:00) Entrance via Penarth St",
+        "image": "images/lilith3.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2222496",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "RA",
+        "scraped_date": "",
+        "generes": [
+            "bass",
+            "club"
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 116,
+        "name": "GO-GO DANCE WORKSHOP",
+        "venue": "Coven",
+        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+        "time": "19:00-22:00",
+        "date": "Aug 5",
+        "price": "£5 to £8",
+        "type": "workshop",
+        "tags": [
+            "go-go dance",
+            "workshop",
+            "class",
+            "socialise",
+            "BLS Interpreter"
+        ],
+        "description": "Summon your power. Shake your spirit loose at COVEN, East London's newest queer space. /nJoin movement sorcerer Xavier Thomas—go-go performer for Queer As F*ck Cabaret, Hard Cock Life, Cocoa Butter Club, Black Burlesque, and Paradise Under the Stars—for a workshop that’s part dance class, part ritual of reclamation. /nWe’ll cover the essentials of go-go: rhythm, presence, grind, tease. But more than that, this is about body confidence, instinct, and performance as spellwork. /n/nNo mirrors, no judgement - just heat, intention, and unapologetic movement. /n/nAll levels, all bodies, all genders welcome.  /n/nDress fierce!  /n/nClass starts at 8pm. Stay after to socialise and keep your body moving! ",
+        "image": "https://cdn.outsavvy.com/events/f6bacf8b-bd19-49c8-b9cc-a4db0f3a6486.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29084/go-go-dance-workshop-with-xavier-thomas",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 117,
+        "name": "TORCHSONG: OPEN MIC",
+        "venue": "Coven",
+        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+        "time": "19:00-22:59",
+        "date": "Aug 7",
+        "price": "£5 to £8",
+        "type": "social",
+        "tags": [
+            "performance",
+            "open mic",
+            "queer",
+            
+        ],
+        "description": "Join us for TORCHSONG, COVEN’s witchy, fiery open mic night celebrating queer voices across genres — whether you're spilling your soul in a ballad, spitting bars, strumming heartache, or conjuring sonic spells. In collaboration with producer and A&R manager PLUSHY (Tileyard), TORCHSONG is both a space for raw creative expression and a rare chance to perform in front of industry ears and the broader queer community. /n/nSign up to sing through our online form on instagram, or by emailing info@covenhackney.com. /n/nAll are welcome — just bring the flame.",
+        "image": "https://cdn.outsavvy.com/events/4c66a332-7c23-4a69-8169-dfddd69ed5ae.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29079/torchsong-open-mic-night-at-coven",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 118,
+        "name": "OBEAH: BLACK PRIDE EDITION",
+        "venue": "Coven",
+        "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+        "time": "18:00-02:00",
+        "date": "Aug 10",
+        "price": "£10 to £15",
+        "type": "party",
+        "tags": [
+            "party",
+            "pride",
+            "djs",
+            "clubbing",
+            "lgbtq+"
+            
+        ],
+        "description": "Get ready to celebrate BLACK PRIDE with COVEN! /n/nJoin us for COVEN's biggest party yet as we take over 2 floors at Queen's Yard to celebrate Black Pride on August 10th. /n/nBop to BUMPAH's curated line-up downstairs and then venture upstairs to celebrate trans beauty with our all dolls line-up playing classic RnB, HipHop, Amapiano, Dancehall and more! /n/nKeep your eyes on our Instagram for more updates! /n/nLimited Capacity. Book Early. /n/nCan't wait to see you there witches ;)",
+        "image": "https://cdn.outsavvy.com/events/c11ea8e1-7e74-48f8-9541-fab5b7c364b5.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29049/obeah-black-pride-edition",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "hip hop",
+            "amapiano",
+            "dancehall"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 119,
+        "name": "Queer House Party",
+        "venue": "The Hideout",
+        "address": "Number 90 Bar Hackney Wick,  90 Wallis Road,  London,  E9 5LN",
+        "time": "22:00-04:00",
+        "date": "Sep 6",
+        "price": "£10.50 to £15.50",
+        "type": "party",
+        "tags": [
+            "party",
+            "community",
+            "clubbing",
+            "lgbtq+",
+            "BSL",
+
+            
+        ],
+        "description": "When we first started QHP, it was just us, some shimmer curtains, a cardboard cutout of Susan Boyle, and a dream… /nSince then, Queer House Party has grown into something bigger than we ever imagined – and we’ve had the absolute joy of working with some of our heroes, as well as over 200 incredible queer artists along the way. /nBut every now and then, we miss those early nights - a packed-out room, no fancy production, just big tunes, our people, a whole lot of sweat and the DIY energy we’ve always loved (and tried to hold on to). /nSo, as part of our fifth birthday celebrations, we’re going back to our roots for one night only: /n/nQHP ALL NIGHT LONG /n/nHarry Gay, Passer, and Taali behind the decks from start to finish. Expect wall-to-wall bangers, silly little outfits, big feelings, bad decisions, and maybe even a surprise guest or two… /n/nTickets are cheap & capacity is limited. So get yours in asap. /n/nThis one is for our day ones and everyone else who has joined us over the years. /n/nCome have a cheeky x",
+        "image": "https://cdn.outsavvy.com/events/e766593b-3120-49ed-8591-7dd4e1f66922.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29021/queer-house-party?fbclid=PAZXh0bgNhZW0CMTEAAactnDzoDxYeMlV5eWZ73Y9r7L8gX-bGtF0xabja1D4hZwefSia0BiKbJgkstg_aem_tXkWUhEt18foAFFJ4j9UUw",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "club",
+            "techno",
+            "cunty"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 120,
+        "name": "B.O.S.S. Summer Party",
+        "venue": "Piehouse Co-Op",
+        "address": "213-214 Edward Place,  London,  SE8 5HD",
+        "time": "14:00-22:00",
+        "date": "Aug 17",
+        "price": "£5 to £25",
+        "type": "party",
+        "tags": [
+            "day party",
+            "food",
+            "crafts",
+            "performance",
+            "tooth gems",
+            "lgbtq+",
+           
+        ],
+        "description": "When we first started QHP, it was just us, some shimmer curtains, a cardboard cutout of Susan Boyle, and a dream… /nSince then, Queer House Party has grown into something bigger than we ever imagined – and we’ve had the absolute joy of working with some of our heroes, as well as over 200 incredible queer artists along the way. /nBut every now and then, we miss those early nights - a packed-out room, no fancy production, just big tunes, our people, a whole lot of sweat and the DIY energy we’ve always loved (and tried to hold on to). /nSo, as part of our fifth birthday celebrations, we’re going back to our roots for one night only: /n/nQHP ALL NIGHT LONG /n/nHarry Gay, Passer, and Taali behind the decks from start to finish. Expect wall-to-wall bangers, silly little outfits, big feelings, bad decisions, and maybe even a surprise guest or two… /n/nTickets are cheap & capacity is limited. So get yours in asap. /n/nThis one is for our day ones and everyone else who has joined us over the years. /n/nCome have a cheeky x",
+        "image": "https://cdn.outsavvy.com/events/7fe3fb83-3e25-41a6-bd93-d7149c6a57a5.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29054/boss-summer-party",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "dub",
+            "dancehall",
+            "soca",
+            "reggae",
+            "jungle",
+            "UKG",
+            "funky",
+            "house"
         ],
         "age":"18+"
     },
