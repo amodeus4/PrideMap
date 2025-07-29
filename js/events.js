@@ -231,7 +231,7 @@ const events = [
         id: 53,
         name: "Rat Party",
         venue: "Distillery N17",
-        address: "Unit 25, Millmead Industrial Estate",
+        address: "25 Northfield Industrial Estate, Beresford Avenue, Wembley, HA0 1NW",
         time: "14:00-02:00",
         date: "Aug 2",
         price: "£10-20",
