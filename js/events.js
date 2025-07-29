@@ -11,7 +11,7 @@ const events = [
         type: "social",
         tags: ["Protest", "Trans", "Queer"],
         image: "images/transpride.png",
-        description: "Following our record breaking march last year of over 60,000 participants we're excited to take to the streets in protest for trans+ rights with you all again on Saturday, 26 July! /n/nKEY DETAILS: \n\n• As always, bring bottled water and sun protection (umbrellas, hats, etc.) as well as signs & banners, face masks to protect yourself and others, flowers, and friends x \n• We'll be meeting in the streets from 1pm (13:00) at Langham Place and we will set off marching at 2pm (14:00)!\n• This year's march will end around 4pm (16:00) at Parliament Square Gardens and its surrounding streets (NOT Wellington Arch), where there will be speeches from members of the community. \n• For disabled comrades and anyone wanting to attend without doing full 2-hour march, remember: you have the option of going straight to Parliament Square Gardens from 14:00! \n• We highly recommend dressing up in whatever way you feel comfortable and, of course, consensual handholding is always encouraged ☺️ \nWe look forward to raising our voices and marching proudly with you all.\nAs always , \nLove + Rage \nLT+P",
+        description: "Following our record breaking march last year of over 60,000 participants we're excited to take to the streets in protest for trans+ rights with you all again on Saturday, 26 July! \n\nKEY DETAILS: \n\n• As always, bring bottled water and sun protection (umbrellas, hats, etc.) as well as signs & banners, face masks to protect yourself and others, flowers, and friends x \n• We'll be meeting in the streets from 1pm (13:00) at Langham Place and we will set off marching at 2pm (14:00)!\n• This year's march will end around 4pm (16:00) at Parliament Square Gardens and its surrounding streets (NOT Wellington Arch), where there will be speeches from members of the community. \n• For disabled comrades and anyone wanting to attend without doing full 2-hour march, remember: you have the option of going straight to Parliament Square Gardens from 14:00! \n• We highly recommend dressing up in whatever way you feel comfortable and, of course, consensual handholding is always encouraged ☺️ \nWe look forward to raising our voices and marching proudly with you all.\nAs always , \nLove + Rage \nLT+P",
         website_link: "https://www.instagram.com/londontranspride/?hl=en",
         ticket_link: "",
         coordinates: null,
@@ -687,38 +687,7 @@ const events = [
         ],
         "age": "18+"
     },
-    {
-        "id": 2,
-        "name": "Rest",
-        "venue": "& Soul Shoreditch",
-        "address": "114 Cheshire St, London E2 6EJ",
-        "time": "17:00-22:00",
-        "date": "Jul 26",
-        "price": "£12",
-        "type": "social",
-        "tags": [
-            "sauna",
-            "yoga",
-            "massage",
-            "wellness",
-            "lgbtq+"
-            
-        ],
-        "description": "Sweat, soak, and unwind! Trans Sauna is at Hackney every month 🔥\nA night for trans+ people (transgender, non-binary, intersex or gender non-conforming) to warm up, cool down, and connect. Expect hot hot saunas, icy cold plunges, wellness facilitators, good food, and a space that’s entirely ours for the evening. This is not a cruising event - it’s a care, rest, and community event. \nSee you in the steam. ❤️‍🔥\nCheck our Instagram closer to the time for updates on massage therapists, food vendors and more!\n This month's reminders:\nIf you're feeling unwell, please consider not attending this event in order to protect others. Take a Covid-19 test if you have any symptoms. \nBe mindful of our wristband system. If the sauna cabins are busy, prioritise those wearing wristbands for the current session. You are welcome to hang around the venue by the fire pits, by the other outdoor seating, or in the café inside the building, if the saunas are full.\nRespect the BPOC only sauna cabin space. If you are white, this is not a space for you. This is usually clearly marked with a laminated sign.\nRespect the quiet sauna. Be mindful of others as they may be looking for peaceful space to reflect. This is usually clearly marked with a wooden sign.\nCLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. \nCheck below for the details, including event policy and what to bring. If there are any changes, we will update ticket holders by email, modify this description and share on our Instagram @trans.sauna and WhatsApp community.\nWhat to bring\n• swimwear \n• two towels, one to sit on in sauna and one to dry off with \n• sandals/ sliders/ flip flops (venue may have spare)\n• a padlock for locker (optional)\n• bathrobe (optional) \n• sauna hat (optional)\nSauna Etiquette\n• CLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. \n• Make space for others to sit where possible. \n• Check with everyone in the sauna before adding water to the stones. Nothing unusual on the stones, water is great. \n• Spreading the heat with a whisk/towel/fan is allowed, but check with those around you. \n• Rinse off in the shower before your first cold plunge. We recommend sauna then rinse then plunge then back to sauna. \n• Listen to your body when inside the sauna, it is not recommended to stay in the sauna for over 15 minutes, there is no need to push yourself. Strictly no sauna competitions. \n• No glass bottles are allowed in the changing rooms, shower room, or the sauna itself. \n• There will be one BPOC only sauna. This is usually clearly marked with a laminated sign.\n• There will be one quiet sauna. This is usually clearly marked with a wooden sign.\n• There will be one “pro” sauna. This is usually clearly marked with a laminated sign. This is for experienced sauna-goers, and should be respected, this means entering and leaving quickly as possible and being able to add water to the stones (but excessive water will bring down the temperature).\nNudity Policy\n• Due to council restrictions, the venue adheres to a strict nudity policy. Breaking these rules may lead to Trans Sauna no longer being able to operate at this venue.\n• There is no full nudity allowed, the only exception is within the sauna cabins.\n• Top nudity is permitted in the outdoors sauna site, you must be wearing something on your lower half.\n• You must wear shoes and either day clothes or a robe over your swimwear to enter the building for the cafe/ toilets. \n• This is a non-sexual/non-cruising sauna event, the venue does not have a sex license.\nSafer Spaces Policy\n• No racism, cis-sexism, transmisogyny, transphobia, ableism, fatphobia, or body commentary. \n• No harassment of any kind, this includes touching without consent, excessive or inappropriate staring, verbal abuse, explicit gesturing, and more.\n• Do not take photos within the sauna space. Be mindful of who may be in the background of your photos and ask for permission.\n• This is a drug and alcohol-free event, though alcohol is sold in the café. Avoid drinking when using saunas.\n• Please show up only when you are healthy and have no flu symptoms.\nTicketing\n• All tickets for any time slot will allow access to the venue for the duration of the event, from 6pm - 9.30pm. \n• The priority slots are to ensure everyone gets a chance to spend time in the sauna, however you are welcome to be at the event outside your slot! You can even enter saunas outside of your slot if there is space, but please prioritise those wearing wristbands for the current session.\n• You are welcome to purchase more than one time slot if you want to guarantee more time within the sauna.\nAccessibility Information\nFor Trans Sauna at Hackney Wick Sauna Baths, The Baths 80, Eastway, London E9 5JH. The nearest step-free station is Hackney Wick (9 min walk), with bus stops P and Hackney Wick (236, 276, 388, N26 buses) both 30 seconds walk away.\n• Venue Access\nThe sauna area is outdoors. To reach it via steps, enter the building (7 steps up), walk through the café, through the right door, down the corridor, exit, and go down 7 steps. To reach it via lifts, use the lift by the steps, up to the café level, cross the café, use the lift by the hall entrance steps, go down, exit through the back left doors (with a small lip). If you need lift access, please message ahead so staff can assist.\nThe sauna area has low lighting, and mixed astro turf and pallet wood flooring which may be uneven or wet. Sandals are recommended.\n• Facilities\n     • Saunas: 7 in total, all with steps or combination step and slopes and narrow doors. None are wheelchair accessible.\n     • Cold plunges: 8 in total, a mix of barrels, water tanks, and metal baths.\n     • Showers: 3 cold showers, all are outdoors and not private.\n     • Changing rooms: 8 private stalls; 3 are step-free, the rest have one step. All have seating.\n     • Lockers: Bring a padlock.\n     • Toilets: Gender neutral toilets and accessible toilet are indoors at the end of the corridor near Library of Things area.\n     • Seating: Available indoors (café) and outdoors.\n     • Café: This is not managed by the Trans Sauna team or venue staff, but you are welcome to use the space.\n• Additional Notes\n     • Weather may be cold/rainy—bring warm, dry clothes. A small fire pit is usually lit.\n     • Warm food with vegan and gluten-free options is usually available for purchase.\n     • Do not attend if you have Covid-19 symptoms or have tested positive—refunds are available in these cases.\n     • There may be other events happening in the building (outside of the sauna area), with cis people attending.\n     • Staff attending to the saunas may be cis, but usually are trans.\n     • For access assistance or questions, contact us, or ask our team/ venue staff on site.\nFeel free to contact us with any questions you may have.\nThe event is organised by the Trans Sauna team - Fey, Jeng and Oran. \nDesign by Jeng Au.",
-        "image": "https://images.momence.com/h/47026/session-banner/c243fb2a-b106-4a65-b28f-4c117a1631dc.jpeg",
-        "website_link": "",
-        "ticket_link": "https://momence.com/The-Sanctuary-&Soul/Rest-by-Pxssy-Palace-x-Anahata-Collective/119264810?skipPreview=true&fbclid=PAZXh0bgNhZW0CMTEAAadI-8MXFE1Z5dh5jAnWdV38xQ6jrfMI3vCEqwK1bD45EV9-PCcT5v2Is0J4tw_aem_UdZpg7P51v8Ca-KN5oGh-w",
-        "coordinates": null,
-        "sellingFast": true,
-        "scraped_from": "outsavvy",
-        "scraped_date": "",
-        "generes": [
-            "ambient",
-            "chill"
-
-        ],
-        "age": "18+"
-    },
+   
 
     {
         "id": 404134304,
@@ -1395,7 +1364,7 @@ const events = [
 
 
         ],
-        "description": "Join us for our sapphic book club where every month we join together and discuss sapphic literature!  /n/n📚This month’s book: Want by Gillian Anderson /n📍Post Bar N15 4BN /n⏱️ Time and date: 6:30pm - Wed 13th August /n/nWe’ll read our favourite entries of Want and discuss it over some delicious drinks in a lovely sunlit terrace!  /n/nTickets will cover entry, bookish goodies and delicious cake! /n/nIf you’re not in the WhatsApp group chat, message me at: 07852695922 /n/nSappho’s circle is a super fun community where queer women and non binary people are all welcome! ",
+        "description": "Join us for our sapphic book club where every month we join together and discuss sapphic literature!\n\n📚This month’s book: Want by Gillian Anderson\n📍Post Bar N15 4BN\n⏱️ Time and date: 6:30pm - Wed 13th August\n\nWe’ll read our favourite entries of Want and discuss it over some delicious drinks in a lovely sunlit terrace!  \n\nTickets will cover entry, bookish goodies and delicious cake!\n\nIf you’re not in the WhatsApp group chat, message me at: 07852695922\n\nSappho’s circle is a super fun community where queer women and non binary people are all welcome! ",
         "image": "https://cdn.outsavvy.com/events/47265bb4-3aca-49d7-bdef-ec01bcd37775.jpeg",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/28979/sapphos-circle-book-club",
@@ -1427,7 +1396,7 @@ const events = [
 
 
         ],
-        "description": "Come have some fun with us after trans pride. :) /n7pm - late /nOpen decks - bring your usb! \nSunshine - garden open till late ;) /n/nFree entry on the door only /nBecause our last pride event sold out so fast, we're keeping this one simple and fair. No pre booking and entry is free and open to everyone who shows up at the door before we reach capacity. :)",
+        "description": "Come have some fun with us after trans pride. :) \n7pm - late \nOpen decks - bring your usb! \nSunshine - garden open till late ;) \n\nFree entry on the door only \nBecause our last pride event sold out so fast, we're keeping this one simple and fair. No pre booking and entry is free and open to everyone who shows up at the door before we reach capacity. :)",
         "image": "https://cdn.outsavvy.com/events/ffd81652-3c8b-4459-a723-8423fa990025.jpg",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/28964/trans-pride-after-party",
@@ -1457,7 +1426,7 @@ const events = [
             "FLINTA"
 
         ],
-        "description": "If it’s a serious dose of Caribbean vibes that you're after to start your Carnival weekend, look no further babes! /n/nSTRAPPED has teamed up with East London’s most sensual basement spot Bar Doña to bring you the Queer Carnival party of your dreams. /nWarm up ya waist on Friday 22 August to the very best in Dancehall, Reggaeton & Soca riddims 🌴🍹 It’s giving sexy, sensual, hot, heavy, immaculate vibes /nAnd WHAT A DJ LINEUP we have in stall for you! Lineup to be announced soon /nAnd of course, with any STRAPPED event, expect dancers and some cunty surprises /nFeel free to dress to impress! STRAPPED is a space for queer women, NB and trans hotties to feel safe, seen and sexy. Come party like the queer baddie you are! As always, no pressure to dress up. You are enough as you are <3",
+        "description": "If it’s a serious dose of Caribbean vibes that you're after to start your Carnival weekend, look no further babes! \n\nSTRAPPED has teamed up with East London’s most sensual basement spot Bar Doña to bring you the Queer Carnival party of your dreams. \nWarm up ya waist on Friday 22 August to the very best in Dancehall, Reggaeton & Soca riddims 🌴🍹 It’s giving sexy, sensual, hot, heavy, immaculate vibes \nAnd WHAT A DJ LINEUP we have in stall for you! Lineup to be announced soon \nAnd of course, with any STRAPPED event, expect dancers and some cunty surprises \nFeel free to dress to impress! STRAPPED is a space for queer women, NB and trans hotties to feel safe, seen and sexy. Come party like the queer baddie you are! As always, no pressure to dress up. You are enough as you are <3",
         "image": "https://dice-media.imgix.net/attachments/2025-07-22/ebbb5c77-bf5a-4a2e-93c2-9f4e378e39ea.jpg?rect=0%2C329%2C1587%2C1587&auto=format%2Ccompress&q=80&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=1 1x,https://dice-media.imgix.net/attachments/2025-07-22/ebbb5c77-bf5a-4a2e-93c2-9f4e378e39ea.jpg?rect=0%2C329%2C1587%2C1587&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
         "website_link": "",
         "ticket_link": "https://dice.fm/partner/dice/event/2wbwq6-strapped-carnival-22nd-aug-bar-doa-london-tickets?dice_id=6664539&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAacj1qoCWOfFtJQcBLano93O10uVCMhfE_511_myGWHmL-qKTzjwoA1vBwakwA_aem_XXFfWlSGVMKmmomXKuwEQQ&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXBwQ6CIAAA0L%2FplkLNg22toTNbZuVy4rwwIRBNpFBjdejbe09O03PcuG7fDg%2Fn3jLuCOU%2BKfWZ5604AHwnKOvb%2B%2FaKqlIC2pxlhUGY5hFCNevgS4f4IvbTMWPBqR60v75AMBdhKkVEPAiJ%2BsT4oE7LV5J%2FO6sRfAe2flhEaq5IWe4F7m9xkSZKaVUms42ybPEzXHBj2qEh1Gg7crMNpdGK%2FwEs6dY%2BrgAAAA%3D%3D",
@@ -1487,7 +1456,7 @@ const events = [
             "trans",
 
         ],
-        "description": "NEUROTICA is back! Providing the ultimate post London Trans+ Pride motive. /nTaking over two rooms at M.O.T. again with an incredible lineup of local talent + an international special guest xxx /nWe expect to sell out quickly, so get your tickets ASAP x ",
+        "description": "NEUROTICA is back! Providing the ultimate post London Trans+ Pride motive. \nTaking over two rooms at M.O.T. again with an incredible lineup of local talent + an international special guest xxx \nWe expect to sell out quickly, so get your tickets ASAP x ",
         "image": "https://cdn.outsavvy.com/events/735b8ca8-ff82-47ae-befc-6726438ac15d.png",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/26557/neurotica-trans-pride-afterparty",
@@ -1621,7 +1590,7 @@ const events = [
             "FLINTA"
 
         ],
-        "description": "In celebration of London Trans Pride weekend! /nClub Are is back, this time for our biggest event yet. \nWe’re taking over Archives London for a full 12 hours, from evening through to sunrise, in celebration of London Trans Pride weekend. Expect a high-energy, late-night journey across sound, movement, and community, built for full self-expression and collective energy. \n\nWe’re yet again transforming the space with an art installation, light, and set design, brought together our selected visual artist, Club Are team and collaborators who’ve helped shape each edition into something layered and alive. From the dancefloor to the visuals, everything is rooted in connection and care. /n/nMusically, we’re going in. A lineup of DJs and artists (TBA) will be taking us deep into progressive house, hard house, tech-house, and techno. pushing boundaries and holding the energy right through to 6AM. Expect bold selections, emotional highs, and beautiful dancefloor moments. /n/nClub Are is always all about community. We’re proud to build a space where queer and trans joy is at the centre and where everyone is welcome, respected, and free to be themselves. /n/nWe operate a zero-tolerance policy for any form of harassment or discrimination. ",
+        "description": "In celebration of London Trans Pride weekend! \nClub Are is back, this time for our biggest event yet. \nWe’re taking over Archives London for a full 12 hours, from evening through to sunrise, in celebration of London Trans Pride weekend. Expect a high-energy, late-night journey across sound, movement, and community, built for full self-expression and collective energy. \n\nWe’re yet again transforming the space with an art installation, light, and set design, brought together our selected visual artist, Club Are team and collaborators who’ve helped shape each edition into something layered and alive. From the dancefloor to the visuals, everything is rooted in connection and care. \n\nMusically, we’re going in. A lineup of DJs and artists (TBA) will be taking us deep into progressive house, hard house, tech-house, and techno. pushing boundaries and holding the energy right through to 6AM. Expect bold selections, emotional highs, and beautiful dancefloor moments. \n\nClub Are is always all about community. We’re proud to build a space where queer and trans joy is at the centre and where everyone is welcome, respected, and free to be themselves. \n\nWe operate a zero-tolerance policy for any form of harassment or discrimination. ",
         "image": "https://static.wixstatic.com/media/16e7fb_bc19f4183ef84378bdf9ec0bb5fa6211~mv2.jpg/v1/fill/w_1890,h_1066,fp_0.50_0.50,q_90,enc_auto/16e7fb_bc19f4183ef84378bdf9ec0bb5fa6211~mv2.jpg",
         "website_link": "",
         "ticket_link": "https://www.clubare.org/events/club-are-summer-edition",
@@ -1655,7 +1624,7 @@ const events = [
             "POC"
 
         ],
-        "description": "Join us for a special one off Riot on a FRIDAY, as we warm up for UK Black Pride & Notting Hill Carnival Riot style, extending the parties to 2 floors! \n\nEveryone is welcome to attend but we will be platforming primarily POC Artists, DJs & creators to mark the occasion ❤️ \n\n🌈 Middle floor takeover from Taali (Queer House Party) featuring Dancers, DJs and a pop up vogueing Ballroom performance from Haus of Telfar \n🌈 Fully equipped playroom \n🌈 Ground floor DJs including Donnie Sunshine, Janelle Wynter, Gin + more \n🌈 QTIPOC Market with Leroy the Label and Crystals & Couture \n🌈 Chill out in Courtyard /n/nDOORS CLOSE 02:00 (for General Admission & Low Income Ticket holders) /n/nEVENT FINISHES 5AM. YOU MUST COMPLY TO OUR DRESS CODE TO ENTER THE EVENT. DETAILS ON OUR WEBSITE. /n/nPHYSICAL PHOTO ID IS REQUIRED AT THIS EVENT AS PART OF THE VENUES LICENSING (SCREENSHOTS / PHOTOCOPIES NOT ACCEPTED)",
+        "description": "Join us for a special one off Riot on a FRIDAY, as we warm up for UK Black Pride & Notting Hill Carnival Riot style, extending the parties to 2 floors! \n\nEveryone is welcome to attend but we will be platforming primarily POC Artists, DJs & creators to mark the occasion ❤️ \n\n🌈 Middle floor takeover from Taali (Queer House Party) featuring Dancers, DJs and a pop up vogueing Ballroom performance from Haus of Telfar \n🌈 Fully equipped playroom \n🌈 Ground floor DJs including Donnie Sunshine, Janelle Wynter, Gin + more \n🌈 QTIPOC Market with Leroy the Label and Crystals & Couture \n🌈 Chill out in Courtyard \n\nDOORS CLOSE 02:00 (for General Admission & Low Income Ticket holders) \n\nEVENT FINISHES 5AM. YOU MUST COMPLY TO OUR DRESS CODE TO ENTER THE EVENT. DETAILS ON OUR WEBSITE. \n\nPHYSICAL PHOTO ID IS REQUIRED AT THIS EVENT AS PART OF THE VENUES LICENSING (SCREENSHOTS / PHOTOCOPIES NOT ACCEPTED)",
         "image": "images/riotparty.png",
         "website_link": "",
         "ticket_link": "https://dice.fm/event/6dr9g7-riot-ldn-august-1st-aug-electrowerkz-london-tickets?pid=60c4f4ae&_branch_match_id=1287494257629300288&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c81TEpONTQ0s7AwMLYvyEyxNTNINkkzSUxVqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAk4ZWyUgAAAA%3D",
@@ -1686,7 +1655,7 @@ const events = [
             "bbq"
 
         ],
-        "description": "London-based DJ and artist ex.sses curates a one-off club focussed queer party for LILITH at Ormside this Friday. A key figure within London’s subterranean scene and a core member of Sisu and the Nightlife Solidarity Network, ex.sses brings together an all-star lineup for an extended party running from 19:00 - 04:00. Following the Penarth Centre Community BBQ, ex.sses beckons in the later hours alongside expert selectors. /n/nFunds raised from ticket sales will go towards hosting future sessions for the Nightlife Solidarity Network following their event at Ormside earlier in June. The initiative aims to build networks between nightlife workers and open up a space for conversation, resource sharing and focused workshops. \n\n*The Free to attend Penarth Centre Community BBQ organised by Montez Press Radio & London Performance Studios (Running 15:00 to 19:00) Entrance via Penarth St",
+        "description": "London-based DJ and artist ex.sses curates a one-off club focussed queer party for LILITH at Ormside this Friday. A key figure within London’s subterranean scene and a core member of Sisu and the Nightlife Solidarity Network, ex.sses brings together an all-star lineup for an extended party running from 19:00 - 04:00. Following the Penarth Centre Community BBQ, ex.sses beckons in the later hours alongside expert selectors. \n\nFunds raised from ticket sales will go towards hosting future sessions for the Nightlife Solidarity Network following their event at Ormside earlier in June. The initiative aims to build networks between nightlife workers and open up a space for conversation, resource sharing and focused workshops. \n\n*The Free to attend Penarth Centre Community BBQ organised by Montez Press Radio & London Performance Studios (Running 15:00 to 19:00) Entrance via Penarth St",
         "image": "images/lilith3.png",
         "website_link": "",
         "ticket_link": "https://ra.co/events/2222496",
@@ -1717,7 +1686,7 @@ const events = [
             "socialise",
             "BLS Interpreter"
         ],
-        "description": "Summon your power. Shake your spirit loose at COVEN, East London's newest queer space. /nJoin movement sorcerer Xavier Thomas—go-go performer for Queer As F*ck Cabaret, Hard Cock Life, Cocoa Butter Club, Black Burlesque, and Paradise Under the Stars—for a workshop that’s part dance class, part ritual of reclamation. /nWe’ll cover the essentials of go-go: rhythm, presence, grind, tease. But more than that, this is about body confidence, instinct, and performance as spellwork. /n/nNo mirrors, no judgement - just heat, intention, and unapologetic movement. /n/nAll levels, all bodies, all genders welcome.  /n/nDress fierce!  /n/nClass starts at 8pm. Stay after to socialise and keep your body moving! ",
+        "description": "Summon your power. Shake your spirit loose at COVEN, East London's newest queer space. \nJoin movement sorcerer Xavier Thomas—go-go performer for Queer As F*ck Cabaret, Hard Cock Life, Cocoa Butter Club, Black Burlesque, and Paradise Under the Stars—for a workshop that’s part dance class, part ritual of reclamation. \nWe’ll cover the essentials of go-go: rhythm, presence, grind, tease. But more than that, this is about body confidence, instinct, and performance as spellwork. \n\nNo mirrors, no judgement - just heat, intention, and unapologetic movement. \n\nAll levels, all bodies, all genders welcome.  \n\nDress fierce!  \n\nClass starts at 8pm. Stay after to socialise and keep your body moving! ",
         "image": "https://cdn.outsavvy.com/events/f6bacf8b-bd19-49c8-b9cc-a4db0f3a6486.jpg",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/29084/go-go-dance-workshop-with-xavier-thomas",
@@ -1745,7 +1714,7 @@ const events = [
             "queer",
             
         ],
-        "description": "Join us for TORCHSONG, COVEN’s witchy, fiery open mic night celebrating queer voices across genres — whether you're spilling your soul in a ballad, spitting bars, strumming heartache, or conjuring sonic spells. In collaboration with producer and A&R manager PLUSHY (Tileyard), TORCHSONG is both a space for raw creative expression and a rare chance to perform in front of industry ears and the broader queer community. /n/nSign up to sing through our online form on instagram, or by emailing info@covenhackney.com. /n/nAll are welcome — just bring the flame.",
+        "description": "Join us for TORCHSONG, COVEN’s witchy, fiery open mic night celebrating queer voices across genres — whether you're spilling your soul in a ballad, spitting bars, strumming heartache, or conjuring sonic spells. In collaboration with producer and A&R manager PLUSHY (Tileyard), TORCHSONG is both a space for raw creative expression and a rare chance to perform in front of industry ears and the broader queer community. \n\nSign up to sing through our online form on instagram, or by emailing info@covenhackney.com. /n/nAll are welcome — just bring the flame.",
         "image": "https://cdn.outsavvy.com/events/4c66a332-7c23-4a69-8169-dfddd69ed5ae.jpg",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/29079/torchsong-open-mic-night-at-coven",
@@ -1775,7 +1744,7 @@ const events = [
             "lgbtq+"
             
         ],
-        "description": "Get ready to celebrate BLACK PRIDE with COVEN! /n/nJoin us for COVEN's biggest party yet as we take over 2 floors at Queen's Yard to celebrate Black Pride on August 10th. /n/nBop to BUMPAH's curated line-up downstairs and then venture upstairs to celebrate trans beauty with our all dolls line-up playing classic RnB, HipHop, Amapiano, Dancehall and more! /n/nKeep your eyes on our Instagram for more updates! /n/nLimited Capacity. Book Early. /n/nCan't wait to see you there witches ;)",
+        "description": "Get ready to celebrate BLACK PRIDE with COVEN! \n\nJoin us for COVEN's biggest party yet as we take over 2 floors at Queen's Yard to celebrate Black Pride on August 10th. \n\nBop to BUMPAH's curated line-up downstairs and then venture upstairs to celebrate trans beauty with our all dolls line-up playing classic RnB, HipHop, Amapiano, Dancehall and more! \n\nKeep your eyes on our Instagram for more updates! \n\nLimited Capacity. Book Early. \n\nCan't wait to see you there witches ;)",
         "image": "https://cdn.outsavvy.com/events/c11ea8e1-7e74-48f8-9541-fab5b7c364b5.png",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/29049/obeah-black-pride-edition",
@@ -1808,7 +1777,7 @@ const events = [
 
             
         ],
-        "description": "When we first started QHP, it was just us, some shimmer curtains, a cardboard cutout of Susan Boyle, and a dream… /nSince then, Queer House Party has grown into something bigger than we ever imagined – and we’ve had the absolute joy of working with some of our heroes, as well as over 200 incredible queer artists along the way. /nBut every now and then, we miss those early nights - a packed-out room, no fancy production, just big tunes, our people, a whole lot of sweat and the DIY energy we’ve always loved (and tried to hold on to). /nSo, as part of our fifth birthday celebrations, we’re going back to our roots for one night only: /n/nQHP ALL NIGHT LONG /n/nHarry Gay, Passer, and Taali behind the decks from start to finish. Expect wall-to-wall bangers, silly little outfits, big feelings, bad decisions, and maybe even a surprise guest or two… /n/nTickets are cheap & capacity is limited. So get yours in asap. /n/nThis one is for our day ones and everyone else who has joined us over the years. /n/nCome have a cheeky x",
+        "description": "When we first started QHP, it was just us, some shimmer curtains, a cardboard cutout of Susan Boyle, and a dream… \nSince then, Queer House Party has grown into something bigger than we ever imagined – and we’ve had the absolute joy of working with some of our heroes, as well as over 200 incredible queer artists along the way. \nBut every now and then, we miss those early nights - a packed-out room, no fancy production, just big tunes, our people, a whole lot of sweat and the DIY energy we’ve always loved (and tried to hold on to). \nSo, as part of our fifth birthday celebrations, we’re going back to our roots for one night only: \n\nQHP ALL NIGHT LONG \n\nHarry Gay, Passer, and Taali behind the decks from start to finish. Expect wall-to-wall bangers, silly little outfits, big feelings, bad decisions, and maybe even a surprise guest or two… \n\nTickets are cheap & capacity is limited. So get yours in asap. \n\nThis one is for our day ones and everyone else who has joined us over the years. \n\nCome have a cheeky x",
         "image": "https://cdn.outsavvy.com/events/e766593b-3120-49ed-8591-7dd4e1f66922.png",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/29021/queer-house-party?fbclid=PAZXh0bgNhZW0CMTEAAactnDzoDxYeMlV5eWZ73Y9r7L8gX-bGtF0xabja1D4hZwefSia0BiKbJgkstg_aem_tXkWUhEt18foAFFJ4j9UUw",
@@ -1841,7 +1810,7 @@ const events = [
             "lgbtq+",
            
         ],
-        "description": "When we first started QHP, it was just us, some shimmer curtains, a cardboard cutout of Susan Boyle, and a dream… /nSince then, Queer House Party has grown into something bigger than we ever imagined – and we’ve had the absolute joy of working with some of our heroes, as well as over 200 incredible queer artists along the way. /nBut every now and then, we miss those early nights - a packed-out room, no fancy production, just big tunes, our people, a whole lot of sweat and the DIY energy we’ve always loved (and tried to hold on to). /nSo, as part of our fifth birthday celebrations, we’re going back to our roots for one night only: /n/nQHP ALL NIGHT LONG /n/nHarry Gay, Passer, and Taali behind the decks from start to finish. Expect wall-to-wall bangers, silly little outfits, big feelings, bad decisions, and maybe even a surprise guest or two… /n/nTickets are cheap & capacity is limited. So get yours in asap. /n/nThis one is for our day ones and everyone else who has joined us over the years. /n/nCome have a cheeky x",
+        "description": "When we first started QHP, it was just us, some shimmer curtains, a cardboard cutout of Susan Boyle, and a dream… \nSince then, Queer House Party has grown into something bigger than we ever imagined – and we’ve had the absolute joy of working with some of our heroes, as well as over 200 incredible queer artists along the way.\nBut every now and then, we miss those early nights - a packed-out room, no fancy production, just big tunes, our people, a whole lot of sweat and the DIY energy we’ve always loved (and tried to hold on to). \nSo, as part of our fifth birthday celebrations, we’re going back to our roots for one night only: \n\nQHP ALL NIGHT LONG \n\nHarry Gay, Passer, and Taali behind the decks from start to finish. Expect wall-to-wall bangers, silly little outfits, big feelings, bad decisions, and maybe even a surprise guest or two… \n\nTickets are cheap & capacity is limited. So get yours in asap. \n\nThis one is for our day ones and everyone else who has joined us over the years. \n\nCome have a cheeky x",
         "image": "https://cdn.outsavvy.com/events/7fe3fb83-3e25-41a6-bd93-d7149c6a57a5.png",
         "website_link": "",
         "ticket_link": "https://www.outsavvy.com/event/29054/boss-summer-party",
@@ -1858,6 +1827,281 @@ const events = [
             "UKG",
             "funky",
             "house"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 121,
+        "name": "Queer Game Club",
+        "venue": "The Green House | Ethical Property",
+        "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+        "time": "18:00-21:30",
+        "date": "Aug 11",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+            "social",
+            "board games",
+            "poc",
+            "migrants",
+            "quiet space",
+            "lgbtq+",
+           
+        ],
+        "description": "Grab your tokens, shuffle your cards, and get ready for a night of games, snacks, and queer joy! This Queer Game Night is for queer migrants and queer people of colour, so bring your best game face and let’s play! 🌈 \n\nnWhether you’re a board game newbie or a seasoned pro who always “accidentally” wins at Monopoly, this night is for you. We’ll have some games ready, and you can also bring your own favorites to share! Snacks and refreshments will keep your energy up, no matter how intense the competition gets. \n\nWhat’s in store? \n🎲 Meet amazing people and maybe even new gaming buddies \n🎉 Level up your social skills IRL\n🥂 Gobble snacks like Pac-Man \n🩺 Bonus treasure: Grab free sexual health resources and STI self-test kits to take home \n\nAccessibility: The venue is wheelchair accessible, so no obstacles to fun here! \n\nSpaces are limited, so don’t miss out! Bring your A-game (or just your love of snacks) and let’s have a blast. \n\n💌 Questions? Send us a message. We can’t wait to play with you! \n\nStay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!",
+
+        "image": "https://cdn.outsavvy.com/events/afe6e149-1acf-4905-920f-9cdebb2920b8.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/23860/free-queer-game-club-for-queer-migrants-and-queer-people-of-colour",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            
+        ],
+        "age":""
+    },
+    {
+        "id": 122,
+        "name": "Second Tuesday Monologues - Freedom 🦅",
+        "venue": "The Common Counter",
+        "address": "118 Bethnal Green Road,  London,  E2 6DG",
+        "time": "19:00-21:00",
+        "date": "Aug 12",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+            "social",
+            "monologues",
+            "community",
+            "common press",
+            "show",
+            "lgbtq+",
+           
+        ],
+        "description": "This August, Second Tuesday Monologues invites you to explore the bold, messy, and liberating theme of FREEDOM 🕊️🌈 \n\nFrom breaking free of expectations, to claiming space, to dreaming beyond borders - come for an evening of stories about what it means to live, love, and exist on your own terms. Expect vulnerability, rebellion, celebration, and the many shapes that freedom takes in queer lives. \n\nHOW IT WORKS: \n🎭 Monologists have up to 10 minutes to share their unique take on the theme. \n🛋️ After the performances, we settle in for an open group discussion. \n🎟️ FREE ENTRY – but pre-booking is highly recommended! \n🍸 Support The Common Press – grab a drink from the bar and enjoy the night! \n🐶 Dog-friendly venue \n♿ Fully wheelchair accessible (entrance via Common Press Bookshop) \n\n🚻 Please note: The bookshop itself doesn’t have toilets, but accessible restrooms are available across the street at Rich Mix or next doors at the restaurant. \n\n💬 WANT TO PERFORM? \nWe’re always on the lookout for new voices! Email Rob at maureen@thelovetank.info if you’d like to be a monologuist at this or future editions. Monologuists receive a small fee as a token of gratitude.",
+
+        "image": "https://cdn.outsavvy.com/events/f1a5111e-4144-4808-b924-c6d335567151.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29007/second-tuesday-monologues-freedom-",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            
+        ],
+        "age":""
+    },
+    {
+        "id": 123,
+        "name": "LESBIAN ISLAND SUMMER PARTY",
+        "venue": "Last Arch",
+        "address": "392 Wandsworth Road Through black gates, final arch London SW8 1NH United Kingdom",
+        "time": "21:00-03:00",
+        "date": "Aug 1",
+        "price": "£8.30 to £70",
+        "type": "party",
+        "tags": [
+            "party",
+            "lesbian",
+            "nb",
+            "trans",
+
+           
+        ],
+        "description": "Come join us for a hot sapphic night of tropical vibes at LAST ARCH on August 1, 2025, 9PM-3AM! Get ready for an unforgettable evening filled with summer sounds, gogo dancers, and queer themed cocktails!",
+
+        "image": "images/lesboisland.png",
+        "website_link": "",
+        "ticket_link": "https://www.eventbrite.co.uk/e/lesbian-island-summer-party-tickets-1419357078229?aff=ebdsoporgprofile&fbclid=PAZXh0bgNhZW0CMTEAAacf8NLAwPhCPQwGafGaQNwZAUDxDS5F3R1MzMsHNT6khH_dBoT8moDp7obciQ_aem_KuRoxrHE58slq3AdgoLiHA",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "afrobeats",
+            "raggaeton",
+            "salsa",
+            "amapiano",
+            "afro-house",
+            "latin-house"
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 124,
+        "name": "Moulin Rouge Pride Day Party",
+        "venue": "The Fountain Head - Brighton",
+        "address": "102 North Road, Brighton, BN1 1YE",
+        "time": "11:00-16:00",
+        "date": "Aug 2",
+        "price": "Free",
+        "type": "party",
+        "tags": [
+            "day party",
+            "lgbtq+",
+
+        ],
+        "description": "PRIDE SATURDAY FOR THE EARLY RISERS🌅\n\nTUNES FROM 11AM 👑 \n\nSEE YOU THERE🏳️‍🌈🏳️‍⚧️",
+
+        "image": "images/spotlight2.png",
+        "website_link": "https://www.instagram.com/p/DMNwZ8-oHbt/?hl=en",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "house",
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 125,
+        "name": "Pride Party",
+        "venue": "Oculist - Brighton",
+        "address": "Oculist, 2 Boyce's Street, Brighton and Hove BN1 1AN",
+        "time": "16:00-22:00",
+        "date": "Aug 2",
+        "price": "Free",
+        "type": "party",
+        "tags": [
+            "party",
+            "lgbtq+",
+
+        ],
+        "description": "HAPPY TO ANNOUNCE THE FIRST OF OUR BRIGHTON PRIDE PLANS🏳️‍🌈 \n\nDAY PARTY AT THE OCULIST WITH SPOTLIGHT RESIDENTS & GUESTS.\n\n4PM-10PM\n\n& IT’S FREEE. SEE YOU IN DA DANCE🔊",
+
+        "image": "images/spotlight3.png",
+        "website_link": "https://www.instagram.com/p/DMNwZ8-oHbt/?hl=en",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "house",
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 126,
+        "name": "Pride Party",
+        "venue": "Mash Tun - Brighton",
+        "address": "1 Church St, Brighton, BN1 1UE",
+        "time": "22:00-03:00",
+        "date": "Aug 2",
+        "price": "Free",
+        "type": "party",
+        "tags": [
+            "party",
+            "lgbtq+",
+
+        ],
+        "description": "We’re so excited to announce our final Pride Party Plan! 🏳️‍🌈On Saturday evening we will be doing a takeover at the iconic @mashtun_btn to provide you with 5 hours of multi-genre anthems to shake booty to. 10-3. See you there!",
+
+        "image": "images/spotlight4.png",
+        "website_link": "https://www.instagram.com/p/DMNwZ8-oHbt/?hl=en",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "multi-genre",
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 127,
+        "name": "Official Pride After Party with Horse Meat Disco",
+        "venue": "Patterns - Brighton",
+        "address": "10 Marine Parade, BN2 1TL, Brighton",
+        "time": "23:00-04:00",
+        "date": "Aug 2",
+        "price": "£25",
+        "type": "party",
+        "tags": [
+            "party",
+            "gay",
+            "lgbtq+",
+
+        ],
+        "description": "Official Brighton Pride Afterparty at Patterns \n\nWith Horse Meat Disco All Night Long \n\nWhen the sun sets on Preston Park and the glitter begins to settle, the real fun is just getting started. Join us at Patterns for the official Brighton Pride afterparty. \n\n£1 of each ticket sold goes to 'The Brighton Rainbow Fund'",
+
+        "image": "images/discohorse.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2199485",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+            "house",
+            "disco"
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 128,
+        "name": "Adonis - Day into Night",
+        "venue": "Patterns - Brighton",
+        "address": "10 Marine Parade, BN2 1TL, Brighton",
+        "time": "17:00-04:00",
+        "date": "Aug 1",
+        "price": "£8.10 to £15",
+        "type": "party",
+        "tags": [
+            "party",
+            "gay",
+            "lgbtq+",
+
+        ],
+        "description": "Adonis - Day Into Night Party\n\n5pm - 10pm Terrace Party\n10pm - Late Basement Club \n\nJoin us as we kick off Pride weekend with London's most infamous queer party; Adonis. They will be taking over Patterns on Friday 1st August for a very special day into night party. Starting on our sunny outdoor terrace from 5pm and then moving into the dark sweaty club from 10pm. This is the perfect way to begin Brighton Pride!",
+
+        "image": "images/adonis4.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2199474",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "house",
+
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 129,
+        "name": "SWEAT: SOPHIE 2.0 tribute pride party",
+        "venue": "Komedia Brighton",
+        "address": "44-47 Gardner St, Brighton BN1 1UN",
+        "time": "23:00-03:00",
+        "date": "Aug 1",
+        "price": "£10",
+        "type": "party",
+        "tags": [
+            "party",
+            "lgbtq+",
+
+        ],
+        "description": "SWEAT presents: a tribute to SOPHIE 2.0 Pride Party!!! \n\nWe’re back again to honour our queen SOPHIE, throwing our biggest party to date!!\nBringing you a night of otherworldly synths, pots and pans, and all the best unreleased tracks and collabs. \n\nResident SWEAT DJs BIGBUSH + PLASTIC will be joined by the incredible DJ GIRLFAG + PISS. \n\nAll proceeds from this event will go to fiveforfive (a transfem mutual aid fund) & Medical Aid for Palestine.",
+
+        "image": "images/sophie.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2209024",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "pop",
+            "hardcore"
+
         ],
         "age":"18+"
     },
