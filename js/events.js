@@ -273,7 +273,7 @@ const events = [
         address: "4/5 Elephant Rd, London SE17 1LB",
         time: "16:00-23:59",
         date: "Aug 3",
-        price: "£24.67",
+        price: "sold out",
         type: "party",
         tags: ["Play Party", "Rave", "Queer"],
         description: "Joyride is a space to Rave, Play and Connect for the queer and the curious. \n\nCentered on the values of joy, freedom and deviance, Joyride prioritises pleasure and exploration. \n\nEvery other Sunday you’ll find a sweaty dancefloor with a genre-fluid line up of everything from techno to disco, a custom designed playroom and a welfare team on hand for all your support needs.\n\nDOORS CLOSE 19:00\nEvent finishes: Midnight\n\nWe have community tix available for those who are unwaged. If you'd like to access these, email us at info@joyriderave.com\n\nImportant Reminders \nPlease read our Community Guidelines and Dress Code Policies (on our website) before purchasing a ticket / attending an event. \n\nConsent is paramount. Do not touch people without their explicit consent. Be mindful not to assume anyone’s sex, sexuality or gender. No racism, ableism, transphobia, homophobia, body-shaming, ageism. If you feel uncomfortable or if you see something that looks problematic, please let the Joyride Welfare Team know.",
@@ -2105,6 +2105,235 @@ const events = [
         ],
         "age":"18+"
     },
+    {
+        "id": 130,
+        "name": "SUZIO",
+        "venue": "Colour Factory",
+        "address": "8 Queen's Yard, London E9 5EN",
+        "time": "22:00-04:00",
+        "date": "Aug 29",
+        "price": "£11 to £21.90",
+        "type": "party",
+        "tags": [
+            "party",
+            "latinx",
+            "cunty",
+            "lgbtq+",
+
+        ],
+        "description": "SUZIO returns with an end of summer sweat fest to keep your post-carnival blues at bay.\n\nThis one is set to be a hot collab with one of Brazil’s sexiest collectives.",
+
+        "image": "images/suzio3.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2194578",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "latincore",
+            "guaracha",
+            "experimental",
+            "bass",
+            "baile funk"
+
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 131,
+        "name": "STRUT",
+        "venue": "Coven",
+        "address": "Above Fabwick,  Queen's Yard,  London,  E9 5EN",
+        "time": "19:00-23:00",
+        "date": "Aug 12",
+        "price": "£9",
+        "type": "workshop",
+        "tags": [
+            "linedancing",
+            "dance",
+            "beginner",
+            "workshop",
+            "community"
+
+        ],
+        "description": "Giddy up girls, gays n theys and assemble your posse because STRUT queer line dancing is moseying into town! \n\nCome and learn to line dance with other queer hotties to Chappell Roan, Beyoncé, Britney, Charli XCX, Rihanna, Lady Gaga, Janet Jackson, Caroline Polachek, country classics & more! \n\nDiscounted tickets for QTIBPOC. \n\nLessons from 7:30pm – no experience necessary. \n\nYou’ll learn a bunch of beginner-friendly follow alongs and two full line dances, with breaks and an open dance floor for requests throughout.\n\nPolish your boots and get ready to STRUT!",
+
+        "image": "https://cdn.outsavvy.com/events/0d97738e-46b2-4b98-8be1-845e3767a953.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29195/strut?fbclid=PAZXh0bgNhZW0CMTEAAadKM2yAnAoEr75ta2r8Jlh5r6xYOBHBUocvLY6WMIohuCAwPwoCySJ3cG6WKQ_aem_AbhNTQ1JQmkZvZHDwMxHKw",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "",
+        "generes": [
+          
+
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 132,
+        "name": "Unfold CIV",
+        "venue": "Fold",
+        "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+        "time": "14:00-23:59",
+        "date": "Aug 10",
+        "price": "£15",
+        "type": "party",
+        "tags": [
+            "day party",
+            "techno",
+            "lgbtq+",
+            "community"
+        ],
+        "description": "The long, hot Summer shows no sign of abating and neither does our latest season of UNFOLD. Continuing right from where we left off, UNFOLD returns on Sunday 10th August. \n\nDoors open 14:00. As always, the line-up is unannounced and tickets only available on the door. \n\nEntrance is not guaranteed and lies at the sole discretion of our Door Team. \n\nDress to sweat.",
+
+        "image": "images/unfold7.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2227051",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "hardgroove",
+            "hard techno",
+            "trance"
+
+        ],
+        "age":"21+"
+    },
+    {
+        "id": 133,
+        "name": "Feel It",
+        "venue": "Omeara",
+        "address": "6 O'Meara st, london, SE1 1TE",
+        "time": "22:30-05:00",
+        "date": "Aug 1",
+        "price": "£20 OTD",
+        "type": "party",
+        "tags": [
+            "party",
+            "lgbtq+",
+   
+        ],
+        "description": "Confidence Man take over Feel It next Friday for an extra juicy DJ set. This will be unmissable!!",
+
+        "image": "images/feelit3.png",
+        "website_link": "https://www.instagram.com/feelitparty/?hl=en",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "house",
+            "detroit techno",
+
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 134,
+        "name": "Black & Neurodiverse Movie Night",
+        "venue": "VFDalston",
+        "address": "66 stoke newingon rd, london, N16 7XB",
+        "time": "18:30-20:30",
+        "date": "Aug 21",
+        "price": "£6.13",
+        "type": "social",
+        "tags": [
+            "movie night",
+            "lgbtq+",
+            "poc",
+            "inclusive"
+   
+        ],
+        "description": "Join us for a relaxed screening of Pariah – a powerful, tender film exploring identity, queerness, and self-expression through the eyes of a Black lesbian teen. \n\nWe don’t see enough stories like this – and we want more space to watch, feel, and reflect together.🎬 Watch the trailer here: Pariah Trailer \n\n🧃 Snacks provided🧸 Fidget toys available🫶🏾 Low-pressure, low-stimulus vibes \n\nThis space is by and for Black & POC neurodivergents – whether you're out, questioning, masked, or just curious, you're welcome here and you're the prioty. \n\nAccessibility infoWe regret that VFD is not wheelchair accessible — it’s a basement venue accessed via a staircase.",
+
+        "image": "images/vfdmovie.png",
+        "website_link": "",
+        "ticket_link": "https://www.eventbrite.co.uk/e/pariah-screening-by-black-and-neurodiverse-tickets-1545639632749?aff=oddtdtcreator&_gl=1%2Augdp9u%2A_up%2AMQ..%2A_ga%2AMTY2MjM1OTkzNi4xNzUzOTIwNDE0%2A_ga_TQVES5V6SH%2AczE3NTM5MjA0MTQkbzEkZzAkdDE3NTM5MjA0MTQkajYwJGwwJGgw",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "eventbrite",
+        "scraped_date": "",
+        "generes": [
+            
+        ],
+        "age":""
+    },
+    {
+        "id": 135,
+        "name": "Faggamuffin x Sistermatic: Rooftop Day Party",
+        "venue": "NT's Loft",
+        "address": "1 Westgate Street #207 London E8 3RL",
+        "time": "15:00-21:00",
+        "date": "Aug 9",
+        "price": "£6.13 to £11.55",
+        "type": "party",
+        "tags": [
+            "day party",
+            "lgbtq+",
+            "QTBIPOC",
+            "jamaica"
+   
+        ],
+        "description": "Faggamuffin x Sistermatic present: Rooftop Day Party \n\nWe are taking over NTs Loft for an intergenerational dance in celebration of Jamaican Independence Day. \n\nBring your horns, whistles, flags and outfits! All islands are welcome. \n\nThere will be 2-4-1 cocktails from 3:00pm-5:00pm, & food available on order from Yard Sale Pizza, so come early and enjoy. \n\nThis space is built by and for the QTBIPOC community.",
+
+        "image": "images/raggamuffin.png",
+        "website_link": "",
+        "ticket_link": "https://www.eventbrite.co.uk/e/faggamuffin-x-sistermatic-rooftop-day-party-tickets-1476230869269?aff=oddtdtcreator",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "eventbrite",
+        "scraped_date": "",
+        "generes": [
+            "raggae",
+            "dancehall",
+            "dub",
+            "jamaican",
+            "roots reggae",
+            "roots reggae",
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 136,
+        "name": "Happy Endings x Leatherette",
+        "venue": "Corsica Studios",
+        "address": "5 Farrell Court; Elephant & Castle; London SE17 1LB; United Kingdom",
+        "time": "23:00-05:00",
+        "date": "Aug 29",
+        "price": "£5 to £10",
+        "type": "party",
+        "tags": [
+            "party",
+            "gay",
+            "flinta"
+   
+        ],
+        "description": "Beloved queer collectives Happy Endings and Leatherette join forces for ONE NIGHT ONLY at South London institution Corsica Studios! \n\nFor this xxxtra special collab, they are proud to partner with Vienna Club Commission to showcase the best of underground Austrian DJ talent. \n\nIn Room One, we’ve got Happy Endings - the minds behind Dalston Superstore’s infamous Thursday night bog rave. A collective of underground dance music lovers and gay rave enthusiasts, you’re always in safe hands with this lot! They’ve spent the last 8 years forging an ever growing community of devoted followers, whilst spreading their seed across the UK and Europe, hosting memorable takeovers in Berlin, Sheffield, Athens, Barcelona, and MORE! For this extra special collab, they’re bringing along their most devoted residents in a big b2b bonanza. Fannar, Ugly Drugless, Perrinha, DJ DJ, Prince of Deptford and JeonQ will team up and pump it up all night long - till the early hours. \n\nCelebrating their first birthday with a room two takeover is LEATHERETTE: for dykes of all persuasions! In the year since its inception, LEATHERETTE has been showcasing the best and brightest FLINTA* DJs, artists and performers with hot n heavy functions from Avalon Cafe to The Divine. For this very special birthday happening, they welcome rising London selector Eula, Happy Endings’ Bethan and resident Milk Shandy plus surprise performances from some favourite past gogo guests <3",
+
+        "image": "images/happy.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2224214?fbclid=PAZXh0bgNhZW0CMTEAAafP8rBAlNtvDQP4OQIIC4hkjYE2mJEdKHvTBmbeOGOH4_oTv2nney7SnV_wMA_aem_mm2NmuB_Pd72kgsx5BJwYg",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "electronic",
+            "rave",
+            
+        ],
+        "age":"18+"
+    },
+    
     
 
 
