@@ -1,50 +1,9 @@
 const events = [
     
-    {
-        id: 2,
-        name: "London Trans pride",
-        venue: "Langham Place",
-        address: "Langham Place,W1W",
-        time: "13:00-16:00",
-        date: "Jul 26",
-        price: "Free",
-        type: "social",
-        tags: ["Protest", "Trans", "Queer"],
-        image: "images/transpride.png",
-        description: "Following our record breaking march last year of over 60,000 participants we're excited to take to the streets in protest for trans+ rights with you all again on Saturday, 26 July! \n\nKEY DETAILS: \n\n• As always, bring bottled water and sun protection (umbrellas, hats, etc.) as well as signs & banners, face masks to protect yourself and others, flowers, and friends x \n• We'll be meeting in the streets from 1pm (13:00) at Langham Place and we will set off marching at 2pm (14:00)!\n• This year's march will end around 4pm (16:00) at Parliament Square Gardens and its surrounding streets (NOT Wellington Arch), where there will be speeches from members of the community. \n• For disabled comrades and anyone wanting to attend without doing full 2-hour march, remember: you have the option of going straight to Parliament Square Gardens from 14:00! \n• We highly recommend dressing up in whatever way you feel comfortable and, of course, consensual handholding is always encouraged ☺️ \nWe look forward to raising our voices and marching proudly with you all.\nAs always , \nLove + Rage \nLT+P",
-        website_link: "https://www.instagram.com/londontranspride/?hl=en",
-        ticket_link: "",
-        coordinates: null,
-        sellingFast: false
-    },
-    
-
-    {
-        id: 5,
-        name: "Dykes on Decks X Femmme Fraiche Pride",
-        venue: "The Tempest Inn - Brighton",
-        address: "159-161 Kings Road Arches, Brighton, BN1 1NB",
-        time: "20:00-03:00",
-        date: "Aug 1",
-        price: "£12-15",
-        type: "party",
-        tags: ["DJs", "FLINTA", "Lesbian", "Trans", "NB"],
-        description: "Dykes on Decks X Femmme Fraiche Pride 2025 🌈 \nIt's the one you've all been waiting for!! Soaked in sapphic energy! We've invited some of the hottest queer DJs and promoters on the scene! 💖",
-        image: "images/dykesdecks.png",
-        website_link: "https://www.instagram.com/dykes_on_decks/?hl=en",
-        ticket_link: "https://www.headfirstbristol.co.uk/whats-on/jam-jar/sat-12-jul-popola-extra-special-pride-edition-132095#e132095",
-        coordinates: null,
-        generes: ["Undeground", "Trance", "Techno", "Electro", "Hard House"],
-        age: "18+",
-        sellingFast: true
-    },
+   
 
   
-   
- 
 
- 
-    
 
     {
         id: 15,
@@ -90,43 +49,11 @@ const events = [
     },
    
 
-    {
-        id: 22,
-        name: "A Woman Like Eve + ScreenTalk with director Nouchka van Brakel",
-        venue: "Barbican - Cinema 2",
-        address: "Beech Street, EC2Y 8DS",
-        time: "18:30-20:00",
-        date: "Jul 9",
-        price: "£13",
-        type: "workshop",
-        tags: ["Cinema", "Film Screening", "Q&A", "LGBTQ+"],
-        description: "After leaving her husband for another woman, a mother faces difficult challenges and decisions about her future in Nouchka van Brakel's Dutch melodrama from 1979. \nEefje (Moniek van de Ven) is a loving mother and wife but feels unhappy and unfulfilled, leading to a public breakdown. A recuperating trip to the French seaside changes her life, when she encounters a feminist commune and begins an affair with singer Liliane (Maria Schneider), who re-christens her with the name 'Eve'. Eve's husband is furious when she wishes to continue her new relationship and a bitter custody battle begins. \nA Woman Like Eve captures the feminist zeitgeist of the 1970s without softening the tough consequences of following your heart. Van Brakel's films centre women's experiences navigating a patriarchal world and A Woman Like Eve is one of her best works. \nThis screening will be followed by a ScreenTalk with director Nouchka van Brakel, hosted by Gali Gold.",
-        image: "images/barbican.png",
-        website_link: "",
-        ticket_link: "https://www.barbican.org.uk/whats-on/2025/event/a-woman-like-eve-een-vrouw-als-eva-screentalk",
-        coordinates: null,
-        sellingFast: false
-    },
+  
    
    
 
-    {
-        id: 23,
-        name: "Second Tuesday Monologues - HEAT",
-        venue: "The Common Counter",
-        address: "118 Bethnal Green Road, London, E2 6DG",
-        time: "18:00-21:00",
-        date: "Jul 8",
-        price: "Free",
-        type: "social",
-        tags: ["Queer", "Dog-Friendly", "Monologues"],
-        description: "📅 Tuesday, 8th of June 2025\n⏰ Doors 7 PM, Monologues 7:30 PM\n📍 The Common Press, 118 Bethnal Green Rd, London E2 6DG\n\nThis July, Second Tuesday Monologues is turning up the temperature with the theme HEAT. 🔥☀️\n\nWhether it's a scorching summer romance, the heat of political resistance, or the slow burn of desire and tension—expect stories that sizzle, spark, and smoulder. From steamy confessions to fiery truths, this will be a night of storytelling that glows hot with queer power and passion.\n\nHOW IT WORKS:\n\n🎭 Monologists have up to 10 minutes to share their unique take on the theme.\n🛋️ After the performances, we settle in for an open group discussion.\n\n🎟️ FREE ENTRY – but pre-booking is highly recommended!\n🍸 Support The Common Press – grab a drink from the bar and enjoy the night!\n🐶 Dog-friendly venue\n♿ Fully wheelchair accessible (entrance via Common Press Bookshop, additional level-access available)\n🚻 Please note: The bookshop itself doesn't have toilets, but accessible restrooms are available across the street at Rich Mix.\n\n💬 WANT TO PERFORM?\n\nWe're always on the lookout for new voices! Email Rob at maureen@thelovetank.info if you'd like to be a monologuist at this or future editions. Monologuists receive a small fee as a token of gratitude.\n\n✨ UPCOMING THEMES:\n\n📅 Aug 12: Freedom 🦅\n📅 Sept 9: Shadows 🌘\n📅 Oct 14: Black Queer Horror 🧟‍♀️👻\n📅 Nov 11: Legacy 🕊️\n📅 Dec 9: Chosen 🎁🫂\n\n➡️ If you can no longer attend, please let us know so we can offer your spot to someone else.\n\n📢 Follow @thelovetankcic for updates on this and other free queer community events! 🌈💜\n\n💕 Join us for a night of queer creativity, community, and connection. RSVP now to reserve your spot—space is limited!",
-        image: "images/mono.png",
-        website_link: "https://www.instagram.com/thelovetankcic/followers/mutualOnly?hl=en",
-        ticket_link: "https://www.thelovetank.info/events?fbclid=PAZXh0bgNhZW0CMTEAAacu5JvQWXXyLIPixlOXmTg2nzRiRTPCG4V4Ht-rbjyonPcN_WAuL2Zqz0KiYg_aem_dILYj-QY3XgKPk1guE1IBQ",
-        coordinates: null,
-        sellingFast: false
-    },
+  
     
 
 
@@ -151,24 +78,7 @@ const events = [
     },
 
 
-    {
-        id: 39,
-        name: "Popola Sober Club: Open Decks II",
-        venue: "The Common Press Bookshop",
-        address: "118 Bethnal Green Road,  London,  E2 6DG",
-        time: "19:00-22:00",
-        date: "Jul 31",
-        price: "£5",
-        type: "social",
-        tags: ["Open Decks", "LGBTQ+", "Allies"],
-        description: "Amoress, we're back. .  🥰 After the beautiful energy of our first gathering, we're so excited to invite you to Popola Sober Club: Open Decks Edition 2 ✨ Our second meet-up is happening on Thursday, 31st of July at the beloved The Common Press This is our alcohol-free sanctuary where Global Majority queers, womxn and allies come together to vibe, connect, and celebrate culture in the most authentic way. Think good music, real conversations, and that warm community feeling that we've all been craving outside of the night club, where joy happens naturally. We're running it back with another open decks session, so if you've got tunes that honour diasporic beats within Latinx and Afro-Caribbean music, please send us a DM, whether you've never played in public before or you're more experienced, you're totally welcome, this is a relaxed, supportive space to share your sound and show your beat.  😘  Online Tickets just £5 🎟️OTD £8 Can't wait to see you there and feel the magic all over again. Nos vemosss 💋💋💋",
-        website_link: "",
-        image: "images/popla2.png",
-        ticket_link: "https://www.outsavvy.com/event/28357/popola-sober-club-open-decks-ii",
-        coordinates: null,
-        age: "18+",
-        sellingFast: false
-    },
+  
 
 
     {
@@ -189,44 +99,9 @@ const events = [
         sellingFast: false
     },
 
-    {
-        id: 44,
-        name: "GAYTORADE ♡ TRANS PRIDE TAKEOVER",
-        venue: "Old Nun's Head",
-        address: "15 Nunhead Green,  London,  SE15 3QQ",
-        time: "21:00-02:00",
-        date: "Jul 26",
-        price: "Free",
-        type: "party",
-        tags: ["Trans Pride", "Fast Music", "LGBTQ+", "FLINTA"],
-        description: "CHOO CHOOOO, BITCH. 🚂 Did somebody say TRANSport for London? No? Well we're saying it and we want to give your money to TRANS LEGAL CLINIC.\n\nDon't be an ungrateful hoe ❌ and cum to The Old Nun's Head ✝️ after Trans Pride 🏳️‍⚧️ for the GAYTORADE two-room takeover. It's gonna be so f*cking dumb and there's gonna heaps of FLINTA* fitties ther, we promise 👍. TRAINS RIGHTS ARE HUMAN RIGHTS? 🏳️‍⚧️\n\n    ,~~~~____    |~~~~~~~~~~~~~~~~~~|\n  Y_,___|[]|       | 🏳️‍⚧️GAYTORADE🏳️‍⚧️  |\n {|_|_|_|PU|_,_|_____ACAB _____|\n//oo---OO=OO     OOO          OOO\n\nWe love all TRANSport and we wanna show our appreciation: trains, buses, haulage vehicles, ferries, the whole spectrum of TRANSport is beautiful. Even planes and personal automobiles (but less so cos like the environment yk 💚).\n\nHitch your wagon of dykes to your 16-wheeler 🚛, grease the wheels on your scooter 🛴, shovel some coal 🖤 into Thomas the Tanked Enby's ass 🥵... Did that escalate too quickly? Why am I turned on 💦? Stop looking at me like that, I'm just a girl.\n\nWhatever, use your favoured form of transport and get yourt sexxxi ass 🍑 South East, cos we wanna see your ass 🍑 we love your ass 🍑\n\n2 Rooms Carriages 💄\n5 DJs Drivers 🤹‍♂️\n2 GoGos Conductors 🧩\nMany hot queers passengers ⏰\nMuch snogging wifi? 🪑",
-        website_link: "",
-        image: "images/gaytorade.png",
-        ticket_link: "https://www.outsavvy.com/event/28437/gaytorade-trans-pride-after-party-",
-        coordinates: null,
-        sellingFast: true
-    },
+    
 
 
-    {
-        id: 52,
-        name: "Homoelectric Residency: Closing Party",
-        venue: "Metropolis",
-        address: "234 Cambridge Heath Road; Bethnal Green; London E2 9NN",
-        time: "22:30-04:00",
-        date: "Jul 26",
-        price: "£6-11",
-        type: "party",
-        tags: ["Party", "Dancing", "Gay", "LGBTQ+"],
-        description: "𝐇𝐨𝐦𝐨𝐞𝐥𝐞𝐜𝐭𝐫𝐢𝐜 𝐰𝐢𝐥𝐥 𝐛𝐫𝐢𝐧𝐠 𝐜𝐥𝐮𝐛 𝐜𝐡𝐚𝐨𝐬 𝐟𝐫𝐨𝐦 𝐌𝐚𝐧𝐜𝐡𝐞𝐬𝐭𝐞𝐫 𝐭𝐨 𝐨𝐮𝐫 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 𝐬𝐭𝐫!𝐩 𝐜𝐥𝐮𝐛, 𝐞𝐯𝐞𝐫𝐲 𝐒𝐚𝐭𝐮𝐫𝐝𝐚𝐲 𝐧𝐢𝐠𝐡𝐭 𝐢𝐧 𝐉𝐮𝐥𝐲. \n\n𝟒 𝐬𝐰𝐞𝐚𝐭-𝐟𝐮𝐞𝐥𝐥𝐞𝐝 𝐧𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐡𝐨𝐮𝐬𝐞, 𝐭𝐞𝐜𝐡𝐧𝐨, 𝐝𝐢𝐬𝐜𝐨, 𝐟𝐢𝐥𝐭𝐡𝐲 𝐩𝐨𝐩, 𝐬𝐥𝐞𝐚𝐳𝐞 𝐚𝐧𝐝 𝐝𝐚𝐧𝐜𝐞𝐟𝐥𝐨𝐨𝐫 𝐥𝐢𝐛𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐟𝐫𝐨𝐦 𝐚 𝐩𝐚𝐜𝐤𝐞𝐝 𝐥𝐢𝐧𝐞-𝐮𝐩 𝐨𝐟 𝐭𝐡𝐞𝐢𝐫 𝐚𝐥𝐥-𝐬𝐭𝐚𝐫𝐬. \n\n𝐍𝐨 𝐬𝐧𝐨𝐛𝐛𝐞𝐫𝐲, 𝐧𝐨 𝐩𝐫𝐞𝐭𝐞𝐧𝐬𝐢𝐨𝐧, 𝐣𝐮𝐬𝐭 𝐩𝐮𝐫𝐞 𝐞𝐮𝐩𝐡𝐨𝐫𝐢𝐚 𝐟𝐨𝐫 𝐪𝐮𝐞𝐞𝐫𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞𝐢𝐫 𝐚𝐥𝐥𝐲 𝐩𝐞𝐞𝐫𝐬…",
-        website_link: "",
-        image: "images/homoelectric4.png",
-        ticket_link: "https://ra.co/events/2140161",
-        coordinates: null,
-        generes: ["Disco", "House", "Techno", "Funky"],
-        age: "18+",
-        sellingFast: false
-    },
     {
         id: 53,
         name: "Rat Party",
@@ -246,63 +121,9 @@ const events = [
         age: "18+",
         sellingFast: false
     },
-    {
-        id: 54,
-        name: "Trans Pride in Music",
-        venue: "Avalon Cafe",
-        address: "Juno Way London SE14 5RZ",
-        time: "19:00-02:00",
-        date: "Jul 26",
-        price: "£8-13",
-        type: "party",
-        tags: ["Live Music", "DJs", "Trans", "LGBTQ+"],
-        description: "Not got plans after London Trans Pride yet? We've got you covered all night long. Celebrating trans art, the night will consist of a mixture of solo artists and bands, and then DJs will take over from 11pm onwards! Come down and support your favourite trans artists, and hopefully find some new ones too! \n\nlineup: \nBUFFY BLU \nLIZZY VIEL \nINDY NEWLAND \nTRIBE \nS0LAR \nEDEN J HOWELLS \nDJS TBA \n\nthere will be a limited quantity of tickets on the door and DM @bluejay_live on instagram for access tickets",
-        website_link: "",
-        image: "images/pridemusic.png",
-        ticket_link: "https://www.eventbrite.co.uk/e/trans-pride-in-music-tickets-1425311347609?aff=oddtdtcreator",
-        coordinates: null,
-        generes: ["Indie", "HipHop"],
-        age: "18+",
-        sellingFast: false
-    },
+  
 
-    {
-        id: 57,
-        name: "Joyride",
-        venue: "Corsica Studios",
-        address: "4/5 Elephant Rd, London SE17 1LB",
-        time: "16:00-23:59",
-        date: "Aug 3",
-        price: "sold out",
-        type: "party",
-        tags: ["Play Party", "Rave", "Queer"],
-        description: "Joyride is a space to Rave, Play and Connect for the queer and the curious. \n\nCentered on the values of joy, freedom and deviance, Joyride prioritises pleasure and exploration. \n\nEvery other Sunday you’ll find a sweaty dancefloor with a genre-fluid line up of everything from techno to disco, a custom designed playroom and a welfare team on hand for all your support needs.\n\nDOORS CLOSE 19:00\nEvent finishes: Midnight\n\nWe have community tix available for those who are unwaged. If you'd like to access these, email us at info@joyriderave.com\n\nImportant Reminders \nPlease read our Community Guidelines and Dress Code Policies (on our website) before purchasing a ticket / attending an event. \n\nConsent is paramount. Do not touch people without their explicit consent. Be mindful not to assume anyone’s sex, sexuality or gender. No racism, ableism, transphobia, homophobia, body-shaming, ageism. If you feel uncomfortable or if you see something that looks problematic, please let the Joyride Welfare Team know.",
-        website_link: "",
-        image: "images/joyride1.png",
-        ticket_link: "https://dice.fm/event/8eo735-joyride-3rd-aug-corsica-studios-london-tickets",
-        coordinates: null,
-        age: "21+",
-        sellingFast: false
-    },
-    {
-        id: 58,
-        name: "Queer Goth Club Night",
-        venue: "Rossi Bar Basement - Brighton",
-        address: "8 Queens Road, Brighton and Hove BN1 3WA",
-        time: "21:00-02:00",
-        date: "Jul 26",
-        price: "£4 OTD",
-        type: "party",
-        tags: ["Party", "Goth", "Queer"],
-        description: "£4 entry OTD, no one turned away for lack of funds \n\nSee you in the dark",
-        website_link: "https://www.instagram.com/dykesofthedark/?hl=en",
-        image: "images/gothclub.png",
-        generes: ["darkwave", "post-punk", "alternative", "indistrial", "80s"],
-        ticket_link: "",
-        coordinates: null,
-        age: "21+",
-        sellingFast: false
-    },
+  
 
     {
         id: 66,
@@ -325,122 +146,7 @@ const events = [
     },
 
     
-    {
-        "id": 1,
-        "name": "Singles Night ",
-        "venue": "243 Well St",
-        "address": "243 Well Street,  London,  E9 6RG",
-        "time": "19:00-23:00",
-        "date": "Jul 22",
-        "price": "Free",
-        "type": "workshop",
-        "tags": [
-            "speed dating",
-            "lgbtq+",
-            "art",
-            "drinks"
-        ],
-        "description": "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4 to grab a drink, chat with others and meet some new faces before it all kicks off.\n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy. \n All ages are welcome, see you Tuesday! \n XOXO\n This is a LGBTQTIA+ event",
-        "image": "https://cdn.outsavvy.com/events/1fe97ed6-732f-4647-b6ab-82a8782b38b9.jpeg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28777/singles-night-at-la-camionera-free-tickets-220725",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.298070",
-        "generes": [
-            
-        ],
-        "age": "18+"
-    },
-    {
-        "id": 634488906,
-        "name": "Life Drawing at La Cami 27/07/25",
-        "venue": "243 Well St",
-        "address": "243 Well Street,  London,  E9 6RG",
-        "time": "11:00-13:15",
-        "date": "Jul 27",
-        "price": "£15",
-        "type": "workshop",
-        "tags": [
-            "bisexual",
-            "art",
-            "drinks"
-        ],
-        "description": "•⁠ ⁠casual, informal, open to all abilities and experience!\n •⁠ special, experienced models and teachers!\n\n•⁠  ⁠11-1.15, with a 15 min break!\n •⁠ our summer cafe menu, soft drinks, and more available!\n\n•⁠  ⁠newsprint and charcoal provided, please bring sketch pads and other materials if you would like them!\n xxxxxx\n\n ",
-        "image": "https://cdn.outsavvy.com/events/10e7b1a2-4144-4aca-9de6-ca17f4ef833a.jpeg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28779/life-drawing-at-la-cami-270725",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.298259",
-        "generes": [
-            "nan"
-        ],
-        "age": "18+"
-    },
-    {
-        "id": 2798294172,
-        "name": "30+ Singles Night at La Camionera",
-        "venue": "243 Well St",
-        "address": "243 Well Street,  London,  E9 6RG",
-        "time": "19:30-23:00",
-        "date": "Jul 29",
-        "price": "Free",
-        "type": "workshop",
-        "tags": [
-            "speed dating",
-            "bisexual",
-            "art",
-            "30+"
-        ],
-        "description": "Every Tuesday, we host a singles night at La Camionera  - and they’ve been so fun, so we’ve decided to add a little something special.\nOn the last Tuesday of each month, singles night is 30 and over, for people to meet, chat, and maybe feel a bit more in sync with the room.\nOur regular Tuesdays are still for everyone and all ages -  they’re not going anywhere! But we’ve noticed a lot of younger people coming out lately (which we love), and we thought it might be nice to have a night that speaks to a slightly older crowd too.\nSo if you're in your 30s, 40s, 50s, 60s or beyond—you’re very welcome here. Come as you are, bring your stories, your playlists, your chaos, whatever.\n Speed dating starts around 7.30pm, but feel free to come by from 5 to have a drink, meet some people, and settle in before we get started.\n See you Tuesday \n\n ",
-        "image": "https://cdn.outsavvy.com/events/824b4446-9029-47ca-bddb-524242a19801.jpeg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28778/30-singles-night-at-la-camionera-290725",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.298353",
-        "generes": [
-            
-        ],
-        "age": "30+"
-    },
-    {
-        "id": 1925057172,
-        "name": "QUEER Bachata Class x Latin American Poetry Night",
-        "venue": "62 Thurlow St",
-        "address": "62 Thurlow Street,  London,  SE17 2GB",
-        "time": "18:30-20:30",
-        "date": "Jul 24",
-        "price": "Sold Out",
-        "type": "workshop",
-        "tags": [
-            "dancing",
-            "social",
-            "lgbtq+",
-            "queer",
-            "flinta",
-            "trans",
-            "bisexual",
-            "workshop",
-            "art"
-        ],
-        "description": "📣 LGBTQ+ Latin American Poetry Night At Una Marson Library 🎉\nJoin us for a vibrant evening celebrating the voices and rhythms of LGBTQ+ Latin America on Thursday 24th July, 6:30pm at Una Marson Library, 62 Thurlow Street, SE17 2GN. 📚🌈\nWhat’s On:\n🎤 Poetry Readings & Q&A with Leo Boix: Experience the work of acclaimed Argentine-British poet Leo Boix, a leading queer Latinx voice whose award-winning collections-including Ballad of a Happy Immigrant-have been celebrated internationally. Leo is also the editor and translator behind Hemisferio Cuir, a groundbreaking anthology of young queer Latin American poetry, published by Fourteen Poems. 📜✨\n📖 Spotlight on Hemisferio Cuir & Fourteen Poems: Discover Hemisferio Cuir, which brings together over 30 poets exploring queerness, gender, and identity across Latin America, with poems presented in both Spanish and English. Fourteen Poems, the publisher, is renowned for championing fresh LGBTQ+ poetry from around the world. 🌎📝\n💃 Bachata Class by Sanura Dance: Get moving with a free, inclusive bachata workshop led by Sanura Dance, London’s queer and FLINTA-focused dance community. Everyone is welcome-no partner or experience needed-and you’ll learn to both lead and follow in a fun, empowering space. 🎶👣\n📚 Explore the Library: Browse the library’s rich LGBTQ+ and Spanish-language collections, perfect for poetry lovers and curious minds alike. 📚🔍\nWhy Come?\n🌈 Celebrate queer Latin American creativity and culture\n🤝 Connect with community and meet like-minded poetry and dance lovers\n💫 Try something new-whether it’s bachata, bilingual poetry, or both!\n\nDetails:\n   📅 Date: Thu 24 Jul 2025\n   ⏰ Time: 6:30 PM – 8:30 PM\n   📍 Location: Uma Marson Library, 62 Thurlow St, London SE17 2GB\n   🎟 Open to all levels.\n Free entry. All are welcome. 🙌\nWhether you’re a poetry aficionado, a dance enthusiast, or simply looking for a joyful, inclusive evening, this is not to be missed. See you on the dance floor-or in the poetry stacks! 🎉📖💃\n For full details on our policies, including your rights, please refer to our Terms & Conditions.\nBy attending the event, you acknowledge and accept these terms. For questions, contact us at info@sanuradance.com.\nTo unsubscribe from Sanura Dance communications, email unsubscribe@sanuradance.com.",
-        "image": "https://cdn.outsavvy.com/events/3d9c5a13-5a64-42ed-9847-8b0b3bd1756c.png",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/27518/queer-bachata-class-in-celebration-with-hemisferio-cuir-free-access",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.298584",
-        "generes": [
-            "disco",
-            "latin"
-        ]
-    },
+    
     {
         "id": 1119867634,
         "name": "QUEER Salsa & Bachata Socials",
@@ -594,65 +300,7 @@ const events = [
         "age": "18+"
     },
  
-    {
-        "id": 1069053439,
-        "name": "Queer Film Club ",
-        "venue": "The Green House | Ethical Property",
-        "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
-        "time": "18:30-21:30",
-        "date": "Jul 21",
-        "price": "Waiting List",
-        "type": "workshop",
-        "tags": [
-            "film screening",
-            "premiere",
-            "POC",
-            "lgbtq+",
-            "queer migrants",
-     
-        ],
-        "description": "📅 Date: Monday, 21st of July 2025 (more dates soon!)\n🕡 Time: Doors 18:30, Movie introduction 18:50, Screening 19:00 (sharp!)\n📍 Location: THE LOVE TANK, 244-254 Cambridge Heath Rd, Cambridge Heath, London E2 9DA\n Step into the vibrant world of LGBTQ+ cinema with our Queer Film Club, specially curated for queer migrants and queer people of colour and hosted by Krzysztof Dubicki, a Polish queer film expert. Discover powerful, independent, queer films from across the globe, each thoughtfully selected to celebrate diverse voices and stories, as Krzysztof guides us through an evening of cinematic exploration. With his background in film and screen media studies, along with his role as an assistant to the London Independent Film Festival, Krzysztof is always up to date with the newest film premieres, ensuring an enriching and engaging experience for all attendees.\n 📽️Movie we will see📽️\n\nSupernova (2020) Sam and Tusker are traveling across England in their old RV to visit friends, family and places from their past. Since Tusker was diagnosed with dementia two years ago, their time together is the most important thing they have.. For trailer click here.\n What to Expect: \n🎬 Film Screenings: Experience ambitious and inspiring LGBTQ+ films that delve into themes of identity, love, and resilience. \n🎤 Engaging Introductions: Before each screening, dive into the film's background with a brief introduction and some fascinating fun facts. \n🎙️ Exclusive Interviews: Gain deeper insights into the movie with interviews featuring actors or directors, available for viewing after the screening. \n💬 Post-Film Discussions: Share your thoughts and insights in stimulating discussions exploring the film's themes or broader topics, fostering learning and connection within our community.\n Come as you are and join us for an enriching cinematic experience filled with warmth, inclusivity, and celebration of queer narratives. Reserve your free ticket now! 🌈🎬\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\n Accessibility Information: \n🏠 Accessible Venue: The event takes place on the step-free ground floor, with accessible toilets and wheelchair accessibility. \n🔊 Language Accessibility: All movies will have either English dubbing or English subtitles.\nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to MAUREEN's newsletter. You can opt out at any time. ",
-        "image": "https://cdn.outsavvy.com/events/a8e818e8-a3ac-49db-a42c-ad998926a34d.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/23200/queer-film-club-for-queer-migrants-and-queer-people-of-colour",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299920",
-        "generes": [
-            "disco",
-            "house",
-            "latin",
-            "reggae"
-        ]
-    },
-    {
-        "id": 1251388211,
-        "name": "Placard Making for Trans Pride",
-        "venue": "The Green House | Ethical Property",
-        "address": "Cambridge Heath Road,  London,  E2 9DA",
-        "time": "16:00-19:00",
-        "date": "Jul 23",
-        "price": "Free",
-        "type": "workshop",
-        "tags": [
-            "flinta",
-            "trans",
-            "bisexual",
-            "art"
-        ],
-        "description": "📅 Date: Wednesday, July 23rd 2025\n🕡 Time: 16:00 - 19:00\n📍 Location: THE LOVE TANK, 244-254 Cambridge Heath Rd, Cambridge Heath, London E2 9DA\n In preparation for London Trans Pride on 26th July 2025, join us for an afternoon of placard making at The Love Tank HQ!\nWe will provide all the necessary materials, you have to bring your creativity, strength, joy, and talent! \n Tell a friend to tell a friend!\n For more information on London Trans Pride visit their IG @londontranspride\n #TRANSRIGHTSNOW\nStay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\n Accessibility Information: \n🏠 Accessible Venue: The event takes place on the step-free ground floor, with accessible toilets and wheelchair accessibility. \nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to MAUREEN's newsletter. You can opt out at any time. ",
-        "image": "https://cdn.outsavvy.com/events/a234f2d6-63ba-49b7-ad1f-ec034f5679b2.jpg",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28728/placard-making-for-trans-pride",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299986",
-        "generes": [
-            "house"
-        ]
-    },
+    
     {
         "id": 2923749413,
         "name": "Trans Sauna",
@@ -1864,7 +1512,7 @@ const events = [
     },
     {
         "id": 122,
-        "name": "Second Tuesday Monologues - Freedom 🦅",
+        "name": "Second Tuesday Monologues - Freedom",
         "venue": "The Common Counter",
         "address": "118 Bethnal Green Road,  London,  E2 6DG",
         "time": "19:00-21:00",
@@ -1876,8 +1524,7 @@ const events = [
             "monologues",
             "community",
             "common press",
-            "show",
-            "lgbtq+",
+          
            
         ],
         "description": "This August, Second Tuesday Monologues invites you to explore the bold, messy, and liberating theme of FREEDOM 🕊️🌈 \n\nFrom breaking free of expectations, to claiming space, to dreaming beyond borders - come for an evening of stories about what it means to live, love, and exist on your own terms. Expect vulnerability, rebellion, celebration, and the many shapes that freedom takes in queer lives. \n\nHOW IT WORKS: \n🎭 Monologists have up to 10 minutes to share their unique take on the theme. \n🛋️ After the performances, we settle in for an open group discussion. \n🎟️ FREE ENTRY – but pre-booking is highly recommended! \n🍸 Support The Common Press – grab a drink from the bar and enjoy the night! \n🐶 Dog-friendly venue \n♿ Fully wheelchair accessible (entrance via Common Press Bookshop) \n\n🚻 Please note: The bookshop itself doesn’t have toilets, but accessible restrooms are available across the street at Rich Mix or next doors at the restaurant. \n\n💬 WANT TO PERFORM? \nWe’re always on the lookout for new voices! Email Rob at maureen@thelovetank.info if you’d like to be a monologuist at this or future editions. Monologuists receive a small fee as a token of gratitude.",
@@ -2147,11 +1794,10 @@ const events = [
         "address": "Above Fabwick,  Queen's Yard,  London,  E9 5EN",
         "time": "19:00-23:00",
         "date": "Aug 12",
-        "price": "£9",
+        "price": "Sold Out",
         "type": "workshop",
         "tags": [
             "linedancing",
-            "dance",
             "beginner",
             "workshop",
             "community"
@@ -2333,7 +1979,222 @@ const events = [
         ],
         "age":"18+"
     },
+    {
+        "id": 137,
+        "name": "RALLY 2025",
+        "venue": "Southwark Park",
+        "address": "Gomm Rd, London, SE16 2TX, United Kingdom",
+        "time": "11:30-22:30",
+        "date": "Aug 23",
+        "price": "£55 to £65",
+        "type": "party",
+        "tags": [
+            "festival",
+            "undeground",
+            "community",
+            "lgbtq+",
+            "allies"
+   
+        ],
+        "description": "Bold new ideas and unrestrained creative expression will take centre stage in Southwark Park for our third annual celebration of independent culture on Saturday 23 August 2025. \n\nCatch some of the world's most thrilling artists across five intimate stages with visual art punctuating every corner of the park.\n\nFull music & arts programme can be found at rallyrallyrally.co.uk.",
+
+        "image": "images/rally.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/1995528",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "electronic",
+            "rap",
+            "dubstep",
+            "bass",
+            "grime",
+            "house"
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 138,
+        "name": "Queer POC Singles Mixer (25+)",
+        "venue": "The Common Press Bookshop",
+        "address": "18 Bethnal Green Road,  London,  E2 6DG ",
+        "time": "19:00-21:30",
+        "date": "Aug 22",
+        "price": "£15",
+        "type": "social",
+        "tags": [
+            "lesbian",
+            "trans",
+            "nb",
+            "speed dating",
+            "social"
+   
+        ],
+        "description": "Join us for a chill and flirty Friday evening at the Common Press. We'll be hosting a singles mixer for queer women, non-binary and trans people of colour aged 25+ :)",
+
+        "image": "https://cdn.outsavvy.com/events/f79ac3d9-2c41-4642-8291-d58b6583428e.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29220/queer-poc-singles-mixer-25?fbclid=PAZXh0bgNhZW0CMTEAAafgjVHGRp-b0ew4pc5HgUojiUu9HiH1CRSgk-PO7gzv8PBZpRoCP5dK9D8wKA_aem_B81Lv-fRSZOiHyED__PX_A",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            
+            
+        ],
+        "age":"25+"
+    },
     
+    {
+        "id": 139,
+        "name": "Pull Up to My Bumper Dyke Rave",
+        "venue": "Distillery N17",
+        "address": "Unit 25, Millmead Industrial Estate",
+        "time": "22:00-04:00",
+        "date": "Aug 30",
+        "price": "£14 to £18",
+        "type": "party",
+        "tags": [
+            "FLINTA",
+            "party"
+   
+        ],
+        "description": "PULL UP TO MY BUMPER D¥KE RAVE - THE ONE YEAR ANNIVERSARY\n\nHonouring one year of Uhaul raves and the close of another wild Uhaul festival season, we are back in London to give u one final blowout of summer 2025. We will be taking up residence at our new home at The Distillery and we can’t wait to give you the tour. PS it’s cuffing season, maybe you’ll meet someone to Uhaul with there? \n\nPLZ NOTE: This is a space for the FLINTA* community and entry will be on discretion of our door staff \n*Female, Lesbian, Intersex, Nonbinary, Trans + Agender",
+
+        "image": "images/dykerave.png",
+        "website_link": "",
+        "ticket_link": "https://ra.co/events/2229054?fbclid=PAZXh0bgNhZW0CMTEAAafpilkHZ2T_WzMz-DN17mCx3Tt9ZYuh7kQfcyfHAQ6YwtHykzZ6BMp22dUwUQ_aem_2Lc5V6RilpcWGOEJq5-fTg",
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 140,
+        "name": "Climate Cafe",
+        "venue": "Bridgehouse Gardens",
+        "address": "61 Rollins Street London SE15 1EP",
+        "time": "11:00-13:00",
+        "date": "Aug 16",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+            "conversation",
+            "debate",
+            "allies"
+   
+        ],
+        "description": "Welcome to our empathetic space to explore your feelings about the climate crisis: a loosely structured sharing circle, over a cuppa! :)",
+
+        "image": "images/climatecafe.png",
+        "website_link": "",
+        "ticket_link": "https://www.eventbrite.com/e/climate-cafe-tickets-1489171274369?fbclid=PAZXh0bgNhZW0CMTEAAafjlGzu9unVkg3P0HCpH7GH8d7ccE3s12jSCI2DQtd-S-up524cnzs0mIqkZA_aem_OKV10FiILWjdM6Ohqyoxew",
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            
+            
+        ],
+        "age":""
+    },
+    {
+        "id": 141,
+        "name": "GLITCHTOPIA SOCIAL 004!",
+        "venue": "Four Quarters",
+        "address": "187 Rye Lane, Peckham,SE15 4TP",
+        "time": "19:00-00:30",
+        "date": "Aug 13",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+            "open decks",
+            "photot exhibition",
+            "social",
+            "fundraiser",
+            "danceflow"
+   
+        ],
+        "description": "This one’s close to the heart. 🇵🇸✊ \n\nWe’re turning this night into a fundraiser for @hosumanwer , a photographer from Gaza 🇵🇸 who’s spent years capturing life under occupation documenting the beauty, the pain, and the resistance during the genocide. \nNow, he and his family are facing impossible conditions, no safety, no basics, barely holding on. \nWith the help of her cousin in Italy they have opened a Chuffed campaign that you can find on his BIO! \n\nWe wanted to make sure this small event helps in two ways: \n1- Directly supporting someone on the ground: Hosam, whose story and work you’ll see throughout the night. \n2- Supporting wider aid efforts, with QR codes linking to trusted, larger charities doing critical work in Gaza. @palihope @givegazahopeorg \n\nDuring the night: \n📷 A showcase of Hosam’s photography, take one of his pics with your donation to Hosam! \n🎧 Open decks: we will share the DJs' names very soon! \n👾Dance slots open, bring energy, movement and resistance. \n\nPlease share the word, let's raise funds, and awareness! \n\nNo one is free until everyone is free!",
+
+        "image": "images/glitchtopia2.png",
+        "website_link": "https://www.instagram.com/glitchtopia_/?hl=en",
+        "ticket_link": "",
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "hardgroove",
+            
+        ],
+        "age":"18+"
+    },
+    {
+        "id": 142,
+        "name": "KLUB VERBOTEN SUMMER FIST",
+        "venue": "Omeara",
+        "address": "6 O’meara Street, London Bridge, SE1",
+        "time": "23:00-06:00",
+        "date": "Aug 16",
+        "price": "£36.24",
+        "type": "party",
+        "tags": [
+            "kink",
+            "party",
+   
+        ],
+        "description": "Klub Verboten launched in 2016 and is a provider of contemporary pro-pervert spaces. A community bound by modern human interaction. A grassroots movement matured into tens of thousands of caring Kinksters. Dedicated to the spatial, sonic and visual understanding of future BDSM / fetish practises and culture, we set the gold standard in safeguarding. Stagnant-prescribed erotic orthodoxies are no longer. Ditch your sex-corp. dating app. Leave the nuclear warfare GHB at home. Play is okay.",
+
+        "image": "images/klub.png",
+        "website_link": "https://www.instagram.com/klubverboten/?hl=en",
+        "ticket_link": "https://dice.fm/event/7d2bb7-klub-verboten-summer-fist-x-south-16th-aug-omeara-london-tickets",
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            
+        ],
+        "age":"21+"
+    },
+    {
+        "id": 143,
+        "name": "TEARS FOR BEERS",
+        "venue": "TBA",
+        "address": "",
+        "time": "19:00-22:45",
+        "date": "Aug 20",
+        "price": "£15",
+        "type": "social",
+        "tags": [
+            "kink",
+            "social",
+   
+        ],
+        "description": "The filthy grandmother of all socials. Tears for Beers is a social event aimed at the curious ones who haven't entered a Klub Verboten membership yet. Cum & meat some other members, put the feelers out and drop those questions that tickle your mind.",
+
+        "image": "images/tears4.png",
+        "website_link": "https://www.instagram.com/klubverboten/?hl=en",
+        "ticket_link": "https://dice.fm/event/v3a7av-tears-for-beers-x-east-20th-aug-undisclosed-location-london-london-tickets",
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+            "hardgroove",
+            
+        ],
+        "age":"21+"
+    },
     
 
 
