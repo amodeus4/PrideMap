@@ -26,6 +26,9 @@ async function init() {
     // Initialize tag filter
     setupTagFilterDropdown();
     
+    // Setup enhanced click tracking
+    setupEnhancedClickTracking();
+    
     // Set up automatic refresh to remove ended events
     setupAutoRefresh();
 }
@@ -221,7 +224,7 @@ function createClusterPopupHTML(group) {
                 <p><strong>${event.venue}</strong></p>
                 <p>${event.time} • ${event.date}</p>
                 <p>${event.price}</p>
-                <button onclick="${viewDetailsFunction}" class="popup-btn">View Details</button>
+                <button onclick="${viewDetailsFunction}; trackMapInteraction('Popup View Details', '${event.name}')" class="popup-btn">View Details</button>
             </div>
         `;
     } else {
@@ -232,7 +235,7 @@ function createClusterPopupHTML(group) {
             ` : '';
             
             return `
-                <div class="popup-event" onclick="${viewDetailsFunction}">
+                <div class="popup-event" onclick="${viewDetailsFunction}; trackMapInteraction('Popup Event Click', '${event.name}')">
                     ${imageHTML}
                     <div style="margin-left: ${isMobile && event.image ? '48px' : '0'};">
                         <div class="popup-event-name">${event.name}</div>
@@ -426,6 +429,9 @@ function isEventToday(dateString) {
 function showEventDetail(eventId) {
     const event = events.find(e => e.id === eventId);
     if (!event) return;
+    
+    // Track the event card click
+    trackEventCardClick(event);
     
     currentEvent = event;
     currentView = 'detail';
@@ -841,6 +847,9 @@ function showEventDetailFromMap(eventId) {
     const event = events.find(e => e.id === eventId);
     if (!event) return;
     
+    // Track map-to-detail navigation
+    trackMapInteraction('Map to Detail Navigation', event.name);
+    
     // Switch to list view first
     mobileViewMode = 'list';
     showMobileListView();
@@ -939,4 +948,113 @@ function setupAutoRefresh() {
             filterEvents(currentFilter);
         }
     });
+}
+
+// Google Analytics Click Tracking Functions
+function trackClick(category, action, label = null, value = null) {
+    if (typeof gtag !== 'undefined') {
+        gtag('event', 'click', {
+            event_category: category,
+            event_action: action,
+            event_label: label,
+            value: value
+        });
+    }
+}
+
+function trackEventCardClick(event) {
+    trackClick('Event Card', 'View Event Details', event.name, event.id);
+}
+
+function trackFilterClick(filterType) {
+    trackClick('Filter', 'Apply Filter', filterType);
+}
+
+function trackTagFilterClick(tagName) {
+    trackClick('Tag Filter', 'Select Tag', tagName);
+}
+
+function trackActionButtonClick(buttonType, eventName) {
+    trackClick('Action Button', buttonType, eventName);
+}
+
+function trackMapInteraction(interactionType, details = null) {
+    trackClick('Map', interactionType, details);
+}
+
+function trackNavigationClick(navigationType) {
+    trackClick('Navigation', navigationType);
+}
+
+function trackExternalLinkClick(linkType, destination) {
+    trackClick('External Link', linkType, destination);
+}
+
+// Enhanced click tracking for all interactive elements
+function setupEnhancedClickTracking() {
+    // Track filter button clicks
+    document.addEventListener('click', (e) => {
+        const filterBtn = e.target.closest('.filter-btn');
+        if (filterBtn && !filterBtn.classList.contains('tags-filter-btn')) {
+            const filterType = filterBtn.dataset.filter;
+            trackFilterClick(filterType);
+        }
+        
+        // Track tag filter button
+        if (e.target.classList.contains('tags-filter-btn')) {
+            trackClick('Filter', 'Open Tag Filter');
+        }
+        
+        // Track tag selections
+        if (e.target.type === 'checkbox' && e.target.closest('.tag-filter-dropdown')) {
+            const tagName = e.target.value;
+            const isChecked = e.target.checked;
+            trackTagFilterClick(`${tagName} (${isChecked ? 'selected' : 'deselected'})`);
+        }
+        
+        // Track action buttons in event details
+        if (e.target.classList.contains('action-btn')) {
+            const buttonType = e.target.classList.contains('ticket-btn') ? 'Get Tickets' : 
+                              e.target.classList.contains('website-btn') ? 'Website' : 'Other';
+            const eventName = e.target.closest('.event-detail')?.querySelector('.event-detail-title')?.textContent || 'Unknown Event';
+            trackActionButtonClick(buttonType, eventName);
+        }
+        
+        // Track back button
+        if (e.target.classList.contains('back-btn-sharp')) {
+            trackNavigationClick('Back to Events List');
+        }
+        
+        // Track venue links
+        if (e.target.classList.contains('venue-link')) {
+            const eventName = e.target.closest('.event-detail')?.querySelector('.event-detail-title')?.textContent || 'Unknown Event';
+            trackExternalLinkClick('Venue Address', 'Google Maps');
+        }
+        
+        // Track newsletter link
+        if (e.target.classList.contains('newsletter-link')) {
+            trackExternalLinkClick('Newsletter Signup', 'Mailchimp');
+        }
+        
+        // Track mobile view toggle
+        if (e.target.closest('.view-toggle-btn')) {
+            trackNavigationClick('Mobile View Toggle');
+        }
+        
+        // Track tag filter actions
+        if (e.target.classList.contains('clear-tags-btn')) {
+            trackClick('Tag Filter', 'Clear All Tags');
+        }
+        
+        if (e.target.classList.contains('apply-tags-btn')) {
+            trackClick('Tag Filter', 'Apply Tags');
+        }
+        
+        if (e.target.classList.contains('close-tag-filter')) {
+            trackClick('Tag Filter', 'Close Filter');
+        }
+    });
+    
+    // Track map marker clicks (these are handled in addMarkers function)
+    // Track event card clicks (these are handled in createEventCardHTML)
 }
