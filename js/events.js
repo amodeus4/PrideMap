@@ -496,38 +496,6 @@ const events = [
         "age": "18+"
     },
     {
-        "id": 4285862734,
-        "name": "London's Legacy Queer Cabaret: Black History Month Edition",
-        "venue": "Piehouse Co-Op",
-        "address": "213-214 Edward Place,  London,  SE8 5HD",
-        "time": "19:00-23:45",
-        "date": "Oct 17",
-        "price": "£7 to £15",
-        "type": "workshop",
-        "tags": [
-            "dancing",
-            "queer",
-            "bisexual",
-            "drag",
-            "cabaret",
-            "art",
-            "music",
-            "drinks"
-        ],
-        "description": "Bar Wotever returns to Matchstick Piehouse this October with our annual Black History Month edition! \nContinuing our a long-running tradition, where we spotlight and celebrate black queer performers and art with an all black and queer lineup!\n For over two decades, Bar Wotever has been a space for drag, music, poetry, dance, burlesque and everything in between. A platform for emerging artists, a home for seasoned performers, and a night for queers who want something different. Political, punk, messy, moving — it’s always been about showing up and seeing what happens, wotever happens.\n When, What and Time\nFriday 17th October 2025\nDoors Open at 7:00pm\nCabaret Show at 8:00pm\nDance and DJs with Club Wotever from 10:00pm till late\nWhere and Access\nPlease note: This event is not at the RVT.\nWe’re now based at The Matchstick Piehouse in Deptford. Address in event details.\nAccess information for the venue is here: https://matchsticktheatre.com/accessibility/ \nFor additional access questions, info or to reserve a seat, please email: barwoteverinfo@gmail.com\n**More info about the event and line-up coming soon**",
-        "image": "https://cdn.outsavvy.com/events/8bb31eef-66df-4b9d-ae5a-f26ec32af790.png",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28585/bar-wotever-londons-legacy-queer-cabaret-black-history-month-edition",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.301047",
-        "generes": [
-            "house"
-        ],
-        "age": "18+"
-    },
-    {
         "id": 3751597949,
         "name": "How To Catch A Pig",
         "venue": "Piehouse Workers Co-Op",
@@ -2195,8 +2163,714 @@ const events = [
         ],
         "age":"21+"
     },
+    {
+        "id": 144,
+        "name": "TECHNOCAFE",
+        "venue": "The Reinstate Yard",
+        "address": "1 wythes road, silvertown, london E16 2DN",
+        "time": "12:00-22:00",
+        "date": "Aug 16",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+            "BBQ",
+            "DJ workshop",
+            "music",
+            "live performance",
+
+   
+        ],
+        "description": "📢 LONDON - on Saturday 16th August join us at REinsTate, a community space renovating the historical Tate Institute social facility in Silvertown, for a day of dancing and top notch DJs & live performances spanning various styles of techno. \n\nechno Cafe is a welcoming all-day party, who have also hosted similar events in Sheffield, Liverpool & Birmingham, exploring the legacy of techno music. \n\nThis event is FREE ENTRY. \n\n12:00-13:30 ---> there will be a Beginners DJ Workshop for anyone interested in learning more about using CDJs and having the chance to play some tunes on the soundsystem that will be set up in the yard for the day. More details will be shared later this week on how to sign up for this workshop. \n13:30-22:00 ---> party & bbq. More information on each of the DJs & live acts performing to be shared on Techno Cafe socials :) \n\nBring your own BBQ food + BYOB. \n\nThere will be a non-alcoholic bar, collecting donations for 'Single Homeless Project', a homeless charity in London supporting 10,000+ people a year to rebuild and transform their futures. \n\nCapacity is limited so if you want to come down, please RSVP in 1 of the following ways, whichever is easiest for you: \n- texting names to 07586245005 \n- messaging names on IG to @wearetechnocafe \n- clicking attending on this link - https://form.jotform.com/252161759506056 (link also in Techno Cafe bio) \n~ day party & community BBQ, families welcome",
+
+        "image": "images/technocafe.png",
+        "website_link": "https://www.instagram.com/wearetechnocafe/?hl=en&g=5",
+        "ticket_link": "",
+        "sellingFast": false,
+        "scraped_from": "insta",
+        "scraped_date": "",
+        "generes": [
+            "techno",
+        
+        ],
+        "age":"all ages"
+    },
+    {
+        "id": 3655684996,
+        "name": "Black & POC Singles Night at La Camionera",
+        "venue": "La Camionera",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "19:00-23:00",
+        "date": "Aug 12",
+        "price": "FREE to £5",
+        "type": "social",
+        "tags": [
+          "speed dating",
+          "flinta",
+          "trans"
+        ],
+        "description": "we wanna welcome to you to la camionera’s very first black and poc singles night\na space for us to be one in all our authenticity \ncome for a flirt and a dance \nall ticket sales go towards the black trans alliance so there’s no better reason to come…other than maybe meeting the love of your life 🧚🏽🧚🏽 \nthe night will include speed dating, sexy tunes, live cupid and an abundance of hotties\ncan’t wait to see you there xxxx\n Every Tuesday, we host a singles night at La Camionera! We have £5 donation tickets going towards the Black Trans Alliance available.\n Speed dating starts around 7pm, but feel free to come by from 4 to have a drink, meet some people, and settle in before we get started.\n See you Tuesday \n\n♥♥♥♥♥♥",
+        "image": "https://cdn.outsavvy.com/events/a8b71ac7-e57e-4a6a-aafb-98ffbba84fcf.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29260/black-poc-centred-singles-night-at-la-camionera-120825",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.133784",
+        "generes": [
+          
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 2966772993,
+        "name": "45+ Singles Night at La Camionera",
+        "venue": "243 Well St",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "19:00-23:00",
+        "date": "Aug 18",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+          "speed dating",
+          "bisexual"
+        ],
+        "description": "As you know every Tuesday, we host a singles night at La Camionera  - and they’ve been so fun, but we heard there was still a little something special missing. \n So we had to set aside a special night to kick off your week right… \n On Monday 18th August, singles night is 45 and over, for people to meet, chat, and maybe feel a bit more in sync with the room - we thought it might be nice to have a night that speaks to a slightly older crowd too.\n Our regular Tuesdays are still for everyone and all ages -  they’re not going anywhere!\n So if you're in your 40s, 50s, 60s or beyond—you’re very welcome here. Come as you are, bring your stories, your playlists, your chaos, whatever.\n Speed dating starts around 7.30pm, but feel free to come by from 5 to have a drink, meet some people, and settle in before we get started.\n See you Tuesday xxxx",
+        "image": "https://cdn.outsavvy.com/events/12e933d1-42d0-4baf-8a74-709995e43e8b.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29261/45-singles-night-at-la-camionera-160825",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.133901",
+        "generes": [
+        ],
     
+        "age": "45+"
+      },
+      {
+        "id": 24605798,
+        "name": "Singles Night at La Camionera",
+        "venue": "243 Well St",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "16:00-23:00",
+        "date": "Aug 19",
+        "price": "Free",
+        "type": "workshop",
+        "tags": [
+          "speed dating",
+          "lgbtq+",
+          "drinks"
+        ],
+        "description": "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4pm to grab a drink, chat with others and meet some new faces before it all kicks off.\n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy. \n All ages are welcome, see you Tuesday! \n XOXO\n This is a LGBTQTIA+ event",
+        "image": "https://cdn.outsavvy.com/events/1fe97ed6-732f-4647-b6ab-82a8782b38b9.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29263/singles-night-at-la-camionera-free-tickets-190825",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.133992",
+        "generes": [
+      
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 878252830,
+        "name": "Life Drawing at La Cami",
+        "venue": "243 Well St",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "11:00-13:15",
+        "date": "Aug 23",
+        "price": "£15",
+        "type": "workshop",
+        "tags": [
+          "flinta",
+          "art",
+          "drinks"
+        ],
+        "description": "•⁠ ⁠casual, informal, open to all abilities and experience!\n •⁠ special, experienced models and teachers!\n\n•⁠  ⁠11-1.15, with a 15 min break!\n •⁠ our summer cafe menu, soft drinks, and more available!\n\n•⁠  ⁠newsprint and charcoal provided, please bring sketch pads and other materials if you would like them!\n xxxxxx\n\n ",
+        "image": "https://cdn.outsavvy.com/events/975ea810-72c8-4a2e-8540-91a20d7b5f4b.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29259/life-drawing-at-la-cami-230825",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.134349",
+        "generes": [
+        ]
+      },
+      {
+        "id": 4014851902,
+        "name": "30+ Singles Night at La Camionera",
+        "venue": "243 Well St",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "16:00-23:00",
+        "date": "Aug 26",
+        "price": "Free",
+        "type": "workshop",
+        "tags": [
+          "speed dating",
+          "lgbtq+",
+          "drinks",
+          "30+"
+        ],
+        "description": "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4pm to grab a drink, chat with others and meet some new faces before it all kicks off.\n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy. \n All ages are welcome, see you Tuesday! \n XOXO\n This is a LGBTQTIA+ event",
+        "image": "https://cdn.outsavvy.com/events/1fe97ed6-732f-4647-b6ab-82a8782b38b9.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29264/singles-night-at-la-camionera-free-tickets-260825",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.134616",
+        "generes": [
+          "nan"
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 914389637,
+        "name": "BUTCH DAY PARTY",
+        "venue": "The Divine",
+        "address": "33-35 Stoke Newington Road,  London,  N16 8BJ",
+        "time": "15:00-20:00",
+        "date": "Aug 24",
+        "price": "£15 to £18.50",
+        "type": "party",
+        "tags": [
+          "dancing",
+          "party",
+          "cabaret",
+          "art",
+          "drinks"
+        ],
+        "description": "BUTCH DAY PARTY\n SUNDAY BANK HOLIDAY SPECIAL\n last of the summer….\n And what a hot hot butch summer it's been. \n 10 years young, Butch, Please! is feeling itself all over again. and again\n Afternoon on the strip and basement lazer rave until 8pm. \n The past yeat this has become a super special, friendly and joy filled hang out. \nThankyou to everyone for supporting - more later in the year….x\n >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nPerformance & DJ's TBA\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\nACCESS:\nSadly, The Divine is currently not fully accessible, but does now have an accessible toilet on the ground floor. \nThe cabaret and club space are in the basement of the venue. There are 17 wide steps with slip resistant treads down to the space with sturdy handrails either side. There are two steps up to the stage. \n\nIf you need further information, please refer to The Divine ‘About’ page on the website. www.thedivine.co.uk\n ",
+        "image": "https://cdn.outsavvy.com/events/bd15af82-dffd-4bfa-b9b0-e1daa2e59900.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28961/butch-day-party",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.134826",
+        "generes": [
+         
+        ]
+      },
+      {
+        "id": 239200588,
+        "name": "MINX ❤︎ CUNTY CLUB FOR TRANS+ BABES",
+        "venue": "Dalston Superstore",
+        "address": "117 Kingsland High Street,  London,  E8 2PB",
+        "time": "22:00-17:00",
+        "date": "Aug 16",
+        "price": "£8 to £10",
+        "type": "party",
+        "tags": [
+          "dancing",
+          "nb",
+          "flinta",
+          "trans"
+        ],
+        "description": "MINX returns for a Saturday nite heart throbber.\nMinx centres trans+ babes and their allies ❤︎ \nEclectic selections of perreo, baile funk, garage, bass, pop + RnB all nite long X\n\nSTARRING\nMR. A [FINLAND]\nLUCIA BLAYKE\nMYA MEHMI\nTRISTAN TYOM\nCITYTRONIX\nGIN\nELOUIZA\nNOVAYA\n \nNOT ONE TO MISS 💖",
+        "image": "https://cdn.outsavvy.com/events/2f11e534-2d1f-4e4c-9c2a-1c90e14dd59a.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29243/minx-cunty-club-for-trans-babes",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.135457",
+        "generes": [
+          "disco",
+          "house"
+        ]
+      },
+      {
+        "id": 2943537382,
+        "name": "Hidden Bodies Queer Life Drawing",
+        "venue": "VFD",
+        "address": "66 Stoke Newington Road,  London,  N16 7XB",
+        "time": "18:00-20:30",
+        "date": "Aug 18",
+        "price": "£8 to £18",
+        "type": "workshop",
+        "tags": [
+          "queer",
+          "flinta",
+          "trans",
+          "workshop",
+          "art"
+        ],
+        "description": "Hidden Bodies is a life drawing class that celebrates the beauty & diversity of Queer/Trans+ people; challenging norms of mainstream art spaces. In a world where traditional life drawing often perpetuates narrow & heteronormative beauty standards, Hidden Bodies provides a platform & opportunity to immortalise marginalised bodies in art.\n This class invites artists of all levels to explore and appreciate the human form; destigmatising & normalising Queer/Trans+ bodies.\n Whether you are a seasoned artist or picking up a pencil for the first time, Hidden Bodies offers a supportive, inclusive, and affirming environment. Come draw with us as we embrace the complexity of human form and elevate the bodies and experiences that so often go unseen.\nHosted by Sam Sun, and our life model is Zee.\nZee (they/them) is a writer and speaker exploring the intersections of Blackness, Queerness and Trans identities. Find their work on https://substack.com/@souldeep\n\nThe class will be lead, but not tutored.\nClass structure will include a warm up of 10 short poses (1-3 mins), some 2 min drawing exercises that include movement, animation, stylised drawing, art swapping, technical exercises & audience participation. Longer, more traditional life drawing poses include 5 min, 10 min, 15 min & 20 min poses.\n\nArtists are invited to bring their own materials; if you don't have your own, not to worry!\nDrawing materials, boards & paper will be provided for a small cash donation of £2.\nAll are welcome—bring your curiosity, creativity, and openness. Let’s redraw the lines of life drawing, together.\nThe event is in the basement space of No64 The Outsiders Gallery, it has a set of stairs and is not wheelchair accessible.\n Funded by Arts Council England",
+        "image": "https://cdn.outsavvy.com/events/8b19f9d2-b5fb-4504-8a91-219adc6a1748.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29266/hidden-bodies-queer-life-drawing",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.135535",
+        "generes": [
+          "disco"
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 66094094,
+        "name": "S/HE IS STILL HER/E – GENESIS P-ORRIDGE screening + Q&A",
+        "venue": "VFD",
+        "address": "66 Stoke Newington Road,  London,  N16 7XB",
+        "time": "19:00-21:30",
+        "date": "Sep 3",
+        "price": "£10",
+        "type": "social",
+        "tags": [
+          "film screening",
+          "gay",
+          "bisexual",
+          "art",
+          "music"
+        ],
+        "description": "In partnership with Doc'n Roll Films, VFD present a screening of the acclaimed new documentary on former Hackney resident Genesis P-Orridge. \nGenesis P-Orridge lived their art to the extreme. A pioneering musician, avant-garde artist, spiritual explorer, and gender revolutionary, Genesis has appeared in many works — but never this intimately. In this authorised, raw documentary, award-winning director David Charles Rodrigues (Gay Chorus Deep South) captures the final year of P-Orridge’s life.\nFeaturing William Burroughs, Brion Gysin, Timothy Leary, Alice Genese (Psychic TV), David J (Bauhaus/Love and Rockets), Nepalese monks, African witch doctors, and a surprise cameo from Queen Elizabeth, the film offers never-before-seen archives and performance footage from Throbbing Gristle and Psychic TV.\nThe screening will be followed by a Q&A (host TBC)\nThe screening takes place at VFDalston No64 in the basement space, this is a relaxed environment, there is a set of stairs to reach the basement.\n  ",
+        "image": "https://cdn.outsavvy.com/events/e1a9caf8-c9b2-4ee5-828b-924a24b57ae7.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29312/she-is-still-here-genesis-p-orridge-screening-qa",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.135601",
+        "generes": [
+    
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 2884033081,
+        "name": "t'ARTopia",
+        "venue": "VFD",
+        "address": "66 Stoke Newington Road,  London,  N16 7XB",
+        "time": "19:15-22:00",
+        "date": "Sep 11",
+        "price": "£8 to £14",
+        "type": "social",
+        "tags": [
+          "queer",
+          "cabaret",
+          "art",
+          "music",
+          "drinks",
+          "comedy"
+        ],
+        "description": "Join us in t'ARTopia for a queer-curated night of drag, comedy, poetry, cabaret and music from some of our most delicious t'ARTs.\n We have invited some of our favourite performers to entertain you all, at a night that will be nothing short of t'ARTopian. \n We will be raising money for gender affirming surgery funds with this evening's raffle, so come with a couple of quid, win art and raise money for good causes!\n Let's get mouth-watering\n Time: Doors - 7:15pm, Show starts - 7:30pm\n Plus, you can be the first to buy a copy of volume 3 of our sell out, limited edition mini-journal ‘Trans Tongues’ with your ticket to pick up at the event!",
+        "image": "https://cdn.outsavvy.com/events/3b9a9e87-0811-4d3d-a1c9-36b836f8e9b0.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29237/tartopia",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.135685",
+        "generes": [
+          "nan"
+        ]
+      },
+      {
+        "id": 1355275581,
+        "name": "After Life Drawing: Guest Host Edition",
+        "venue": "Coven",
+        "address": "Queen's Yard,  London,  E9 5EN",
+        "time": "12:00-14:00",
+        "date": "Aug 10",
+        "price": "Pay what you can",
+        "type": "workshop",
+        "tags": [
+          "queer",
+          "bisexual",
+          "workshop",
+          "art"
+        ],
+        "description": "Queer life drawing @coven (above Fabwick) in Queen’s Yard, Hackney Wick\n To be hosted by Phil (@thesensitiveline), Phil has been life drawing for the last 11 years most notably focusing on the male form through his page and pseudonym ‘the sensitive line’ inspired by traditional forms and classical posing his approach highlights the sensitivity of the nude figure.\n All abilities are welcome from beginner to experienced! There is the option to be tutored or non-tutored within the session.\n Materials will be provided however, if there is anything specific that you require please provide this yourself!\n This weeks model chosen by our guest host Phil is Joey (@Joey4_8). Joey is a writer/princess born and raised in London",
+        "image": "https://cdn.outsavvy.com/events/2c1bec75-5483-4f22-96fb-31ea6ce42440.jpeg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29253/after-life-drawing-guest-host-edition",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.135746",
+        "generes": [
+        ],
+        "age": "18+"
+      },
+    
+      {
+        "id": 3909772674,
+        "name": "Under One Roof Kiki Ball: Protect the Dolls Edition",
+        "venue": "St. Hilda's East Community Centre",
+        "address": "18 Club Row,  London,  E2 7EY",
+        "time": "15:00-20:00",
+        "date": "Aug 16",
+        "price": "Free",
+        "type": "party",
+        "tags": [
+          "ballroom",
+          "dancing",
+          "awareness"
+        ],
+        "description": "Under One Roof Kiki Ball is an event for the ballroom community in London that integrates a kiki ball with sexual health and wellbeing outreach, hosted by The Love Tank, Idris 007, and Khoriander Bodega. This particular edition aims to highlight the trans girls in the scene and discuss what more we can do to protect the dolls.\n This event is predominantly dedicated to the ballroom community, queer migrants and queer people of colour, creating a space where the community can come together, walk, access vital health resources and kii! Friends and allies are also welcome, but we ask those not from the ballroom community why they are coming? Who are they coming to the space with? And if they are coming, how are they contributing to the space?\n 📍 Venue: St. Hilda's East Community Centre, 18 Club Row, London, E2 7EY\n🚇 Nearest Stations: Shoreditch High Street (London Overground - Windrush Line),  Old Street (Northern Line) & Liverpool Street (Central Line)\n🗓 Date: Saturday, 16th August 2025\n🕒 Time: 3:00 PM - 8:00 PM\n🔞 Age Restriction: No age limit\n🎟 Tickets: FREE - but limited due to venue capacity! Please only book if you genuinely plan to attend.\n At The Love Tank, we work with queer communities in innovative ways to improve health and wellbeing. But did you know that recent data shows STIs continue to impact young people aged 15-24 years, gay, bi, and other men who have sex with men, and some minority ethnic groups the most? 🏳️‍🌈 Not enough is being done, and we’re here to change that!\nIn New York and Paris, ballroom culture has long incorporated sexual health outreach - now it’s time for London to do the same! Under One Roof Kiki Ball brings together ballroom excellence with vital health resources, making sure our community thrives both on and off the floor.\n💃🏾 WHAT TO EXPECT 💃🏾\nAt the ball, we’ll be providing:\n✅ Free STI home testing kits & sexual health information\n✅ Guidance on accessing free hormones via the NHS\n 🎤 EVENT SCHEDULE 🎤\n🕓 3:00 PM: Doors open – Get settled & grab your spot!\n🕓 3:15 PM: Runway Workshop with UK Mother Bambi Laveaux \n🕔 4:30 PM: How Do We Protect the Dolls? Panel hosted by Idris 007, featuring girls in the scene\n🕠 5:15 PM: Food & Refreshments – Fuel up for the night! 🍽️ (There will be limited amount of food and it will be first come, first served - so arrive early to grab a bite!)\n🕡 6:00 PM - 8:00 PM: Kiki Ball🌟 \n🕗 8:30 PM Doors Close – Until next time!\n 🏆 WALKING THE CATEGORY? 🏆\nBring It & Win a Trophy! \n Come as you are! The ball will feature categories including:\nvogue like your favourite fem queen\nvoguing chairs\nOTA face\nrunway (all American, European, twist)\nOTA performance \n This is more than just a ball - it’s a movement. Come vogue, learn, connect, and celebrate Under One Roof! 🏠✨\n❗ IMPORTANT ❗  \n\n🔒 Tickets: Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else 🙏🏽\n 🍽 Food: There will be limited amount of food and it will be first come, first served - so arrive early to grab a bite!\n ♿️ Accessibility: The space is wheelchair accessible, and there are accessible ground-floor level toilets at the venue. If you have any concerns, please contact us to discuss your needs and we will do our best to accommodate you.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\n ABOUT OUR FREE EVENTS\n💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+        "image": "https://cdn.outsavvy.com/events/d8b2fc2e-559a-448f-a424-28ee0bdfda9d.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29249/under-one-roof-kiki-ball-protect-the-dolls-edition",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136143",
+        "generes": [
+        ]
+      },
+      {
+        "id": 1934204038,
+        "name": "Queer Hiking Group",
+        "venue": "The Green House | Ethical Property",
+        "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+        "time": "TBA",
+        "date": "TBA",
+        "price": "Waiting List",
+        "type": "social",
+        "tags": [
+          "hiking",
+          "queer"
+        ],
+        "description": "For Queer Migrants And Queer People Of Colour\nSummer is here. Boots are on. Back by popular demand for 2025, it's our Hiking Group for QPoC and queer migrants! And to kick off the season, we're taking on some old favourites alongside some brand new trails! \n Throughout the summer, we'll be taking on a series of small-group hikes, led by our resident mountain leader-trainee, through some of the most picturesque areas of the South and South East of the country. If you've never gone hiking before and want to give it a try with some likeminded people in a small group, this is your chance!\n We'll be releasing spaces for each hike around 2-3 weeks in advance, and we're able to reimburse attendees £10 each to help with the cost of train tickets!\n 🥾 Our Next Hike 🥾\n For August, we've got two hikes on the cards!\n 🗓  Sunday 17th August: Chiltern Ridgeway Loop, a 12 mile section hike of the Ridgeway that takes in some beautiful hills and gentle woodland, including a climb up to Coombe Hill, the highest point in the Chilterns. With some difficult ascents and descents, this is a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🗓  Saturday 23rd August - Rescheduled from July: Devil's Dyke, a 12 mile circular trail leading up to one of the finest views in South East England, with some steep ascents and descents, alongside stiles, fences, and farmland to walk through. We’ll be taking some of the ascents slowly, but overall, it’s a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🚆 How It Works 🚆\nOnce you sign up, we'll send you the details or where we'll meet, what time, and what to bring with you. We'll also send you information on exactly which train ticket/s to purchase, so that we're able to travel together. After the hike, we'll re-imburse everyone at least £10 against the cost of their journey. However, it is up to you to purchase the correct train ticket in advance.\n 🌿 Upcoming Hikes 🌿:\n 17th August: Chilterns Ridgeway\n23rd August: Devil's Dyke\n6th September: Devil's Punchbowl\n12th - 14th September: TBC \n 🌟 Wanna take a walk on the wild side? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: The walks include considerable gradients with some steep ascents and descents, over marked and clear but at times, unpaved paths. There are some stiles and gates, and parts of the walk may be muddy. Toilets are usually available at cafes and pubs along the way, but these facilities may not be accessible or gender-neutral. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n  We like to keep the events free so they are easily accessible to our communities! If you want to donate please use this link.\n Spaces at our events are limited and there is a cost implication for all the events we produce or take you along to. Therefore, it is very important and appreciated if you let us know when you can no longer attend an event so we can offer your spot to someone else.\n  Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event.\n  By signing up to this event, you accept being added to The Love Tank's newsletter. You can opt out at anytime.",
+        "image": "https://cdn.outsavvy.com/events/5ba1b659-ae78-4709-ba25-faa24336a945.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/27939/queer-hiking-group",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136212",
+        "generes": [
+        ]
+      },
+      {
+        "id": 271012060,
+        "name": "Queer Kayaking",
+        "venue": "Laburnum Boat Club",
+        "address": "Laburnum Street,  London,  E2 8BH",
+        "time": "14:00-16:00",
+        "date": "Aug 17",
+        "price": "Waiting List",
+        "type": "workshop",
+        "tags": [
+          "kayaking",
+          "queer"
+        ],
+        "description": "For Queer Migrants And Queer People Of Colour\n\n🗓 Dates: 22nd June, 13th July, 20th July, 3rd August, 17th August, 7th September\n🕒 Time: 2pm to 4pm \n📍 Location: Laburnum Boat Club\n Splish splash, we're back! \n\nOur FREE introductory kayaking sessions, run in collaboration with Laburnum Boat Club, are back for 2025! \n\nWe're running several sessions over the summer, and in each one we'll develop basic paddling skills, teamwork and water-confidence, all under the care and instruction of Laburnums' very experienced Paddle UK qualified instructors. All equipment (including bouncy-aids, harnesses and splash-proof jackets) will be provided, but as part of all the fun, you can expect to get wet! \n The next few sessions will be taking place on:\nSun 22nd June\nSun 13th July \nSun 20th July\nSun 3rd August\nSun 17th August\nSun 7th September\n We'll be releasing new tickets for each month's sessions gradually, so if the class below is full, don't worry, there's plenty of opportunity to join the next one! This event is being run by The Love Tank in partnership with Laburnum Boat Club.\n\nThe kayaking sessions will last for two hours, and are based from Laburnums' club site in Hackney, right next to the canal. \n 🌟 Want to give paddling a try? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: There are accessible toilets on site, and Laburnum's instructors are experienced in working with folks with a variety of access requirements. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+        "image": "https://cdn.outsavvy.com/events/a2de4eb2-708e-45e1-8fd3-8af4f14cc8a6.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28018/queer-kayaking",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136275",
+        "generes": [
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 1069053439,
+        "name": "Queer Film Club for Queer Migrants and Queer POC",
+        "venue": "The Green House | Ethical Property",
+        "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+        "time": "18:30-21:00",
+        "date": "Aug 20",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+          "film screening",
+          "premiere",
+          "social",
+          "lgbtq+"
+        ],
+        "description": "📅 Date: Wednesday, 20th of August 2025 (more dates soon!)\n🕡 Time: Doors 18:30, Movie introduction 18:50, Screening 19:00 (sharp!)\n📍 Location: THE LOVE TANK, 244-254 Cambridge Heath Rd, Cambridge Heath, London E2 9DA\n Step into the vibrant world of LGBTQ+ cinema with our Queer Film Club, specially curated for queer migrants and queer people of colour and hosted by Krzysztof Dubicki, a Polish queer film expert. Discover powerful, independent, queer films from across the globe, each thoughtfully selected to celebrate diverse voices and stories, as Krzysztof guides us through an evening of cinematic exploration. With his background in film and screen media studies, along with his role as an assistant to the London Independent Film Festival, Krzysztof is always up to date with the newest film premieres, ensuring an enriching and engaging experience for all attendees.\n 📽️Movie we will see📽️\n\nEverybody (2023) focuses on three intersex individuals who overcame shame, secrecy, and unauthorized surgery throughout their childhoods to enjoy successful adulthoods. Choosing to ignore medical advice to conceal their bodies and coming out as who they truly were. For trailer click here.\n What to Expect: \n🎬 Film Screenings: Experience ambitious and inspiring LGBTQ+ films that delve into themes of identity, love, and resilience. \n🎤 Engaging Introductions: Before each screening, dive into the film's background with a brief introduction and some fascinating fun facts. \n🎙️ Exclusive Interviews: Gain deeper insights into the movie with interviews featuring actors or directors, available for viewing after the screening. \n💬 Post-Film Discussions: Share your thoughts and insights in stimulating discussions exploring the film's themes or broader topics, fostering learning and connection within our community.\n Come as you are and join us for an enriching cinematic experience filled with warmth, inclusivity, and celebration of queer narratives. Reserve your free ticket now! 🌈🎬\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\n Accessibility Information: \n🏠 Accessible Venue: The event takes place on the step-free ground floor, with accessible toilets and wheelchair accessibility. \n🔊 Language Accessibility: All movies will have either English dubbing or English subtitles.\nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to MAUREEN's newsletter. You can opt out at any time. ",
+        "image": "https://cdn.outsavvy.com/events/a8e818e8-a3ac-49db-a42c-ad998926a34d.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/23200/queer-film-club-for-queer-migrants-and-queer-people-of-colour",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136338",
+        "generes": [
+        ]
+      },
+    
+      {
+        "id": 1533615889,
+        "name": "TBPOC-only Trans Sauna Peckham",
+        "venue": "Sauna Social Club",
+        "address": "842 Brayards Road,  (Railway Arch),  London,  SE15 2AG",
+        "time": "20:00-22:00",
+        "date": "Aug 14",
+        "price": "£7.50 to £10",
+        "type": "social",
+        "tags": [
+          "social",
+          "wellness",
+          "trans",
+          "sauna"
+        ],
+        "description": "Sweat, soak, and unwind! Our biannual Trans Sauna for Black People & People of Colour is coming to South London 🔥\nA night for trans+ people (transgender, non-binary, intersex or gender non-conforming) to warm up, cool down, and connect. Expect hot hot saunas, icy cold plunges and a space that’s entirely ours for the evening. This is not a cruising event - it’s a care, rest, and community event, for trans people of colour / global majority trans people. \nSee you in the steam. ❤️‍🔥\nWhat’s new:\nA step-free sauna \nWarm showers!\nIndoor changing facilities and bathrooms you can use without having to get dressed \nBoth indoor and outdoor trans-only social spaces outside the sauna \nThis month's reminders:\nYou're welcome to be in the venue from 7:45pm till 10:30pm, although there may be cis people in the space from the previous sauna session until 8pm\nIf you're feeling unwell, please consider not attending this event in order to protect others. Take a Covid-19 test if you have any symptoms. We are able to transfer your ticket to a future event in these cases.\nBe mindful of our wristband system. If the sauna cabins are busy, prioritise those wearing wristbands for the current session. You are welcome to hang around the indoor and outdoor hangout spaces if the saunas are full.\nCLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open.\nCheck below for the details, including event policy and what to bring. If there are any changes, we will update ticket holders by email, modify this description and share on our Instagram @trans.sauna and WhatsApp community.\nWhat to bring\n• swimwear \n• two towels, one to sit on in sauna and one to dry off with \n• sandals/ sliders/ flip flops\n• a padlock for locker (optional)\n• bathrobe (optional) \n• sauna hat (optional)\nSauna Etiquette\n• CLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. This is especially important for electric saunas as they are slower to heat back up again than wood fire saunas.\n• Make space for others to sit where possible. \n• Check with everyone in the sauna before adding water to the stones. Nothing unusual on the stones, water is great. \n• Spreading the heat with a whisk/towel/fan is allowed, but check with those around you. \n• Rinse off in the shower before your first cold plunge. We recommend sauna then rinse then plunge then back to sauna. \n• Listen to your body when inside the sauna, it is not recommended to stay in the sauna for over 15 minutes, there is no need to push yourself. Strictly no sauna competitions. \n• No glass bottles are allowed in the changing rooms, shower room, or the sauna itself. \n• There are two medium-sized electric saunas, unlike the range of sizes we have at Hackney Wick events. This has its pros and cons, please be patient with things being different to what we’re used to and work with us to make this as nourishing an experience as we can ♥️\nNudity Policy\n• As this is a closed space, attendees are free to be as dressed/ undressed as they would like. Just be considerate of how close you are to other attendees if you aren’t wearing anything on your lower half! The venue are also writing their own guideline around navigating spaces with nudity that we will share round to ticketholders once it’s ready.\nSafer Spaces Policy\n• No racism, cis-sexism, transmisogyny, transphobia, ableism, fatphobia, or body commentary. \n• No harassment of any kind, this includes touching without consent, excessive or inappropriate staring, verbal abuse, explicit gesturing, and more.\n• Do not take photos within the sauna space. Be mindful of who may be in the background of your photos and ask for permission.\n• This is a drug and alcohol-free event. Avoid drinking when using saunas.\n• Please show up only when you are healthy and have no flu symptoms.\nTicketing\n• All tickets for any time slot will allow access to the venue for the duration of the event, from 7.30pm - 10.15pm. \n• The priority slots are to ensure everyone gets a chance to spend time in the sauna, however you are welcome to be at the event outside your slot! You can even enter saunas outside of your slot if there is space, but please prioritise those wearing wristbands for the current session.\n• You are welcome to purchase more than one time slot if you want to guarantee more time within the sauna.\nRefund Policy\n• We cannot guarantee refunds for our events, but please do message if you can't make it anymore and we will try to help you out if we can afford to on a particular month! Just be patient if we don't get back to you as we're doing our best <3 \nAccessibility Information\nFor Sauna Social Club, 842 Brayards Rd, London SE15 2AG. There is level access from the street, a car or taxi can pull up directly outside the archway. Shared car parking with other arches in loading bays with a blue badge. There is also a secure rail to lock bikes to.\nThe nearest step-free station is Queens Road Peckham (14 min walk), with Peckham Rye about 12 mins away but not step-free. There are also bus routes serving Nunhead Green, Rye Lane and Peckham high street, all approx 5-10 minutes away.\nVenue Access\nThe sauna area is indoors, with a private outdoor space for plunges, showers and chats. The entrance is step-free, and the entire ground floor is step-free including one of the saunas, the lockers and an accessible toilet. Outdoors the social area and changing rooms are step-free and there is a step to reach the plunges and showers.\nThere is a 15-step flight of stairs to reach the mezzanine, which has a second sauna (with one step), an additional bathroom, additional changing facilities and unlocked storage units.\nThe space has low lighting, with smooth floors - sandals are recommended though you can be barefoot.\nFacilities\n     • Saunas: 2 in total, the ground-level sauna is step-free with a 940mm-wide door, and the mezzanine-level sauna has a step to enter. The upstairs sauna is cooler, the lights are brighter, and no water or essential oils are used on the rocks. The downstairs sauna is hotter and has music playing, with essential oils used sometimes (with consent of all in the sauna at the time).\n     • Cold plunges: four in total - one barrel at 3 degrees Celsius and three metal baths at 6 degrees Celsius each. There are two steps up to the plunging area, with a 2ft lip to step into each of the baths.\n     • Showers: 2 electric showers with adjustable temperatures, all are outdoors and not private. Each shower tray is raised by 10cm.\n     • Changing rooms:  4 private stalls; 2 are step-free and outdoors, the other 2 are indoors on the mezzanine level. All have seating.\n     • Lockers: Bring a padlock.\n     • Toilets: The accessible toilet is indoors at the end of the corridor by the cafe, there is another toilet upstairs.\n     • Seating: Available indoors (sofas, chairs and floor cushions) and outdoors (sofa).\n     • Café: This is not managed by the Trans Sauna team, but you are welcome to buy teas and soft drinks. Standard teas are currently £1.95, with other options ranging up to £3.95.\n• Additional Notes\n     • Do not attend if you have Covid-19 symptoms or have tested positive - we can transfer your ticket to a future event in these cases.\n     • Not all staff members are trans themselves but they are all aware of the importance of a trans-safe space and committed to protecting our community.\n     • For access assistance or questions, contact us, or ask our team/ venue staff on site.\nFeel free to contact us with any questions you may have.\nThe event is organised by the Trans Sauna team - Fey, Jeng and Oran. \nDesign by Jeng Au.",
+        "image": "https://cdn.outsavvy.com/events/190ee772-3155-45da-99a2-3f3024411aa0.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28924/trans-sauna-peckham-14th-august",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136481",
+        "generes": [
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 1722527318,
+        "name": "Trans Sauna Hackney 18th August",
+        "venue": "Hackney Wick Sauna Baths",
+        "address": "Eastway,  London,  E9 5JH",
+        "time": "17:45-19:45",
+        "date": "Aug 18",
+        "price": "Pay what you can",
+        "type": "workshop",
+        "tags": [
+          "social",
+          "wellness",
+          "sauna",
+          "trans"
+         
+        ],
+        "description": "Sweat, soak, and unwind! Trans Sauna is at Hackney every month 🔥\nA night for trans+ people (transgender, non-binary, intersex or gender non-conforming) to warm up, cool down, and connect. Expect hot hot saunas, icy cold plunges, wellness facilitators, good food, and a space that’s entirely ours for the evening. This is not a cruising event - it’s a care, rest, and community event. \nSee you in the steam. ❤️‍🔥\nCheck our Instagram closer to the time for updates on massage therapists, food vendors and more!\n This month's reminders:\nTimings are different for this month, as the venue will be a sauna session on sale to the public from 8pm. We will still have a lovely trans-only space from 5.45-7.45, and attendees are welcome to chill in the garden or cafe after this time <3 The Lunar Lodge (an extra sauna with capacity for 20 more people) will be running during our time slot to make up for the change in times!\nIf you're feeling unwell, please consider not attending this event in order to protect others. Take a Covid-19 test if you have any symptoms, we can transfer your ticket to a later event if you test positive. \nBe mindful of our wristband system. If the sauna cabins are busy, prioritise those wearing wristbands for the current session. You are welcome to hang around the venue by the fire pits, by the other outdoor seating, or in the café inside the building, if the saunas are full.\nRespect the BPOC only sauna cabin space. If you are white, this is not a space for you. This is usually clearly marked with a laminated sign.\nRespect the quiet sauna. Be mindful of others as they may be looking for peaceful space to reflect. This is usually clearly marked with a wooden sign.\nCLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. \nCheck below for the details, including event policy and what to bring. If there are any changes, we will update ticket holders by email, modify this description and share on our Instagram @trans.sauna and WhatsApp community.\nWhat to bring\n• swimwear \n• two towels, one to sit on in sauna and one to dry off with \n• sandals/ sliders/ flip flops (venue may have spare)\n• a padlock for locker (optional)\n• bathrobe (optional) \n• sauna hat (optional)\nSauna Etiquette\n• CLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. \n• Make space for others to sit where possible. \n• Check with everyone in the sauna before adding water to the stones. Nothing unusual on the stones, water is great. \n• Spreading the heat with a whisk/towel/fan is allowed, but check with those around you. \n• Rinse off in the shower before your first cold plunge. We recommend sauna then rinse then plunge then back to sauna. \n• Listen to your body when inside the sauna, it is not recommended to stay in the sauna for over 15 minutes, there is no need to push yourself. Strictly no sauna competitions. \n• No glass bottles are allowed in the changing rooms, shower room, or the sauna itself. \n• There will be one BPOC only sauna. This is usually clearly marked with a laminated sign.\n• There will be one quiet sauna. This is usually clearly marked with a wooden sign.\n• There will be one “pro” sauna. This is usually clearly marked with a laminated sign. This is for experienced sauna-goers, and should be respected, this means entering and leaving quickly as possible and being able to add water to the stones (but excessive water will bring down the temperature).\nNudity Policy\n• Due to council restrictions, the venue adheres to a strict nudity policy. Breaking these rules may lead to Trans Sauna no longer being able to operate at this venue.\n• There is no full nudity allowed, the only exception is within the sauna cabins.\n• Top nudity is permitted in the outdoors sauna site, you must be wearing something on your lower half.\n• You must wear shoes and either day clothes or a robe over your swimwear to enter the building for the cafe/ toilets. \n• This is a non-sexual/non-cruising sauna event, the venue does not have a sex license.\nSafer Spaces Policy\n• No racism, cis-sexism, transmisogyny, transphobia, ableism, fatphobia, or body commentary. \n• No harassment of any kind, this includes touching without consent, excessive or inappropriate staring, verbal abuse, explicit gesturing, and more.\n• Do not take photos within the sauna space. Be mindful of who may be in the background of your photos and ask for permission.\n• This is a drug and alcohol-free event, though alcohol is sold in the café. Avoid drinking when using saunas.\n• Please show up only when you are healthy and have no flu symptoms.\nTicketing\n• All tickets for any time slot will allow access to the venue for the duration of the event, from5.45pm - 7.45pm. \n• The priority slots are to ensure everyone gets a chance to spend time in the sauna, however you are welcome to be at the event outside your slot! You can even enter saunas outside of your slot if there is space, but please prioritise those wearing wristbands for the current session.\n• You are welcome to purchase more than one time slot if you want to guarantee more time within the sauna.\nRefund Policy\n• We cannot guarantee refunds for our events, but please do message if you can't make it anymore and we will try to help you out if we can afford to on a particular month! Just be patient if we don't get back to you as we're doing our best <3 \nAccessibility Information\nFor Trans Sauna at Hackney Wick Sauna Baths, The Baths 80, Eastway, London E9 5JH. The nearest step-free station is Hackney Wick (9 min walk), with bus stops P and Hackney Wick (236, 276, 388, N26 buses) both 30 seconds walk away.\n• Venue Access\nThe sauna area is outdoors. To reach it via steps, enter the building (7 steps up), walk through the café, through the right door, down the corridor, exit, and go down 7 steps. To reach it via lifts, use the lift by the steps, up to the café level, cross the café, use the lift by the hall entrance steps, go down, exit through the back left doors (with a small lip). If you need lift access, please message ahead so staff can assist.\nThe sauna area has low lighting, and mixed astro turf and pallet wood flooring which may be uneven or wet. Sandals are recommended.\n• Facilities\n     • Saunas: 7 in total, all with steps or combination step and slopes and narrow doors. None are wheelchair accessible.\n     • Cold plunges: 8 in total, a mix of barrels, water tanks, and metal baths.\n     • Showers: 3 cold showers, all are outdoors and not private.\n     • Changing rooms: 8 private stalls; 3 are step-free, the rest have one step. All have seating.\n     • Lockers: Bring a padlock.\n     • Toilets: Gender neutral toilets and accessible toilet are indoors at the end of the corridor near Library of Things area.\n     • Seating: Available indoors (café) and outdoors.\n     • Café: This is not managed by the Trans Sauna team or venue staff, but you are welcome to use the space.\n• Additional Notes\n     • Weather may be cold/rainy—bring warm, dry clothes. A small fire pit is usually lit.\n     • Warm food with vegan and gluten-free options is usually available for purchase.\n     • Do not attend if you have Covid-19 symptoms or have tested positive—we can transfer your ticket to a later date in these cases.\n     • There may be other events happening in the building (outside of the sauna area), with cis people attending.\n     • Staff attending to the saunas may be cis, but usually are trans.\n     • For access assistance or questions, contact us, or ask our team/ venue staff on site.\nFeel free to contact us with any questions you may have.\nThe event is organised by the Trans Sauna team - Fey, Jeng and Oran. \nDesign by Jeng Au.",
+        "image": "https://cdn.outsavvy.com/events/a2455e98-da67-4d10-8ef7-bcea67358386.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29002/trans-sauna-hackney-18th-august",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136545",
+        "generes": [
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 1813531518,
+        "name": "Queer Board Game Group",
+        "venue": "Retro Bar",
+        "address": "2 George Court,  London,  WC2N 6HH",
+        "time": "19:00-21:00",
+        "date": "Aug 18",
+        "price": "£10 to £15",
+        "type": "social",
+        "tags": [
+          "social",
+          "lgbtq+",
+          "board games"
+        ],
+        "description": "Are you queer and do you love playing board games? \nSappho runs a monthly social event for playing board games, open to LGBTQIA+ women, trans and non-binary people. \nWe have multiple tables set up with games, ranging from quick and easy games to learn for newbies, to medium-length strategy board games. If you've got a game you'd love to bring and teach others to play, please bring it too, as we will have some spare tables for wildcard games on the night. \nThis will be a really friendly environment where we can enjoy playing games with other queers who love games as much as us! Learn something new, or put a new strategy to the test, and make some new queer friends in the process!\nDates: \nMonday 18 August \nMonday 15 September\nMonday 13 October\nTime: 7-9pm\nLocation: Retro Bar, 2 George Court, Westminster, WC2N 6HH (3 minutes walk from Charring Cross underground station)\nCost: £15 standard, £10 concession. Booking in advance is essential as we have venue caps. \nAccessibility: The venue is not step-free, please contact us for access requirements.\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQIA+ women, trans and non-binary people to our events",
+        "image": "https://cdn.outsavvy.com/events/20083d67-7231-40bb-8931-80eb06c2d074.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/26758/queer-board-game-group",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136609",
+        "generes": [
+    
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 4065017976,
+        "name": "Queer Book Club - London",
+        "venue": "Retro Bar",
+        "address": "2 George Court,  London,  WC2N 6HH",
+        "time": "19:00-20:00",
+        "date": "Aug 25",
+        "price": "£4 to £6",
+        "type": "social",
+        "tags": [
+          "social",
+          "lgbtq+",
+          "book club"
+        ],
+        "description": "Calling all queer book-lovers - join us for an evening of sapphic bookish chats!\nEvery month, we will be reading a new piece of sapphic literature and coming together at Retro Bar, London to discuss over a cuppa or mocktail with the Sappho Events community.\n25 August - Bury Our Bones in the Midnight Soil by V.E Schwab (we recommend you listen to the audio-book on Audible!)\n22 September - Palm Meridian by Grace Flahive (author, Grace will be joining us)\n27 October - The Light and Shade of Ellen Swithin by DG Coutinho (author, DG will be joining us)\nSappho founder Maryann Wright will lead the discussion. \nTime: 7-8pm with further drinks and chats after in the bar\nLocation: Retro Bar, 2 George Court, Westminster, WC2N 6HH (3 minutes walk from Charring Cross underground station)\nPrice: £6 standard, £4 concession\nAccessibility: The venue is not step-free, please contact us for access requirements.\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nPlease note that Sappho Events welcomes LGBTQIA+ women, trans and non-binary people.",
+        "image": "https://cdn.outsavvy.com/events/6d6d1c40-254a-4f8a-8515-b865b224189b.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29127/queer-book-club-london",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136675",
+        "generes": [
+        ]
+      },
+      {
+        "id": 535314283,
+        "name": "In-person Speed Dating for Queer Women in London",
+        "venue": "The Railway",
+        "address": "18 Clapham High Street,  London,  SW4 7UR",
+        "time": "19:30-21:00",
+        "date": "Aug 16",
+        "price": "£10 to £20",
+        "type": "social",
+        "tags": [
+          "speed dating",
+          "social",
+          "lgbtq+",
+          "drinks"
+        ],
+        "description": "Enjoy a relaxed in-person speed dating event for LGBTQ+ women, trans and non-binary people at The Railway Clapham, London.\nFor each date, you’ll have 5 minutes to spark up a good conversation. We will start the event with some ice-breaker conversations to ease off any nerves. \nYou’ll get a digital form at the end of the evening to fill out, and we’ll use that to send your mutual matches so you can keep the conversation going without us. We will give you the options of date or friend on the form, so no pressure on finding love you could also find a friend!\nWhen you arrive, feel free to get a drink (non-alcoholic options and tea/coffee available) or snack at the bar and we will make an announcement when the event begins.\nAt the end of the speed dating, you will get the opportunity to grab a drink all together at the bar.\nPlease note we create the space so that it won't be an overly overwhelming audio and visual environment, and please let us know if you have any accessibility needs and we can ensure you can remain in the same seated location through the event.\nDates: \nTuesday 24 June\nTuesday 29 July\nTuesday 26 August\nTuesday 30 September\nTime: 7:30-9pm\nLocation: The Railway Clapham, 18 Clapham High Street, Clapham, London, SW4 7UR\nAccessibility: The venue and toilets are only accessible via a staircase. \nCost: £20 standard, £15 concession, £10 low income\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQ+ women, trans and non-binary people to our events.",
+        "image": "https://cdn.outsavvy.com/events/22140861-a739-4116-97de-42a92688447d.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/27644/in-person-speed-dating-for-queer-women-in-london",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136737",
+        "generes": [
+    
+        ],
+        "age": "18+"
+      },
 
+      {
+        "id": 1280675247,
+        "name": "Queer Tarot Reading Workshop",
+        "venue": "Royal Inn on the Park",
+        "address": "111 Lauriston Road,  London,  E9 7HJ",
+        "time": "19:30-21:00",
+        "date": "Sep 10",
+        "price": "£10 to £15",
+        "type": "workshop",
+        "tags": [
+          "tarot",
+          "lgbtq+",
+          "workshop"
+        ],
+        "description": "Come and discover the tarot deck from a queer perspective. Get to know the basics and learn how to read intuitively in this fun introduction to tarot. We’ll look at different ways of finding meaning in the deck and how to create a spread, as well as how to use the cards for self-reflection, creative inspiration, and unlocking our subconscious.\nNo experience necessary – suitable for those completely new to tarot and feeling curious, and those looking to find fresh inspiration for their readings.\nFacilitated by Sarah April Lamb.\nLocation: Royal Inn on the Park, 111 Lauriston Road Hackney, London (we're in the map room)\nCost: £15 standard, £10 concession (please book in advance as we have venue caps)\nAccessibility: The venue is wheelchair accessible, with step-free access to toilets.\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQIA+ women, trans and non-binary people to our events",
+        "image": "https://cdn.outsavvy.com/events/282aecd2-09ce-452a-9a6c-f5f4a2530f9a.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/27398/queer-tarot-reading-workshop",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136870",
+        "generes": [
+        ],
+        "age": "18+"
+      },
+      {
+        "id": 4116583227,
+        "name": "Queer Stitch and Sip: Scrap Textile Collage Workshop",
+        "venue": "Retro Bar",
+        "address": "2 George Court,  London,  WC2N 6HH",
+        "time": "19:00-20:30",
+        "date": "Sep 29",
+        "price": "£10 to £20",
+        "type": "workshop",
+        "tags": [
+          "lgbtq+",
+          "workshop",
+          "art",
+          "drinks"
+        ],
+        "description": "A beginner's introduction to the world of abstract and experimental collage with textiles.\nThis workshop begins with an overview of basic embroidery stitches followed by collage exploration using scrap and discarded textile materials. Freely explore a material or idea using intuition and creative stitching techniques in an inclusive and encouraging environment. Develop the confidence to engage with textiles in a therapeutic way, and meet more like minded creative queer people in the process.\nThis workshop is suitable for anyone! Both beginners and those with experience are welcome.\nYou're welcome to sip on a beverage while you stitch :) \nWhat will be provided?\nEmbroidery hoop, embroidery floss, scissors, needles, scrap fabrics, and one piece of calico fabric cut per attendee. Attendees will take home the textile piece they create. Reuse-able materials such as embroidery hoops, scissors, and needles are for workshop use only.\nShould I bring anything?\nIf you have any scrap or craft materials (excess yarn, old clothes, string, scrap paper) that you would like to bring and work with, you are welcome to do so! But it is not necessary, and all attendees will have everything they need provided at the workshop.\n Facilitated by Cristina Rago\nDate:  Monday 29 September 2025\nTime: 7-9:30pm\nLocation: Retro Bar (Upstairs), 2 George Court, Westminster, Greater London, WC2N 6HH\nAccessibility: The upstairs venue and toilets are only accessed via steps\nCost: £10-20\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQ+ women, trans and non-binary people to our events.\nYour Facilitator\nCristina Rago (they/them) is a non-binary Filipino American multidisciplinary artist. Their artistic practice spans painting, textiles, and film to explore identity integration, healing, and reparation from a queer perspective. Their textile pieces often utilise domestic materials including discarded clothes, cheesecloth, and doilies that are reworked through processes such as dyeing, destruction and mending. This cyclical process becomes a holistic act of self-reckoning, and an integration of past selves and thought patterns with the present. Cristina works out of their studio in Wandsworth, London.\nhttps://www.cristinarago.com\nhttps://www.instagram.com/cristinaragoart",
+        "image": "https://cdn.outsavvy.com/events/09e62d22-2bf9-4fc3-af73-7fad1c9160d6.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29310/queer-stitch-and-sip-scrap-textile-collage-workshop",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.136932",
+        "generes": [
+        ],
+        "age": "18+"
+      },
+      
+      {
+        "id": 4285862734,
+        "name": "London's Legacy Queer Cabaret: Black History Month Edition",
+        "venue": "Piehouse Co-Op",
+        "address": "213-214 Edward Place,  London,  SE8 5HD",
+        "time": "19:00-23:45",
+        "date": "Oct 17",
+        "price": "£7 to £15",
+        "type": "party",
+        "tags": [
+          "queer",
+          "drag",
+          "cabaret",
+          "music",
+          "drinks"
+        ],
+        "description": "Bar Wotever returns to Matchstick Piehouse this October with our annual Black History Month edition! \nContinuing our a long-running tradition, where we spotlight and celebrate black queer performers and art with an all black and queer lineup!\n For over two decades, Bar Wotever has been a space for drag, music, poetry, dance, burlesque and everything in between. A platform for emerging artists, a home for seasoned performers, and a night for queers who want something different. Political, punk, messy, moving — it’s always been about showing up and seeing what happens, wotever happens.\n When, What and Time\nFriday 17th October 2025\nDoors Open at 7:00pm\nCabaret Show at 8:00pm\nDance and DJs with Club Wotever from 10:00pm till late\nWhere and Access\nPlease note: This event is not at the RVT.\nWe’re now based at The Matchstick Piehouse in Deptford. Address in event details.\nAccess information for the venue is here: https://matchsticktheatre.com/accessibility/ \nFor additional access questions, info or to reserve a seat, please email: barwoteverinfo@gmail.com\n**More info about the event and line-up coming soon**",
+        "image": "https://cdn.outsavvy.com/events/8bb31eef-66df-4b9d-ae5a-f26ec32af790.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/28585/bar-wotever-londons-legacy-queer-cabaret-black-history-month-edition",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.137062",
+        "generes": [
+          "house"
+        ],
+        "age": "18+"
+      },
+      
+      {
+        "id": 145,
+        "name": "BLEDI DYNASTY",
+        "venue": "Avalon Cafe",
+        "address": "Juno Way,  London,  SE14 5RZ",
+        "time": "21:00-02:00",
+        "date": "Aug 9",
+        "price": "£12 to £15",
+        "type": "party",
+        "tags": [
+          "belly dancing",
+          "queer",
+          "QTIBPOC",
+          "SWANA",
+    
+        ],
+        "description": "We return. For FAE Sunday part 2 \n- 10th August - Hackney Bridge - 3pm - 10pm\nLINE UP TBA\n ARE YOU A FAE?\nA Femme, Them, Doll or Dyke\nA Butch, Futch, Fairy or Fag\nA T-boy, Twink, stud or stone, \nA Princess, Queen, King or Thing\nBi-sexual, Tri-sexual, A-sexual, Grey-sexual\nPansexuals, Polysexuals, demisexual, homosexual. \nShe, he, her or sir, Xe, Zir, Xem or they \nthe most magical celestial creatures of all. \nWelcome to FAE\n\n⁺˚⋆｡°✩₊✩°｡⋆˚⁺\n\nWelcome to FAE\nA new East London queer rave,\nfor FLINTAs, F@gs & Frenz\nBy @michelle_manetti & @julianshoes\n\n✰♫♪•*¨·٠•●♥✿✿●♥٠·¨*•♪♫✰",
+        "image": "https://cdn.outsavvy.com/events/0c3eac84-7b38-46ec-a585-6e4900cc95df.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29025/bledi-dynasty",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.137274",
+        "generes": [
 
+        ]
+      },
+      {
+        "id": 146,
+        "name": "Dyke March Social",
+        "venue": "Old Nuns Head",
+        "address": "15 Nunhead Green,  London,  SE15 3QQ",
+        "time": "18:00-22:00",
+        "date": "Aug 13",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+          "social",
+          "queer"
+        ],
+        "description": "We are back for a last minute FREE summer takeover of the Old Nuns Head’s garden next Wednesday! ❤️ \n\nBring your friends, lovers or just your gorgeous self to have a flirt and make some friends. 💬 \n\nWe bring you d_ykes, badge making and a chill vibe as respite from a long hot d¥key summer. ❤️‍🔥\n\nDolls & POC low income d_ykes please dm us for the free drink code word. 🍸 \n\nCan’t wait to see you there!⛓️",
+        "image": "images/dykemarchsocial.png",
+        "website_link": "https://www.instagram.com/dyke_march/?hl=en",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
 
+        ]
+      },
+    
 ];
