@@ -254,7 +254,7 @@ const events = [
    
     {
         "id": 103,
-        "name": "Ther London Dyke Market",
+        "name": "The London Dyke Market",
         "venue": "Space Station Sixty-Five",
         "address": "373 Kennington Road, London, SE11 4PT",
         "time": "13:00-18:00",
