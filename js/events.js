@@ -2401,5 +2401,64 @@ const events = [
         "generes": [
            
         ]
-    }
+    },
+    {
+        "id": 149,
+        "name": "UNFOLD",
+        "venue": "FOLD",
+        "address": "Gillian House, Stephenson St, London E16 4SA",
+        "time": "14:00-10:00",
+        "date": "Aug 24",
+        "price": "£20 OTD",
+        "type": "party",
+        "tags": [
+          "party",
+          "24-hours",
+          "queer"
+          
+        ],
+        "description": "e Summer Bank Holiday has arrived; it’s time for the 24 Hour Edition of UNFOLD. \n\nNext Sunday, we present 24 hours of music across both of our dance floors, courtesy of some of our favourite artists on the planet. \n\nDoors open at 14:00 on Sunday 24th August. \n\nTickets are £20. Re-entry is possible until 10:00 on Monday morning, with the door then closing for all entries at midday. Those with memberships please bring your membership card to access your discount.",
+        "image": "images/unfold6.png",
+        "website_link": "https://www.instagram.com/fold.ldn/?hl=en",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            "techno",
+            "trance",
+            "hardgroove"
+        ],
+         "age": "21+"
+      },
+      {
+        "id": 150,
+        "name": "Tech Couture x De Reünie",
+        "venue": "FOLD",
+        "address": "Gillian House, Stephenson St, London E16 4SA",
+        "time": "23:00-11:00",
+        "date": "Oct 3",
+        "price": "£14 to £23",
+        "type": "party",
+        "tags": [
+          "party",
+          "all night",
+          "queer"
+          
+        ],
+        "description": "We're back baby !!! \n\nFresh off a fabulous summer break (and a dreamy day out at Maiden Voyage), we’re returning to FOLD with a lineup that’s got everything, from TC all-stars to long-awaited debuts. \n\nWe’re also bringing back one of our fave Amsterdam collectives - our hunnies De Reünie - to help host the madness. \n\nExpect a stacked main room: several TC favourites return, alongside the debuts of CRYME and Beste Hira. Trust us, this one’s got SXC techno fun written all over it. \n\nOver in the steam room, it’s a special all-night long with our iconic Northern residents. If you’ve caught their extended sets before, you already know this is not one to miss. \n\nIt’s going to be long. It’s going to be sweaty. And as always, it’s going to be SXC af. \n\nSee you there. \n\nLove, \nB & O xoxo",
+        "image": "images/techcout.png",
+        "website_link": "https://www.instagram.com/techcouture_ldn/?hl=en",
+        "ticket_link": "https://ra.co/events/2236874",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            "techno",
+            "house"
+        ],
+         "age": "21+"
+      },
 ];

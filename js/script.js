@@ -950,44 +950,62 @@ function setupAutoRefresh() {
     });
 }
 
-// Google Analytics Click Tracking Functions
-function trackClick(category, action, label = null, value = null) {
+// Google Analytics 4 Click Tracking Functions
+function trackClick(eventName, parameters = {}) {
     if (typeof gtag !== 'undefined') {
-        gtag('event', 'click', {
-            event_category: category,
-            event_action: action,
-            event_label: label,
-            value: value
-        });
+        gtag('event', eventName, parameters);
+        console.log('GA4 Event tracked:', eventName, parameters); // Debug log
+    } else {
+        console.log('gtag not available, would track:', eventName, parameters); // Debug log
     }
 }
 
 function trackEventCardClick(event) {
-    trackClick('Event Card', 'View Event Details', event.name, event.id);
+    trackClick('event_card_click', {
+        event_name: event.name,
+        event_id: event.id,
+        event_type: event.type,
+        venue: event.venue
+    });
 }
 
 function trackFilterClick(filterType) {
-    trackClick('Filter', 'Apply Filter', filterType);
+    trackClick('filter_click', {
+        filter_type: filterType
+    });
 }
 
 function trackTagFilterClick(tagName) {
-    trackClick('Tag Filter', 'Select Tag', tagName);
+    trackClick('tag_filter_click', {
+        tag_name: tagName
+    });
 }
 
 function trackActionButtonClick(buttonType, eventName) {
-    trackClick('Action Button', buttonType, eventName);
+    trackClick('action_button_click', {
+        button_type: buttonType,
+        event_name: eventName
+    });
 }
 
 function trackMapInteraction(interactionType, details = null) {
-    trackClick('Map', interactionType, details);
+    trackClick('map_interaction', {
+        interaction_type: interactionType,
+        details: details
+    });
 }
 
 function trackNavigationClick(navigationType) {
-    trackClick('Navigation', navigationType);
+    trackClick('navigation_click', {
+        navigation_type: navigationType
+    });
 }
 
 function trackExternalLinkClick(linkType, destination) {
-    trackClick('External Link', linkType, destination);
+    trackClick('external_link_click', {
+        link_type: linkType,
+        destination: destination
+    });
 }
 
 // Enhanced click tracking for all interactive elements
@@ -1002,12 +1020,12 @@ function setupEnhancedClickTracking() {
         
         // Track tag filter button
         if (e.target.classList.contains('tags-filter-btn')) {
-            trackClick('Filter', 'Open Tag Filter');
+            trackClick('tag_filter_open', {});
         }
         
         // Track tag selections
         if (e.target.type === 'checkbox' && e.target.closest('.tag-filter-dropdown')) {
-            const tagName = e.target.value;
+            const tagName = e.target.id.replace('tag-', '');
             const isChecked = e.target.checked;
             trackTagFilterClick(`${tagName} (${isChecked ? 'selected' : 'deselected'})`);
         }
@@ -1043,15 +1061,17 @@ function setupEnhancedClickTracking() {
         
         // Track tag filter actions
         if (e.target.classList.contains('clear-tags-btn')) {
-            trackClick('Tag Filter', 'Clear All Tags');
+            trackClick('tag_filter_clear', {});
         }
         
         if (e.target.classList.contains('apply-tags-btn')) {
-            trackClick('Tag Filter', 'Apply Tags');
+            trackClick('tag_filter_apply', {
+                selected_tags_count: selectedTags.length
+            });
         }
         
         if (e.target.classList.contains('close-tag-filter')) {
-            trackClick('Tag Filter', 'Close Filter');
+            trackClick('tag_filter_close', {});
         }
     });
     
