@@ -30,39 +30,7 @@ const events = [
         "age": "18+"
     },
     
-    {
-        "id": 353632214,
-        "name": "HOMOSTASH 11 YEAR ANNIVERSARY RAVE",
-        "venue": "Colours Hoxton",
-        "address": "2-4 Hoxton Square,  London,  N1 6NU",
-        "time": "21:30-17:00",
-        "date": "Aug 16",
-        "price": "£10",
-        "type": "party",
-        "tags": [
-            "dancing",
-            "party",
-            "lgbtq+",
-            "queer",
-            "bisexual",
-            "art",
-            "music"
-        ],
-        "description": "Get ready to celebrate 11 fabulous years of moustaches, music, and queer joy with the ultimate HOMOSTASH RAVE! \nThis year's anniversary at Colours Hoxton is set to be hotter, sweatier, and sexier than ever. And we're inviting you to be part of it from the very beginning.\n We'll be announcing our full DJ lineup after the early bird tickets sell out, so grab yours now and trust us, you won’t want to miss what we’ve got in store. \nAs always, we’re bringing together some of the most exciting LGBTQ+ DJs, performers, and dancers for an unforgettable night of sweaty underground magic.\n 🔥 Expect two rooms of unrelenting beats:\nRoom 1: Pulsating techno and dark rave energy with residents Tafkanik & Teleopath + headliner tba after early birds\nRoom 2: Irresistible disco, house & feel-good queer anthems with Nawty Nicky and full line-up reveal after early birds\nNo matter if you’ve got a ‘stache or just love someone who does,  EVERYONE is welcome to this big, beautiful birthday bash hosted by Jvst Tina & Becky aka Prince of Poland. \nJoin us as we rave through the night and make HOMOSTASH history once again!",
-        "image": "https://cdn.outsavvy.com/events/6989e559-fb11-42be-909e-30e4ff839c5e.png",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/28630/homostash-11-year-anniversary-rave",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-07-13T19:12:34.299638",
-        "generes": [
-            "disco",
-            "techno",
-            "house"
-        ],
-        "age": "18+"
-    },
+    
  
     {
         "id": 240628044,
@@ -2460,5 +2428,61 @@ const events = [
             "house"
         ],
          "age": "21+"
+      },
+      {
+        "id": 151,
+        "name": "Queer Line Dancing",
+        "venue": "Walthamstow Trades Hall",
+        "address": "61-63 Tower Hamlets Road London E17 4RQ",
+        "time": "19:00-23:00",
+        "date": "Aug 26",
+        "price": "£9.38",
+        "type": "workshop",
+        "tags": [
+          "workshop",
+          "line dancing",
+          "queer"
+          
+        ],
+        "description": "Dawn your sequins and studs and come on down to a very gay hoe-down in E17! \n\nNo experience needed. We'll be leading (very sexy) beginner level lines dances all night long, plus we'll be teaching the basic two-step for some gender-free partner dancing. \n\nDykes and Dolls across the globe agree: Cowboy Carter was not a drill. It's time for London's queer scene to learn some classic line dances set to the enternal songs of summer. \n\nLessons start at 7:30pm. We'll be running the dances we learn at the start throughout the night to different songs—so don't miss out! \n\nDM us on insta (@londonqueerlinedance) for discount code for low-wage/solidarity tickets <3",
+        "image": "images/linedancing.png",
+        "website_link": "https://www.instagram.com/londonqueerlinedance/?hl=en",
+        "ticket_link": "https://www.eventbrite.ca/e/queer-line-dancing-walthamstow-trades-hall-tickets-1594913201319?aff=oddtdtcreator",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            
+        ],
+      
+      },
+      {
+        "id": 152,
+        "name": "Net’WERK’ing Event",
+        "venue": "The Africa Centre",
+        "address": "66 Great Suffolk Street London SE1 0BL",
+        "time": "19:00-22:00",
+        "date": "Sep 11",
+        "price": "£6.32 to £9.64",
+        "type": "social",
+        "tags": [
+          "social",
+          "networking",
+          "queer"
+          
+        ],
+        "description": "With more and more brick-and-mortar venues closing across London and the UK at large, it’s becoming increasingly important to have open and frank discussions about how this is affecting creatives in night life and other fields. For our first talk, we'll explore how nightlife is dying and how this affects black and brown (and queer) people in terms of work, community, and holding them back from a lot of things. \n\nWe will be in conversation withindustry leaders who will have an open discussion about how nightlife now compares to nightlife over the past number of years and what the future looks like, how this affects black people and black queer people specifically - including black owned venues. \n\nThe panel talk will be followed by our speed-dating networking event and social with DJ sets! It will be an opportunity for creative industry experts to meet with people who want to break into the creative worlds in London. \n\nTickets \nEveryone is welcome! Please note that this space is created for and by Black LGBTQ+ people. Our goal is to amplify the community through this creative intervention.",
+        "image": "images/netwerking.png",
+        "website_link": "https://www.instagram.com/queerbruk/?hl=en",
+        "ticket_link": "https://www.eventbrite.co.uk/e/roots-n-rhythm-presents-a-new-queer-bruk-netwerking-event-part-i-tickets-1580335589289?aff=oddtdtcreator&fbclid=PAZXh0bgNhZW0CMTEAAadbmdrY-1j5gotBDJzBFv0-bIHGBCeyo2WdsWUyaNmw5d_wl1CFMDHZdUz8mg_aem_x69a4HcP0jE4mKH-DzODhA",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            
+        ],
+      
       },
 ];
