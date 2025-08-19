@@ -1651,7 +1651,7 @@ const events = [
         "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
         "time": "18:30-21:00",
         "date": "Aug 20",
-        "price": "Free",
+        "price": "Waitlist",
         "type": "social",
         "tags": [
           "film screening",
