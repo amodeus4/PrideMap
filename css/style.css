@@ -808,7 +808,6 @@ html, body {
         gap: 4px;
         margin-top: 8px;
         max-width: 100%;
-        overflow: hidden;
     }
     .tag {
         font-size: 11px;
@@ -816,18 +815,18 @@ html, body {
         margin-right: 0px;
         margin-bottom: 0px;
         display: inline-block;
-        max-width: 80px;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-        /* Make tags more flexible */
+        /* Let tags wrap fully so none are cut off */
+        max-width: none;
+        overflow: visible;
+        text-overflow: clip;
+        white-space: normal;
         flex-shrink: 1;
     }
     
     .event-card.card-media {
         height: auto; /* Allow height to grow */
         min-height: 140px; /* Minimum height */
-        max-height: 180px;
+        max-height: none; /* Remove cap so tags/title don't get cut */
     }
 }
 
@@ -857,7 +856,7 @@ html, body {
 .event-card.card-media {
     border-radius: 2px;
     box-shadow: 0 2px 8px rgba(0,0,0,.12);
-    height: 125px;
+    min-height: 125px;
     margin-bottom: 25px;
     transition: box-shadow 300ms;
     width: 100%;
@@ -872,7 +871,8 @@ html, body {
 .card-media-object-container {
     width: 35%;
     position: relative;
-    height: 100%;
+    height: auto; /* allow container to stretch with content */
+    align-self: stretch; /* ensure image column matches card height */
     margin: 0;
     padding: 0;
     border: none;
@@ -960,6 +960,7 @@ html, body {
     display: flex;
     flex-wrap: wrap; /* Allow tags to wrap */
     gap: 4px;
+
 }
 
 .back-btn-sharp {
@@ -1163,3 +1164,11 @@ html, body {
         width: 100%;
     }
 }
+
+@media (max-width: 768px) {
+    .card-media-body-supporting-bottom-reveal .card-media-body-supporting-bottom-text {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px; /* increase as needed */
+    }
+  }

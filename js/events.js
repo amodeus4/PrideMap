@@ -314,37 +314,7 @@ const events = [
         ],
         "age":"18+"
     },
-    {
-        "id": 108,
-        "name": "STRAPPED: Carnival",
-        "venue": "Bar Doña",
-        "address": "92 Stoke Newington High Street, Hackney, London, N16 7NY, United Kingdom",
-        "time": "19:00-23:59",
-        "date": "Aug 22",
-        "price": "£11.22",
-        "type": "party",
-        "tags": [
-            "party",
-            "carribean vibes",
-            "DJs",
-            "FLINTA"
-
-        ],
-        "description": "If it’s a serious dose of Caribbean vibes that you're after to start your Carnival weekend, look no further babes! \n\nSTRAPPED has teamed up with East London’s most sensual basement spot Bar Doña to bring you the Queer Carnival party of your dreams. \nWarm up ya waist on Friday 22 August to the very best in Dancehall, Reggaeton & Soca riddims 🌴🍹 It’s giving sexy, sensual, hot, heavy, immaculate vibes \nAnd WHAT A DJ LINEUP we have in stall for you! Lineup to be announced soon \nAnd of course, with any STRAPPED event, expect dancers and some cunty surprises \nFeel free to dress to impress! STRAPPED is a space for queer women, NB and trans hotties to feel safe, seen and sexy. Come party like the queer baddie you are! As always, no pressure to dress up. You are enough as you are <3",
-        "image": "https://dice-media.imgix.net/attachments/2025-07-22/ebbb5c77-bf5a-4a2e-93c2-9f4e378e39ea.jpg?rect=0%2C329%2C1587%2C1587&auto=format%2Ccompress&q=80&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=1 1x,https://dice-media.imgix.net/attachments/2025-07-22/ebbb5c77-bf5a-4a2e-93c2-9f4e378e39ea.jpg?rect=0%2C329%2C1587%2C1587&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
-        "website_link": "",
-        "ticket_link": "https://dice.fm/partner/dice/event/2wbwq6-strapped-carnival-22nd-aug-bar-doa-london-tickets?dice_id=6664539&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAacj1qoCWOfFtJQcBLano93O10uVCMhfE_511_myGWHmL-qKTzjwoA1vBwakwA_aem_XXFfWlSGVMKmmomXKuwEQQ&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXBwQ6CIAAA0L%2FplkLNg22toTNbZuVy4rwwIRBNpFBjdejbe09O03PcuG7fDg%2Fn3jLuCOU%2BKfWZ5604AHwnKOvb%2B%2FaKqlIC2pxlhUGY5hFCNevgS4f4IvbTMWPBqR60v75AMBdhKkVEPAiJ%2BsT4oE7LV5J%2FO6sRfAe2flhEaq5IWe4F7m9xkSZKaVUms42ybPEzXHBj2qEh1Gg7crMNpdGK%2FwEs6dY%2BrgAAAA%3D%3D",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "",
-        "generes": [
-            "dancehall",
-            "reggaeton",
-            "Soca"
-        ],
-        "age":"18+"
-    },
+   
     {
         "id": 109,
         "name": "NEUROTICA Trans+ Pride Afterparty",
@@ -1252,7 +1222,7 @@ const events = [
         ],
         "description": "The filthy grandmother of all socials. Tears for Beers is a social event aimed at the curious ones who haven't entered a Klub Verboten membership yet. Cum & meat some other members, put the feelers out and drop those questions that tickle your mind.",
 
-        "image": "images/tears4.png",
+        "image": "images/t4b.png",
         "website_link": "https://www.instagram.com/klubverboten/?hl=en",
         "ticket_link": "https://dice.fm/event/v3a7av-tears-for-beers-x-east-20th-aug-undisclosed-location-london-london-tickets",
         "sellingFast": false,
@@ -2482,6 +2452,66 @@ const events = [
         "scraped_date": "2025-08-08T12:05:29.137274", 
         "generes": [
             
+        ],
+      
+      },
+      {
+        "id": 153,
+        "name": "All Women DJ Workshop",
+        "venue": "Westend",
+        "address": "10-12 Hanway Street, London, W1T 1UB",
+        "time": "18:30-20:30",
+        "date": "Aug 19",
+        "price": "Free",
+        "type": "workshop",
+        "tags": [
+          "workshop",
+          "djing",
+          "queer",
+          "allies"
+          
+        ],
+        "description": "we DJ is a collaboration between On The Rise DJ Academy and Westend DJ. Its main aim is to give access, training and experience to DJ's... from grassroots to experienced, in every aspect of our culture.",
+        "image": "images/wedj.png",
+        "website_link": "https://www.instagram.com/wedj.show/?hl=en",
+        "ticket_link": "https://www.skiddle.com/whats-on/London/Westend-DJ-Central-London/we-DJ-FREE-DJ-WORKSHOPS-IN-AUGUST---All-Women/41230020/",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            
+        ],
+      
+      },
+      {
+        "id": 154,
+        "name": "Body Movements",
+        "venue": "Southwark Park",
+        "address": "Gomm Rd, London, SE16 2TX, United Kingdom",
+        "time": "12:00-22:30",
+        "date": "Aug 24",
+        "price": "£45 to £79",
+        "type": "party",
+        "tags": [
+          "Music Festival",
+          "community",
+          "queer",
+        
+          
+        ],
+        "description": "body movements is an electronic music festival in london, where queer + trans art is discovered + applauded, queer exploration is encouraged, and queer expression flourishes. \n\nfrom our roots as a DIY, radical queer gathering, sprawling across 15 spaces in hackney wick, we are now growing into an open space amongst the trees of southwark park; a space that we can call our own, a space where we can develop bespoke stages with high-end sound + lighting to enhance your dance, and a space for curiosity and allyship to flourish. \n\nour dream has always been to find our bodies in spaces we never thought we would be, spaces where we are all free to connect, to grow, to express and most importantly to MOVE.",
+        "image": "images/bodymovements.png",
+        "website_link": "https://www.instagram.com/bodymovementsfestival/?hl=en",
+        "ticket_link": "https://ra.co/events/1990927",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            "techno",
+            "house",
+            "raggaeton"
         ],
       
       },

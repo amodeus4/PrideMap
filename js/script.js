@@ -410,6 +410,10 @@ function filterEvents(filter) {
         return dateA - dateB;
     });
     
+    // Rebuild tag dropdown based on currently visible events and prune stale selections
+    setupTagFilterDropdown(filteredEvents);
+    updateTagsFilterButton();
+
     renderEvents(filteredEvents);
     addMarkers(filteredEvents);
 }
@@ -625,12 +629,19 @@ function setupEventListeners() {
 }
 
 // Setup tag filter dropdown functionality
-function setupTagFilterDropdown() {
+function setupTagFilterDropdown(sourceEvents = null) {
     const container = document.querySelector('.tag-filter-dropdown-container');
     if (!container) return;
     
-    // Create and append dropdown
-    const dropdown = createTagFilterDropdown();
+    // Compute available tags from provided list or all events
+    const uniqueTags = getAllUniqueTags(sourceEvents || events);
+
+    // Prune selected tags that are no longer available
+    selectedTags = selectedTags.filter(tag => uniqueTags.includes(tag));
+
+    // Rebuild dropdown fresh
+    container.innerHTML = '';
+    const dropdown = createTagFilterDropdown(uniqueTags);
     container.appendChild(dropdown);
     
     // Add event listeners
@@ -653,12 +664,16 @@ function setupTagFilterDropdown() {
         }
     });
     
-    // Close dropdown when clicking outside
-    document.addEventListener('click', (e) => {
-        if (!dropdown.contains(e.target) && !e.target.classList.contains('tags-filter-btn')) {
-            dropdown.style.display = 'none';
-        }
-    });
+    // Close dropdown when clicking outside (attach once)
+    if (!window._tagDropdownOutsideHandlerAdded) {
+        document.addEventListener('click', (e) => {
+            const currentDropdown = document.querySelector('.tag-filter-dropdown');
+            if (currentDropdown && !currentDropdown.contains(e.target) && !e.target.classList.contains('tags-filter-btn')) {
+                currentDropdown.style.display = 'none';
+            }
+        });
+        window._tagDropdownOutsideHandlerAdded = true;
+    }
 }
 
 // Update the tags filter button text
@@ -859,9 +874,9 @@ function showEventDetailFromMap(eventId) {
 }
 
 // Function to extract all unique tags from events
-function getAllUniqueTags() {
+function getAllUniqueTags(sourceEvents = events) {
     const allTags = [];
-    events.forEach(event => {
+    sourceEvents.forEach(event => {
         if (event.tags) {
             event.tags.forEach(tag => {
                 if (!allTags.includes(tag)) {
@@ -874,13 +889,13 @@ function getAllUniqueTags() {
 }
 
 // Function to create tag filter dropdown
-function createTagFilterDropdown() {
-    const uniqueTags = getAllUniqueTags();
+function createTagFilterDropdown(uniqueTags) {
+    const uniqueTagsComputed = uniqueTags || getAllUniqueTags();
     const dropdown = document.createElement('div');
     dropdown.className = 'tag-filter-dropdown';
     dropdown.style.display = 'none';
     
-    const tagList = uniqueTags.map(tag => `
+    const tagList = uniqueTagsComputed.map(tag => `
         <div class="tag-filter-option" data-tag="${tag}">
             <input type="checkbox" id="tag-${tag}" ${selectedTags.includes(tag) ? 'checked' : ''}>
             <label for="tag-${tag}">${tag}</label>
