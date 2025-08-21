@@ -1833,33 +1833,7 @@ const events = [
         ],
         "age": "18+"
       },
-      {
-        "id": 4116583227,
-        "name": "Queer Stitch and Sip: Scrap Textile Collage Workshop",
-        "venue": "Retro Bar",
-        "address": "2 George Court,  London,  WC2N 6HH",
-        "time": "19:00-20:30",
-        "date": "Sep 29",
-        "price": "£10 to £20",
-        "type": "workshop",
-        "tags": [
-          "lgbtq+",
-          "workshop",
-          "art",
-          "drinks"
-        ],
-        "description": "A beginner's introduction to the world of abstract and experimental collage with textiles.\nThis workshop begins with an overview of basic embroidery stitches followed by collage exploration using scrap and discarded textile materials. Freely explore a material or idea using intuition and creative stitching techniques in an inclusive and encouraging environment. Develop the confidence to engage with textiles in a therapeutic way, and meet more like minded creative queer people in the process.\nThis workshop is suitable for anyone! Both beginners and those with experience are welcome.\nYou're welcome to sip on a beverage while you stitch :) \nWhat will be provided?\nEmbroidery hoop, embroidery floss, scissors, needles, scrap fabrics, and one piece of calico fabric cut per attendee. Attendees will take home the textile piece they create. Reuse-able materials such as embroidery hoops, scissors, and needles are for workshop use only.\nShould I bring anything?\nIf you have any scrap or craft materials (excess yarn, old clothes, string, scrap paper) that you would like to bring and work with, you are welcome to do so! But it is not necessary, and all attendees will have everything they need provided at the workshop.\n Facilitated by Cristina Rago\nDate:  Monday 29 September 2025\nTime: 7-9:30pm\nLocation: Retro Bar (Upstairs), 2 George Court, Westminster, Greater London, WC2N 6HH\nAccessibility: The upstairs venue and toilets are only accessed via steps\nCost: £10-20\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQ+ women, trans and non-binary people to our events.\nYour Facilitator\nCristina Rago (they/them) is a non-binary Filipino American multidisciplinary artist. Their artistic practice spans painting, textiles, and film to explore identity integration, healing, and reparation from a queer perspective. Their textile pieces often utilise domestic materials including discarded clothes, cheesecloth, and doilies that are reworked through processes such as dyeing, destruction and mending. This cyclical process becomes a holistic act of self-reckoning, and an integration of past selves and thought patterns with the present. Cristina works out of their studio in Wandsworth, London.\nhttps://www.cristinarago.com\nhttps://www.instagram.com/cristinaragoart",
-        "image": "https://cdn.outsavvy.com/events/09e62d22-2bf9-4fc3-af73-7fad1c9160d6.png",
-        "website_link": "",
-        "ticket_link": "https://www.outsavvy.com/event/29310/queer-stitch-and-sip-scrap-textile-collage-workshop",
-        "coordinates": null,
-        "sellingFast": false,
-        "scraped_from": "outsavvy",
-        "scraped_date": "2025-08-08T12:05:29.136932",
-        "generes": [
-        ],
-        "age": "18+"
-      },
+      
       
       {
         "id": 4285862734,
@@ -2515,4 +2489,832 @@ const events = [
         ],
       
       },
+      {
+        "id": 155,
+        "name": "Seasoned Day Party",
+        "venue": "Pergola Brixton",
+        "address": "Coldharbour Lane, Lambeth, London, SW9 8PR",
+        "time": "17:00-23:00",
+        "date": "Aug 31",
+        "price": "£20.99",
+        "type": "party",
+        "tags": [
+          "day party",
+          "25+",
+          "queer",
+        
+          
+        ],
+        "description": "Seasoned is an LGBTQ+ event for the 25+ Girls, Gays and Theys.",
+        "image": "images/seasoned5.png",
+        "website_link": "https://www.instagram.com/seasoned.szn/?hl=en",
+        "ticket_link": "https://dice.fm/event/yo7b5v-seasoned-day-party-31st-aug-pergola-brixton-london-tickets",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            "afro beats",
+            "dancehall",
+            "house",
+            "raggaeton",
+            "soca"
+        ],
+        "age": "25+"
+      
+      },
+      {
+        "id": 156,
+        "name": "Carnival Pride",
+        "venue": "Village Underground",
+        "address": "54 Holywell Lane, London EC2A 3PQ, UK",
+        "time": "23:00-05:00",
+        "date": "Sep 13",
+        "price": "£12.88",
+        "type": "party",
+        "tags": [
+          "party",
+          "carnival",
+          "queer",
+          "QTBIPOC"
+        
+        ],
+        "description": "Faggamuffin presents... A Special Edition 7th Birthday Party + Hackney Carnival Celebration 🔊 \n\nFaggamuffin has always been more than a party; it's thee home for QTBIPOC joy during Carnival season. We’re coming strong to close off the summer. \n\nExpect legendary DJ lineups, dancers, masqueraders, and MCs taking you from Dancehall to Soca, from Bashment to Reggae, all though the night. \n\nThis is a celebration of our legacy — 7 years of creating space for the culture, the connection, and the community that makes us who we are. \n\n💃🏽 Come for the vibes. \n🪩 Stay for the rhythm. \n🌈 Bring your full self. \n+ Special Guests",
+        "image": "images/fagamuffin.png",
+        "website_link": "https://www.instagram.com/faggamuffinblocparty/?hl=en",
+        "ticket_link": "https://dice.fm/event/xelryl-carnival-pride-13th-sep-village-underground-london-tickets",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+            "afro beats",
+            "dancehall",
+            "raggaeton",
+            "soca"
+        ],
+        "age": "18+"
+      
+      },
+      {
+        "id": 157,
+        "name": "Carnival Panel Discussion & Warm Up Party",
+        "venue": "The Roof Gardens",
+        "address": "99 Kensington High Street London W8 5SA",
+        "time": "19:00-02:00",
+        "date": "Aug 22",
+        "price": "RSVP",
+        "type": "social",
+        "tags": [
+          "panel discussion",
+          "djs",
+          "queer",
+          "QTBIPOC"
+        
+        ],
+        "description": "Panel discussion 19:30-20:30 \nDJ sets by the panelists: 21:00-02:00 \n\nQueer Influence, Identity, and Innovation in Caribbean Musical Legacy and Cultural Currency. \n\nFrom sound systems to studio sessions, Carnival to club nights, queer creatives have always shaped the sound, style, and steeze of Caribbean culture and its immense global impact. Though our influence is often downplayed or disguised, it is undeniable. \n\nThis panel conversation brings together cultural innovators, Dancehall disruptors, and Carnival custodians, to explore the evolution of Caribbean culture and the ways it has been immeasurably shaped by queer ingenuity. Our panellists will share their visions for what comes next and their insights on maintaining sustainable creative careers while balancing cultural integrity with commercial insight, and on turning creative power into lasting collective and personal influence.",
+        "image": "images/fagamuffin2.png",
+        "website_link": "https://www.instagram.com/faggamuffinblocparty/?hl=en",
+        "ticket_link": "https://www.eventbrite.co.uk/e/carnival-panel-discussion-warm-up-party-tickets-1598553750299?aff=oddtdtcreator",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          
+        ],
+        "age": "21+"
+      
+      },
+      {
+        "id": 158,
+        "name": "NICHE",
+        "venue": "The Bath House",
+        "address": "80 Eastway, London, E9 5JH",
+        "time": "16:00-04:00",
+        "date": "Sep 26",
+        "price": "£10 to £15",
+        "type": "social",
+        "tags": [
+          "sonic exploration",
+          "djs",
+          "experimental music",
+          "showcase",
+          "community",
+        ],
+        "description": "Back with a 2-room, late night sonic exploration with a cohort of daring translocal musicians and DJs: after a brief Summer break, our niche and its inhabitants will come together again. \nA lot will happen! A live show by new studio resident Tristan Arp, DJ sets by Trailcam (fka E-Saggila) and Rotterdam’s Dirty DMs, alongside a takeover by South London posse Diversion @diversion_ldn (with some of our favourite selectors in town) and the release party of two amazing EPs by two incredible artists - Vera Sacra and Tam Lin + their guests (announced soon!). \nAnd of course, residents and Niche affiliates Nida Jafri, Wordcolour and ending summers.",
+        "image": "https://images.opencollective.com/niche-26-09-1dc7911d/bb1fb90/background.jpg",
+        "website_link": "https://www.instagram.com/niche.ldn/?hl=en",
+        "ticket_link": "https://a-niche.org/events/",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          
+        ],
+        "age": "18+"
+      
+      },
+      {
+        "id": 159,
+        "name": "BOUDICA 6th Birthday",
+        "venue": "FOLD",
+        "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+        "time": "23:00-06:00",
+        "date": "Sep 5",
+        "price": "£22.50",
+        "type": "party",
+        "tags": [
+          "party",
+          "queer",
+          "high energy"
+        ],
+        "description": "From their 2019 origins in the now-sadly-defunct Pickle Factory, to taking over London’s prestigious Freemasons Hall for their annual Music Conference. Recent years have taken the queer collective to all corners of the continent, from Bologna to Tallinn, Riga to Berlin… and, of course, here in Canning Town. \n\nBoudica’s commitment to educating the next generation of artists is never far from their line-ups that platform the current; DJ workshops frequently sit alongside their regular programming, both here in the UK and across the continent.",
+        "image": "images/boudica3.png",
+        "website_link": "https://www.instagram.com/theonlyboudica/?hl=en&g=5",
+        "ticket_link": "https://ra.co/events/2195143",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          "techno",
+        ],
+        "age": "21+"
+      
+      },
+      {
+        "id": 160,
+        "name": "TOTAL Floozy",
+        "venue": "Unit 58",
+        "address": "Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK",
+        "time": "21:00-05:00",
+        "date": "Sep 26",
+        "price": "£10.30 to £19.40",
+        "type": "party",
+        "tags": [
+          "party",
+          "exhibition",
+          "art class",
+          "high energy",
+          "sultry",
+          "community"
+        ],
+        "description": "We’re teaming up for a night that’s as unhinged as it is intentional, a celebration of bold expression, freedom, and dancefloor magic. \n\nExpect a lineup bringing hip-thrusting energy and hypnotic techno designed to pull you into a sultry, sweat-soaked trance. From seductive beats to infectious grooves, this night is all about moving bodies, sparking connection, and shaking what you’ve got. \n\nThe evening begins with an art class and exhibition, setting the mood for creativity and community. \n\nBecause let’s be real: \nIt’s not just about getting sh*t-faced, it’s about being a Total Floozy. \n\nAn inclusive space open to all, where liberation, queerness, and pleasure take centre stage. Dance like no one’s watching, or like everyone is. \n\nDress code: A Total Floozy. \nBonus points for anyone rocking red lipstick, we want a dancefloor full of red lips. \n\nFriday 26th September. Unit 58, London. \n\nCome dressed to express. Come ready to sweat. \n\nBe there. Become a TOTAL FLOOZY.",
+        "image": "images/totalfloozy.png",
+        "website_link": "https://www.instagram.com/totalityuk/?hl=en&g=5",
+        "ticket_link": "https://ra.co/events/2223696",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          "techno",
+          "trance",
+        ],
+        "age": "19+"
+      
+      },
+      {
+        "id": 161,
+        "name": "High Hoops Pride Part 2",
+        "venue": "The White Hotel",
+        "address": "Dickinson Street Salford M3 7LW, United Kingdom",
+        "time": "23:59-06:00",
+        "date": "Aug 24",
+        "price": "£23",
+        "type": "party",
+        "tags": [
+          "party",
+          "queer",
+          "high energy",
+         
+        ],
+        "description": "High Hoops is a queer run late night sweat-fest that is open to all. In order to make this space accessible for everyone, we operate a strict zero-tolerance policy for harassment, discrimination, or hate of any kind.",
+        "image": "images/hoops.png",
+        "website_link": "https://www.instagram.com/highhoopsdj/?hl=en&g=5",
+        "ticket_link": "https://ra.co/events/2167704",
+        "coordinates": null,
+        "sellingFast": true,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          "house"
+        ],
+        "age": "18+"
+      
+      },
+      {
+        "id": 162,
+        "name": "High Hoops All Day Party",
+        "venue": "The White Hotel",
+        "address": "Dickinson Street Salford M3 7LW, United Kingdom",
+        "time": "23:59-06:00",
+        "date": "Sep 20",
+        "price": "£20.70 to £23",
+        "type": "party",
+        "tags": [
+          "party",
+          "queer",
+          "high energy",
+         
+        ],
+        "description": "High Hoops is a queer run late night sweat-fest that is open to all. In order to make this space accessible for everyone, we operate a strict zero-tolerance policy for harassment, discrimination, or hate of any kind.",
+        "image": "images/hoops1.png",
+        "website_link": "https://www.instagram.com/highhoopsdj/?hl=en&g=5",
+        "ticket_link": "https://ra.co/events/2224148",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          "house",
+          "afrobeats"
+        ],
+        "age": "18+"
+      
+      },
+      {
+        "id": 163,
+        "name": "Collective Hysteria x Wet Dreamz",
+        "venue": "Distillery N17",
+        "address": "Unit 25, Millmead Industrial Estate",
+        "time": "22:00-05:00",
+        "date": "Sep 13",
+        "price": "£8 to £16",
+        "type": "party",
+        "tags": [
+          "party",
+          "performance",
+          "FLINTA",
+          "community",
+         
+        ],
+        "description": "We are so lucky to be joined by a divine roster of FLINTA* spellcasters crafting a soundscape from blissful and hypnotic layers. Journey with us through all shades of psychedelic, progressive, and percussive sonics, lost in a sultry dreamworld brought to life through set design and performances.",
+        "image": "images/wetdreamz.png",
+        "website_link": "https://www.instagram.com/collective.hysteria/?hl=en&g=5",
+        "ticket_link": "https://ra.co/events/2230430?fbclid=PAZXh0bgNhZW0CMTEAAadgk8lCb1_qFkrZEAmm28KhFIDI2ahypFmuPxXQzlOKOx36Q2_YMksJTTkUGw_aem_yJZqEQ3itcM96iK9JEp9-Q",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          "trance",
+          "techno"
+        ],
+        "age": "18+"
+      
+      },
+      {
+        "id": 164,
+        "name": "Queer Edge Late",
+        "venue": "Block C Hackney Bridge",
+        "address": "Echo Building, E Bay Lane,  Hackney Wick,  London,  E15 2SJ",
+        "time": "20:00-02:00",
+        "date": "Sep 5",
+        "price": "£10 to £15",
+        "type": "party",
+        "tags": [
+          "party",
+          "social",
+          "older crowd",
+          "lgbtq+",
+          "dancing"
+         
+        ],
+        "description": "Queer Edge is an East London queer collective, holding inclusive spaces for the local queer community, irrespective of age, gender or sexuality. We throw monthly parties, live shows, panel discussions, and have a queer CoWorking space (+ photography studio) open every day.",
+        "image": "https://cdn.outsavvy.com/events/4d0ba655-32b4-4ac4-8b94-29bdfe326bf7.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/27515/queer-edge-2nd-birthday",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "",
+        "scraped_date": "2025-08-08T12:05:29.137274", 
+        "generes": [
+          "house",
+          "progressive house"
+        ],
+        "age": "18+"
+      
+      },
+      {
+        "id": 3356838170,
+        "name": "Club Camionera: Summer Break",
+        "venue": "243 Well St",
+        "address": "243 Well Street,  London,  E9 6RG",
+        "time": "15:00-07:00",
+        "date": "Sep 6",
+        "price": "£10 to £15",
+        "type": "party",
+        "tags": [
+        
+            "day party",
+            "lesbian",
+            "nb",
+            "trans",
+            "bisexual",
+            "music",
+           
+        ],
+        "description": "Welcome to Club Camionera: Summer Break, a sweaty, sexy daytime party in the sun.\n ❧ ❦❣❥❤ ♥  3pm till Late ♥ ❤ ❥ ❣ ❦ ❧\n✗♡Arrive early to avoid disappointment! ♡✗\nThink, Dinah Shore, the Ibiza beach clubs, and spring break. We’re taking over La Camionera and turning it into your summer fantasy. Come grind on the dance-floor, flirt in the sunshine, or cool off with a frozen cocktail, come have some fun. \nLets give summer the send-off it deserves. \n\nWhat to expect:\nGo-go dancers, party games, and giveaways\nDance-floor games including Glitter Bomb Shot Roulette, Bling Ring Heist, and other surprises\nPolaroid photo moments \nA hot, inclusive crowd of lesbians, bisexual, trans, non-binary, and queer people.\nDelicious cocktails, spritzes, BBQ snacks\nDJ's till late and good music \n\nDress code: Spring breakers, 2000's ibiza, indie sleeze, 2014 tumblr, summer thirst trap, beach trash, gay tourist, or whatever feels right and gets you dancing.\n\nFree drink if you show up in juicy couture tracksuit or sunglasses bigger than face\nBest outfit / most absurd wins a surprise\n Come hot, stay hydrated, and leave with someone’s number.\n\nDJ's / Collaborators and further information TBA. \n\nINFO\nLow-income Tickets: These are for those receiving Universal Credit or equivalent, or are on a low income. Please email us at info@lacamionera.com and a low income ticket can be arranged :)\nACCESSIBILITY: Please note - while the bathroom and front area of the bar is wheelchair accessible, to access the back area and garden there is a threshold of 3 stairs. \nNo re-entry after 6pm \n  ",
+        "image": "https://cdn.outsavvy.com/events/35b53e13-117d-4e08-ad67-a37a38e24df8.jpg",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29509/club-camionera-summer-break",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-21T14:44:54.713085",
+        "generes": [
+            
+        ],
+        "age": "18+"
+    },
+    {
+      "id": 3124206308,
+      "name": "LEATHER BALL",
+      "venue": "The Garage",
+      "address": "20-22 Highbury Corner,  London,  N5 1RD",
+      "time": "23:00-08:00",
+      "date": "Nov 7",
+      "price": "£18.50 to £25",
+      "type": "party",
+      "tags": [
+          "dancing",
+          "party",
+          "lesbian",
+          "flinta",
+          "performances",
+
+      ],
+      "description": "… AUTUMN '25 Edition …\n Our legendary leather party hits hard. \n Islington calling. We wear LEATHER. \n Or rubber, PVC or pleather of course. \n Calling all leather butches, femmes, dykes, daddies, doms and bikers. \n Dress to impress. \njackets - trousers - waistcoats - harnesses - chaps\n Come strut and grind. \nSubculture. Boundaries. Desire.\n Come and be crowned Mr & Mrs Leather 2025. \n Current and classic house, dance and RnB.\n >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nPerformance, happenings & DJ's TBA\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n This is a night for lesbian and bisexual women, trans and non-binary people. We celebrate butches and butch culture. Please help us hold this space and do not bring cis-male partners and friends, they will not be permitted entry.\n Accessibility information is here. Please contact us or the venue for any more information. \n Join the Butch, Please! mailing list for a heads up on future events www.butchplease.co.uk\n \n ",
+      "image": "https://cdn.outsavvy.com/events/1bcc51e0-ccdb-4b85-b704-f6a3cf139498.jpg",
+      "website_link": "",
+      "ticket_link": "https://www.outsavvy.com/event/29331/leather-ball",
+      "coordinates": null,
+      "sellingFast": false,
+      "scraped_from": "outsavvy",
+      "scraped_date": "2025-08-21T14:44:54.713247",
+      "generes": [
+          "house",
+          "RnB"
+      ]
+  },
+  {
+    "id": 1119867634,
+    "name": "QUEER Salsa & Bachata Socials | First Thursday of EVERY Month | Mingle Edition",
+    "venue": "The Castle",
+    "address": "44 Commercial Road,  London,  E1 1LN",
+    "time": "18:30-05:00",
+    "date": "Sep 4",
+    "price": "£16",
+    "type": "workshop",
+    "tags": [
+        "dancing",
+        "social",
+        "flinta",
+        "workshop",
+    ],
+    "description": "🌈 Sanura Dance Presents: Social Thursdays at The Castle! 💃🕺\nDiscover a vibrant community space in the heart of Aldgate that's about so much more than just dancing!\n 💡 More Than Just Dancing: In a time when LGBTQ+ spaces are struggling to stay open, we're creating a welcoming haven for our community. While we love to dance, our events are just as much about fostering connections and providing a safe space to simply be. Whether you're here to bust a move or just to chat and enjoy the vibe, you're equally welcome and valued.\n 📅 First Thursday of EVERY Month\n6:30 PM: Doors Open\n6:45-7:45 PM: Salsa Beginner Class (25 spots)\n7.45-11 PM: Mingle-Social Dancing\n🔥 Our Vibe:\nNot a dancer? No worries!\nCome hang out, meet new people\nEnjoy the atmosphere\nGrab a drink\nMake connections\n✨Who is this for?\nCurious first-timers\nSocial butterflies\nCommunity supporters\nDance enthusiasts\nThose wanting to explore a FLINTA, FEMINIST & LGBTQ+ space\n🏠 About The Castle\nA historic pub dating back to 1792, The Castle offers an intimate, welcoming environment perfect for connecting, socialising, and experiencing something new. Located at 44 Commercial Road, this venue has walls that have seen it all - from boxing training to incredible music nights.\n 🤝 Help Us Keep This Space Alive\nChip in to keep the space open - every little helps! Your presence, support, and community spirit are what keep these vital spaces thriving.\n Join us in keeping our queer spaces alive and thriving. Come for the dance, stay for the community!\n #SanuraDance #QUEERCommunity #LondonNightlife #SafeSpaces\n ⚠️ IMPORTANT!!\n By participating in this event hosted by Sanura Dance Organisation, I hereby acknowledge and agree to the following:\nContent Creation for Public Diffusion: I am aware and accept that Sanura Dance Organisation creates content for public diffusion on the organisation's social media platforms and other marketing and advertising channels.\nData Usage for Marketing Purposes: I am aware and accept that Sanura Dance Organisation may use my data for marketing purposes. This may include, but is not limited to, sending promotional emails, newsletters, and targeted advertisements. I understand that I have the right to withdraw my consent at any time. I can do so by following the provided opt-out instructions in the communications I receive. By providing my data, I acknowledge and agree to the terms outlined in Sanura Dance Organisation's data usage policy for marketing purposes.\nTerms & Conditions\nRefund Policy\n\nPlease let us know if you have any further questions or concerns. We look forward to having you join us for an unforgettable event!\n To stop receiving Sanura Dance communications, please email us at unsubscribe@sanuradance.com.",
+    "image": "https://cdn.outsavvy.com/events/79b3848d-8ba1-4da4-bab8-2f6ed9114ac4.png",
+    "website_link": "",
+    "ticket_link": "https://www.outsavvy.com/event/25082/queer-salsa-bachata-socials-first-thursday-of-every-month",
+    "coordinates": null,
+    "sellingFast": false,
+    "scraped_from": "outsavvy",
+    "scraped_date": "2025-08-21T14:44:54.713532",
+    "generes": [
+        "disco",
+        "latin"
+    ],
+    "age": "18+"
+},
+{
+        "id": 2940746769,
+        "name": "Popola Sober Club: Open Decks III",
+        "venue": "The Common Press Bookshop",
+        "address": "118 Bethnal Green Road,  London,  E2 6DG",
+        "time": "19:00-22:30",
+        "date": "Sep 25",
+        "price": "£5",
+        "type": "social",
+        "tags": [
+            "dancing",
+            "social",
+            "queer",
+            "music"
+        ],
+        "description": "Amoress 🥰\n Following the beautiful energy of our last two gatherings, we're thrilled to invite you to our third edition of Popola Sober Club! ✨\n Join us on Thursday, September 25th, at our beloved sanctuary, The Common Press.\n This is our dedicated alcohol & substance free space where Global Majority queers, womxn, and allies can come together to vibe, connect, and celebrate our cultures in the most authentic way, a space truly encouraging of sobriety. It’s a place for good music, genuine conversation, and that warm, community feeling we've all been craving outside of the typical nightlife scene.\n We’re running it back with another open decks session, so if you’ve got tunes that honor diasporic beats within Latinx and Afro-Caribbean music, please send us a DM. Whether you've never played in public before or you're more experienced, you are totally welcome, this is a relaxed, supportive space to share your sound and show your beat! 😘\n Online Tickets just £5 🎟️\nOTD £8\n Can’t wait to see you there and feel the magic all over again!\nNos vemosss 💋💋💋",
+        "image": "https://cdn.outsavvy.com/events/c0f7a309-1248-4233-b0ac-5fb84e7d054b.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29482/popola-sober-club-open-decks-iii",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-21T14:44:54.713739",
+        "generes": [
+            "afrobeats",
+            "latin"
+        ]
+    },
+    
+  {
+    "id": 1466109808,
+    "name": "35+ speed dating",
+    "venue": "Everyday Sunshine",
+    "address": "49 Barbauld Road,  London,  N16 0RT",
+    "time": "18:30-21:30",
+    "date": "Aug 31",
+    "price": "£10",
+    "type": "social",
+    "tags": [
+        "speed dating",
+        "lesbian",
+        "flinta",
+        "drinks",
+
+    ],
+    "description": "welcome back to our iconic dyke speed dating at this cozy queer-owned venue – this time for our over 35s! \n How does it work?\nyou'll have 5-10 short, approx 5 minute dates (with prompts!) to get to know as many new people as possible! \nwe'll be hosting at everyday sunshine, the cutest little art cafe (and bar, when we're there!) \nplease keep in mind that while we do our best to pair you with people of compatible ages/vibes/relationship styles, this is not always possible for every match!\nWho's welcome? \nAnyone who resonates with the dyke/sapphic/lesbian experience - from bisexuals, to trans folks, to nonbinary folks - if you've ever loved queer women, this is the event for you. \n What ages is this for? \n35+ babbyyyy!!! \nAre you younger than that and feeling left out? Try out our open speed dating on September 9th. \n About the venue \nEveryday Sunshine has coffee, tea, wine, and beer, and is located in Stoke Newington on a quiet street. The outdoor seating will be in use as long as the weather holds, so please bring a sweater! \nAs is the case with lots of our venues - there are resident cats! \nUnfortunately this venue is not wheelchair accessible, with no accessible bathroom. We will be bringing speed dating at an accessible venue later this year. If you need back support or to not move around during the night, please shoot us a message and we'll work it out! ",
+    "image": "https://cdn.outsavvy.com/events/36f41f44-1ac7-484c-95bd-b75e8da5fd8b.png",
+    "website_link": "",
+    "ticket_link": "https://www.outsavvy.com/event/29524/35-speed-dating",
+    "coordinates": null,
+    "sellingFast": false,
+    "scraped_from": "outsavvy",
+    "scraped_date": "2025-08-21T14:44:54.713816",
+    "generes": [
+       
+    ],
+    "age": "35+"
+},
+ {
+        "id": 3281346853,
+        "name": "dyke speed dating at retro bar - september!",
+        "venue": "Retro Bar",
+        "address": "2 George Court,  London,  WC2N 6HH",
+        "time": "18:30-21:00",
+        "date": "Sep 9",
+        "price": "£10",
+        "type": "social",
+        "tags": [
+            "dancing",
+            "speed dating",
+            "queer",
+            "lesbian",
+            "nb",
+            "flinta",
+            "trans",
+            "bisexual",
+            "drinks"
+        ],
+        "description": "Sick of dating apps? Come be brave and meet hot queer singles near you! \n\nHow does it work?\nA survey will be emailed to you before the event, and we'll use your results to make sure you get to meet the best people for you. All queer identities are welcome (TERFS need not apply). \nyou'll have 8-10 short, approx 5 minute dates (with prompts!) to get to know as many new people as possible! \nat the end, you'll be able to fill out a sheet with folks you'd like to keep in touch. If they feel the same way, you'll be matched!\n Please arrive by 6:45 or shoot us an email letting us know you'll be late! This allows us to make sure nobody is left alone!\nWho's welcome? \nAnyone who resonates with the dyke/sapphic/lesbian experience - from bisexuals, to trans folks, to nonbinary folks - if you've ever loved queer women, this is the event for you. \nPoly/ENM folks welcome! Monogamous people also welcome! We usually have a fairly even split. \n What ages is this for? \nThis event is 21+ \nWe'll do our best to make sure there are no major age gaps, and in some cases we'll have two separate groups - it all depends on who signs up. \nIf you are the only one in your age/relationship style category- I will shoot you an email and give you a heads up ahead of time! \n Unfortunately this venue is not wheelchair accessible inside, and has stairs up. Please let us know if you need to sit, require back support, or have mobility issues, and we'll make sure that you get to stay in the same spot throughout the night! \nFor UC/LOW INCOME – PWYC/sliding scale tickets - shoot us an email or contact us via outsavvy. ",
+        "image": "https://cdn.outsavvy.com/events/e706afcc-6bb9-477c-96bb-ec7e62b88697.png",
+        "website_link": "",
+        "ticket_link": "https://www.outsavvy.com/event/29467/dyke-speed-dating-at-retro-bar-september",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "outsavvy",
+        "scraped_date": "2025-08-21T14:44:54.713887",
+        "generes": [
+            "nan"
+        ]
+    },
+   
+  {
+    "id": 2803090834,
+    "name": "all queer supper club",
+    "venue": "The Table Café",
+    "address": "83 Southwark Street,  London,  SE1 0HX",
+    "time": "19:00-20:00",
+    "date": "Sep 18",
+    "price": "£32",
+    "type": "social",
+    "tags": [
+        "dancing",
+        "queer",
+        "food",
+        "drinks"
+    ],
+    "description": "RESCHEDULED - SEPT 18 \none night. queer chef. queer venue. queer organisers. \n it's going to be cute, cozy, and absolutely delicious. \nthree course meal with optional oysters to add on!\n pesc by default! please message about other dietaries. \nwine pairing will be available to add at the venue, non alc options as well!\nvegan/vegetarian options. \n ",
+    "image": "https://cdn.outsavvy.com/events/e21d81dd-a0fa-4d10-8d0a-faef1b00867f.png",
+    "website_link": "",
+    "ticket_link": "https://www.outsavvy.com/event/28548/all-queer-supper-club",
+    "coordinates": null,
+    "sellingFast": false,
+    "scraped_from": "outsavvy",
+    "scraped_date": "2025-08-21T14:44:54.713961",
+    "generes": [
+        
+    ]
+},
+{
+  "id": 141306639,
+  "name": "SEVEN KEVINS: BIG GAY 80s DISCO",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-24:00",
+  "date": "Aug 23",
+  "price": "£10",
+  "type": "party",
+  "tags": [
+      "party",
+      "queer",
+      "fabulous"
+  ],
+  "description": "Dalston Superstore's heaving gay 80s disco returns. Camp stupidity & non-stop Castro district HIGH-NRG all night long!!! \nTHIS IS THE KEVIN DEADLY SINS 👹🪩\n\nSTARRING:\nNAFF [ELLIOTT + ORNY]\nJEFFREY HINTON\nPERRINHA\nMS. G\nJOSH QUINTON\nFANNAR\nCOCOA COVERED LADY\nKURTIS LINCOLN",
+  "image": "https://cdn.outsavvy.com/events/4b825437-f28f-40c1-bb19-d244bec0a837.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29495/seven-kevins-big-gay-80s-disco",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.714034",
+  "generes": [
+      "disco"
+  ]
+},
+{
+  "id": 1539454026,
+  "name": "Bangin' Club Nite! CHANGE NOW with MisterrCha, Princess XiXi and Ian the DJ",
+  "venue": "VFD",
+  "address": "66 Stoke Newington Road,  London,  N16 7XB",
+  "time": "22:00-30:00",
+  "date": "Aug 29",
+  "price": "£10",
+  "type": "party",
+  "tags": [
+      "dancing",
+      "fundraising",
+      "party",
+      "queer",
+     
+  ],
+  "description": "Get ready for a truly banging club night, dance all night and its for a good cause.\nCHANGE NOW is a club night aimed at raising money for trans individuals who need smaller amounts of money to transform their lives now. We are not talking about thousands of pounds but hundreds and for them to buy everything from bedding to underwear. Then there are the ongoing conversations to overturn the contradictory and indefensible Supreme court ruling, but these actions will take years to come to fruition. We need change here and now. \nFeaturing:\nMisterrCha - the South London party starter offers nothing but bass, bliss and euphoria. Having played crowds such as Mighty Hoopla, Soho House, Dalston Superstore and more -- MisterrCha knows how to work a floor, with MisterrCha's distinct signature blends of club classics, pop edits and global sounds, expect the unexpected.\nPrincess XiXi - Princess Xixi, is a British-Chinese musician, writer and DJ. As a DJ, she has performed at venues across the country, playing high-energy sets that blend genres like hip-hop, rnb, drill and pop with beats from across the UK bass continuum, as well as a heavy emphasis on juke/footwork. Her sets playfully recontextualise often hyper-masculine genres through a lens of queerness, transness and femininity, paying homage to both her identity as well as her London upbringing.\n Ian - Ian, the DJ works 9-5 so you can party from 9-5. He leads a double life pushing papers in his cubicle, but 5pm turns into 140bpm & he’s ready to treat the club like an office party with no HR. Ian, the DJ has been spinning discs since 2020. You can always find him in an East London basement & he will give you a little bit of everything. Expect House, Reggaeton, Pop Edits & Latin Dance.\nSUPPORT THE COMMUNITY - SPREAD THE WORD\nDoor tickets £15 (book here for advance tickets at £10)",
+  "image": "https://cdn.outsavvy.com/events/4e068682-720c-43b3-81bc-df31fa3aca0b.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29380/change-now-with-misterrcha-princess-xixi-and-ian-the-dj",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.714171",
+  "generes": [
+      "house",
+      "latin",
+      "uk bass",
+      "reggae"
+  ],
+  "age": "18+"
+},
+{
+  "id": 2941941689,
+  "name": "HOMOSTASH HALLOWEEN RAVE - 2025 Finale",
+  "venue": "Colours Hoxton",
+  "address": "2-4 Hoxton Square,  London,  N1 6NU",
+  "time": "21:30-01:00",
+  "date": "Oct 31",
+  "price": "£9",
+  "type": "party",
+  "tags": [
+      "dancing",
+      "party",
+      "queer",
+      "gay",
+   
+  ],
+  "description": "🎃 The Iconic Homostash Halloween Party Returns! 🦇\nOur final bash of the year lands at Colours Hoxton! It’s going to be spooky, sexy, and full of moustache-loving mischief!\n 🕸️ Get ready to trick, treat, and dance your stache off across 2 devilishly fun floors:\n🔥 TECHNO RAVE\n🌈 QUEER DISCO (Disco/Italo/House/Queer anthems)\n💿 DJs & performers will be revealed after early bird tickets vanish, so don’t wait! Expect our fierce resident TAFKANIK and many more!\n 👻 Costumes aren’t required — but totally encouraged!\nDress to impress... or dress to undress 😈",
+  "image": "https://cdn.outsavvy.com/events/8c195fd6-3617-4c0d-bf6b-a6b427771341.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29429/homostash-halloween-rave-2025-finale",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.714380",
+  "generes": [
+      "disco",
+      "techno",
+      "house"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1934204038,
+  "name": "Queer Hiking Group",
+  "venue": "The Green House | Ethical Property",
+  "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+  "time": "10:00-18:00",
+  "date": "Aug 23",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "dancing",
+      "high energy",
+      "queer",
+      "lesbian",
+      "bisexual",
+      "art"
+  ],
+  "description": "For Queer Migrants And Queer People Of Colour\nSummer is here. Boots are on. Back by popular demand for 2025, it's our Hiking Group for QPoC and queer migrants! And to kick off the season, we're taking on some old favourites alongside some brand new trails! \n Throughout the summer, we'll be taking on a series of small-group hikes, led by our resident mountain leader-trainee, through some of the most picturesque areas of the South and South East of the country. If you've never gone hiking before and want to give it a try with some likeminded people in a small group, this is your chance!\n We'll be releasing spaces for each hike around 2-3 weeks in advance, and we're able to reimburse attendees £10 each to help with the cost of train tickets!\n 🥾 Our Next Hike 🥾\n For August, we've got two hikes on the cards!\n 🗓  Sunday 17th August: Chiltern Ridgeway Loop, a 12 mile section hike of the Ridgeway that takes in some beautiful hills and gentle woodland, including a climb up to Coombe Hill, the highest point in the Chilterns. With some difficult ascents and descents, this is a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🗓  Saturday 23rd August - Rescheduled from July: Devil's Dyke, a 12 mile circular trail leading up to one of the finest views in South East England, with some steep ascents and descents, alongside stiles, fences, and farmland to walk through. We’ll be taking some of the ascents slowly, but overall, it’s a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🚆 How It Works 🚆\nOnce you sign up, we'll send you the details or where we'll meet, what time, and what to bring with you. We'll also send you information on exactly which train ticket/s to purchase, so that we're able to travel together. After the hike, we'll re-imburse everyone at least £10 against the cost of their journey. However, it is up to you to purchase the correct train ticket in advance.\n 🌿 Upcoming Hikes 🌿:\n 17th August: Chilterns Ridgeway\n23rd August: Devil's Dyke\n6th September: Devil's Punchbowl\n12th - 14th September: TBC \n 🌟 Wanna take a walk on the wild side? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: The walks include considerable gradients with some steep ascents and descents, over marked and clear but at times, unpaved paths. There are some stiles and gates, and parts of the walk may be muddy. Toilets are usually available at cafes and pubs along the way, but these facilities may not be accessible or gender-neutral. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n  We like to keep the events free so they are easily accessible to our communities! If you want to donate please use this link.\n Spaces at our events are limited and there is a cost implication for all the events we produce or take you along to. Therefore, it is very important and appreciated if you let us know when you can no longer attend an event so we can offer your spot to someone else.\n  Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event.\n  By signing up to this event, you accept being added to The Love Tank's newsletter. You can opt out at anytime.",
+  "image": "https://cdn.outsavvy.com/events/5ba1b659-ae78-4709-ba25-faa24336a945.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/27939/queer-hiking-group",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.714445",
+  "generes": [
+  
+  ]
+},
+{
+  "id": 1362560987,
+  "name": "Queer Foraging",
+  "venue": "Hackney Marshes",
+  "address": "Hackney Marshes,  London,  E10 5SG",
+  "time": "10:30-12:30",
+  "date": "Aug 24",
+  "price": "Waiting List",
+  "type": "workshop",
+  "tags": [
+      "foraging",
+      "queer",
+      "social"
+  ],
+  "description": "For Queer Migrants And Queer People Of Colour\n\n🗓 Dates: 6th July, 24th August, 21st September, 12th October\n🕒 Time: 10.30 am to 12.30 pm \n🎟️ YOU NEED A TICKET TO ATTEND\n Summer is here! And it's time to get back outside…\n\nCome on a ramble through east London’s green spaces with artist Maymana Arefin on a spring herb and plant storytelling walk. As we stroll together, we’ll learn about the abundance of plants around us, their folkloric traditions and histories of healing. With a relaxed pace, we’ll take time to connect with our senses, observing and appreciating the natural world. To conclude, Maymana will offer a soothing herbal tea, inviting us to ground and imagine the possibilities that the upcoming season holds.\n\nYou just need to bring yourself, some sturdy shoes, a bottle of water! Please note, this walk will be focused on learning about herbs and education on foraging skills, rather than collecting on the day.\n 🌿 Upcoming Dates & Locations 🌿:\n Sunday 24th August - Hackney Marshes (full details send to ticket holders)\nSunday 21st September - (full details send to ticket holders)\nSunday 12th October - (full details send to ticket holders)\n We'll be releasing tickets for each session around a fortnight before each date!\n 🌟 Want to pick up something wild? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n PLEASE NOTE: This walk will be focused on learning about herbs and education on foraging skills, rather than collecting on the day\n ♿️ Accessibility: The walks will be at a relaxed pace, and with relatively shallow gradients. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to MAUREEN's newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/a29bf8d0-81ba-43f4-b5bd-99ac2bd00290.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/25539/queer-foraging",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.714513",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 931212688,
+  "name": "Queer Book Club",
+  "venue": "The Common Press Bookshop",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:30-21:00",
+  "date": "Sep 8",
+  "price": "Sold Out",
+  "type": "social",
+  "tags": [
+      "social",
+      "book club"
+  ],
+  "description": "📅 Date: 8th September, 13th October, 10th November, 8th December, 12th January, 9th February\n🕡 Time: 19:30 - 21:00\n📍 Location: Common Press, 118 Bethnal Grn Rd, London E2 6DG \n The Love Tank's official Book Club is back, bigger, and in a brand new venue! Join us for our monthly meetings at the Common Press Bookshop for some in-depth readings and discussions on authors of African, Carribbean, SWANA, Asian, and Latine descent, led by esteemed writer and journalist Elias Jahshan.  \n 📕 September's Book 📕\n“Selamlik” by Khaled Alesmael\nAn emotional and unflinching story about Arab masculinity and homoeroticism. Furat, a Syrian in his early 20s, visits Sibki Park in Damascus, which serves as a gathering place for gay men from all over the city. He learns about the Hammams, secret meeting places for gays located throughout the old city. Inside these public baths, the air is thick with the scent of bay laurel soap, and naked men hide in the steam. Despite society, religion and regime disapproval, Furat finds the love he seeks just before being forced to flee as his world changes. \n How it works: \n Once you sign up, we ask you to get yourself a copy of this month's book, and to have as much of a read through it as you can ahead of the group meeting. It's up to you if you'd like to get a paper copy, an e-book, or an audiobook (if available). \n\nPlease let us know if you need help in covering the cost of a book - we do not want this to be a barrier to being involved!\n Come as you are and join us for an enriching literary experience filled with warmth, inclusivity, and celebration of queer narratives. Reserve your free ticket now! 🌈🎬\n Upcoming Dates\n8th September\n13th October\n10th November\n8th December\n12th January\n9th February\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\n Accessibility Information: \n🏠 Accessible Venue: The event takes place at the Common Press bookshop, which is wheelchair accessible and has an accessible toilet onsite. \nAbout our FREE events\n We like to keep the events free so they are easily accessible to our communities! If you want to donate please use this link. \nSpaces at our events are limited, and there is a cost implication for every event we produce or take you along to. To ensure fair access, if you can no longer attend, please let us know so we can offer your spot to someone on the waiting list. Repeated no-shows without prior cancellation may result in being unable to attend future events. \nTo ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \nAlongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \nBy signing up to this event, you accept being added to MAUREEN's newsletter. You can opt out at anytime. ",
+  "image": "https://cdn.outsavvy.com/events/2cef1775-ab9d-49d8-90d4-f2d5c21aa09f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/26962/queer-book-club",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.714580",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 1813531518,
+  "name": "Queer Board Game Group",
+  "venue": "Retro Bar",
+  "address": "2 George Court,  London,  WC2N 6HH",
+  "time": "19:00 to 21:00",
+  "date": "Sep 15",
+  "price": "£10 to £15",
+  "type": "social",
+  "tags": [
+      "social",
+      "lgbtq+",
+      "drinks",
+      "board games"
+  ],
+  "description": "Are you queer and do you love playing board games? \nSappho runs a monthly social event for playing board games, open to LGBTQIA+ women, trans and non-binary people. \nWe have multiple tables set up with games, ranging from quick and easy games to learn for newbies, to medium-length strategy board games. If you've got a game you'd love to bring and teach others to play, please bring it too, as we will have some spare tables for wildcard games on the night. \nThis will be a really friendly environment where we can enjoy playing games with other queers who love games as much as us! Learn something new, or put a new strategy to the test, and make some new queer friends in the process!\nDates: \nMonday 18 August \nMonday 15 September\nMonday 13 October\nTime: 7-9pm\nLocation: Retro Bar, 2 George Court, Westminster, WC2N 6HH (3 minutes walk from Charring Cross underground station)\nCost: £15 standard, £10 concession. Booking in advance is essential as we have venue caps. \nAccessibility: The venue is not step-free, please contact us for access requirements.\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQIA+ women, trans and non-binary people to our events",
+  "image": "https://cdn.outsavvy.com/events/20083d67-7231-40bb-8931-80eb06c2d074.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/26758/queer-board-game-group",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.714987",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 4116583227,
+  "name": "Queer Stitch and Sip: Scrap Textile Collage Workshop",
+  "venue": "Retro Bar",
+  "address": "2 George Court,  London,  WC2N 6HH",
+  "time": "19:00-20:30",
+  "date": "Sep 29",
+  "price": "£10 to £20",
+  "type": "workshop",
+  "tags": [
+      "social",
+      "lgbtq+",
+      "workshop",
+      "art",
+      "drinks"
+  ],
+  "description": "A beginner's introduction to the world of abstract and experimental collage with textiles.\nThis workshop begins with an overview of basic embroidery stitches followed by collage exploration using scrap and discarded textile materials. Freely explore a material or idea using intuition and creative stitching techniques in an inclusive and encouraging environment. Develop the confidence to engage with textiles in a therapeutic way, and meet more like minded creative queer people in the process.\nThis workshop is suitable for anyone! Both beginners and those with experience are welcome.\nYou're welcome to sip on a beverage while you stitch :) \nWhat will be provided?\nEmbroidery hoop, embroidery floss, scissors, needles, scrap fabrics, and one piece of calico fabric cut per attendee. Attendees will take home the textile piece they create. Reuse-able materials such as embroidery hoops, scissors, and needles are for workshop use only.\nShould I bring anything?\nIf you have any scrap or craft materials (excess yarn, old clothes, string, scrap paper) that you would like to bring and work with, you are welcome to do so! But it is not necessary, and all attendees will have everything they need provided at the workshop.\n Facilitated by Cristina Rago\nDate:  Monday 29 September 2025\nTime: 7-9:30pm\nLocation: Retro Bar (Upstairs), 2 George Court, Westminster, Greater London, WC2N 6HH\nAccessibility: The upstairs venue and toilets are only accessed via steps\nCost: £10-20\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQ+ women, trans and non-binary people to our events.\nYour Facilitator\nCristina Rago (they/them) is a non-binary Filipino American multidisciplinary artist. Their artistic practice spans painting, textiles, and film to explore identity integration, healing, and reparation from a queer perspective. Their textile pieces often utilise domestic materials including discarded clothes, cheesecloth, and doilies that are reworked through processes such as dyeing, destruction and mending. This cyclical process becomes a holistic act of self-reckoning, and an integration of past selves and thought patterns with the present. Cristina works out of their studio in Wandsworth, London.\nhttps://www.cristinarago.com\nhttps://www.instagram.com/cristinaragoart",
+  "image": "https://cdn.outsavvy.com/events/09e62d22-2bf9-4fc3-af73-7fad1c9160d6.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29310/queer-stitch-and-sip-scrap-textile-collage-workshop",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715128",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 1281622900,
+  "name": "Liv Wynters Birthday Karaoke!",
+  "venue": "Piehouse Co-Op",
+  "address": "213-214 Edward Place,  London,  SE8 5HD",
+  "time": "19:00-12:00",
+  "date": "Sep 11",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "queer",
+      "karaoke",
+      "social"
+  ],
+  "description": "ITS MY BIRTHDAY! COME TO THE PIEHOUSE FOR KAREOKE! AND THEN WE WILL ALMOST DEFINITELY GO TO THE INN! This is just to keep an eye on capacity the event is free. ",
+  "image": "https://cdn.outsavvy.com/events/2ab2af50-aa2c-4849-9473-9606112a4bad.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29444/liv-wynters-birthday-karaoke",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715477",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 77950888,
+  "name": "Lez Get Writing - September",
+  "venue": "The Mill (Community Centre)",
+  "address": "7-11 Coppermill Lane,  London,  E17 7HA",
+  "time": "19:00-21:00",
+  "date": "Sep 16",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+      "social",
+      "writing",
+      "lesbian",
+      "workshop"
+  ],
+  "description": "Join us for a laid back, supportive, sapphic creative writing workshop. \n\nWe’ll do some facilitated writing exercises, using different lesbian and queer prompts each month. \nEach session will be a mix of quiet time to write and chances to reflect and connect, with a tea break and snacks. \n\nThere will be no pressure to read aloud, but some opportunities to share if you would like to.\n\nYou can come along to any session for the first time. Whether you want to write fiction, poetry, drama, or have no idea, everyone is welcome. \n\nFeedback from previous sessions:\n“Emma always brings inventive ways of getting us to flex our creative muscles and get writing.”\n“I liked how unjudged I felt during this session - everyone is so welcoming, open, and supportive of each other.”\n\"Thank you so much – this has been the best pay what you can activity I have ever attended.\"\n\nThis workshop  welcomes lesbians, queer and bisexual women, trans and non-binary people.\n\nThe Mill is accessible with a flat entrance, wheelchair-friendly doors, and a single-level ground floor. \nThe front door is heavy and not power-assisted - assistance is available via a doorbell. \nNo induction loop system is available. \nLighting is flicker-free.\nAssistance dogs are welcome.\nToilet facilities are gender neutral, wheelchair and baby-friendly accessible.\nSee full access details here: https://themille17.org/whats-on/contact-us-accessibility-information/ ",
+  "image": "https://cdn.outsavvy.com/events/c8520cac-bd53-41bb-89c3-c15441e08ca0.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29379/lez-get-writing-september",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715553",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 3564226852,
+  "name": "The Platform",
+  "venue": "The Karaoke Hole",
+  "address": "95 Kingsland High Street,  London,  E8 2PB",
+  "time": "20:00-21:00",
+  "date": "Nov 20",
+  "price": "£10 to £12",
+  "type": "social",
+  "tags": [
+      "queer",
+      "performance",
+      "drinks",
+   
+  ],
+  "description": "The Platform started in the basement of Off Broadway bar in Hackney, in 2008. It is a performance-focused event, surreal, abstract, absurd, radical, political, humorous and non-sensical. Heavily influenced and inspired by DaDa and The Surrealists and Situationist International. It is however, the 21st century and the practice presented here will refelct that, or not. \nIt continued in other places and spaces over the years and now it is back in another basement in Hackney, form Ray's bar (as it was once called) to now Karaoke Hole. \n Performance (live or in film)\nDJ (specific soundscapes)\nCocktails (bespoke)\nDiscussion\nLimited Edition merch\n ",
+  "image": "https://cdn.outsavvy.com/events/5b78f8a5-60d9-4775-9617-cb2402150ed1.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29521/the-platform",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+      "experimental"
+  ],
+  "age": "18+"
+},
+
+
 ];
