@@ -3106,12 +3106,11 @@ const events = [
   "price": "Free",
   "type": "social",
   "tags": [
-      "dancing",
-      "high energy",
-      "queer",
-      "lesbian",
-      "bisexual",
-      "art"
+    "hiking",
+    "queer",
+    "relaxing",
+    "social"
+   
   ],
   "description": "For Queer Migrants And Queer People Of Colour\nSummer is here. Boots are on. Back by popular demand for 2025, it's our Hiking Group for QPoC and queer migrants! And to kick off the season, we're taking on some old favourites alongside some brand new trails! \n Throughout the summer, we'll be taking on a series of small-group hikes, led by our resident mountain leader-trainee, through some of the most picturesque areas of the South and South East of the country. If you've never gone hiking before and want to give it a try with some likeminded people in a small group, this is your chance!\n We'll be releasing spaces for each hike around 2-3 weeks in advance, and we're able to reimburse attendees £10 each to help with the cost of train tickets!\n 🥾 Our Next Hike 🥾\n For August, we've got two hikes on the cards!\n 🗓  Sunday 17th August: Chiltern Ridgeway Loop, a 12 mile section hike of the Ridgeway that takes in some beautiful hills and gentle woodland, including a climb up to Coombe Hill, the highest point in the Chilterns. With some difficult ascents and descents, this is a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🗓  Saturday 23rd August - Rescheduled from July: Devil's Dyke, a 12 mile circular trail leading up to one of the finest views in South East England, with some steep ascents and descents, alongside stiles, fences, and farmland to walk through. We’ll be taking some of the ascents slowly, but overall, it’s a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🚆 How It Works 🚆\nOnce you sign up, we'll send you the details or where we'll meet, what time, and what to bring with you. We'll also send you information on exactly which train ticket/s to purchase, so that we're able to travel together. After the hike, we'll re-imburse everyone at least £10 against the cost of their journey. However, it is up to you to purchase the correct train ticket in advance.\n 🌿 Upcoming Hikes 🌿:\n 17th August: Chilterns Ridgeway\n23rd August: Devil's Dyke\n6th September: Devil's Punchbowl\n12th - 14th September: TBC \n 🌟 Wanna take a walk on the wild side? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: The walks include considerable gradients with some steep ascents and descents, over marked and clear but at times, unpaved paths. There are some stiles and gates, and parts of the walk may be muddy. Toilets are usually available at cafes and pubs along the way, but these facilities may not be accessible or gender-neutral. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n  We like to keep the events free so they are easily accessible to our communities! If you want to donate please use this link.\n Spaces at our events are limited and there is a cost implication for all the events we produce or take you along to. Therefore, it is very important and appreciated if you let us know when you can no longer attend an event so we can offer your spot to someone else.\n  Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event.\n  By signing up to this event, you accept being added to The Love Tank's newsletter. You can opt out at anytime.",
   "image": "https://cdn.outsavvy.com/events/5ba1b659-ae78-4709-ba25-faa24336a945.jpg",
@@ -3315,6 +3314,218 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 165,
+  "name": "STRUT",
+  "venue": "Coven",
+  "address": "Above FABWICK,  Unit 4 Queen's Yard,  London,  E9 5EN ",
+  "time": "19:15-21:00",
+  "date": "Sep 4",
+  "price": "£8",
+  "type": "social",
+  "tags": [
+      "queer",
+      "line dancing",
+      "beginner friendly",
+   
+  ],
+  "description": "Been wanting to practise the main line dances we’ve learnt at STRUT so far? We gotchu! 🤝 \n\nThese are lesson-focused sessions — less people, no drinking, just dancing! 👯 \n\nIf we have time we’ll also go over the other dances we’ve learnt (Chicago Stomp (Texas Hold ‘Em), Bar Song, Outlaw (Abracadabra), Boots On The Ground) 🤠 \n\nThe first two sessions will get you up to speed before the next main STRUT night in mid-September & will then continue with one session the week after each STRUT 📅",
+  "image": "https://cdn.outsavvy.com/events/4d417959-a3b8-4bf7-b71c-b4591db925ba.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29577/strut-studio-lesson-session?fbclid=PAZXh0bgNhZW0CMTEAAadiMhTyQNVRaRPl8vRSMozGF-ikwRFfpaD4gp-Ymb9uBaKF0I-9RVDMOYEgcQ_aem_VlfUZuOLFjpz5MqUxk0E6Q",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 166,
+  "name": "STRUT",
+  "venue": "Coven",
+  "address": "Above FABWICK,  Unit 4 Queen's Yard,  London,  E9 5EN ",
+  "time": "19:15-21:00",
+  "date": "Sep 11",
+  "price": "£8",
+  "type": "social",
+  "tags": [
+      "queer",
+      "line dancing",
+      "beginner friendly",
+   
+  ],
+  "description": "Been wanting to practise the main line dances we’ve learnt at STRUT so far? We gotchu! 🤝 \n\nThese are lesson-focused sessions — less people, no drinking, just dancing! 👯 \n\nIf we have time we’ll also go over the other dances we’ve learnt (Chicago Stomp (Texas Hold ‘Em), Bar Song, Outlaw (Abracadabra), Boots On The Ground) 🤠 \n\nThe first two sessions will get you up to speed before the next main STRUT night in mid-September & will then continue with one session the week after each STRUT 📅",
+  "image": "https://cdn.outsavvy.com/events/4d417959-a3b8-4bf7-b71c-b4591db925ba.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29577/strut-studio-lesson-session?fbclid=PAZXh0bgNhZW0CMTEAAadiMhTyQNVRaRPl8vRSMozGF-ikwRFfpaD4gp-Ymb9uBaKF0I-9RVDMOYEgcQ_aem_VlfUZuOLFjpz5MqUxk0E6Q",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 167,
+  "name": "Sappho’s Circle Book Club",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "18:30-21:00",
+  "date": "Sep 3",
+  "price": "Pay What You Can £5",
+  "type": "social",
+  "tags": [
+      "book club",
+      "social",
+      "chat",
+      "lesbian",
+      "nb",
+      "trans"
+   
+  ],
+  "description": "Join us for our Sapphic book club where every month we join together and discuss sapphic literature!  \n\n📚This month’s book: The Safekeep by Yael Van Der Wouden \n📍TBD (either La Camionera or Post Bar)  \n\n⏱️Time and date: 3rd September @ 6:30pm  \n\nAn evening of wine and amazing conversation as we dissect The Safekeep amongst the loveliest of company 💕 \n\nExpect cake and some goodies!  \n\nIf you're not in the WhatsApp group chat, message me at: 07852695922 \n\nSappho's circle is a super fun community where queer women and non binary people are all welcome!",
+  "image": "https://cdn.outsavvy.com/events/d47aac65-ea72-4581-bc2e-4b3e39a84335.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29578/sapphos-circle-book-club",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 167,
+  "name": "Culture Workers Strike",
+  "venue": "Royal Opera House",
+  "address": "Royal Opera House WC2E",
+  "time": "12:00-17:00",
+  "date": "Sep 14",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "protest",
+      "palestine",
+      "allies",
+      "strike",
+      "lgbtq+",
+
+  ],
+  "description": "📅 Sun 14 Sep \n🕛 12:00pm \n📍 Royal Opera House WC2E \n\nculture workers march from the Royal Opera House to Downing Street. \n\nFull route to be announced. \n\nEnd cultural complicity in genocide now.",
+  "image": "images/culture-workers-strike.jpg",
+  "website_link": "https://www.instagram.com/cwag_uk/?hl=en&g=5",
+  "ticket_link": "https://www.outsavvy.com/event/29578/sapphos-circle-book-club",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": ""
+},
+{
+  "id": 168,
+  "name": "slÉire",
+  "venue": "The Glove That Fits",
+  "address": "179 Morning Lane, Hackney, E96LH, United Kingdom",
+  "time": "19:00-00:00",
+  "date": "Aug 28",
+  "price": "£10",
+  "type": "party",
+  "tags": [
+      "party",
+      "high-energy",
+      "tech house",
+      "ghetto tech"
+
+  ],
+  "description": "Making her London decks debut, MISS JESSICA is opening our next party. The Galway-born, London-based diva promises to bring high energy to the dance floor. Both infectious and iconic, her genre bending sound is inspired by the queer rave scene in Berlin and London  \n\nTORAIGH will then take the reigns bringing a mixture of techno, trance, acid, and deep house. She has been emerging through the queer scene in London over the last year or so and has quickly racked up experience at some of her favourite queer parties including Joyride at Corsica Studios, Body Movements Festival, Queer Edge and Honcho. She also has a monthly residency at both Aaja Radio and Voices Radio \n\nIn May, Toraigh released her debut single, The Morrison, a heavy hitting techno track with sampled Irish instruments. She also runs an intimate queer club night called Club Rua and co-runs a lesbian speed dating event; Sapphic Speed Dating. \n\nClosing out the night we have the return of COINÍN BEAG. Back bringing her mixture of hard groove, garage and ghetto tech, be prepared to go hard. This London-based, Dublin-bred talent is a master mixer and promises to bring you the right level of pump.",
+  "image": "images/sleire.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2219656?fbclid=PAZXh0bgNhZW0CMTEAAacJzcXAqjEReE-N_0y45BuQk12NmIqXuMN4hAuvpw-OUunOPBCZzfisr7PipA_aem_msmBSxg5VxHBW5nplHXINg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 169,
+  "name": "Femmme Fraiche #057",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "21:00-04:00",
+  "date": "Sep 13",
+  "price": "£5 to £8",
+  "type": "party",
+  "tags": [
+      "party",
+      "high-energy",
+      "FLINTA",
+      "dub techno",
+      "ghetto tech",
+      "techno",
+      "jackin house",
+      "bass"
+
+  ],
+  "description": "Summer has been full of festivals, takeovers and sexy times but we’re back at the Mothership Dalston Superstore On Sat 13th Sep for a sen-of-summer sweaty affair. A super solid line-up of absolute queer scene Icons.  \n\nWe have a QUEEN Headlining the Basement, someone we’ve been trying to book for a while, and finally she’s gonna be shakin up the lazer-pit, all the way from Chicago we have Ariel Zetina in the house. A producer, DJ and writer, considered mostly as a Technno DJ, but who takes clear inspiration from Chicago House, Belizean genres punta and brukdown, and the queer club scene worldwide, Her ruthless, cross genre DJs sets have been heard worldwide. She is a resident at the legendary house club Smartbar, and on infamous Discwoman’s roster, expect twists, turns and all the feels for her closing set with us. Joining her for warm-up duties is Bristol based LEXX, daddy of mid-week Bristol dyke party Soft Butch a DJ with a semantics k!nk. and of course, sandwiched between the two, our beloved resident Michelle Manetti closing out the with hi-NRG fuelled house. \n\nUp in the bar we see the return of FF fave Bad Pal Lili on closing duties, alongside a debut from Gal Pals head pal DJ XZAN an open format DJ, known for their hyperactive, genre-defying sets - expect bootlegs, mashups and all your party faves seamlessly blended for your listening pleasure. On warm up we have a solo set from one half of our resident duo of Fraicheness Darren. (minus Linzi) Expect twisted pop, trash-tastic faves, and Cunty Slut-Pop bangers.  \n\nFor gogo duties, we have Femmme Fraiche regular and fave superbabe Danni Spooner and Party-Starter Than The Freak with, ass-shakin’ sexy, stupendous bar-top antics. ",
+  "image": "https://cdn.outsavvy.com/events/52f665d6-3454-4c9d-8715-350f5d31933a.jpg",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2219656?fbclid=PAZXh0bgNhZW0CMTEAAacJzcXAqjEReE-N_0y45BuQk12NmIqXuMN4hAuvpw-OUunOPBCZzfisr7PipA_aem_msmBSxg5VxHBW5nplHXINg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 170,
+  "name": "Queer House Party does Brighton",
+  "venue": "Concorde 2",
+  "address": "286A Madeira Drive,  Brighton and Hove,  BN2 1EN",
+  "time": "23:00-04:00",
+  "date": "Nov 15",
+  "price": "£6 to £16",
+  "type": "party",
+  "tags": [
+      "party",
+      "lgbtqia+",
+      "dress to sweat",
+      "speed garage",
+      "hard groove",
+      "90's house"
+
+
+  ],
+  "description": "Summer has been full of festivals, takeovers and sexy times but we’re back at the Mothership Dalston Superstore On Sat 13th Sep for a sen-of-summer sweaty affair. A super solid line-up of absolute queer scene Icons.  \n\nWe have a QUEEN Headlining the Basement, someone we’ve been trying to book for a while, and finally she’s gonna be shakin up the lazer-pit, all the way from Chicago we have Ariel Zetina in the house. A producer, DJ and writer, considered mostly as a Technno DJ, but who takes clear inspiration from Chicago House, Belizean genres punta and brukdown, and the queer club scene worldwide, Her ruthless, cross genre DJs sets have been heard worldwide. She is a resident at the legendary house club Smartbar, and on infamous Discwoman’s roster, expect twists, turns and all the feels for her closing set with us. Joining her for warm-up duties is Bristol based LEXX, daddy of mid-week Bristol dyke party Soft Butch a DJ with a semantics k!nk. and of course, sandwiched between the two, our beloved resident Michelle Manetti closing out the with hi-NRG fuelled house. \n\nUp in the bar we see the return of FF fave Bad Pal Lili on closing duties, alongside a debut from Gal Pals head pal DJ XZAN an open format DJ, known for their hyperactive, genre-defying sets - expect bootlegs, mashups and all your party faves seamlessly blended for your listening pleasure. On warm up we have a solo set from one half of our resident duo of Fraicheness Darren. (minus Linzi) Expect twisted pop, trash-tastic faves, and Cunty Slut-Pop bangers.  \n\nFor gogo duties, we have Femmme Fraiche regular and fave superbabe Danni Spooner and Party-Starter Than The Freak with, ass-shakin’ sexy, stupendous bar-top antics. ",
+  "image": "https://cdn.outsavvy.com/events/87c164a4-a654-41b9-98e4-409dc247f9ff.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29613/queer-house-party-does-brighton",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+
 
 
 ];
