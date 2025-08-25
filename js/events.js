@@ -3525,6 +3525,324 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 171,
+  "name": "GO-GO WORKSHOP",
+  "venue": "COVEN",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "19:00-23:00",
+  "date": "Aug 28",
+  "price": "£8",
+  "type": "workshop",
+  "tags": [
+      "workshop",
+      "begginer",
+      "class",
+      "queer"
+
+
+  ],
+  "description": "Summon your power. Shake your spirit loose for the second edition of our Go-Go Dance Workshop at COVEN, East London’s newest queer space. \n\nJoin Tomique Gibson - dancer at The Box, former elite gymnast, and powerhouse performer with the queer POC collective Pussy Palace—for a workshop that blends athletic precision with raw, liberated movement. \n\nThis is more than a class: it’s a ritual of embodiment. You’ll move through the building blocks of performance—strength, flow, poise, play—while tapping into body confidence, instinct, and the joy of taking up space. \n\nNo mirrors, no judgement—just sweat, spirit, and unapologetic expression. \n\nAll levels, all bodies, all genders welcome. \n\nDress bold. Bring your fire. \n\nClass begins at 8pm. Stay after to connect, socialise, and keep the energy alive.",
+  "image": "https://cdn.outsavvy.com/events/b2d51ae0-14e3-423c-b4c2-a9583e015565.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29615/go-go-workshop-with-tomique-gibson",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-21T14:44:54.715629",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+
+
+
+{
+  "id": 3914278860,
+  "name": "Common Press After Hours: pointblank DJs Takeover",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "21:00-30:00",
+  "date": "Aug 29",
+  "price": "Pay what you can",
+  "type": "party",
+  "tags": [
+      "dancing",
+      "social",
+      "music",
+      "queer",
+    
+  ],
+  "description": "Common Press After Hours: pointblank DJs Takeover \nFriday 29th August | 19:00 – Midnight\nCommon Press After Hours returns this summer with a pointblank DJs Takeover, keeping the sunny vibes alive well into the night. Join us for an evening featuring talented DJs from pointblank: tasha.mp4, PureJoy, Hyperlez, and DJ Leeloo.\nSip on drinks as you browse our carefully curated selection of books and locally crafted queer merch, all while enjoying an exclusive line-up from pointblank’s LGBTQIA+ student community.\n About pointblank\n\npointblank is a global network of music production schools founded in London, offering courses in electronic music production, sound engineering, DJing, singing, songwriting, radio broadcasting, and music business. Voted Best Music or Specialist Institution by WhatUni in 2023 and awarded TEF Gold status the same year, PointBlank is a recognised leader in music education worldwide.\nThis event celebrates the trailblazing force of women and queer people in music production, creating a space for pointblank’s young queer talent to shine. Whether you’re a current music production student, thinking about starting your own musical journey, or simply a fan of electronic music by queer artists, this night is made for you.\nExpect a night of connection, creativity, and community grab a drink, meet fellow music lovers, and dance to a soundtrack curated by some of pointblank’s finest emerging DJs.\nDJs\ntasha.mp4\ntasha.mp4 (she/her) is a DJ / producer / promoter / radio Host based in London. She has DJ’d in top London venues such as fabric, Ministry of Sound, EGG, XOYO & more, as well as all over the UK.\nShe has been booked for festivals such as Reading & Leeds, Boardmasters & more. She DJs a range of electronic music from house to techno, garage, and drum and bass. She also has a residency at Swiftogeddon, playing to 1000+ weekly.\n Pure Joy\nPureJoy (she/her) is a Chilean-Italian DJ based in London. Her sound is warm, soulful, and a little spicy - blending the house beat, the sparkle of disco, jazzy twists, and Latin rhythms that keep the dancefloor buzzing. For her, it’s all about that shared energy, the smiles, and those moments when the music just clicks and everyone’s moving together.\n Hyperlez\nHyperlez (they/them) is a DJ and producer who brings music that fuses creativity with fresh techniques and unapologetically queer energy. They have played EGG, various boat parties, as well as on the radio and in bars.\n DJ Leeloo \n  DJ Leeloo (they/them) - a hyper energetic DJ with a passion for music and creating a unique experience at every individual show. Combining Bass House and Garage, this technical DJ not only provides the audience with an energy filled set but also pays respect to the original pioneers of DJing.\n Support your favorite local bookstore and community space, every purchase helps keep Common Press thriving.\n ",
+  "image": "https://cdn.outsavvy.com/events/df98d3f7-b784-4e70-91f4-596dfcbcfecd.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29381/common-press-after-hours-pointblank-djs-takeover",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.878537",
+  "generes": [
+      "disco",
+      "techno",
+      "house",
+      "latin",
+      "jazz",
+      "uk bass",
+      "electronic"
+  ]
+},
+{
+  "id": 3343593037,
+  "name": "Queer Herbal Medicine: Blind Tea Tasting",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Aug 31",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+      "queer",
+      "educational"
+  ],
+  "description": "Herbs and queer people have loved and supported each other throughout history, and this legacy carries on today. Join us for an evening of exploring medicinal plants through talks and group blind tea tasting.\n\nWe'll be chatting about:\nThe links between herbal medicine and queerness in literature and historical records.\nThe queerness of botany and interacting with nature as self-exploration.\nTrans health and herbal medicine in current times.\nThen, for the main event, we'll meet a plant by drinking its tea blindly. Everyone will be guided to explore the effects the herb has on them, including through writing and drawing. We'll then share these experiences together to see how the plant works on our bodies and minds, and how it compares to traditional uses and current biomedical understanding.\n\nWe'll finish with an informal Q&A welcoming any curiosity on herbs, health and queerness!\n Host\nOdhran (they/them) is a trans medical herbalist living between London and France. Their practice involves the practical application of herbalism within local communities, researching herbal trans health, and the curiosity of seeing the world from non-human perspectives. \nThey encourage the exploration of individuals’ subjective perspectives by involving all the senses, and by playing with the stories we learn and tell ourselves to make sense of the world. \n\n @mordicaherbs",
+  "image": "https://cdn.outsavvy.com/events/3710f5a3-ce5a-402f-a765-5cb37c6b0a43.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29033/queer-herbal-medicine-blind-tea-tasting",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.878748",
+  "generes": [
+      "nan"
+  ]
+},
+{
+  "id": 2800635636,
+  "name": "Soft Resistance: Queer Stories of Love & Defiance",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Sep 2",
+  "price": "£15 to £25",
+  "type": "social",
+  "tags": [
+      "conversation",
+      "storytelling",
+      "queer",
+      "literary"
+  ],
+  "description": "Join us for an evening of powerful storytelling, queer joy, and intimate conversation as authors Chloe Michelle Howarth (Sunburn) and Dylin Hardcastle (A Language of Limbs) come together for a special event hosted by acclaimed writer and performer Travis Alabanza.\nIn A Language of Limbs, Hardcastle explores love and how it’s policed, friendship and how it transcends, and hilarity in the face of heartbreak — a vibrant celebration of queer life that demands we claim our futures for ourselves.\nHowarth’s Sunburn is a richly evocative debut set in early 1990s small-town Ireland, centring on the forbidden relationship between Lucy and Susannah. As the prejudices of the time threaten to close in, the novel tenderly captures the pain and beauty of a double life lived in secret.\nExpect readings, reflections, and a moving conversation on writing queer identity, defiance, and desire.\nDylin Hardcastle (they/them) is an award-winning author, artist, screenwriter and former Provost’s Scholar at the University of Oxford. They are the author of four critically acclaimed books. Their work has been translated into eight languages. Dylin is the co-writer and co-director of Cloudy River. Their most recent novel, A Language of Limbs, has been optioned by Sony Pictures and is in development.\nChloe Michelle Howarth was born in July 1996. She grew up in the West Cork countryside, which has served as an inspiration for her writing. She attended university at IADT in Dun Laoghaire, Dublin, where she studied English, Media and Cultural Studies. Chloe currently lives in Brighton. Her debut novel, Sunburn, was shortlisted for the 2024 Polari First Book Prize, the 2024 Book of the Year: Discover Award at the British Book Awards and the 2023 Nero Book Award for Debut Fiction and longlisted for the 2024 Diverse Book Awards.",
+  "image": "https://cdn.outsavvy.com/events/8d81273e-6d2c-427f-8544-27ccac89dc1b.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28918/soft-resistance-queer-stories-of-love-defiance",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.879267",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 2363973101,
+  "name": "In Signo Stellae: A Community Tarot Initiative",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00 - 21:00",
+  "date": "Sep 30",
+  "price": "FREE to £40",
+  "type": "social",
+  "tags": [
+      "performance",
+      "witchcraft",
+      "tarot",
+      "queer"
+  ],
+  "description": "NO PREVIOUS TAROT KNOWLEDGE/EXPERIENCE REQUIRED. \nIn Signo Stellae we want to engage with the tarot as first-timers, as well as those wanting to deepen their existing practice. We aim to create a supportive space for shared learning and discussion, we will broach themes in the tarot that can be universally reflected on, supporting individuals in building a tarot practice that feels congruent to them. Our aim is to enable a community in which to share their diverse perspectives in a supportive space. \nWe will begin sessions by mutually setting expectations to create a safe, non-hierarchical, and supportive space, we will then lead discussions around one tarot card per session - diving into the many ways in which we can engage with those themes according to our diverse backgrounds and cosmologies. \n Overall, our aims are:\nTo create and develop a network of readers pushing the boundaries of current perspectives on Tarot, \nTo engage in non-hierarchical discussions of spiritual and magickal practices in an inclusive and welcoming environment.\nTo investigate themes of the Tarot as a reflection of wider political and personal narratives. \nTo engage in non-hierarchical discussions of spiritual and magickal practices in an inclusive and welcoming environment. \nTo collectively learn and engage with the history of the Tarot, and to creatively reflect on how these histories have developed in relation to global structures. \nWho are we? \nJordana Belaiche is a British-Algerian writer, performer, occultist and Londoner. Her work spans a broad interest in Western and non-Western spiritualities, with a current focus on examining early-mid C20th British occultism through a Queer, feminist, decolonial lens. Jordana has been reading tarot for 9 years, and first learned to read as part of Rebecca Beatie’s original U30 Young Urban Witch cohort at Treadwell’s. She co-founded Don’t Tell the Village Elders in 2021, a space for BIPOC practitioners and artists to wrestle practices from legacies of capitalism and colonialism and led new moon rituals on behalf of HeyPriestexx in the same year. She has utilised ritual and magick in performance, as well as work inspired by witchcraft and magickal practice in Blue Eyed Hag, inspired by the Algerian Sycorax at the Almeida Theatre in 2021, Abigail’s Adventures in Boston!, a Queer retelling of Arthur Miller’s The Cruicble at Theatre Deli in 2023 and in her latest work Triumph of Pan, about Queer occultist poet Victor Neuburg. \nEmma Tillfors is an Iranian-Swedish former academic now surviving the world of office work. Emma has been reading tarot for 9 years, and did a short stint as a paid tarot reader at various queer markets, with a residency at okspace. Emma’s former anthropological research was on the negotiation of generational trauma and queerness in Iranian fashion design, also exploring alternative transactions based in solidarity and shared values in the Iranian fashion industry. Emma is currently training as a psychotherapist alongside her day job, and wants to work towards rebuilding community spaces in which to share our complex and intersectional stories through the fluid language of the tarot. ",
+  "image": "https://cdn.outsavvy.com/events/d6c218c0-7b97-4fee-8461-e3aa0d49d787.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/24466/in-signo-stellae-a-community-tarot-initiative",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.879369",
+  "generes": [
+     
+  ]
+},
+
+{
+  "id": 3497266521,
+  "name": "Book Launch: Xander Beattie’s The President",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Sep 7",
+  "price": "Pay what you can",
+  "type": "social",
+  "tags": [
+      "literary",
+      "book launch",
+      "queer"
+  ],
+  "description": "We’re thrilled to welcome South African author Xander Beattie to London for the launch of his provocative political thriller The President on Saturday, 7 September, 7–9 PM. The evening will be hosted by Dr Jaco Barnard-Naudé, legal professor, author, and poet.\nThe sought-after artist edition of The President is nearly sold out, but guests will have the first chance to grab the brand-new A6 pocket hardback edition, beautifully printed by Pulp Paperworks in Johannesburg and published by PRONK.\nExpect an evening of coming together, conversation, and literary intrigue. There will be a short reading from Xander and a discussion plus Q & A with Jaco. Signed copies of the pocket edition will be available for purchase.\nProfits from The President will go to the Pride Shelter Trust in Cape Town,  Africa’s first formal haven offering short-term accommodation to LGBTQI+ members in crisis.\n About The President\nThe President is a spicy political thriller. When a salacious fictional story about the nation’s president is published, the ruling party and its supporters are enraged. As pressure grows for the story to be erased, its young author flees into hiding, carrying with him an explosive secret — and plans for revenge. \nDeftly plotted and gorgeously told, The President is a nail-biting exploration of bigoted backlash against provocative art. Set in South Africa in 2012, Xander Beattie’s novel is painfully relevant to our contemporary moment, where — in too many places around the world — powerful demagogues scapegoat the marginalised, imperil human rights and brutally suppress artistic expression.\n About Xander Beattie\nImpactful, Immersive And Exquisite Storytelling Meets Nuanced And Razor-Sharp Insights About South Africa’S Fraught Political And Cultural Milieux.\nXander Beattie is the fiction writing alter ego of Alexander Matthews who started out his media career in London as an assistant to MONOCLE’s editor-in-chief, Tyler Brûlé, and later served as the magazine’s Southern Africa correspondent for several years.\nRunning the gamut of politics, culture, the environment and travel, his other bylines include the BBC, Mail & Guardian and Business Day. Born in Cape Town (South Africa) in 1988, he has written widely for media, business and non-profits, though fiction is his first (and most enduring!) love.\nXander lives with his husband, two cats and hundreds of books in a remote cabin in Northern California. Subscribe to a swimming pool library, his newsletter, for occasional notes on swimming, reading, nature, and more.\n About Dr Jaco Barnard-Naudé.\nDr Jaco Barnard-Naudé (BCom(Law)(cum laude) LLB(summa cum laude)LLD(UP)MA(UCT)) is Professor of Jurisprudence and Co-Director of the Centre for Rhetoric Studies in the Department of Private Law. In the Faculty, Professor Barnard-Naudé currently serves as the Director of Research. He holds a B1-rating from the National Research Foundation (NRF) and is a past recipient of the UCT Fellows Award. In the United Kingdom, Prof Barnard-Naudé was the British Academy’s Newton Advanced Fellow in the Westminster Law & Theory Lab, School of Law at the University of Westminster between 2017 and 2020, and Honorary Research Fellow in the Birkbeck Institute for the Humanities, University of London in 2019.\n Event Information\nDoors open at 7 PM\nDiscussion plus Q&A from 7:10 PM - 8 PM\nSignings, networking, and social from 8 PM - 9 PM",
+  "image": "https://cdn.outsavvy.com/events/4307b007-ba02-4e93-a2cb-f457b600522e.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29446/book-launch-xander-beatties-the-president",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.879528",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 2102833236,
+  "name": "Queer Writer's Circle",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Sep 10",
+  "price": "Waiting List",
+  "type": "workshop",
+  "tags": [
+      "queer",
+      "workshop",
+      "writing club"
+  ],
+  "description": "The Common Press is proud to host a monthly Queer Writer's Circle! Just turn up with your laptop & creativity and enjoy a night of writing.\nThere is now a £3 fee for QWC. Check the instagram for the full information on why. If you cannot afford the tickets please message the organisers on instagram for a free spot :)\n     About This Event\n Join Us For An Evening Of Creative Writing At The Common Press! You Can Find Out More About The Queer Writer'S Circle On Their Instagram Page, Which Can Be Found Here.\nSpaces Limited, Arrive Early.\nUpcoming dates in 2025:\nWednesday 9 July 2025\nWednesday 6 August 2025 \nWednesday 10 September 2025 ",
+  "image": "https://cdn.outsavvy.com/events/9779f681-2987-4b72-8945-fb8eb8c2cef7.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/24862/queer-writers-circle",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.879612",
+  "generes": [
+      "nan"
+  ]
+},
+
+{
+  "id": 1991260721,
+  "name": "SPILLLL ZINE v3 LAUNCH PARTY",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Sep 13",
+  "price": "Pay what you can",
+  "type": "party",
+  "tags": [
+      "dancing",
+      "party",
+      "queer",
+      "asian",
+      "music",
+      "food"
+  ],
+  "description": "SPILLLL is a collective of 4 queer ESEA women creating zines and events, serving salads of feminism, queerness, food politics, and marginialised narratives. \n Celebrating the launch of the third zine in our series, SPILLLL is hosting a gathering, packed with artist talk, Instant noodles snacks across ESEA palettes, mini activity, ESEA DJs (featuring HER: Raindrogyny and Stella Z from @halfeastrecords!)\n\n Our zine series brings our shared recipes and topics sprawled from our chit-chats on the dining table:\nVol. 1: Feminist and queer histories, served with a potluck dinner\nVol. 2: Gender binaries and ESEA languages, served with dumplings\nVol. 3: BL/GL and women, served with instant noodles\n As part of ESEA heritage month, this event is made possible by generous support from the Peiwen Legacy Fund by Besea.n. .\n Join us as we make noise, share stories, eat, and celebrate in a packed night out at the Common Press Book Shop! \n Artists/performers Bio:\n  SPILLLL  @spillll.studio\nis a collective of ESEA (East / South-East Asian) queer women creatives who are figuring out how to bring a salad of non-Western heritage, feminism, queerness, food politics, and marginalised communal narratives to the table.\nMembers: Mika Tohmon / Panita Siriwongwan-ngarm / Nandal Seo / Hyeda \n   RAINDROGYNY (she/them) @raindrogyny\nBorn and raised in Taiwan. The name comes from the term ‘Androgyny’ meaning a mixture of all genders, who mixes all genres, creating unforgettable sets with tribal beats, percussion, trance,hip hop, and some unexpected cheesy Asian-Pop mashups.The goal is to make everyone dance like no one is looking. \n–\n   STELLA Z (she/her) @stella__zheng\nStella Z is a London-based composer and DJ whose music bridges cultural roots with contemporary electronic experimentation. She crafts multi-genre and unpredictable sets, weaving slow-burn psychedelia, deep tribal grooves, and industrial beats while uncovering hidden Asian dance gems.",
+  "image": "https://cdn.outsavvy.com/events/cc631f1c-4c87-4474-a58a-b256a08dd00a.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29488/spillll-zine-v3-launch-party",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.879836",
+  "generes": [
+      "electronic",
+      "hip hop"
+  ]
+},
+{
+  "id": 2461993473,
+  "name": "Scientists On Survival",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Sep 17",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+      "high energy",
+      "gay",
+      "bisexual",
+      "workshop",
+      "art",
+      "activism",
+      "comedy"
+  ],
+  "description": "Join us for an evening of climate justice as we talk about a powerful and timely collection from Scientists for XR, a group of scientists who have chosen to step out of the lab and onto the streets in defence of our planet. Come along on 17th September from 7pm - 9pm.\nAsk questions and hear the personal stories of scientists from across disciplines — biologists, physicists, mathematicians, ecologists and more — as they share what led them to work with Extinction Rebellion. From quiet moments of reckoning to bold acts of non-violent direct action, we will explore the urgent realities of the climate and ecological crisis, as well as the deeply human motivations behind their activism.\nThese are human stories. Whether sparked by a childhood memory, a moment in the classroom, or a walk through a vanishing landscape, these reflections invite us to feel the weight of the crisis — and the necessity of collective action.\n Featuring\n Dr Lucy Hogarth is a scientist, freelance artist and climate activist. She earned her PhD in Astrophysics at University College London (UCL) and has been a member of Scientists for Extinction Rebellion for over 5 years. In that time, she also provided artwork for Extinction Rebellion and many of its sister groups. She identifies as pansexual and has both Autism and ADHD, which led her to advocate for inclusivity during her time in research. Currently, she designs, writes and produces a live, animated sci-fi series called Tales from the Fray.\nDr Pete Knapp is an air quality scientist and currently making a film called Fires and Fascism linking wildfires in southern Europe with the slip toward far right politics. He wrote the chapter ‘Why I no longer fly’ in the book. \nDr Tristram Wyatt is a gay zoologist, who has written books on animal behaviour. His chapter is about how stand-up comedy has given him a new way to talk about climate.",
+  "image": "https://cdn.outsavvy.com/events/3c5c841b-40cc-4cec-ad73-3fa66eae82fb.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28776/scientist-on-survival",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.879912",
+  "generes": [
+      "nan"
+  ]
+},
+
+{
+  "id": 3755903762,
+  "name": "Sapphic Speed Dating + Mixer",
+  "venue": "The Castle Cinema",
+  "address": "64 - 66 Brooksby's Walk,  London,  E9 6DA",
+  "time": "19:30-23:00",
+  "date": "Sep 20",
+  "price": "£20 to £65",
+  "type": "social",
+  "tags": [
+      "speed dating",
+      "social",
+      "queer",
+      "drinks"
+  ],
+  "description": "There will be themed cocktails, conversation prompts for anxious queers, great tunes and plenty of time to get to know one another. 🥂\n The Speed Dating doors will open for ticket holders to arrive and get registered at 7.30pm with the event starting promptly at 8pm. Followed by a mixer 10pm - 11:00pm with DJ (this is open to the public and wider queer community)\n Useful information:\nAge guidlines: The Speed Dating is aimed at people between the ages of 21 - 40.\n Ticket holders for the Speed Dating Event will receive a google form in advance which will have to be filled out prior to the event. This form has some questions to give us a better understanding of who is coming to the event and what you are looking for. You will be matched with your first date of the night based on the information provided, before rotating around the room.\n\nThere will be time when you arrive to ease into the evening, grab a drink and chat to the hosts.\n This event is aimed to be silly, fun and inclusive! Dating and dancing… what more could you want?!\n Follow us on instagram: @sapphicspeeddating",
+  "image": "https://cdn.outsavvy.com/events/4c29b8b2-b86c-4068-a6c4-fe560c8c9232.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29610/sapphic-speed-dating-mixer",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880062",
+  "generes": [
+      "nan"
+  ]
+},
+{
+  "id": 3547552540,
+  "name": "Booters at the Black Cat Cafe!",
+  "venue": "Black Cat Café",
+  "address": "76A Clarence Road,  London,  E5 8HB",
+  "time": "18:30-22:00",
+  "date": "Aug 28",
+  "price": "Ticket Resell Live",
+  "type": "party",
+  "tags": [
+      "social",
+      "party",
+      "food",
+      "butch",
+      "queer"
+  ],
+  "description": "Booters is back - in a new venue!!\nFollowing the closure of the WAP, our recurring venue over the past year, we will be popping up in new venues around London* for our next few events, to reach even more dykes across the city and beyond! We're staying in Hackney for August with an event at The Black Cat Cafe, a vegan cafe with a decades-long history of leftist organising in East London :)\nCheck out our Instagram with all the important info for the night, including photos for accessibility and for the vibes/line-up as they're announced: @bootersbutchbar\nWHAT TO EXPECT\nCome for a feed of burgers and chips, served up by your favourite butches and studs in our classic Booters uniforms! And The Black Cat Cafe will have draught beer and other drinks available too.\nWe'll have some of our butch/stud servers on the mic to show you a bit more of their personalities ;) And to give our attendees a chance to shine, we'll have some audience interaction entertainment where we'll see if anyone in the crowd can beat the Booters with a can of whipped cream xx\nPAY IT FORWARD/ LOW-INCOME TICKETS\nAs always, we want this community space to be available to butches and trans people even if they can't pay for a meal out. So we have a pay-it-forward scheme for anyone who wants to subsidise a meal for a butch, stud or trans person on no/low income. We will be making these £7 meal options available a few days after standard tickets go on sale, to give time for people to make pay-it-forward contributions - keep an eye on our Instagram for details on this.\nWe will also be welcoming d¥kes who don't want a full meal to hang out in the bar and catch the vibes that way :) please message us if you are a butch/stud/trans+ and the contribution is a barrier!\nDIETARY NEEDS/ ALLERGIES FORM\nTo let our chef Paz know about any allergies/ dietary requirements, there will be an option to tell us when checking out. If you have any issues or forget to tell us, please dm us on Instagram. \nBOOTER BUCKS\nThe servers will be paid for their work, but tips are always appreciated! You can buy “Booter Bucks” on the door or at your table at the start of the night, and we will give you paper “cash” equivalent to the amount you buy so you can chose who your Booter Bucks go to. Bucks are £1 each with a 2p machine charge if paying by card.\nBooter Bucks are 100% tips that go directly to the server you hand your dollar to :)\nACCESSIBILITY\nThe venue has one step at the entrance with a ramp available - please request this when booking if you will need this. The venue is step-free throughout inside, and we can guarantee seating for those who need. There is a step-free-accessible gender neutral toilet on the ground floor, though it is not fully equipped for accessibility and may not be wide enough for all mobility aids - find more info including photos on our Instagram: @bootersbutchbar\nThe nearest step-free station is Hackney Central, there are also lots of bus routes that run to nearby stops on Lower Clapton Road and other stops in the Clapton area.\nCONTENT NOTICE\nWhile this is not a kink event, it may contain nudity and/or aspects of kink (depending on what our servers choose to do), please be aware of this when purchasing tickets. Any audience participation requires the clear consent of both servers and attendees involved. \nMERCHANDISE\nWe have merchandise! You can buy your very own Booters tees as seen on our servers, in two colour options. We even have a line of hats and mugs  - just scroll down to “Add-ons” below :) We also ship worldwide!",
+  "image": "https://cdn.outsavvy.com/events/ab9e68a6-9257-43e8-a1aa-b88cc4e4038b.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29356/booters-at-the-black-cat-cafe",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
+}
+
 
 
 
