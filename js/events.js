@@ -3841,7 +3841,66 @@ const events = [
       
   ],
   "age": "18+"
+},
+{
+  "id": 175,
+  "name": "ROAST",
+  "venue": "Electrowerkz",
+  "address": "7 Torrens Street, London EC1V 1NQ",
+  "time": "22:00-06:00",
+  "date": "Aug 30",
+  "price": "£25",
+  "type": "party",
+  "tags": [
+      "party",
+      "bears",
+      "cubs",
+      "gay",
+      "trans"
+  ],
+  "description": "𝙇𝙊𝙉𝘿𝙊𝙉’𝙎 𝘽𝙀𝙀𝙁𝙄𝙀𝙎𝙏 𝘾𝙇𝙐𝘽𝙉𝙄𝙂𝙃𝙏 - 𝙀𝙇𝙀𝘾𝙏𝙍𝙊𝙒𝙀𝙍𝙆𝙕 10PM-6AM ROAST; Bears, cubs, chubs, chasers, muscle bears, trans men, muscle men, and admirers. 10 DJ'S, 5 rooms, 1 big darkroom. MEN ONLY. LAST ENTRY 3AM - NO PHYSICAL ID = NO ENTRY. 18+ \n\nPlease be advised that there may be promotional and/or commercial photography and visual and/or audio recording at this event - by entering this event, you consent to your picture or footage of you possibly being taken and used by ROAST and/or Electrowerkz for promotional and/or commercial purposes. \n\nBy attending ROAST, commit to treating your fellow community members with respect and kindness - without judgment or bias.",
+  "image": "images/roast3.png",
+  "website_link": "",
+  "ticket_link": "https://dice.fm/event/q2r6oa-roast-30th-aug-electrowerkz-london-tickets",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 176,
+  "name": "Joyride",
+  "venue": "Corsica Studios",
+  "address": "4/5 Elephant Rd, London SE17 1LB",
+  "time": "16:00-22:00",
+  "date": "Sep 21",
+  "price": "£24.67",
+  "type": "party",
+  "tags": [
+      "party",
+      "kinky",
+      "playroom",
+      "queer",
+
+  ],
+  "description": "Joyride is a space to Rave, Play and Connect for the queer and the curious. \n\nCentered on the values of joy, freedom and deviance, Joyride prioritises pleasure and exploration. \n\nEvery other Sunday you’ll find a sweaty dancefloor with a genre-fluid line up of everything from techno to disco, a custom designed playroom and a welfare team on hand for all your support needs.",
+  "image": "images/joyride3.png",
+  "website_link": "",
+  "ticket_link": "https://dice.fm/event/wwyk3p-joyride-21st-sep-corsica-studios-london-tickets",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "21+"
 }
+
 
 
 
