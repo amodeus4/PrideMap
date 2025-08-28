@@ -3899,7 +3899,129 @@ const events = [
       
   ],
   "age": "21+"
+},
+{
+  "id": 177,
+  "name": "FLINTA NUDE YOGA",
+  "venue": "Coven",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "14:30-15:45",
+  "date": "Aug 31",
+  "price": "Pay What You Can",
+  "type": "workshop",
+  "tags": [
+      "workshop",
+      "yoga",
+      "meditation",
+      "FLINTA",
+
+  ],
+  "description": "A sanctuary for body, breath, and belonging. This session is created exclusively for FLINTA participants, held in a private space with low lighting, no cameras, and no public access—your safety and welfare are always the priority. \n\nLed by Zalayka, who integrates the serenity of her traditional Hatha Yoga training with the warm embrace of Yin, each class is infused with mindfulness, meditation, and the calming vibrations of singing bowls. Practising nude, you’re invited to release layers of tension, judgement, and inhibition, and reconnect with your body on your own terms. \n\nThis is a space of respect, softness, and empowerment—an opportunity to move and breathe freely, guided with care.",
+  "image": "https://cdn.outsavvy.com/events/c180fd90-2b2a-441f-ac94-cb34edb1bdf4.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29708/flinta-nude-yoga-at-coven",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 178,
+  "name": "GAY MEN'S NUDE YOGA",
+  "venue": "Coven",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "10:30-11:45",
+  "date": "Aug 31",
+  "price": "Pay What You Can",
+  "type": "workshop",
+  "tags": [
+      "workshop",
+      "yoga",
+      "meditation",
+      "gay men",
+
+  ],
+  "description": "A sanctuary for body, breath, and belonging. This session is created exclusively for FLINTA participants, held in a private space with low lighting, no cameras, and no public access—your safety and welfare are always the priority. \n\nLed by Zalayka, who integrates the serenity of her traditional Hatha Yoga training with the warm embrace of Yin, each class is infused with mindfulness, meditation, and the calming vibrations of singing bowls. Practising nude, you’re invited to release layers of tension, judgement, and inhibition, and reconnect with your body on your own terms. \n\nThis is a space of respect, softness, and empowerment—an opportunity to move and breathe freely, guided with care.",
+  "image": "https://cdn.outsavvy.com/events/ca9d10e6-e45b-41ee-90c7-c08e5bec236b.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29704/gay-mens-nude-yoga",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 179,
+  "name": "CLUB ARE",
+  "venue": "Hackney Bridge",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "10:30-11:45",
+  "date": "Sep 20",
+  "price": "£16.50 to £27.50",
+  "type": "party",
+  "tags": [
+      "party",
+      "community",
+      "art",
+      
+
+  ],
+  "description": "Club Are is back on 20th of September for our Autumn Edition, returning to Hackney Bridge, our home base and the place where it all began. \n\nWe’re taking over for 11 hours, from afternoon into late night, with music, movement, and community driving everything we do. \n\nOnce again, the space will be transformed with installation, lighting, and set design, created by our selected visual artist together with the Club Are team and collaborators who have shaped each edition into something layered and alive.  \n\nMusically, we’re bringing high energy all day and all night. A lineup of DJs and artists will carry us across progressive house, hard house, tech-house, and techno, energy, bold selections and big peaks. \n\nClub Are is always about community. We’re proud to hold a space where queer celebration is at the centre, and where everyone is welcome, respected, and free to be themselves. \n\nWe operate a zero-tolerance policy for any form of harassment or discrimination. \n\nRespect the space, respect each other.",
+  "image": "https://static.wixstatic.com/media/16e7fb_ec790bd5554e4c9d9c58a6ae5514d59f~mv2.png/v1/fill/w_1890,h_1066,fp_0.50_0.50,q_95,enc_auto/16e7fb_ec790bd5554e4c9d9c58a6ae5514d59f~mv2.png",
+  "website_link": "",
+  "ticket_link": "https://www.clubare.org/events/club-are-autumn-edition",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 180,
+  "name": "together in awe",
+  "venue": "Cornerstone Studios ",
+  "address": "1 Addington Square London SE5 7JZ",
+  "time": "16:00-22:00",
+  "date": "Sep 13",
+  "price": "£11.55",
+  "type": "party",
+  "tags": [
+      "party",
+      "sober",
+      "food",
+      "ecology",
+      "music",
+      "flash tattoos",
+      "sensory play",
+      "QTBIPOC"
+      
+
+  ],
+  "description": "come together in awe with misery party. celebrating queer ecology and dissolving binaries between ourselves and nature.",
+  "image": "images/misery.png",
+  "website_link": "",
+  "ticket_link": "https://www.eventbrite.co.uk/e/together-in-awe-tickets-1608880136799?utm_experiment=test_share_listing&aff=ebdsshios&sg=930eca2882c7f655ce5571fec0b1e1da93e769436425a9bf61b8eebf45992c2c2670f84e29408aef3a7b7438156c05ddef500c28fe104eaac8108677a05798ce049de3e80c6855ae2a88d677cd",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
 }
+
 
 
 
