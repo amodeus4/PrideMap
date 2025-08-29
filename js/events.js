@@ -4020,9 +4020,1161 @@ const events = [
       
   ],
   "age": "18+"
-}
+},
+{
+  "id": 181,
+  "name": "ADONIS 8TH BIRTHDAY",
+  "venue": "The Cause",
+  "address": "60 Dock Rd, London, london, E16 1YZ",
+  "time": "22:00-08:00",
+  "date": "Sep 6",
+  "price": "£15 to £20",
+  "type": "party",
+  "tags": [
+      "party",
+      "gay",
+      "queer",
+
+  ],
+  "description": "",
+  "image": "images/adonis5.png",
+  "website_link": "",
+  "ticket_link": "https://adonis.eventcube.io/events/87862/our-8th-birthday",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 182,
+  "name": "Riposte - QUEER DAY RAVE",
+  "venue": "Colour factory",
+  "address": "8 Queen's Yard, London E9 5EN",
+  "time": "14:00-23:00",
+  "date": "Sep 14",
+  "price": "£16 to £20",
+  "type": "party",
+  "tags": [
+      "party",
+      "high-energy",
+      "queer",
+      "art",
+      "workshops",
+      "performances"
+
+  ],
+  "description": "",
+  "image": "images/reposte6.png",
+  "website_link": "",
+  "ticket_link": "https://adonis.eventcube.io/events/87862/our-8th-birthday",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-25T09:07:44.880203",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 3970623993,
+  "name": "Singles Night at La Camionera",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "16:00-23:00",
+  "date": "Sep 2",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "speed dating",
+      "lgbtq+",
+      "drinks"
+  ],
+  "description": "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4pm to grab a drink, chat with others and meet some new faces before it all kicks off.\n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy. \n All ages are welcome, see you Tuesday! \n XOXO\n This is a LGBTQTIA+ event",
+  "image": "https://cdn.outsavvy.com/events/1fe97ed6-732f-4647-b6ab-82a8782b38b9.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29690/singles-night-at-la-camionera-free-tickets-020925",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.579730",
+  "generes": [
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 139430710,
+  "name": "Black & POC Lesbian Singles Night ",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "16:00-23:00",
+  "date": "Sep 9",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "dancing",
+      "speed dating",
+      "lesbian",
+      "flinta",
+      "trans",
+      "bisexual",
+  ],
+  "description": "we wanna welcome to you to la camionera’s black and poc singles night\na space for us to be one in all our authenticity \ncome for a flirt and a dance \nall ticket sales go towards the black trans alliance so there’s no better reason to come…other than maybe meeting the love of your life 🧚🏽🧚🏽 \nthe night will include speed dating, sexy tunes, live cupid and an abundance of hotties\ncan’t wait to see you there xxxx\n Every Tuesday, we host a singles night at La Camionera! We have £5 donation tickets going towards the Black Trans Alliance available.\n Speed dating starts around 7pm, but feel free to come by from 4 to have a drink, meet some people, and settle in before we get started.\n See you Tuesday \n\n♥♥♥♥♥♥\n *This is an LGBTQIA+ event ",
+  "image": "https://cdn.outsavvy.com/events/7d3d0217-2b5d-4c70-b124-165097b16b01.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29645/black-poc-lesbian-singles-night",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.580277",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 2051331641,
+  "name": "Lesbian Singles Night at La Camionera (16/09/25)",
+  "venue": "243 Well St",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "19:00-23:00",
+  "date": "Sep 16",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "speed dating",
+      "lgbtq+",
+      "lesbian",
+      "bisexual",
+      "drinks"
+  ],
+  "description": "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4pm to grab a drink, chat with others and meet some new faces before it all kicks off.\n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy. \n All ages are welcome, see you Tuesday! \n XOXO\n This is a LGBTQTIA+ event",
+  "image": "https://cdn.outsavvy.com/events/f467c5ac-9671-4946-9163-86f439762b66.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29648/lesbian-singles-night-at-la-camionera-160925",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.580430",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 4002173369,
+  "name": "Lesbian Singles Night at La Camionera (23/09/25)",
+  "venue": "243 Well St",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "19:00-23:00",
+  "date": "Sep 23",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "speed dating",
+      "lgbtq+",
+      "lesbian",
+      "bisexual",
+      "drinks"
+  ],
+  "description": "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4pm to grab a drink, chat with others and meet some new faces before it all kicks off.\n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy. \n All ages are welcome, see you Tuesday! \n XOXO\n This is a LGBTQTIA+ event",
+  "image": "https://cdn.outsavvy.com/events/9f4af6af-82ae-4d68-80d7-c589bf3885cf.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29649/lesbian-singles-night-at-la-camionera-230925",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.580521",
+  "generes": [
+  
+  ],
+  "age": "18+"
+},
+{
+  "id": 4069477203,
+  "name": "40+ Lesbian Singles Night at La Camionera (28/09/25)",
+  "venue": "243 Well St",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "19:00-23:00",
+  "date": "Sep 29",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "speed dating",
+      "lgbtq+",
+      "lesbian",
+      "bisexual",
+      
+  ],
+  "description": "As you know every Tuesday, we host a singles night at La Camionera  - and they’ve been so fun, but we heard there was still a little something special missing. \n So we had to set aside a special night to kick off your week right… \n On Sunday 28th September, singles night is 40 and over, for people to meet, chat, and maybe feel a bit more in sync with the room - we thought it might be nice to have a night that speaks to a slightly older crowd too.\n Our regular Tuesdays are still for everyone and all ages -  they’re not going anywhere!\n So if you're in your 40s, 50s, 60s or beyond—you’re very welcome here. Come as you are, bring your stories, your playlists, your chaos, whatever.\n Speed dating starts around 7.30pm, but feel free to come by from 5 to have a drink, meet some people, and settle in before we get started.\n See you Monday xxxx\n *This is an LGBTQIA+ event ",
+  "image": "https://cdn.outsavvy.com/events/14585d36-d739-4451-8346-8e44be8300d4.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29654/40-lesbian-singles-night-at-la-camionera-290925",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.580592",
+  "generes": [
+      "nan"
+  ],
+  "age": "40+"
+},
+{
+  "id": 624288078,
+  "name": "Diarisms at VFD",
+  "venue": "VFD",
+  "address": "64 Stoke Newington Road,  London,  N16 7XB",
+  "time": "18:30-21:00",
+  "date": "Sep 11",
+  "price": "£4 to £10",
+  "type": "social",
+  "tags": [
+      "literary",
+      "poetry",
+  ],
+  "description": "Diarisms is a night of creative, critical, and personal engagements with diary writing. \nFeaturing:\nTom Bland \nLian Bi @bilian1221 \nNatalia Syzmańska \nKelly Wu @kellywustudio \nJan @condensedsoymilk \nIzaac Elliot @izaac_elliot \nOona Evergreen @oona.web \nM. Griso Dryer @mgd___mgd \n+ more TBA\n When: Thursday 11th September (slight change from date mentioned in the open call!). \nDoors at 6:30 and readings begin at 7pm. \n Where: VFD, found at 64 Stoke Newington Rd, N16 7XB\n Access: Space is fully wheelchair accessible with a small ramp at the entrance and a wheelchair accessible toilet. Lighting will be ambient and seating will be provided. \n Covid: If you are able to, I would appreciate wearing a mask if you can, in order to be inclusive to immunocompromised/chronically ill /disabled people. ",
+  "image": "https://cdn.outsavvy.com/events/2a62e807-7b85-4000-b981-bd0c6e97622e.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29661/diarisms-at-vfd",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.581767",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 4163896303,
+  "name": "QUEER FAMILY CABARET",
+  "venue": "VFD",
+  "address": "64 Stoke Newington Road,  London,  N16 7XB",
+  "time": "14:00-17:00",
+  "date": "Sep 21",
+  "price": "£5 to £25",
+  "type": "social",
+  "tags": [
+      "social",
+      "queer",
+      "drag",
+      "cabaret",
+      "drinks"
+  ],
+  "description": "QFC is a friendly workshop that brings families together through costume, character and play. Led by creators and facilitators with many years of experience, the session gently builds, using games that guide participants to create a simple costumed character and to share these creations with each other through more games and performance (if desired!). \n\nVFD is collaborating with QFC apart of MANAKI our new queer-led, community-based project that brings together a range of arts and cultural practices under one framework. \n Cabaret is the most fun and fundamental of the theatre arts and it provides an in-the-moment and accessible means to share spontaneous creativity and to celebrate each other. \nExpect laughter and connection as we build community through silliness and celebration. \n\nLed by Sally & Arkem - here's a little about them: \n\nSally trained as a psychiatrist and psychotherapist and worked for 20 years in the NHS, leaving in 2017 to pursue clowning and poetry and the therapeutic potential of play. \nShe created Queer Family Cabaret with Arkem Mark Walton, after she found that clowning and performing with her daughter helped them to have fun together and (looking back) to weather the dreary skies of UK’s retrograde gender policies. \n\nArkem Mark Walton is a performer, maker and creative enabler. They work in cabaret, story-telling and craft. Arkem has performed on the hallowed stage of the Royal Vauxhall Tavern, in the galleries of the V&A, down The Rabbithole at Glastonbury and in a hot air balloon over Cappadocia. They enjoy taking the audience on a giddy journey through songs and poems with D.I.Y. drag stylings and a clowny edge. Arkem also enjoys helping curious folk to find new sides of themselves through costume, make-up and accessory making.\n The workshop will run between 2pm and 5pm:\n 2pm-3pm: We will meet each other in the space and create a character.\n3pm:There will be a break with snacks.\n3:15pm-4pm: We find a costume and play more theatrical games.\n4pm-5pm: Continued silliness, a group sharing and we will end our time together. \n This workshop is about empowerment through play and feedback is enthusiastically encouraged! ",
+  "image": "https://cdn.outsavvy.com/events/07776cdd-2274-4e4c-a71b-4c823d80dd01.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29701/queer-family-cabaret",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.581904",
+  "generes": [
+      "hip hop"
+  ]
+},
+{
+  "id": 2407264735,
+  "name": "AFTER LIFE DRAWING",
+  "venue": "Coven",
+  "address": "Queen's Yard,  London,  E9 5EN",
+  "time": "12:00-14:00",
+  "date": "Aug 31",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+      "social",
+      "queer",
+      "art",
+      "drawing"
+  ],
+  "description": "Queer life drawing @coven (above Fabwick) in Queen’s Yard, Hackney Wick\n To be hosted by Spencer Grimshaw (slpgtattoo), artist and tattoo artist\n After moving to London a year ago Spencer found that the life drawing sessions available either didn’t feature a diverse range of models, didn’t feel like a safe space for queer people or weren’t regular enough to create a community so decided to create that space and community of like minded people\n All abilities are welcome from beginner to experienced! As I will be offering options to be tutored or non-tutored\n\nWe will be here every Sunday\n Materials will be provided however, if there is anything specific that you require please provide this yourself\n Every week we will be hosting a diverse range of queer models\n This weeks model TBA",
+  "image": "https://cdn.outsavvy.com/events/2c1bec75-5483-4f22-96fb-31ea6ce42440.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28974/after-life-drawing",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582117",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 1934204038,
+  "name": "Queer Hiking Group",
+  "venue": "The Green House | Ethical Property",
+  "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+  "time": "10:00-18:00",
+  "date": "Sep 6",
+  "price": "Waiting List",
+  "type": "social",
+  "tags": [
+     "hiking",
+     "social",
+     "queer",
+    
+  ],
+  "description": "For Queer Migrants And Queer People Of Colour\nSummer is here. Boots are on. Back by popular demand for 2025, it's our Hiking Group for QPoC and queer migrants! And to kick off the season, we're taking on some old favourites alongside some brand new trails! \n Throughout the summer, we'll be taking on a series of small-group hikes, led by our resident mountain leader-trainee, through some of the most picturesque areas of the South and South East of the country. If you've never gone hiking before and want to give it a try with some likeminded people in a small group, this is your chance!\n We'll be releasing spaces for each hike around 2-3 weeks in advance, and we're able to reimburse attendees £10 each to help with the cost of train tickets!\n 🥾 Our Next Hike 🥾\n Third time's a charm, but we're thinking it's time to get back to the Devil's Dyke!\n 🗓  Saturday 6th September - Rescheduled from July & August: Devil's Dyke, a 12 mile circular trail leading up to one of the finest views in South East England, with some steep ascents and descents, alongside stiles, fences, and farmland to walk through. We’ll be taking some of the ascents slowly, but overall, it’s a moderately challenging trail. \n🕒 Time: 10am - 6pm \n 🚆 How It Works 🚆\nOnce you sign up, we'll send you the details or where we'll meet, what time, and what to bring with you. We'll also send you information on exactly which train ticket/s to purchase, so that we're able to travel together. After the hike, we'll re-imburse everyone at least £10 against the cost of their journey. However, it is up to you to purchase the correct train ticket in advance.\n 🌟 Wanna take a walk on the wild side? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: The walks include considerable gradients with some steep ascents and descents, over marked and clear but at times, unpaved paths. There are some stiles and gates, and parts of the walk may be muddy. Toilets are usually available at cafes and pubs along the way, but these facilities may not be accessible or gender-neutral. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n  We like to keep the events free so they are easily accessible to our communities! If you want to donate please use this link.\n Spaces at our events are limited and there is a cost implication for all the events we produce or take you along to. Therefore, it is very important and appreciated if you let us know when you can no longer attend an event so we can offer your spot to someone else.\n  Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event.\n  By signing up to this event, you accept being added to The Love Tank's newsletter. You can opt out at anytime.",
+  "image": "https://cdn.outsavvy.com/events/5ba1b659-ae78-4709-ba25-faa24336a945.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/27939/queer-hiking-group",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582322",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 271012060,
+  "name": "Queer Kayaking",
+  "venue": "Laburnum Boat Club",
+  "address": "Laburnum Street,  London,  E2 8BH",
+  "time": "14:00-16:00",
+  "date": "Sep 7",
+  "price": "Waiting List",
+  "type": "social",
+  "tags": [
+      
+      "kayaking",
+      "queer",
+      "social"
+  ],
+  "description": "For Queer Migrants And Queer People Of Colour\n\n🗓 Dates: 22nd June, 13th July, 20th July, 3rd August, 17th August, 7th September\n🕒 Time: 2pm to 4pm \n📍 Location: Laburnum Boat Club\n Splish splash, we're back! \n\nOur FREE introductory kayaking sessions, run in collaboration with Laburnum Boat Club, are back for 2025! \n\nWe're running several sessions over the summer, and in each one we'll develop basic paddling skills, teamwork and water-confidence, all under the care and instruction of Laburnums' very experienced Paddle UK qualified instructors. All equipment (including bouncy-aids, harnesses and splash-proof jackets) will be provided, but as part of all the fun, you can expect to get wet! \n The next few sessions will be taking place on:\nSun 22nd June\nSun 13th July \nSun 20th July\nSun 3rd August\nSun 17th August\nSun 7th September\n We'll be releasing new tickets for each month's sessions gradually, so if the class below is full, don't worry, there's plenty of opportunity to join the next one! This event is being run by The Love Tank in partnership with Laburnum Boat Club.\n\nThe kayaking sessions will last for two hours, and are based from Laburnums' club site in Hackney, right next to the canal. \n 🌟 Want to give paddling a try? Reserve your spot today! 🌟\n Important:  \n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: There are accessible toilets on site, and Laburnum's instructors are experienced in working with folks with a variety of access requirements. \n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/a2de4eb2-708e-45e1-8fd3-8af4f14cc8a6.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28018/queer-kayaking",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582392",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 3408916452,
+  "name": "Second Tuesday Monologues - Shadows",
+  "venue": "The Common Counter",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Sep 9",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "performances",
+      "lgbtq+",
+      "discussion",
+      "art"
+  ],
+  "description": "📅 Tuesday, 9th of September 2025\n⏰ Doors 7 PM, Monologues 7:30 PM\n📍 The Common Press, 118 Bethnal Green Rd, London E2 6DG\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n This September, Second Tuesday Monologues invites you to explore the mysterious, complex, and revealing theme of SHADOWS 🌑✨\nFrom the hidden parts of ourselves, to the stories we keep in the dark, to the truths that only show up in the quiet – come for an evening of stories about what lives in the shadows of our queer experiences. Expect vulnerability, introspection, courage, and the many ways shadow shapes identity, desire, and connection.\n HOW IT WORKS:\n\n🎭 Monologists have up to 10 minutes to share their unique take on the theme.\n🛋️ After the performances, we settle in for an open group discussion.\n🎟️ FREE ENTRY – but pre-booking is required!\n🍸 Support The Common Press – grab a drink from the bar and enjoy the night!\n🐶 Dog-friendly venue\n♿ Fully wheelchair accessible (entrance via Common Press Bookshop)\n🚻 Please note: The bookshop itself doesn’t have toilets, but accessible restrooms are available across the street at Rich Mix or next doors at the restaurant.\n 💬 WANT TO PERFORM?\n\nWe’re always on the lookout for new voices! Email Rob at maureen@thelovetank.info if you’d like to be a monologuist at this or future editions. Monologuists receive a small fee as a token of gratitude.\n ✨ UPCOMING THEMES:\n\n📅 Oct 14: Black Queer Horror 🧟‍♀️👻\n📅 Nov 11: Legacy 🕊️\n📅 Dec 9: Chosen 🎁🫂\n📅 Jan 13 2026: Neurodivergence\n 📢 Follow @thelovetankcic for updates on this and other free queer community events! 🌈💜\n 💕 Join us for a night of queer creativity, community, and connection. RSVP now to reserve your spot - space is limited!\n  About our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/c486049d-23dd-4a6b-b102-4ecffd90f3ff.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29671/second-tuesday-monologues-shadows",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582519",
+  "generes": [
+     
+  ]
+},
 
 
+
+{
+  "id": 3563555830,
+  "name": "Black Queer Healing, FREE event, part of Love Hub",
+  "venue": "The Green House | Ethical Property",
+  "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+  "time": "18:00-20:00",
+  "date": "Sep 15",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "discussion",
+      "medical field"
+  ],
+  "description": "Black Queer Healing\n📅 Monday 15th September\n📍 The Green House, Bethnal Green\n⏰ 6.00 PM - 8PM\n🎟 Free Entry \n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n To our Black Queer women, Black trans men, & Black FLINTA*, we invite you to join us as we reclaim joy, care, & security for our bodies. In this workshop we will strategise on how we can identify and assert our need to live embodied lives within healthcare frameworks. From medical racism to gynaecology, mental health & pleasure, we’ll explore how we can forge our own paths in systems that overlook us \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub - two festivals collaborating to create one big queer East London celebration from 13-21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/7e8945b6-ce2f-4204-8a04-a7b456dd4f8f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29608/black-queer-healing-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582585",
+  "generes": [
+      "disco",
+      "house",
+      "hip hop"
+  ]
+},
+{
+  "id": 173425329,
+  "name": "Highs & Lows: Queer Harm Reduction 101, FREE event, part of Love Hub",
+  "venue": "Online Event",
+  "address": "Online Event",
+  "time": "19:00-20:30",
+  "date": "Sep 15",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "queer health",
+  ],
+  "description": "Highs & Lows: Queer Harm Reduction 101\n📅 Monday 15th September\n📍Online\n⏰ 7PM - 8.30 PM\n🎟 Free\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nLet’s be real - queers have always mixed pleasure, parties, and powerful connection. High & Lows is a judgment-free zone for open, honest chats about drugs, sex, consent, and community care. Whether you're a seasoned raver or a curious cutie, we’ll explore how to party safer, love smarter, and take care of each other - especially when things get hazy. Bring your questions, your wisdom, and your wild stories (if you want). Leave with new tools, tips, and maybe even a chill-out buddy or two. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/1d05a588-9436-45ca-8251-91d8d6d8fcaf.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29584/highs-lows-queer-harm-reduction-101-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582654",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 1242932798,
+  "name": "Swish Swish Clothes Swap, FREE event, part of Love Hub",
+  "venue": "The Green House | Ethical Property",
+  "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+  "time": "18:00-21:00",
+  "date": "Sep 16",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "second hand",
+      "clothes swap"
+  ],
+  "description": "Swish Swish - Clothes Swap\n📅 Tuesday, 16th September\n📍 The Green House, Bethnal Green\n⏰ 6.00 PM - 9PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nSwish Swish Bish is a joyful, gender-affirming clothes swap designed especially for trans and non-binary people, centering trans joy, creativity, and community care. If you aren't trans but would like to donate clothes, send us a message here or on IG.\nCome try new looks, bring clothes to swap, or simply show up and explore in a no-judgment, safer space. This is a safer space for trans people who are houseless, or financially precarious, and want access to nice clothes and gender affirming workshops.\nDon’t have anything to swap? No problem! There will be plenty of free, beautiful, and good-quality clothes for you to take home.\nBut that’s not all - we’ve got hands-on workshops to help you feel confident and creative in your gender expression:\n✨ Workshops (sign up below required)\n1. Gender-Affirming Makeup Workshops with Lily Parfitt\nProfessional makeup artist Lily Parfitt (they/she) will host two beginner-friendly sessions:\nIntro to Feminising Makeup – Learn techniques for a softer, feminine look: eyes, brows, color correction, and glowing skin.\nIntro to Masculinising Makeup – Learn how to create a more masculine look: brows, contouring, facial hair effects, and simple eyeliner.\nEach session is limited to 8 people, so be sure to sign up when booking your event ticket!\nNo makeup kit? No worries—we’ll provide everything you need. Bring your own products if you’d like to learn with what you already have.\nAbout Lily: Lily is a London-based lesbian makeup artist with 6+ years’ experience in beauty, drag, and SFX. They’re passionate about accessible, gender-affirming makeup education and creating safe spaces for LGBTQIA+ communities.\nFollow Lily on Instagram\n2. Clothing Fixing & Upcycling Workshop with Ee Rush\nGot a piece you love that needs mending? Want to customise your clothes? A professional tailor will guide you through repairing, altering, and personalising garments to make them feel uniquely you.\n What to bring:\nA garment you’d like to repair or alter (no broken zippers, hardware, or leather - these require specialist tools we won’t cover in this session).\nAlternatively, pick something from the swap to customise during the workshop!\nLimited to 15 participants - sign up in advance!\nNo sewing experience needed - just curiosity and creativity. All materials will be provided.\nAbout Ee: Ee (they/them) is a nonbinary repair specialist and designer from Aotearoa (New Zealand), now based in London. With experience in fashion and garment repair, they’re passionate about sustainable clothing and helping people feel at home in what they wear.\nFollow Ee on Instagram: @ee.rush.tailoring (collaborates with @pincuts_tailoring).\nThis event is free, but spaces for workshops are limited, so book early and sign up for your chosen sessions below. If attending the workshops you still need to get a general ticket as well.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/1307c912-e5f7-4fe5-a7da-a34aeab7cac2.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29605/swish-swish-clothes-swap-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582724",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 2934708310,
+  "name": "Generation Injectables – HIV Treatment and Prevention Futures, FREE event, part of Love Hub",
+  "venue": "Online Event",
+  "address": "Online Event",
+  "time": "19:00-20:30",
+  "date": "Sep 16",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "queer health",
+  ],
+  "description": "Generation Injectables – HIV Treatment and Prevention Futures\n📅  Tuesday 16th September\n📍Online\n⏰ 7PM - 8.30 PM\n🎟 Free\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nDone with daily HIV treatment pills? Forgotten if you’ve done your after-sex PrEP doses? Do new injectable options offer liberation and freedom, or tether us to clinic appointments and calendar plans? This interactive panel of people living with HIV, PrEP users, and people at the front-face of new HIV technology development take us through the new injectable HIV treatment and PrEP options. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\nStay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/d578a51c-e79a-424b-bfd9-4cfdcba102b2.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29583/generation-injectables-hiv-treatment-and-prevention-futures-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582792",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 1389960343,
+  "name": "Kinky Dyke Lounge a FREE event, part of Love Hub",
+  "venue": "The Green House | Ethical Property",
+  "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+  "time": "18:30-20:30",
+  "date": "Sep 17",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "kink",
+      "workshop",
+      "curiosity",
+      "flinta"
+  ],
+  "description": "Kinky Dyke Lounge\n📅 Wednesday 17th September\n📍 The Green House, Bethnal Green\n⏰ Doors 6:30 PM | Event 7 PM till 8:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nStep into the Kinky Dyke Lounge – a welcoming, interactive space for dykes and FLINTA* folks who are curious about kink or just starting out. Hosted by Hotheadlu & cboy, this night is designed for beginners and the curious. If you’ve ever wondered where to begin, have questions you’ve never dared to ask, or simply want to dip a toe into the delicious world of kink in good queer company, this is for you.\nThe evening kicks off with Dyke Kink 101 – a relaxed, beginner-friendly introduction to kink. No prior experience is expected or needed. We’ll cover the basics, answer your questions honestly, and give you the chance to explore and handle gear in a safe, playful, and judgment-free environment.\nAfter the workshop, stick around to connect and chat with other kinky (or kink-curious) folk. This is about exploration, community, and pleasure without pressure.\nCome with an open mind, a sense of fun, and maybe leave having discovered something new about what turns you on.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\n  About our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/b16f27be-53ca-4c71-a42e-3b9b78db7ed3.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29607/kinky-dyke-lounge-a-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.582862",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+{
+  "id": 2798333116,
+  "name": "Kink Scribe, FREE event, part of Love Hub",
+  "venue": "Online Event",
+  "address": "Online Event",
+  "time": "19:00-20:30",
+  "date": "Sep 17",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "writing",
+     "workshop"
+  ],
+  "description": "Kink Scribe\n📅 Wednesday 17th September\n📍Online\n⏰ 7PM - 8.30 PM\n🎟 Free\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nEver had a night so hot it haunted you? Or read something so filthy it made you grin? Join kink writer Matt Skully to explore the erotic power of words. We’ll read, reflect, and write our desires into stories. No writing skills needed - just curiosity and a comfy spot to get inspired. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/befb9ea2-7f2a-4aed-8630-a53236514b08.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29582/kink-scribe-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583015",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 1831528418,
+  "name": "Q-Weird Science, Free event, part of Love Hub",
+  "venue": "Hampstead Heath",
+  "address": "n/a,  London,  n/a",
+  "time": "18:00-21:00",
+  "date": "Sep 18",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "star gazing",
+      "science",
+      "astronomy",
+      "discussion"
+  ],
+  "description": "Q-Weird Science\n📅 Thursday 18th September\n📍 Hampstead Heath\n⏰ 6:00 PM - 9PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nCome geek out with fellow “queer weirdos” at this interactive workshop and – weather-permitting - star-gazing session that celebrates the queer side of science. We’ll explore how reality abhors a binary at a quantum level, talk about the challenges of being LGBTQIA+ in Science, and learn the practical side of recognising planets and constellations, and why losing access to the night sky intersects with crucial health conditions and queer perspectives. \n\nThings you will learn in this workshop:\n How nothing in quantum mechanics is just one thing.\nHow to find the planets in the sky\nHow to navigate using the stars\nThe challenges of being out in science, technologies, engineering, and maths, and how that is compounded with other identities.\nHow we are losing the night sky and why queer people should care\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/1e66e939-2790-4d6a-a936-0b49c410b9c1.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29606/q-weird-science-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583126",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 590573215,
+  "name": "Queer Disability Justice, FREE event, part of Love Hub",
+  "venue": "Online Event",
+  "address": "Online Event",
+  "time": "19:00-20:30",
+  "date": "Sep 18",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "activism",
+     "discussion"
+  ],
+  "description": "Queer Disability Justice\n📅 Thursday, 18th September\n📍Online\n⏰ 7PM - 8.30 PM\n🎟 Free\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nQueer. Disabled. Glorious. A workshop where we explore how to 'NEUROMANCE' or 'fall in love with neurodivergence'. This workshop is facilitated by Aiyana Goodfellow, founding director of NEUROMANCERS.\n In this workshop, you will…\n❤️ connect the oppression of neurodivergent+ people to various other forms of social discrimination\n❤️ discuss and design community-led alternatives to mainstream mental healthcare\n❤️ be one of the first to hear about NEUROMANCERS future plans and upcoming projects!\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/5a266c81-5de0-42af-8c3a-49b32ef46b62.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29581/queer-disability-justice-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583222",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 2013055119,
+  "name": "10 Years of PrEPster, FREE event, part of Love Hub",
+  "venue": "Rich Mix",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "18:30-21:00",
+  "date": "Sep 19",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "queer health"
+  ],
+  "description": "10 Years of PrEPster\n📅 Friday 19th September\n📍 Rich Mix, Shoreditch High St.\n⏰ 6.30 PM - 9PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nWe might have greyer hair, more wrinkles, and a few extra inches round the waistline but the team behind PrEPster is still fighting-hot! Ten years after the founding of this PrEP activist group, Love Hub hosts an interactive panel of those who were in the room when it happened. Hosted by three of PrEPster’s founders – Richie Kahwagi, Will Nutland and Marc Thompson – the event will feature special invited guests, celebrations, and a big mouthful of birthday cake. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/23e29f91-cf26-4cb2-b07d-a0ae3e4bea9a.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29550/10-years-of-prepster",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583298",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 1680488479,
+  "name": "Queer Folklore, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "10:00-11:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "creativity",
+      "workshop",
+      "imagination"
+  ],
+  "description": "Queer Folklore\n📅 Saturday, 20th September\n📍 St. Hilda's East\n⏰ 10:00 PM - 11:30 PM\n🎟 Free Entry\nAll Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nEver felt like your queer soul deserved its own fairy tale? Join us for Queer Folklore—a craft-and-chat session where folklore meets fabulousness.\nThis interactive session, led by Perry and Ruth from The Traveller Pride, is all about conversation, creativity, and reimagining stories. We’ll start by exploring the work and folkloric inspiration behind Zuhzh the Yog - a queer Traveller art collective that grew out of a Traveller Residency at Queer Britain. From there, we’ll widen the circle to ask: why are queer identities so often missing from folk history? And how can we write ourselves back in?\nWhile we talk, we’ll craft peg-doll versions of our inner queer folk heroes - sequins, ribbons, and plenty of magic included. No need to bring anything; we’ve got the dolls and materials ready. You may get messy so consider it when choosing your outfit.\nPart workshop, part ritual, this is your chance to stitch, share, and dream queer myths into being. No artistic skills needed - just your imagination and your most folkloric feelings.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here \n🌈 Discover the full Love Hub programme here\n\nOur House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/361a24f7-0532-4208-b243-16ff11e0a22f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29599/queer-folklore-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583371",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 3672551420,
+  "name": "Queer Yoga, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "10:00-11:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "wellness",
+      "yoga",
+      "workshop"
+  ],
+  "description": "Queer Yoga\n📅 Saturday 20th September\n📍 St. Hilda's East\n⏰ 10:00 AM PM - 11:30 AM (please be on time!)\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nStretch it out, explore and breathe into your beautiful queer body. This explorative yoga session with beloved teacher Anton Reuben Young is open to all levels. Whether you’re a seasoned yogi or just curious, come reconnect with your mind, breath and body. Community is what it's about. Everybody welcome, boundaries respected. \n Please bring your own yoga mat and any props you need for support\nWear comfortable clothing\nStay hydrated\nThere are no showers at the venue\nPlease arrive on time not to disrupt the flow of the session\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/5933f699-75f4-4fb4-9187-f65940c269dc.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29604/queer-yoga-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583445",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 373429759,
+  "name": "Queering Masculinity, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "11:00-12:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "panel",
+      "discussion",
+      "masculinity",
+
+  ],
+  "description": "Queering Masculinity\n📅 Saturday 18th September\n📍 Rich Mix, Shoreditch High St.\n⏰ 11 AM - 12.30PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nAs queer people, our panellists have had the chance to redefine masculinity and what it means to them. In a world struggling with a so-called “crisis of masculinity”, we look to those who have subverted, remoulded and redefined masculinity through a trans and gender non-conforming lens, to ask what healthy masculinity can look like in the current day.\nThe event will feature an all trans panel discussion looking into how we can create our own relationship with masculinity, especially via the freedom of a gender transgressive route. We'll look into our run-ins with toxic masculinity, why we think misogyny is on the rise, and also speak on our love for masculinity, too.\n The panellists:\nBobo Rose Sarpong\nMo Mamode\nKylo Thomas\nHost:\nArlo O'Callaghan\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/ad53ba7c-aca0-469a-bb73-0449def95e86.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29597/queering-masculinity-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583514",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 713574851,
+  "name": "Stamp Camp, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "12:00-13:30",
+  "date": "Sep 20",
+  "price": "Waiting List",
+  "type": "workshop",
+  "tags": [
+      "arts & crafts",
+      "linoprinting",
+      "workshop"
+  ],
+  "description": "Stamp Camp\n📅 Saturday, 20th September\n📍 St. Hilda's East\n⏰ 12:00 PM - 1:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nFeeling pressed? Come carve it out at Stamp Camp – a queer lino printing workshop where you’ll chisel your own masterpiece and print it like the icon you are.\nWe’ll start with a quick intro to what linoprinting is (think hand-carved stamps that become mini works of art!) and go over how to safely and correctly carve linoleum. Then it’s time to get hands-on:\n✅ Cutting phase (45–50 mins): carve your own postcard-sized lino block (A6 – 10cm x 15cm). Simple designs work best—think bold shapes over tiny details. If you want, bring a prepared sketch or idea, but it’s not essential.\n✅ Printing phase (30–40 mins): roll on the ink, press your design, and watch your creation come to life! You’ll leave with your own prints—perfect for greeting cards, tiny artworks, or gifts for your crush.\nNo experience needed—just bring your creativity, patience, and a healthy respect for sharp tools.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/6cae5551-761c-4fae-9d94-ecbe0c89072f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29598/stamp-camp-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583587",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 2222707762,
+  "name": "Queer Salsa, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "12:00-13:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "dance class",
+     "workshop",
+     "social"
+  ],
+  "description": "Queer Salsa\n📅 Saturday 20th September\n📍 St. Hilda's East\n⏰ 12:00 PM - 1:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n ⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nTwo left feet? Perfect. Join us for Queer Salsa – a beginner-friendly dance class and social led by Queer Salsa London who centre joy, consent, and Afro-Latin rhythms. Learn the basics, choose your role (lead or follow), and dance your way into new connections. Come for the footwork, stay for the queer joy and sweet spins.  \nNo partner needed – You don’t need to bring a dance partner. We encourage everyone to swap partners throughout the class. If you’d prefer to stay with a friend or partner, just let a team member know and we’ll make sure that happens.\nWhat to wear on your feet – Comfy shoes like trainers work best. Dance shoes are great if you have them, but they’re not required! If your shoes feel tricky to dance in, you’re welcome to take them off and dance in socks.\nBring water – If you have a water bottle, bring it along. There should be somewhere on site to refill it.\nTake breaks – Feel free to step out whenever you need a breather.\nExtra support – If you’re feeling unsure during class, look out for our Guardian Dancers, experienced dancers from the Queer Salsa community who are there to give 1:1 help if you’d like it.\nMost importantly – Have fun! Learning to dance takes time, so don’t be hard on yourself. Enjoy the process, enjoy the music, and enjoy dancing with new people.\nThis event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/90886e55-a9e4-4156-a4e1-c1dc0f92d398.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29603/queer-salsa-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583658",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 2790876626,
+  "name": "Hormonally Yours, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "13:00-14:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "discussion",
+      "hormones",
+      "medical"
+  ],
+  "description": "Hormonally Yours\n📅 Saturday 20th September\n📍 Rich Mix, Shoreditch High St.\n⏰ 1PM - 2.30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nFrom suppressing puberty to growing pubes, this empowering session dives into all things hormonal, with a special focus on puberty-suppressing hormones (also known as puberty blockers) and what they mean for trans and non-binary people today.\n This event is about knowledge, autonomy, and affirmation. Our panel will bring together lived experience and evidence-based research to explore:\n✔️ What puberty-suppressing hormones are, how they work, and why they matter\n✔️ How to navigate your hormone journey safely and confidently\n✔️ Community care and self-advocacy in healthcare settings\n✔️ Conversations around DIY hormones (without making it the main focus)\n We’ll also be celebrating the launch of The Love Tank’s new Puberty Suppressing Hormone Guide, created to give trans and non-binary folks the information they deserve. Check out the guide here: queerhealth.info/lbgt/psh\nWhether you’re just starting to think about hormones, supporting someone on their journey, or curious to learn more, this is a space for honest conversation, community knowledge, and collective empowerment.\nOur Panel\nKylo Thomas\nKylo (he/they) is a scholar activist, abolitionist, and rhyme writer based at The Love Tank CIC. His research focuses on trans health justice, mutual aid, and dismantling the carceral state. He holds a PhD in Critical Race Theory from UCL, where he is currently an Honorary Research Fellow.\nBenjamin Weil\nBen (they/he) is the Head of Research and Community Knowledge Generation at The Love Tank. They are one of the authors and researchers of The Love Tank’s Little Back Pocket Guide to Puberty-Suppressing Hormones.\nMitzi\nArlo O’Callaghan\nArlo (they/he) is a 22-year-old non binary writer and filmmaker from South East London. His writing explores themes of transness, masculinity and religion. Arlo volunteers with The Love Tank and was part of the consultation board for the puberty-suppressing hormone guide.\nLucy\nLucy (she/her) is the Lead Nurse Consultant at Anne Health, a not-for-profit organization that provides inclusive and evidence-based care for trans+ people. She has been supporting trans communities for nearly 20 years and is passionate about making healthcare accessible and affirming. Lucy trained in the United States, where she is a board-certified Nurse Practitioner.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/3de5eb98-e079-453a-8c4b-f187ea4e016a.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29595/hormonally-yours-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583726",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 3479742193,
+  "name": "Trans Voice Academy, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "14:00-15:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "advice",
+      "voice change"
+  ],
+  "description": "Trans Voice Academy\n📅 Saturday, 20th September\n📍 St. Hilda's East\n⏰ 2:00 PM - 3:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n ⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nCurious about trans voice work or ready to unlock your vocal potential? Trans Voice Academy is a hands-on workshop designed to help you explore your voice in a gentle, supportive, and affirming environment.\nLed by Stephen, a trans voice coach and conductor of the London Trans Choir, this session is all about discovery, confidence, and celebration. No singing experience? No problem! This is a space for beginners and experienced voices alike.\nHere’s what to expect:\n✔️ A short chat about how the voice works and why it matters for gender affirmation\n✔️ Grounding warm-up - stretches and breathing exercises to get comfortable\n✔️ Vocal playtime - try exercises and modifications to explore your range and expression\n✔️ A chance to reflect together on how it felt and what you discovered\nWhether you’re exploring feminisation, masculinisation, androgyny, or simply curious about what your voice can do, this is your chance to experiment in a fun, pressure-free space.\nCome as you are - leave feeling heard, supported, and celebrated!\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/d6de3833-2d46-47c1-8f66-003c8c0d156a.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29596/trans-voice-academy-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583793",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 4114910341,
+  "name": "Home Essentials, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "14:00-15:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "DIY",
+      "building",
+      "workshop"
+  ],
+  "description": "Home Essentials\n📅 Saturday 20th September\n📍 St. Hilda's East\n⏰ 2:00 PM - 3:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n ⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nStill using Blu Tack as a design solution? Fear not, DIY darlings! Home Essentials is your queer crash course in hanging, drilling, and building with pride. Join handy babe Dani Singer for a playful, practical workshop where we turn “IKEA anxiety” into “I made this!” vibes. Tools, laughs, and queer home power - guaranteed. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/a17332a3-e9b0-458a-94b0-ad1456eed9e9.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29602/home-essentials-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583858",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 53892074,
+  "name": "Queer Eye for AI, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "15:00-16:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "talk",
+      "tech",
+      "discussion",
+      "privacy & security",
+
+  ],
+  "description": "Queer Eye for AI\n📅 Saturday 20th September\n📍 Rich Mix, Shoreditch High St.\n⏰ 3PM - 4.30PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n Ever sexted using ChatGPT? Wondered if that ripped torso on Grindr was real - or a prompt gone rogue? And how safe is all the data we pour into hookup apps?\nIn this interactive session, we’ll look at Artificial Intelligence through a queer lens and unpack what Large Language Models like ChatGPT mean for our identities, intimacy, and safety. Together we’ll explore:\nHow AI shapes queer visibility - and where bias or erasure creeps in\nThe ethics of AI in intimate spaces, from sexting to dating apps\nPrivacy, security, and what’s really happening with your data\nExpect live demos, provocations, and hands-on activities as we imagine queer futures in a machine-mediated world. This isn’t just a tech talk - it’s about centering queer creativity, care, and resilience in the age of AI.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\nStay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/9e5cf438-a685-4b72-b016-43432ba915e6.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29594/queer-eye-for-ai-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583926",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 1642207870,
+  "name": "Potions & Lotions, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "16:00-17:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "social",
+     "wellness",
+     "workshop"
+  ],
+  "description": "Potions & Lotions\n📅 Saturday, 20th September\n📍 St. Hilda's East\n⏰ 4:00 PM - 5:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nThere’s wisdom in the leaves! Join us as we explore different plants and minerals, and whip up a few concoctions you can use to calm your nerves, provide first aid, and feel balanced.     \nThis interactive workshop and discussion session gives you the chance to brew up magic infusions (just in time for autumn!) and mix up lotions to take home.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/cf967ed9-1e60-48bf-9d54-989920414fb5.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29589/potions-lotions-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.583990",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 3988902393,
+  "name": "Category Is... FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "16:00-17:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "ballroom",
+      "discussion",
+      "workshop",
+      "community"
+     
+  ],
+  "description": "Category Is…\n📅 Saturday 20th September\n📍 St. Hilda's East\n⏰ 4:00 PM - 5:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nWhen we think of ballroom, we may think of its origins in New York or Europe's largest and most active ballroom community in Paris, but London has its own ballroom scene, which has its own unique flavour. Join us as The Love Tank's Phil Samba, also known as London ballroom scene's Idris 007 talks with special guests also from the scene about what sets London apart from anywhere else in the world. This will be followed by a short Q&A \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\nStay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/b899fd0c-a415-40e3-8231-d494ea030714.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29601/category-is-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584059",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 3640754133,
+  "name": "The Queer Arab Salon, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "17:00-18:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "social",
+      "tea",
+      "discussion",
+      "activism"
+  ],
+  "description": "The Queer Arab Salon\n📅 Saturday 20th September\n📍 Rich Mix, Shoreditch High St.\n⏰ 5PM - 6.30PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n'Queer Arab Salon' - a space where we share and celebrate queer Arab joy. The \"Salon\" in the name of the event is pronounced the Arabic way, to denote how a \"salon\" in our cultures is more like a space to gather, to socialise, to have tea with friends/loved ones and catch up on gossip, etc. \n The event will see This Arab Is Queer editor and journalist Elias Jahshan speak to panelists Aryam Marafi, DJ Seksu and a unconfirmed 3rd speaker about what queer Arab joy means to them. How can we create a safe space for each other to celebrate our culture as it intersects with our sexuality or gender identities? What are our hopes for the community in the face of prevelent homophobia and transphobia in our own Arab communities, as well as racism and Islamophobia from western communities? Do any of the panelists have any specific memories or moments in their lives where they \"discovered\" or grew into their intersectional identity as a queer Arab? In what way is queer Arab joy a form of resistance?\n The discussion will be timed for about 45mins, with the intention to open it up to the audience for the final half hour or so through a Q&A and an opportunity for people to share their stories, if they have any.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/0211a7f3-e091-4abe-8bf0-7248c3b6cca8.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29593/the-queer-arab-salon-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584126",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 4189719354,
+  "name": "Luminous Beings: Gong Bath, FREE event, part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "18:00-19:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "wellness",
+      "meditation",
+      "gong bowls"
+  ],
+  "description": "Luminous Beings: Gong Bath Ceremony\n📅 Saturday 20th September\n📍 St. Hilda's East\n⏰ Doors: 6:00 PM\nSession start: 6:10 PM (latecomers won't be admitted) \nSession end: 7:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n ⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n Tired? Overstimulated? Spirit feeling a little crunchy? Come lie down, close your eyes, and let the healing vibrations wash over your queer little soul.\nAt Luminous Beings, sound wizard Lucas (Fila Vitae Sound Journeys) will guide you through a soothing gong bath with gongs, singing bowls, shamanic drumming, and other magical instruments. Sound healing slows your mind into a deeply restorative state - helping ease stress, improve sleep, release tension, and leave you feeling grounded and glowing.\nThis gathering is for our queer community - a space to rest, connect, and remember that we are more than just bodies; we’re light, spirit, energy.\nWhat to bring: a yoga mat, blanket or sleeping bag (anything cozy), and an open heart. Optional: eye cover for extra calm. Stay hydrated before and after.\nPractical info:\nNo experience needed.\nSession starts 6:10 PM sharp - latecomers won’t be admitted.\nNot suitable during the first trimester of pregnancy or for people with epilepsy, pacemakers, or recent fractures.\nAdults only. Please don’t attend if unwell or under the influence.\nSession lasts approx. 90 minutes.\nCome as you are—leave luminous. 🌙✨\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/b3d58b5c-d064-482f-9d1f-3e47e7c3d301.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29600/luminous-beings-gong-bath-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584193",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 2899579878,
+  "name": "Body-Oddy, FREE event, Part of Love Hub",
+  "venue": "St. Hilda's East Community Centre",
+  "address": "18 Club Row,  London,  E2 7EY",
+  "time": "18:00-19:30",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "conversation",
+     "discussion",
+     "support",
+     "community"
+  ],
+  "description": "Body-Oddy\n📅 Saturday, 20th September\n📍 St. Hilda's East\n⏰ 6:00 PM - 7:30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nOur bodies carry so much - joy, shame, desire, dysphoria, survival. Body-Oddy is a heart-forward space to explore how we live in, love, and struggle with our queer bodies. From eating disorders to gym culture, fatphobia to healing - join us for honest convo, soft support, and zero judgement. No wrong bodies here, only real ones. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/c3525e3e-3b25-4906-bf6a-87eed63672dd.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29580/body-oddy-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584256",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 756383999,
+  "name": "The Darkroom Diaries, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "20:00-22:00",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "smut",
+      "storytellig",
+      "performance"
+  ],
+  "description": "The Darkroom Diaries\n📅 Saturday 20th September\n📍 Rich Mix, Shoreditch High St.\n⏰ 8PM - 10PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nWhat happens after dark, when things start to get hot and sweaty in the back room of a club, where you’re guided only by hands, smells, and horn? Come and listen to some hot, sensual, and X-rated stories from our esteemed group of talented writers.  \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/10e1e117-0ace-4c5b-8d42-3a219fb43795.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29592/the-darkroom-diaries-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584318",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 152063369,
+  "name": "Rope Bondage 101, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "11:00-12:30",
+  "date": "Sep 21",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "bondage",
+     "workshop",
+  ],
+  "description": "Rope Bondage 101\n📅 Sunday 21st September\n📍 Rich Mix, Shoreditch High St.\n⏰ 11AM - 12.30PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nBack by popular demand, rope artist and bondage aficionado Phantom is back, to show us how to get to grips with the basics of tying knots and tightening cinches.  \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n 📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/a16fc06c-a043-427c-ab83-4c21f8dfa860.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29591/rope-bondage-101-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584381",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 3922723859,
+  "name": "Queering Abortion, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "13:00-14:30",
+  "date": "Sep 21",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "talk",
+      "activism",
+      "discussion",
+  ],
+  "description": "Queering Abortion\n📅 Sunday 21st September\n📍 Rich Mix, Shoreditch High St.\n⏰ 1PM - 2.30PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n Bodily autonomy is one of the pillars of queer liberation and this includes reproductive freedom. Queering Abortion will bring together activists, researchers and community organisers for a two-part interactive event that asks what abortion means in theory and practice for queer people, queer relationships and queer bodies.\n Part 1: Panel conversation\nOur panellists Phil Samba (The Love Tank), Jackson King and Nicola Boydell (University of Edinburgh) will reflect on the histories and current realities of abortion care and other areas of sexual and reproductive health, drawing from their work in activism, research and community building. Together they will ask things like: How can peer - and community-led approaches support people seeking abortion? What can abortion care learn from HIV, PrEP and disability activism? This conversation will open up space for shared learning, open dialogue and practical steps towards action.\n Part 2: Creative workshop with you\nThis isn’t just about listening - it’s about imagining and working together. In the second part we are inviting you to join a creative workshop where we will explore what it means to “queer abortion.” We will imagine together what radical queer abortion futures could look like and discuss what shifts in practice, care and community might move us closer to that future. What do queer abortion futures look like? What would we need to build and change to get us there? \n No preparation is required. Just bring your curiosity and ideas. This session will be interactive, collaborative and accessible for anyone interested in the intersections of queer liberation and reproductive justice.\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/ef6a1070-5b06-4de9-b9a1-a38194be5fd4.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29590/queering-abortion-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584443",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 4082620476,
+  "name": "Dating Clinic, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "15:00-16:30",
+  "date": "Sep 21",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+     "Q&A",
+     "discussion",
+     "advice",
+     "dating"
+  ],
+  "description": "Dating Clinic\n📅 Sunday 21st September\n📍 Rich Mix, Shoreditch High St.\n⏰ 3PM - 4.30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nFinding it hard to move from online to real life? Unsure what you should and shouldn’t share on a first date? Want to know how many dates it takes to make a situationship into a relationship? Come to the dating clinic, where our resident dating doctors @leander.online and @whatsatajahism answer your burning questions, whether you’re in the talking stage or falling in love. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/e70f4d38-844c-4f55-b84d-d4ac2cebcad9.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29588/dating-clinic-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584504",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 3801789407,
+  "name": "After “Sex Work Is Work!”, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "17:00-18:30",
+  "date": "Sep 21",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "talks",
+      "discussion",
+      "social",
+      "sex-work"
+  ],
+  "description": "After “Sex Work Is Work!”\n📅 Sunday 21st September\n📍 Rich Mix, Shoreditch High St.\n⏰ 5PM - 6.30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n A professional submissive, pornstar, dancer, and rent boy walk into a cinema. All to answer the question...\n \"Sex Work is Work\" - But Now What?\nJulian's (the host) favourite slogan from sex worker freedom fighters is: \"Blowjobs are real jobs, and real jobs suck\".\nPutting aside his love for fellatio, this slogan captures much more than SWIW by highlighting the curse of working within capitalism.\nJoin us for an evening of theory, sass, and laughter as we dig into what this framing enables - and what it obscures. Our panel of sex worker activists will share stories from the past two decades: navigating stigma, building community care, organising mutual aid, speaking in Parliament, and staying safe in an increasingly hostile legal climate (hello, Online Safety Bill).\nThis conversation will explore how intimacy and care intersect with labour in the context of sex work. We’ll reflect on personal agency, boundaries, and the realities of navigating an industry shaped by stigma and inequality. Expect open dialogue that challenges assumptions and centres the voices of those with lived experience.\nThis session is a chance to move beyond the slogan and into lived experience. Come curious bring popcorn! 🍿🍿🍿\n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\nThe Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/e3beff85-8d98-4e39-aec7-7e94aaa5aa12.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29587/after-sex-work-is-work-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584572",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 4176533149,
+  "name": "Queers Do Quizzes!, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "19:00-20:30",
+  "date": "Sep 21",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "social",
+      "queer",
+      "trivia",
+      "games"
+  ],
+  "description": "Queers Do Quizzes!\n📅 Sunday 21st September\n📍 Rich Mix, Shoreditch High St.\n⏰ 7PM - 8.30 PM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nOur annual queertastic quiz is back. Think you know everything about queer film, music, sport, politics, health, and art? Well, think again! The Love Tank Team returns with the quizhoster’s mic and fires quick-fire questions, picture puzzles, and team-tagging with a twist. Come in pairs, groups, or on your own – and leave with new best queer friends and a box full of prizes! \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/d227a4e6-6b71-4882-9977-735e657b8b0e.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29586/queers-do-quizzes-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584635",
+  "generes": [
+     
+  ]
+},
+{
+  "id": 2499936187,
+  "name": "The Final Slay – Closing Party!, FREE event, part of Love Hub",
+  "venue": "Rich Mix (The Mix)",
+  "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
+  "time": "20:30-22:00",
+  "date": "Sep 21",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "dancing",
+      "party",
+      "queer",
+      "community"
+  ],
+  "description": "The Final Slay – Closing Party!\n📅 Sunday 21st September\n📍 Rich Mix, Shoreditch High St.\n⏰ 8.30 PM - 12AM\n🎟 Free Entry\n♿ All Love Hub venues have step-free access and accessible toilet facilities\n\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\nWe came, we queered, we refused to go quietly. Join us for the grand finale of the Fringe and Love Hub festival – The Final Slay. Expect beats, sweat, glitter, and some deeply emotional eye contact across the dancefloor. One last night to kiss, cry, dance and celebrate your queer little heart out – with DJs and surprises to send us off in style. \n This event is part of Fringe! Queer Film & Arts Fest and Love Hub – two festivals collaborating to create one big queer East London celebration from 13–21 September.\n📽 Explore the full Fringe! Queer Film & Arts Fest programme here\n🌈 Discover the full Love Hub programme here\n Our House Rules (and Why They Matter)\n The Love Hub is brought to you by The Love Tank, a non-profit organization promoting the health and well-being of underserved communities.\n We’re a lived experience organization: we’re queer, pro-trans, and believe that migrants make our worlds richer and more joyful. We’re proudly anti-racist and believe access to health care - including abortion - is a human right. We stand for bodily autonomy, including reproductive justice, the decriminalization of drug use and sex work, and access to gender-affirming care.\n A lot of our work focuses on sexual health, so please expect conversations that include sex and sexual well-being.\n If you’ve just discovered The Love Tank and are thinking of booking a Love Hub ticket, but find our values challenging, this is a great moment to ask yourself: “Is this space right for me?”\n Some sessions will have an official photographer present. If you do not wish to be photographed, please let us know when you arrive at a session. Unless explicitly stated otherwise, photography, video, or audio recording of panel members or audience members is not permitted. Anyone who records or photographs without consent will be asked to leave the session.\n Our events are fun, joyful, and supportive. It takes courage for presenters and facilitators to get up and share their work, so please be respectful: clap in the right places, don’t heckle, and help create a welcoming environment. If our values don’t align with yours, that’s okay - please don’t attend. We won’t mind.\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events \n  💜 Our events are free to ensure they remain accessible to our communities. However, organising them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/1d5bf96f-a80e-441a-8bff-50be2412b634.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29585/the-final-slay-closing-party-free-event-part-of-love-hub",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+      "disco",
+      "house",
+      "hip hop"
+  ]
+},
 
 
 
