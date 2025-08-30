@@ -4391,7 +4391,7 @@ const events = [
 
 {
   "id": 3563555830,
-  "name": "Black Queer Healing, FREE event, part of Love Hub",
+  "name": "Black Queer Healing",
   "venue": "The Green House | Ethical Property",
   "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
   "time": "18:00-20:00",
@@ -4418,7 +4418,7 @@ const events = [
 },
 {
   "id": 173425329,
-  "name": "Highs & Lows: Queer Harm Reduction 101, FREE event, part of Love Hub",
+  "name": "Highs & Lows: Queer Harm Reduction 101",
   "venue": "Online Event",
   "address": "Online Event",
   "time": "19:00-20:30",
@@ -4442,7 +4442,7 @@ const events = [
 },
 {
   "id": 1242932798,
-  "name": "Swish Swish Clothes Swap, FREE event, part of Love Hub",
+  "name": "Swish Swish Clothes Swap",
   "venue": "The Green House | Ethical Property",
   "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
   "time": "18:00-21:00",
@@ -4467,7 +4467,7 @@ const events = [
 },
 {
   "id": 2934708310,
-  "name": "Generation Injectables – HIV Treatment and Prevention Futures, FREE event, part of Love Hub",
+  "name": "Generation Injectables – HIV Treatment and Prevention Futures",
   "venue": "Online Event",
   "address": "Online Event",
   "time": "19:00-20:30",
@@ -4491,7 +4491,7 @@ const events = [
 },
 {
   "id": 1389960343,
-  "name": "Kinky Dyke Lounge a FREE event, part of Love Hub",
+  "name": "Kinky Dyke Lounge ",
   "venue": "The Green House | Ethical Property",
   "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
   "time": "18:30-20:30",
@@ -4519,7 +4519,7 @@ const events = [
 },
 {
   "id": 2798333116,
-  "name": "Kink Scribe, FREE event, part of Love Hub",
+  "name": "Kink Scribe",
   "venue": "Online Event",
   "address": "Online Event",
   "time": "19:00-20:30",
@@ -4544,7 +4544,7 @@ const events = [
 },
 {
   "id": 1831528418,
-  "name": "Q-Weird Science, Free event, part of Love Hub",
+  "name": "Q-Weird Science",
   "venue": "Hampstead Heath",
   "address": "n/a,  London,  n/a",
   "time": "18:00-21:00",
@@ -4571,7 +4571,7 @@ const events = [
 },
 {
   "id": 590573215,
-  "name": "Queer Disability Justice, FREE event, part of Love Hub",
+  "name": "Queer Disability Justice",
   "venue": "Online Event",
   "address": "Online Event",
   "time": "19:00-20:30",
@@ -4596,7 +4596,7 @@ const events = [
 },
 {
   "id": 2013055119,
-  "name": "10 Years of PrEPster, FREE event, part of Love Hub",
+  "name": "10 Years of PrEPster",
   "venue": "Rich Mix",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "18:30-21:00",
@@ -4620,7 +4620,7 @@ const events = [
 },
 {
   "id": 1680488479,
-  "name": "Queer Folklore, FREE event, part of Love Hub",
+  "name": "Queer Folklore",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "10:00-11:30",
@@ -4646,7 +4646,7 @@ const events = [
 },
 {
   "id": 3672551420,
-  "name": "Queer Yoga, FREE event, part of Love Hub",
+  "name": "Queer Yoga",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "10:00-11:30",
@@ -4672,7 +4672,7 @@ const events = [
 },
 {
   "id": 373429759,
-  "name": "Queering Masculinity, FREE event, part of Love Hub",
+  "name": "Queering Masculinity",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "11:00-12:30",
@@ -4699,7 +4699,7 @@ const events = [
 },
 {
   "id": 713574851,
-  "name": "Stamp Camp, FREE event, part of Love Hub",
+  "name": "Stamp Camp",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "12:00-13:30",
@@ -4725,7 +4725,7 @@ const events = [
 },
 {
   "id": 2222707762,
-  "name": "Queer Salsa, FREE event, part of Love Hub",
+  "name": "Queer Salsa",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "12:00-13:30",
@@ -4751,7 +4751,7 @@ const events = [
 },
 {
   "id": 2790876626,
-  "name": "Hormonally Yours, FREE event, part of Love Hub",
+  "name": "Hormonally Yours",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "13:00-14:30",
@@ -4777,7 +4777,7 @@ const events = [
 },
 {
   "id": 3479742193,
-  "name": "Trans Voice Academy, FREE event, part of Love Hub",
+  "name": "Trans Voice Academy",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "14:00-15:30",
@@ -4802,7 +4802,7 @@ const events = [
 },
 {
   "id": 4114910341,
-  "name": "Home Essentials, FREE event, part of Love Hub",
+  "name": "Home Essentials",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "14:00-15:30",
@@ -4828,7 +4828,7 @@ const events = [
 },
 {
   "id": 53892074,
-  "name": "Queer Eye for AI, FREE event, part of Love Hub",
+  "name": "Queer Eye for AI",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "15:00-16:30",
@@ -4856,7 +4856,7 @@ const events = [
 },
 {
   "id": 1642207870,
-  "name": "Potions & Lotions, FREE event, part of Love Hub",
+  "name": "Potions & Lotions",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "16:00-17:30",
@@ -4910,7 +4910,7 @@ const events = [
 },
 {
   "id": 3640754133,
-  "name": "The Queer Arab Salon, FREE event, part of Love Hub",
+  "name": "The Queer Arab Salon",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "17:00-18:30",
@@ -4937,7 +4937,7 @@ const events = [
 },
 {
   "id": 4189719354,
-  "name": "Luminous Beings: Gong Bath, FREE event, part of Love Hub",
+  "name": "Luminous Beings: Gong Bath",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "18:00-19:30",
@@ -4963,7 +4963,7 @@ const events = [
 },
 {
   "id": 2899579878,
-  "name": "Body-Oddy, FREE event, Part of Love Hub",
+  "name": "Body-Oddy",
   "venue": "St. Hilda's East Community Centre",
   "address": "18 Club Row,  London,  E2 7EY",
   "time": "18:00-19:30",
@@ -4990,7 +4990,7 @@ const events = [
 },
 {
   "id": 756383999,
-  "name": "The Darkroom Diaries, FREE event, part of Love Hub",
+  "name": "The Darkroom Diaries",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "20:00-22:00",
@@ -5016,7 +5016,7 @@ const events = [
 },
 {
   "id": 152063369,
-  "name": "Rope Bondage 101, FREE event, part of Love Hub",
+  "name": "Rope Bondage 101",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "11:00-12:30",
@@ -5041,7 +5041,7 @@ const events = [
 },
 {
   "id": 3922723859,
-  "name": "Queering Abortion, FREE event, part of Love Hub",
+  "name": "Queering Abortion",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "13:00-14:30",
@@ -5067,7 +5067,7 @@ const events = [
 },
 {
   "id": 4082620476,
-  "name": "Dating Clinic, FREE event, part of Love Hub",
+  "name": "Dating Clinic",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "15:00-16:30",
@@ -5094,7 +5094,7 @@ const events = [
 },
 {
   "id": 3801789407,
-  "name": "After “Sex Work Is Work!”, FREE event, part of Love Hub",
+  "name": "After “Sex Work Is Work!”",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "17:00-18:30",
@@ -5121,7 +5121,7 @@ const events = [
 },
 {
   "id": 4176533149,
-  "name": "Queers Do Quizzes!, FREE event, part of Love Hub",
+  "name": "Queers Do Quizzes!",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "19:00-20:30",
@@ -5148,7 +5148,7 @@ const events = [
 },
 {
   "id": 2499936187,
-  "name": "The Final Slay – Closing Party!, FREE event, part of Love Hub",
+  "name": "The Final Slay – Closing Party!",
   "venue": "Rich Mix (The Mix)",
   "address": "35-47 Bethnal Green Road,  London,  E1 6LA",
   "time": "20:30-22:00",
@@ -5173,6 +5173,68 @@ const events = [
       "disco",
       "house",
       "hip hop"
+  ]
+},
+{
+  "id": 190,
+  "name": "Queerky w/ LUXE",
+  "venue": "Loco Club",
+  "address": "Clock Tower Yard, Temple Meads, Bristol, United Kingdom BS1 6QH",
+  "time": "22:00-05:00",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "party",
+  "tags": [
+
+      "party",
+      "queer",
+      "techno",
+      "trance",
+      "steamy"
+  ],
+  "description": "In the UK club scene, few occupy the space that London-based artist LUXE has carved out for herself in recent years. As a DJ, she’s a fixture, noted for her eclectic yet focused selections \n\nHer ever-evolving sound has found home on labels such as HAAi’s Radical New Theory, Borne Fruits, Dansu Discs and Accidental Meetings, as well as a forthcoming release on D. Tiffany’s esteemed Planet Euphorique. \n\nJoining LUXE behind the Decks 4 of queerky’s esteemed residents: Ohana, Maxi, Emmy, Ashanti007. expect a blend of warm and electric bassy textures with genres ranging from techno to house and breakbeat rhythms. \n\nWe’re so excited to see you all there.",
+  "image": "images/queerky.png",
+  "website_link": "",
+  "ticket_link": "https://www.headfirstbristol.co.uk/whats-on/loco-klub/sat-20-sep-queerky-w-luxe-134216#e134216",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+      "bass",
+      "experimental",
+      "techno",
+      "house",
+      "electro"
+  ]
+},
+{
+  "id": 191,
+  "name": "Queer Creatives Social",
+  "venue": "Love Affair Basement",
+  "address": "324 Hackney Road,  London,  E2 7AX",
+  "time": "22:00-05:00",
+  "date": "Sep 4",
+  "price": "Free",
+  "type": "£6 to £10",
+  "tags": [
+      "social",
+      "queer",
+      "creatives",
+      "drag",
+      "burlesque",
+      "music"
+  ],
+  "description": "We're back with another night of queer performances and a social at the iconic new queer venue, Love Affair Basement 🍸 \n\nWe've got an incredible lineup of acts to be announced soon 👀 You can expect a wide range of amazing performances, from live music to drag, burlesque, and much more! \n\nQCL socials will become more regular events, so come solo, bring your friends, family and lovers and strap in for evenings full of queer joy and community! 🏳️‍🌈🏳️‍⚧️ \n\nThis event is also a great chance to meet other queer creatives from in and around London, whether you're looking to network and make connections for your next project, or have a yapping sesh and make some new friends \n\nQCL is not for profit; all profits go towards paying performers and funding for future events & projects within the collective. \n\nCome down and have a natter and a boogie. Tickets start from only £5!! What have you got to lose? ✨",
+  "image": "https://cdn.outsavvy.com/events/7ff94883-4130-4cd5-b29a-df13e6008560.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29371/queer-creatives-social",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+    
   ]
 },
 
