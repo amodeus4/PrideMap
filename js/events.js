@@ -5297,7 +5297,7 @@ const events = [
   "venue": "The Lower Third",
   "address": "26 Denmark St, London WC2H 8NJ, UK",
   "time": "23:00-03:00",
-  "date": "Sep 7",
+  "date": "Sep 19",
   "price": "£20",
   "type": "party",
   "tags": [
