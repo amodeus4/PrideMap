@@ -5193,9 +5193,9 @@ const events = [
       "steamy"
   ],
   "description": "In the UK club scene, few occupy the space that London-based artist LUXE has carved out for herself in recent years. As a DJ, she’s a fixture, noted for her eclectic yet focused selections \n\nHer ever-evolving sound has found home on labels such as HAAi’s Radical New Theory, Borne Fruits, Dansu Discs and Accidental Meetings, as well as a forthcoming release on D. Tiffany’s esteemed Planet Euphorique. \n\nJoining LUXE behind the Decks 4 of queerky’s esteemed residents: Ohana, Maxi, Emmy, Ashanti007. expect a blend of warm and electric bassy textures with genres ranging from techno to house and breakbeat rhythms. \n\nWe’re so excited to see you all there.",
-  "image": "images/queerky.png",
+  "image": "images/queerky2.png",
   "website_link": "",
-  "ticket_link": "https://www.headfirstbristol.co.uk/whats-on/loco-klub/sat-20-sep-queerky-w-luxe-134216#e134216",
+  "ticket_link": "https://ra.co/events/2235109",
   "coordinates": null,
   "sellingFast": false,
   "scraped_from": "outsavvy",
@@ -5215,8 +5215,8 @@ const events = [
   "address": "324 Hackney Road,  London,  E2 7AX",
   "time": "22:00-05:00",
   "date": "Sep 4",
-  "price": "Free",
-  "type": "£6 to £10",
+  "price": "£6 to £10",
+  "type": "social",
   "tags": [
       "social",
       "queer",
@@ -5236,6 +5236,142 @@ const events = [
   "generes": [
     
   ]
+},
+
+{
+  "id": 192,
+  "name": "LGBTQ+ Dance Party with Budino",
+  "venue": "The Carpet Shop",
+  "address": "Arch 164, 115 Rye Lane, London SE15 4ST",
+  "time": "23:00-05:00",
+  "date": "Sep 13",
+  "price": "£11.50 to £17",
+  "type": "party",
+  "tags": [
+      "party",
+      "queer",
+      "music",
+      "lgbtq+ djs"
+  ],
+  "description": "We're back with another night of queer performances and a social at the iconic new queer venue, Love Affair Basement 🍸 \n\nWe've got an incredible lineup of acts to be announced soon 👀 You can expect a wide range of amazing performances, from live music to drag, burlesque, and much more! \n\nQCL socials will become more regular events, so come solo, bring your friends, family and lovers and strap in for evenings full of queer joy and community! 🏳️‍🌈🏳️‍⚧️ \n\nThis event is also a great chance to meet other queer creatives from in and around London, whether you're looking to network and make connections for your next project, or have a yapping sesh and make some new friends \n\nQCL is not for profit; all profits go towards paying performers and funding for future events & projects within the collective. \n\nCome down and have a natter and a boogie. Tickets start from only £5!! What have you got to lose? ✨",
+  "image": "images/budino.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2217967",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 193,
+  "name": "AFTER LIFE DRAWING",
+  "venue": "Coven",
+  "address": "Queen's Yard,  London,  E9 5EN",
+  "time": "23:00-05:00",
+  "date": "Sep 7",
+  "price": "Pay What You Can",
+  "type": "workshop",
+  "tags": [
+      "workshop",
+      "drawing",
+      "queer",
+  ],
+  "description": "After moving to London a year ago Spencer found that the life drawing sessions available either didn’t feature a diverse range of models, didn’t feel like a safe space for queer people or weren’t regular enough to create a community so decided to create that space and community of like minded people. All abilities are welcome from beginner to experienced! As I will be offering options to be tutored or non-tutored. We will be here every Sunday. Materials will be provided however, if there is anything specific that you require please provide this yourself. Every week we will be hosting a diverse range of queer models.",
+  "image": "https://cdn.outsavvy.com/events/2c1bec75-5483-4f22-96fb-31ea6ce42440.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28974/after-life-drawing?fbclid=PAZXh0bgNhZW0CMTEAAadh4ToUX4WSFkEc3xc-vaPbyKR-Wl9jzpP_PLc9-Vue4EQ3ZESD8r75AvfPHA_aem_idGgebMhSDRfYVTdKX42Bg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 194,
+  "name": "Futch Night",
+  "venue": "The Lower Third",
+  "address": "26 Denmark St, London WC2H 8NJ, UK",
+  "time": "23:00-03:00",
+  "date": "Sep 7",
+  "price": "£20",
+  "type": "party",
+  "tags": [
+      "party",
+      "flinta",
+      "dancing",
+  ],
+  "description": "Your favorite queer dance party is making her way across the pond for it's UK DEBUT! \n\nHosted by Amy Ordman & Music by JPAN \n\nGuest DJs to be announced \n\n£20 at the door",
+  "image": "images/futch.png",
+  "website_link": "",
+  "ticket_link": "https://dice.fm/event/92pyl9-futch-night-19th-sep-the-lower-third-london-tickets?laylo-fid=3bfcd552964f4277baec9c4c75752ea2&laylo-pid=83ad915c-d23a-4f1f-9954-aed66d015d19",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 195,
+  "name": "FLINTA FILM CLUB",
+  "venue": "Signature Brew",
+  "address": "340 Acton Mews Haggerston E8 4EA",
+  "time": "19:00-22:30",
+  "date": "Sep 17",
+  "price": "£5.10",
+  "type": "social",
+  "tags": [
+      "social",
+      "flinta",
+      "film",
+  ],
+  "description": "FLINTA FILM CLUB screening of the 2002 iconic queer-coded comedy Bend It Like Beckham",
+  "image": "images/flintafilmclub.png",
+  "website_link": "https://www.instagram.com/537_events/?hl=en",
+  "ticket_link": "https://dice.fm/event/92pyl9-futch-night-19th-sep-the-lower-third-london-tickets?laylo-fid=3bfcd552964f4277baec9c4c75752ea2&laylo-pid=83ad915c-d23a-4f1f-9954-aed66d015d19",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 196,
+  "name": "HOWL RAVE",
+  "venue": "Egg",
+  "address": "5-13 Vale Royal, London, N7 9AP",
+  "time": "20:00-06:00",
+  "date": "Sep 19",
+  "price": "£15 to £35",
+  "type": "party",
+  "tags": [
+      "party",
+      "rave",
+      "queer",
+      "sexy",
+      "high energy",
+      "cunty"
+  ],
+  "description": "WE ARE BACK, THIS TIME TAKING OVER EGG FOR A NIGHT OF DEBAUCHERY THE ONLY WAY WE KNOW HOW... XXL",
+  "website_link": "",
+  "image": "images/howlrave.png",
+  "ticket_link": "https://ra.co/events/2229555",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+    "techno",
+  ],
+  "age": "18+"
 },
 
 
