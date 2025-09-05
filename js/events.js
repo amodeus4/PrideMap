@@ -5373,6 +5373,63 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 197,
+  "name": "UnFin'd",
+  "venue": "Moustache Bar",
+  "address": "58 Stoke Newington Road; Dalston; London N16 7XB",
+  "time": "21:00-02:30",
+  "date": "Sep 19",
+  "price": "£7 to £9",
+  "type": "party",
+  "tags": [
+      "house-party vibes",
+      "queer",
+      "high energy",
+      "cunty"
+  ],
+  "description": "The infamous UnFin’d party is finally leaving home and landing in Dalston for its second iteration this September at Moustache Bar. \n\nExpect residents DJFME and YAPATAK, alongside a host of special guest DJs, to bring the best in heavy hitters, club classics and bouncy beats.",
+  "website_link": "",
+  "image": "images/unfind.png",
+  "ticket_link": "https://ra.co/events/2209328",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+    "techno",
+    "club"
+  ],
+  "age": "18+"
+},
+{
+  "id": 198,
+  "name": "SISU",
+  "venue": "Kapsule",
+  "address": "3 Regent Road, Liverpool, L3 7DS",
+  "time": "22:00-04:00",
+  "date": "Sep 19",
+  "price": "£12 to £14",
+  "type": "party",
+  "tags": [
+      "community",
+      "queer",
+      "high energy",
+  ],
+  "description": "Sisu and Kapsule join forces to present Love International's own Ellie Stokes and Houghton and DC-10 mainstay Willow with support from Sisu resident Malissa & Percolate resident Ysanne.",
+  "website_link": "",
+  "image": "images/sisu.png",
+  "ticket_link": "https://ra.co/events/2215686",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+    "house",
+    "dub techno"
+  ],
+  "age": "18+"
+},
 
 
 
