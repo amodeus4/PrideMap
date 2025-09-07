@@ -4070,7 +4070,7 @@ const events = [
   "description": "",
   "image": "images/reposte6.png",
   "website_link": "",
-  "ticket_link": "https://adonis.eventcube.io/events/87862/our-8th-birthday",
+  "ticket_link": "https://ra.co/events/2224335",
   "coordinates": null,
   "sellingFast": false,
   "scraped_from": "outsavvy",
