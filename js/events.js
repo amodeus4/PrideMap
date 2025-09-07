@@ -5430,6 +5430,61 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 199,
+  "name": "trans~late x Tea Break",
+  "venue": "Bar A Bar",
+  "address": "133-135 Stoke Newington Road; Stoke Newington; London N16 8BT",
+  "time": "22:00-03:30",
+  "date": "Oct 25",
+  "price": "£12 to £14",
+  "type": "party",
+  "tags": [
+      "party",
+      "trans",
+      "flinta",
+  ],
+  "description": "So happy to announce Tea Break’s return with trans~late bringing you a stacked all FLINTA line up hitting the Bar A Bar basement in Stoke Newington. \n\nWe have Danni Perry headlining, Eula b2b Ayu Mesi, bemmeblu and residents Katiaki and DJ-CK going b2b for a third time.",
+  "image": "images/teabreak.png",
+  "ticket_link": "https://ra.co/events/2247927?fbclid=PAZXh0bgNhZW0CMTEAAaek1qCl-IYmWAHXJYV7vbfA5IbXpF65Gn5WfyONMchNV2el2iiJbXiqg9G7UA_aem_9h19PaL3HQ6RFv3zbHNHxw",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+    "House",
+    "Techno"
+  ],
+  "age": "18+"
+},
+{
+  "id": 200,
+  "name": "Booters Dyke+Trans Woodworking Class",
+  "venue": "Garden of Earthly Delights",
+  "address": "161 Graham Road,  London,  E8 1BT",
+  "time": "12:00-05:00",
+  "date": "Oct 4",
+  "price": "Free",
+  "type": "Workshop",
+  "tags": [
+      "woodworking",
+      "dyke",
+      "queer",
+      "trans",
+      "flinta",
+  ],
+  "description": "Booters is teaming up with The Woodshop of Recycled Delights to deliver a Dyke & Trans Woodworking Class! This will be a beginner-friendly session focusing on queer people who are often left out of woodworking spaces: dykes and trans people, inclusive of bisexual, asexual, nonbinary and gender-nonconforming identities. We'll learn the skills needed to design our own woodworking projects from reclaimed materials, and each participant will come away with their own custom toolbox - that doubles as a picnic basket/ beer holder! \n\nHackney has a proud history of lesbians and queer people using woodworking and DIY skills to build for themselves and their community: for example, fixing up derelict buildings in London Fields in the 1980s. Teaching and sharing these skills is part of our culture, and it gives us a chance to personalise and improve our homes and community spaces even with limited financial resources. \n\nThe workshop will take place over 4-5 hours with a break midway, where we'll go over the basics of using tools like drills and saws as taught by WoRD instructors. There'll be a focus on using repurposed materials like pallet wood, so that you can help the planet while saving money on your future projects! By the end, you'll have built your own multipurpose toolbox, customised to your own purposes whether it's beer cans, sex toys or poetry books. You'll even have the option to varnish it and come back when it's dried on Wednesday the 8th (International Lesbian Day) and decorate it further with the Booters and WoRD squad :)\n\nCheck out our Instagram for more info on our vibe: @bootersbutchbar",
+  "image": "https://cdn.outsavvy.com/events/adf9cb8f-a558-42ec-a605-57275d4d263c.png",
+  "ticket_link": "https://www.outsavvy.com/event/29442/booters-dyketrans-woodworking-class?fbclid=PAZXh0bgNhZW0CMTEAAadHWqzLeR2AufRXIqAkTPi95ly35c4G2YZCwGlDbcVd3Z-FbVrgizhj3IGy5g_aem_x-cvbpCDuMuWQVp1FC4Lyg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-08-29T18:04:00.584697",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
 
 
 
