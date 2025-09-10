@@ -4715,7 +4715,7 @@ const events = [
     "techno",
     "electronic"
   ],
-  "age": "21+"
+  "age": "18+"
 },
 {
   "id": 4005607035,
@@ -4745,7 +4745,37 @@ const events = [
     "techno",
     "electro"
   ],
-  "age": "21+"
+  "age": "18+"
+},
+{
+  "id": 4005607036,
+  "name": "KARMA KLUB",
+  "venue": "Electrowerkz",
+  "address": "7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom",
+  "time": "22:00-05:00",
+  "date": "Sep 12",
+  "price": "£0 to £12.70",
+  "type": "party",
+  "tags": [
+    "party",
+    "social",
+    "high-energy",
+    "queer",
+
+  ],
+  "description": "a queer utopia. \n\nHOUSE & TECHNO RAVE\n\nMULTI ROOM EVENT\n\nLINE UP - she's major.",
+  "image": "images/karma.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2230441",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+    "house"
+  ],
+  "age": "18+"
 }
 
 
