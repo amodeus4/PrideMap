@@ -1230,34 +1230,7 @@ const events = [
      
   ]
 },
-{
-  "id": 1813531518,
-  "name": "Queer Board Game Group",
-  "venue": "Retro Bar",
-  "address": "2 George Court,  London,  WC2N 6HH",
-  "time": "19:00 to 21:00",
-  "date": "Sep 15",
-  "price": "£10 to £15",
-  "type": "social",
-  "tags": [
-      "social",
-      "lgbtq+",
-      "drinks",
-      "board games"
-  ],
-  "description": "Are you queer and do you love playing board games? \nSappho runs a monthly social event for playing board games, open to LGBTQIA+ women, trans and non-binary people. \nWe have multiple tables set up with games, ranging from quick and easy games to learn for newbies, to medium-length strategy board games. If you've got a game you'd love to bring and teach others to play, please bring it too, as we will have some spare tables for wildcard games on the night. \nThis will be a really friendly environment where we can enjoy playing games with other queers who love games as much as us! Learn something new, or put a new strategy to the test, and make some new queer friends in the process!\nDates: \nMonday 18 August \nMonday 15 September\nMonday 13 October\nTime: 7-9pm\nLocation: Retro Bar, 2 George Court, Westminster, WC2N 6HH (3 minutes walk from Charring Cross underground station)\nCost: £15 standard, £10 concession. Booking in advance is essential as we have venue caps. \nAccessibility: The venue is not step-free, please contact us for access requirements.\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQIA+ women, trans and non-binary people to our events",
-  "image": "https://cdn.outsavvy.com/events/20083d67-7231-40bb-8931-80eb06c2d074.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/26758/queer-board-game-group",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-21T14:44:54.714987",
-  "generes": [
-     
-  ],
-  "age": "18+"
-},
+
 {
   "id": 4116583227,
   "name": "Queer Stitch and Sip: Scrap Textile Collage Workshop",
@@ -4767,6 +4740,36 @@ const events = [
   "image": "images/karma.png",
   "website_link": "",
   "ticket_link": "https://ra.co/events/2230441",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+    "house"
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607037,
+  "name": "A Very Very Gay Day Party",
+  "venue": "Vittoria Wharf Studio",
+  "address": "Vittoria Wharf Yard, Hackney Wick, E3 2NT",
+  "time": "15:00-23:00",
+  "date": "Sep 14",
+  "price": "£14 to £16",
+  "type": "party",
+  "tags": [
+    "day party",
+    "euphotic",
+    "high-energy",
+    "sweaty",
+
+  ],
+  "description": "a very very gay london debut → featuring all our friends.",
+  "image": "images/avery.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2241822",
   "coordinates": null,
   "sellingFast": false,
   "scraped_from": "ra",
