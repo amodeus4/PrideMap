@@ -4859,7 +4859,7 @@ const events = [
 
   ],
   "description": "this sunday 14th from 11am is our end of summer fair ☀️ .. limited edition merch and wine from us.. as well as lots of clothes, books, cakes, food, toys, jewellery, tooth gems, etc from loads of lovely sellers 🕊️🍷🩷",
-  "image": "images/summerfair.png",
+  "image": "images/summermarket.png",
   "website_link": "https://www.instagram.com/camionera.e9/?hl=en&g=5",
   "ticket_link": "",
   "coordinates": null,
