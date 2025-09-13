@@ -4779,7 +4779,156 @@ const events = [
     "house"
   ],
   "age": "18+"
-}
+},
+{
+  "id": 4005607038,
+  "name": "Dyke March Social",
+  "venue": "The People's Tavern",
+  "address": "360 victoria park road, E9 7BT",
+  "time": "18:00-22:30",
+  "date": "Sep 18",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "social",
+    "outdoor",
+    "inclusive",
 
+
+  ],
+  "description": "Come to the @peoplestavern by Victoria Park with us on the 18 Sept, 6pm-close 🌳 \n\nWe’re finally giving the d¥kes what they want and coming to East! ➡️ \n\nIf you’re new to our socials it’s basically just a load of dykes taking over a pub for an evening and making it our own! 🍻 \n\nIt’s free, we always choose accessible venues, they’ll be some crafts so you have something to do with your hands and we’ve made sure the pubs are dyke/trans friendly! 🏳️‍⚧️ \n\nHave a flirt, meet your new best friend or reconnect with your ex…the possibilities are endless in a room full of d¥kes! ⛓️ \n\nSee you all next Thursday on the 18th Sept my loves 💋 \n\n📸 Cover photo taken by @ellenkydd",
+  "image": "images/dykemarchsocial.png",
+  "website_link": "https://www.instagram.com/dyke_march/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": ""
+},
+{
+  "id": 4005607039,
+  "name": "Against The Horrors",
+  "venue": "The old Nun's Head",
+  "address": "15 Nunhead Green, London, SE15 3QQ",
+  "time": "21:30-02:00",
+  "date": "Nov 15",
+  "price": "£5 to £10",
+  "type": "party",
+  "tags": [
+    "fundraiser",
+    "free palestine",
+    "halloween",
+    "community",
+    "dance"
+
+
+  ],
+  "description": "Against The Horrors: Dyke March X theflavouroftears \n\nWe are hosting a big halloween party at the Old Nun's Head to raise money for Palestinian causes and community gender care! \n\nCome in solidarity, come in protest and come in costume! Dyke March and theflavouroftears present to you a sapphic south london spooky soiree to sink your teeth into. \n\nFull list of DJs and activities to be announced but expect arm wrestling, crafts and a COSTUME CONTEST with PRIZES (of course including theflavouroftears tattoo vouchers!) \n\nDykes, come dance and raise some money, because we only have each other. \n\nAll the money from ticket sales and merch will be split 50/50 between Palestinian causes and gender care fundraisers.",
+  "image": "https://cdn.outsavvy.com/events/73a62b51-ce8f-43aa-9726-6d08c0e777de.jpg",
+  "website_link": "https://www.instagram.com/dyke_march/?hl=en&g=5",
+  "ticket_link": "https://www.outsavvy.com/event/30100/against-the-horrors-dyke-march-x-theflavouroftears?utm_campaign=linkinbio&utm_medium=referral&utm_source=later-linkinbio",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607040,
+  "name": "End of Summer Fair",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "11:00-16:00",
+  "date": "Sep 14",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "book market",
+    "pastries",
+    "clothes",
+    "jewelry",
+    "tooth gems"
+
+
+  ],
+  "description": "this sunday 14th from 11am is our end of summer fair ☀️ .. limited edition merch and wine from us.. as well as lots of clothes, books, cakes, food, toys, jewellery, tooth gems, etc from loads of lovely sellers 🕊️🍷🩷",
+  "image": "images/summerfair.png",
+  "website_link": "https://www.instagram.com/camionera.e9/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607041,
+  "name": "Queer Climbers of Colour",
+  "venue": "Rise Climbing",
+  "address": "Unit 6, Caxton Works, Hoy St, London, E16 1ZA",
+  "time": "17:00-22:00",
+  "date": "Sep 27",
+  "price": "£10.50",
+  "type": "workshop",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "karaoke",
+    "social",
+    "poc"
+
+  ],
+  "description": "Queer Climbers London and Wanderers of Colour are joining forces yet again for some bouldering and boardgames, but this time we are joined by the incredible Lez Girls 🎉 AND there will be karaoke 🎤 too!\n\n📅 Saturday 27 Sept 2025 \n🕔 17:00 – 22:00 \n📍 Rise Climbing, Unit 6, Caxton Works, Hoy St, London, E16 1ZA \n\n🎟 Discounted entry: £10.50 \n💜 Support your gym: £14 \n👟 Free shoe hire (normally £3.50) \n🙌 Thanks to Rise, we also have 2 fully funded climbing spots for those on no/low income. \n\n✨ Whether it’s your first time bouldering or you’re an experienced climber looking for a friendly QTIBPOC community, this event is for you! \n\nWhat to expect: \n\n🌟 A fun & friendly bouldering session + social for QTIBPOC \n🌟 A supportive & welcoming environment \n🌟 Meet new people & make friends \n🌟 All climbing experience welcome! \n\n💜 Nervous about coming alone? Don’t worry, we’ve all been there! Lots of people attend solo, and our facilitators will be there to introduce you and help you feel welcomed. You can also request a buddy ahead of the event. \n\nAccessibility: Full details available on Ticket Tailor. \n\n🔗 Sign up here or via the link in our bio!: https://tinyurl.com/mvz2vma6 \n\nWe can’t wait to climb, eat, sing & play board games with you! 🎤🧗🏽‍♀️🎲✨",
+  "image": "images/climbing.png",
+  "website_link": "https://www.instagram.com/wanderersofcolour/?hl=en&g=5",
+  "ticket_link": "https://www.tickettailor.com/events/wanderersofcolour/1855312",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607042,
+  "name": "Queer House Party x King Princess: Girl Violence",
+  "venue": "COVEN",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "19:00-01:00",
+  "date": "Sep 26",
+  "price": "£5 to £15",
+  "type": "party",
+  "tags": [
+    "release party",
+    "music",
+    "djs",
+    
+
+  ],
+  "description": "Queer House Party is joining forces with the iconic King Princess and her NYC party, Bazongas, to throw the official London Girl Violence release party.",
+  "image": "https://cdn.outsavvy.com/events/69ddfeb9-125a-4dfe-bd1c-660b6966b23f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30079/queer-house-party-x-king-princess-girl-violence?fbclid=PAZXh0bgNhZW0CMTEAAafJXC8Or_1JzIq1bu5EFNN14TxBJ_F4ae7T3PcYPXPiRjF8y-9THnKIYrCz2w_aem_8uV3ul5QReyeFmudVS-YGQ",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
 
 ];
