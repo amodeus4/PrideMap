@@ -1991,7 +1991,7 @@ const events = [
   "name": "CLUB ARE",
   "venue": "Hackney Bridge",
   "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-  "time": "10:30-11:45",
+  "time": "15:00-02:00",
   "date": "Sep 20",
   "price": "£16.50 to £27.50",
   "type": "party",
@@ -4393,7 +4393,7 @@ const events = [
   "venue": "The Common Press Bookshop",
   "address": "118 Bethnal Green Road,  London,  E2 6DG",
   "time": "19:00-21:30",
-  "date": "Sep 15",
+  "date": "Oct 6",
   "price": "Pay what you can",
   "type": "workshop",
   "tags": [
