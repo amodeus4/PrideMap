@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://onmygaydar.com/sitemap.xml
+Sitemap: https://qro-wd.com/sitemap.xml
 
 # Security
 Disallow: /admin/

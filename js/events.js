@@ -2165,34 +2165,7 @@ const events = [
   ],
   "age": "18+"
 },
-{
-  "id": 2051331641,
-  "name": "Lesbian Singles Night at La Camionera (16/09/25)",
-  "venue": "243 Well St",
-  "address": "243 Well Street,  London,  E9 6RG",
-  "time": "19:00-23:00",
-  "date": "Sep 16",
-  "price": "Free",
-  "type": "social",
-  "tags": [
-      "speed dating",
-      "lgbtq+",
-      "lesbian",
-      "bisexual",
-      "drinks"
-  ],
-  "description": "Join us for an evening of speed dating, live matchmaking, and cocktails. \n\nSpeed dating starts at 7 PM, but feel free to arrive from 4pm to grab a drink, chat with others and meet some new faces before it all kicks off.\n\nFree tickets, and walk-ins are welcome after the event has started :) ! But we recommend you book ahead as it gets quite busy. \n All ages are welcome, see you Tuesday! \n XOXO\n This is a LGBTQTIA+ event",
-  "image": "https://cdn.outsavvy.com/events/f467c5ac-9671-4946-9163-86f439762b66.jpeg",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29648/lesbian-singles-night-at-la-camionera-160925",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-29T18:04:00.580430",
-  "generes": [
-     
-  ]
-},
+
 
 {
   "id": 4069477203,
