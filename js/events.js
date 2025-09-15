@@ -1042,7 +1042,7 @@ const events = [
     "address": "83 Southwark Street,  London,  SE1 0HX",
     "time": "19:00-20:00",
     "date": "Sep 18",
-    "price": "£32",
+    "price": "Sold Out",
     "type": "social",
     "tags": [
         "dancing",
@@ -3196,6 +3196,7 @@ const events = [
       "party",
       "flinta",
       "dancing",
+      "influencer vibes"
   ],
   "description": "Your favorite queer dance party is making her way across the pond for it's UK DEBUT! \n\nHosted by Amy Ordman & Music by JPAN \n\nGuest DJs to be announced \n\n£20 at the door",
   "image": "images/futch.png",
@@ -3206,6 +3207,7 @@ const events = [
   "scraped_from": "outsavvy",
   "scraped_date": "2025-08-29T18:04:00.584697",
   "generes": [
+    "pop"
   ],
   "age": "18+"
 },
@@ -4894,6 +4896,36 @@ const events = [
   "image": "https://cdn.outsavvy.com/events/69ddfeb9-125a-4dfe-bd1c-660b6966b23f.jpg",
   "website_link": "",
   "ticket_link": "https://www.outsavvy.com/event/30079/queer-house-party-x-king-princess-girl-violence?fbclid=PAZXh0bgNhZW0CMTEAAafJXC8Or_1JzIq1bu5EFNN14TxBJ_F4ae7T3PcYPXPiRjF8y-9THnKIYrCz2w_aem_8uV3ul5QReyeFmudVS-YGQ",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607043,
+  "name": "BODYSWAP",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-02:30",
+  "date": "Sep 17",
+  "price": " PWYC to £5",
+  "type": "party",
+  "tags": [
+    "party",
+    "trans",
+    "dancing",
+    "fundraiser"
+    
+
+  ],
+  "description": "BodySwap is a weekly party for the trans community, it celebrates and platforms trans* artists from diverse backgrounds, while raising crucial funds. BodySwap is by and for trans people. Each week they raise money for a trans person’s healthcare, so come through and party in community with the transexuals of Kingsland Road. ",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/06/generic-IG-819x1024.png",
+  "website_link": "",
+  "ticket_link": "https://dalstonsuperstore.com/event/bodyswap-94/",
   "coordinates": null,
   "sellingFast": false,
   "scraped_from": "instagram",
