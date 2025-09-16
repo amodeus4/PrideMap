@@ -1314,34 +1314,7 @@ const events = [
   ],
   "age": "18+"
 },
-{
-  "id": 3564226852,
-  "name": "The Platform",
-  "venue": "The Karaoke Hole",
-  "address": "95 Kingsland High Street,  London,  E8 2PB",
-  "time": "20:00-21:00",
-  "date": "Nov 20",
-  "price": "£10 to £12",
-  "type": "social",
-  "tags": [
-      "queer",
-      "performance",
-      "drinks",
-   
-  ],
-  "description": "The Platform started in the basement of Off Broadway bar in Hackney, in 2008. It is a performance-focused event, surreal, abstract, absurd, radical, political, humorous and non-sensical. Heavily influenced and inspired by DaDa and The Surrealists and Situationist International. It is however, the 21st century and the practice presented here will refelct that, or not. \nIt continued in other places and spaces over the years and now it is back in another basement in Hackney, form Ray's bar (as it was once called) to now Karaoke Hole. \n Performance (live or in film)\nDJ (specific soundscapes)\nCocktails (bespoke)\nDiscussion\nLimited Edition merch\n ",
-  "image": "https://cdn.outsavvy.com/events/5b78f8a5-60d9-4775-9617-cb2402150ed1.jpg",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29521/the-platform",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-21T14:44:54.715629",
-  "generes": [
-      "experimental"
-  ],
-  "age": "18+"
-},
+
 {
   "id": 165,
   "name": "STRUT",
@@ -1783,36 +1756,7 @@ const events = [
       "hip hop"
   ]
 },
-{
-  "id": 2461993473,
-  "name": "Scientists On Survival",
-  "venue": "The Common press",
-  "address": "118 Bethnal Green Road,  London,  E2 6DG",
-  "time": "19:00-21:00",
-  "date": "Sep 17",
-  "price": "Pay what you can",
-  "type": "workshop",
-  "tags": [
-      "high energy",
-      "gay",
-      "bisexual",
-      "workshop",
-      "art",
-      "activism",
-      "comedy"
-  ],
-  "description": "Join us for an evening of climate justice as we talk about a powerful and timely collection from Scientists for XR, a group of scientists who have chosen to step out of the lab and onto the streets in defence of our planet. Come along on 17th September from 7pm - 9pm.\nAsk questions and hear the personal stories of scientists from across disciplines — biologists, physicists, mathematicians, ecologists and more — as they share what led them to work with Extinction Rebellion. From quiet moments of reckoning to bold acts of non-violent direct action, we will explore the urgent realities of the climate and ecological crisis, as well as the deeply human motivations behind their activism.\nThese are human stories. Whether sparked by a childhood memory, a moment in the classroom, or a walk through a vanishing landscape, these reflections invite us to feel the weight of the crisis — and the necessity of collective action.\n Featuring\n Dr Lucy Hogarth is a scientist, freelance artist and climate activist. She earned her PhD in Astrophysics at University College London (UCL) and has been a member of Scientists for Extinction Rebellion for over 5 years. In that time, she also provided artwork for Extinction Rebellion and many of its sister groups. She identifies as pansexual and has both Autism and ADHD, which led her to advocate for inclusivity during her time in research. Currently, she designs, writes and produces a live, animated sci-fi series called Tales from the Fray.\nDr Pete Knapp is an air quality scientist and currently making a film called Fires and Fascism linking wildfires in southern Europe with the slip toward far right politics. He wrote the chapter ‘Why I no longer fly’ in the book. \nDr Tristram Wyatt is a gay zoologist, who has written books on animal behaviour. His chapter is about how stand-up comedy has given him a new way to talk about climate.",
-  "image": "https://cdn.outsavvy.com/events/3c5c841b-40cc-4cec-ad73-3fa66eae82fb.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/28776/scientist-on-survival",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-25T09:07:44.879912",
-  "generes": [
-      "nan"
-  ]
-},
+
 
 {
   "id": 3755903762,
@@ -2166,36 +2110,6 @@ const events = [
   "age": "18+"
 },
 
-
-{
-  "id": 4069477203,
-  "name": "40+ Lesbian Singles Night at La Camionera (28/09/25)",
-  "venue": "243 Well St",
-  "address": "243 Well Street,  London,  E9 6RG",
-  "time": "19:00-23:00",
-  "date": "Sep 29",
-  "price": "Free",
-  "type": "social",
-  "tags": [
-      "speed dating",
-      "lgbtq+",
-      "lesbian",
-      "bisexual",
-      
-  ],
-  "description": "As you know every Tuesday, we host a singles night at La Camionera  - and they’ve been so fun, but we heard there was still a little something special missing. \n So we had to set aside a special night to kick off your week right… \n On Sunday 28th September, singles night is 40 and over, for people to meet, chat, and maybe feel a bit more in sync with the room - we thought it might be nice to have a night that speaks to a slightly older crowd too.\n Our regular Tuesdays are still for everyone and all ages -  they’re not going anywhere!\n So if you're in your 40s, 50s, 60s or beyond—you’re very welcome here. Come as you are, bring your stories, your playlists, your chaos, whatever.\n Speed dating starts around 7.30pm, but feel free to come by from 5 to have a drink, meet some people, and settle in before we get started.\n See you Monday xxxx\n *This is an LGBTQIA+ event ",
-  "image": "https://cdn.outsavvy.com/events/14585d36-d739-4451-8346-8e44be8300d4.jpg",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29654/40-lesbian-singles-night-at-la-camionera-290925",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-29T18:04:00.580592",
-  "generes": [
-      "nan"
-  ],
-  "age": "40+"
-},
 
 {
   "id": 4163896303,
@@ -5066,6 +4980,7 @@ const events = [
 
   ],
   "description": "Think DIY project gone deliciously wrong—overalls, toolbelts, power drills, and plenty of sexy chaos on the dancefloor. Expect a stacked lineup of sultry, sinister performances from London’s hottest dyke talent, alongside DJs spinning R&B, slut pop, gay bops, and filthy remixes all night long. With a welfare team, first aid on hand, and a big outdoor terrace to cool down on, STRAPPED is bringing spooky, scaroused energy to queer Halloween the way only they can.",
+  "image": "https://cdn.outsavvy.com/events/92glad-strapped-diyke-nightmare-17th-oct-coven-london-tickets.png",
   "website_link": "https://www.instagram.com/strapped.events/?hl=en&g=5",
   "ticket_link": "https://dice.fm/partner/dice/event/92glad-strapped-diyke-nightmare-17th-oct-coven-london-tickets?dice_id=7098371&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAaeJrIf-UUJHuquT4VKUwWaSsZTnrh7L5s4SqViSwi_HQXAncHtSg-eBhdoZrQ_aem_GGLL38ikp31sGgkcJs-M-A&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXB2wqCMBgA4LfpzkNqZYHEktBMI5knvBGd0w3P%2FxTveva%2Bj63rLG6K0vOxk2tOqNwMijgbOjFNTdOv5b2pSM9r64vyjKlV%2B2F5qtpB9ESopB68GimOPXdbtshI3vGelljk0Qjs4p%2BEgZeE450XbpihkbgrbiX6YPWUQ1iUdCgcx%2Fd1k3ezfhRO2xFPSIGEDj%2BgDQXgY1tUMO2CgmUzmAb6B%2BuLohiuAAAA",
   "coordinates": null,
