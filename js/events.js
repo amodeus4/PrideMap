@@ -4448,58 +4448,7 @@ const events = [
     "hip hop"
   ]
 },
-{
-  "id": 3130813777,
-  "name": "Poem Book Launch by Laura Cannon: 'I Wait for the Halfway Echo'",
-  "venue": "The Common press",
-  "address": "118 Bethnal Green Road,  London,  E2 6DG",
-  "time": "19:00-21:00",
-  "date": "Sep 30",
-  "price": "Pay what you can",
-  "type": "workshop",
-  "tags": [
-    "queer",
-    "books",
-    "launch party"
-  ],
-  "description": "Join us at the Common Press at 7pm of September 30th for the launch of lesbian poet Laura Cannon’s debut collection, I Wait for the Halfway Echo. \nI Wait for the Halfway Echo is a powerful exploration of queer desire, selfhood and the body, published by eidolon ink, a London-based publisher uniting the politics within books with politics outside them.\n SPEAKERS\nLaura Cannon: is a lesbian poet from Australia, currently living in London. I Wait for the Halfway Echo  is her first book.\nAlasdair Cannon: is an Australian writer based in London. He is a co-founder of eidolon ink and author of its first title, Infinite Discontent: Writings on the Allure of Fascism. His debut essay collection, Holding Patterns, was published by Bonfire Books in 2022. \n  I Wait for the Halfway Echo fixes, with startling poise and clarity of vision, the experience of desire as both a pulsion through the physical body and a force that traverses day-to-day existence, elevating quotidian experiences of pleasure and pain into a cosmic realm that exceeds the human. \nFrom heated dalliances in dark alleys to dry and crusty drug comedowns, from the ever-wanting excitement of the flesh to blood-stained fingernails clawing through the burning Outback, Laura Cannon’s debut poetry collection is an exhilarating treatise on the self’s relationship with its own wanting. \nBoldly experimental in form and immediately arresting in imagery, Cannon’s verse explores our sexual desires, our grief, our pain and our pleasure. Ultimately, it asks if desire is an act of our own creation, or something through which we make ourselves.\nPre-order the book here.",
-  "image": "https://cdn.outsavvy.com/events/891fe761-f3ef-44e9-bdec-7b6336f088b3.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29401/poem-book-launch-by-laura-cannon-i-wait-for-the-halfway-echo",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-10T11:20:30.430328",
-  "generes": [
-    "disco",
-    "electronic"
-  ]
-},
-{
-  "id": 1142774401,
-  "name": "Book Launch: The Sovereign by C.L. Clark",
-  "venue": "The Common press",
-  "address": "118 Bethnal Green Road,  London,  E2 6DG",
-  "time": "19:00-21:30",
-  "date": "Oct 2",
-  "price": "Pay what you can",
-  "type": "social",
-  "tags": [
-    "book launch",
-    "literary"
-  ],
-  "description": "The Common Press invites you to the exclusive book launch of The Sovereign by C.L. Clark, the highly anticipated conclusion to the Magic of the Lost trilogy. Join us on Thursday, 2nd October from 7 pm - 9:30 pm for an evening of celebration with book sales, signings, limited complimentary drinks, and a special speech from C.L. Clark. \n Publication date: 30th September 2025\nListen to Magic to the Lost trilogy playlist HERE\n About The Sovereign\nLuca is the new queen of Balladaire. Her empire is already splintering in her hands. Her uncle wasn't the only traitor in the court, and the Withering plague will decimate her people if she can't unearth Balladaire's magic. The only person who can help her wants the only thing Luca won't give-the end of the monarchy.\n\nTouraine is Luca's general. She has everything she ever wanted. While Luca looks within Balladaire's borders, Touraine looks outward-the alliance with Qazal is brittle and Balladaire's neighbors are ready to pounce on its new weakness. When the army comes, led by none other than Touraine's old lover, Touraine must face the truth about herself-and the empire she once called home.\n\nA storm is coming. Touraine and Luca will stand against it together, or it will tear them apart once and for all.\n\nMagic of the Lost\nThe Unbroken\nThe Faithless\nThe Sovereign \n About C.L. Clark\nPhoto by Zanele Muholi \n C. L. Clark (they / She) is a BFA award-winning editor and the Nebula Award-nominated author of The Unbroken and The Faithless, the first books of the Magic of the Lost trilogy, several short stories, and a few essays. When she's not imagining the fall of empires, she's trying not to throw her kettlebells through the walls.\n Doors open at 7 pm \nBook signings and sales all evening\nEvent ends at 9:30 pm ",
-  "image": "https://cdn.outsavvy.com/events/a78f4cc3-e108-45df-b034-f219d82fd7ac.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29938/book-launch-the-sovereign-by-cl-clark",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-10T11:20:30.430388",
-  "generes": [
-   
-  ]
-},
+
 {
   "id": 1943678693,
   "name": "S/HE IS STILL HER/E - The Official Genesis P-Orridge Documentary Screening",
@@ -4525,60 +4474,6 @@ const events = [
     "hip hop"
   ]
 },
-{
-  "id": 2746144989,
-  "name": "Book event - Queer Moderns: Max Ewing's Jazz Age New York with Alice T. Friedman",
-  "venue": "The Common press",
-  "address": "118 Bethnal Green Road,  London,  E2 6DG",
-  "time": "19:00-21:00",
-  "date": "Oct 7",
-  "price": "Pay what you can",
-  "type": "social",
-  "tags": [
-    "social",
-    "lgbtq+",
-    "art",
-    "music"
-  ],
-  "description": "Join us for a special evening with Dr Alice T. Friedman on 7th October from 7 pm - 9 pm as she presents Queer Moderns, a beautiful exploration of the queer avant-garde of the 1920s and ’30s in New York, Paris, and Venice. There will be a discussion and Q&A with host Dr. Joshua Mardell, an architectural historian and a lecturer at the Royal College of Art.\n\"A vibrant portrait of queer bohemia. . . . Friedman’s appreciative biography vividly conveys the spirited ambience of the interracial, international community of queer outsiders and intellectuals among whom, for his short life, Ewing thrived.\"—(Kirkus Reviews)\nAbout the Book\nThrough the life and lens of Max Ewing (1903–1934)—a young musician, photographer, and man-about-town who, although virtually unknown today, moved in extraordinary circles. In his photographs and letters, we meet the rising stars of modern art, music, dance, and literature and enter a world of interracial friendship, “queer space,” and experimentation that shone brightly before being swept away by the Depression. It is a remarkable story that reveals that the history of modernism is more queer and more Black than previously recognized.\n \"Ewing’s ambition, the glamorous photographic record, and his name-dropping letters make for a winning combination. . . . Queer Moderns is lively and well written, a sympathetic portrait of a needy dilettante who strove brightly until his tragic emotional crash.\"—(Trevor Fairbrother, The Arts Fuse)\n\"Friedman skillfully illuminates a world usually hidden behind a curtain of societal restrictions. This remarkable book will be a welcome addition to LGBTQIA+ and art history collections.\"—(Library Journal)\n About the Author: Dr Alice T. Friedman \n Alice T. Friedman is the Grace Slack McNeil Professor Emerita of American Art at Wellesley College and founding codirector of its Architecture Program. Her books include American Glamour and the Evolution of Modern Architecture and Women and the Making of the Modern House: A Social and Cultural History.\n \"[a] sumptuous and sensitive narrative of Ewing and his cohort. Ms. Friedman expertly demonstrates that modernism, as Ewing encountered it, was everywhere — not just in high art.\"—(Carl Rollyson, New York Sun)\n About the Host: Dr. Joshua Mardell\n Dr. Joshua Mardell, FSA, is an architectural historian and a lecturer at the Royal College of Art. With Adam Nathaniel Furman he edited Queer Spaces: an Atlas of LGBTQIA+ Places & Stories (RIBA, 2022). He is currently writing an Anglo-American study about women preservation activists in the mid-C20 and is one of the editors of the Journal of Architecture.\n Doors open at 19:00\nDiscussion & Q&A from 19:10 - 20:00 \nSignings and social 20:00-21:00\n ",
-  "image": "https://cdn.outsavvy.com/events/ddf0defe-40e5-46e8-8174-1220a462c327.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29576/book-event-queer-moderns-max-ewings-jazz-age-new-york-with-alice-t-friedman",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-10T11:20:30.430506",
-  "generes": [
-    "jazz"
-
-  ]
-},
-{
-  "id": 1960454245,
-  "name": "No is Not a Lonely Utterance Book Launch",
-  "venue": "The Common press",
-  "address": "118 Bethnal Green Road,  London,  E2 6DG",
-  "time": "19:00-21:00",
-  "date": "Nov 6",
-  "price": "Pay what you can",
-  "type": "workshop",
-  "tags": [
-    "book launch",
-    "litarary"
-  ],
-  "description": "“Behind many disasters are unheard complaints”\n\nTo complain is an intimate, dangerous act. Whether it’s speaking up about racism in the workplace or taking a stand against sexual harassment at university, the act of complaining to an institution can leave you isolated and undermined, all while the original injustice remains unresolved. Time and time again, we see these unanswered complaints compound to disastrous effect.\n\nIn No is Not a Lonely Utterance, Sara Ahmed dissects the anatomy of a complaint, revealing how institutions create hostile environments that stigmatise complainers, and charts a way we can listen to grievances with ‘feminist ears’: going beyond mere validation and seeking instead to address the root causes of injustice and inequality.\n\nWeaving together testimonies from various walks of life, Ahmed shows us what we learn about the ways institutions exercise their power when complaints are raised, and indeed what we learn about our capacity to collectivise and create social bonds through complaint. In doing so, she inspires us to create better environments for our life’s work.\n On November 6th, Sara Ahmed will be at The Common Press to talk about her book from 7 PM, so get your ticket to be part of this wonderful evening.\n About the author:\nSara Ahmed is an independent feminist scholar who works at the intersection of feminist, queer and race studies. Her research is concerned with how bodies and worlds take shape; and how power is secured and challenged in everyday life as well as institutional cultures. She has published eleven books including The Feminist Killjoy Handbook \n Praise for No Is Not a Lonely Utterance\n\n‘Sara Ahmed always has her finger on the pulse of the times’ – Angela Davis\n\n‘A brilliant feminist thinker… Ahmed moves from scene to scene with clarity, rage, and joy,\nbuilding through each refrain to mark the brutal violence of everyday encounters’ – Judith Butler",
-  "image": "https://cdn.outsavvy.com/events/deecfbad-9c9c-4415-bf99-b385d850e35f.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/30019/no-is-not-a-lonely-utterance-book-launch",
-  "coordinates": null,
-  "sellingFast": true,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-10T11:20:30.430630",
-  "generes": [
-    
-  ]
-},
-
 
 {
   "id": 2487106794,
@@ -4932,6 +4827,254 @@ const events = [
   "scraped_date": "2025-09-10T11:20:30.430892",
   "generes": [
     
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607044,
+  "name": "Performative Butch Contest",
+  "venue": "Old Nun's Head Pub",
+  "address": "London, SE15 3QQ",
+  "time": "18:00-late",
+  "date": "Sep 20",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "contest",
+    "fun",
+    "butch",
+    "after party"
+    
+
+  ],
+  "description": "To enter the contest, you just need to sign up at the link in bio and get down to the Old Nun’s Head by 6.45pm on the day! You do not need to identify as butch/stud outside of the contest, just make sure you come channeling your most performative butch energy 💪 \n\nThe contest is free to watch, we’d just suggest getting down early to guarantee a good view (or flag with us when RSVPing if you have access needs that require seating). Please consider tipping your judges for their work putting on this event!",
+  "image": "https://cdn.outsavvy.com/events/ccca9bd6-9cdc-453a-9824-fe941428d02a.png",
+  "website_link": "https://www.instagram.com/bootersbutchbar/?hl=en&g=5",
+  "ticket_link": "https://www.outsavvy.com/event/30092/the-performative-butch-contest?fbclid=PAZXh0bgNhZW0CMTEAAadwE5igaZhsPsSfaDJfCz9IE882q-6_INl7e8hmlhBjVEqSqg6qHgtBaXBWlw_aem_ghaFuj62f09hvqcUDX0-EA",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607045,
+  "name": "QueerSwap Book Swap & Socials",
+  "venue": "Theatre Deli",
+  "address": "107 Leadenhall Street,  London,  EC3A 4AFQ",
+  "time": "19:00-22:00",
+  "date": "Sep 24",
+  "price": "Pay What You Can",
+  "type": "social",
+  "tags": [
+    "relaxed",
+    "collaborative",
+    "DIY",
+    "bookmark workshop"
+    
+
+  ],
+  "description": "Join us for a Queer Book Swap and Social! Bring up to 5 pre-loved books to swap, and enjoy mixing and mingling with other bookish queers in this cozy, inclusive space. The books do not have to be specifically queer, but if they are, even better! \n\nMake a one-of-a-kind bookmark using upcycled materials. All supplies are provided, and no experience is needed!  ",
+  "image": "https://cdn.outsavvy.com/events/a7b3e227-d6f3-4a1b-b09e-130de92567f7.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30033/queerswap-book-swap-socials-at-theatre-deli",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607046,
+  "name": "QueerSwap Book Swap & Socials",
+  "venue": "Theatre Deli",
+  "address": "107 Leadenhall Street,  London,  EC3A 4AFQ",
+  "time": "19:00-22:00",
+  "date": "Nov 21",
+  "price": "Pay What You Can",
+  "type": "social",
+  "tags": [
+    "relaxed",
+    "collaborative",
+    "poetry workshop",
+    "open mic"
+    
+
+  ],
+  "description": "Join us for a Queer Book Swap and Social! Bring up to 5 pre-loved books to swap, and enjoy mixing and mingling with other bookish queers in this cozy, inclusive space. The books do not have to be specifically queer, but if they are, even better! \n\nJoin a brief poetry workshop led by PJ, followed by an open-mic!\nSlots are 2 minutes for poetry/prose and 4 minutes for live music or comedy. \nYou can sign-up upon arrival. Music must be sent to queerswap@gmail.com in advance. ",
+  "image": "https://cdn.outsavvy.com/events/a7b3e227-d6f3-4a1b-b09e-130de92567f7.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30033/queerswap-book-swap-socials-at-theatre-deli",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607047,
+  "name": "CARABINER: HALLOWEEN",
+  "venue": "Colours Hoxton",
+  "address": "2-4 Hoxton Square,  London,  N1 6NU",
+  "time": "21:00-02:00",
+  "date": "Oct 24",
+  "price": "£12 to £20",
+  "type": "party",
+  "tags": [
+    "halloween",
+    "party",
+    "karaoke",
+    "sexy",
+    "lesbian",
+    "trans",
+    "nb"
+
+    
+
+  ],
+  "description": "Carabiner: Halloween is a dyke-centered queer club night bringing together dykes, trans folks, enbies, and GNC babes for a sweaty, spooky celebration at Colours Hoxton. With a pre-drinks social hour for solo comers, banging DJs, an all-night karaoke room, temporary tattoos, and a gogo lineup that’s hot as hell, the night is all about queer joy, mischief, and connection. Expect no exclusivity, no bad vibes—just a safe, sexy, and subversive space where the dress code is simple: scare a Tory on your way in.",
+  "image": "https://cdn.outsavvy.com/events/23d32211-b9d4-44ea-a6c9-5c4443d54606.png",
+  "website_link": "https://www.instagram.com/bigqueerpicnic/?hl=en",
+  "ticket_link": "https://www.outsavvy.com/event/29790/carabiner-halloween",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607048,
+  "name": "TIARA NIGHT TAKEOVER",
+  "venue": "Piehouse Co-Op",
+  "address": "213-214 Edward Place,  London,  SE8 5HD",
+  "time": "18:30-23:59",
+  "date": "Sep 25",
+  "price": "£8",
+  "type": "party",
+  "tags": [
+    "art",
+    "market",
+    "community",
+    "exhibition",
+    "live music"
+
+  ],
+  "description": "Tiara Night returns for another evening of music, art, and community—this time taking over the cozy and creative space of Piehouse Co-op in Deptford. Expect soulful live performances from Zoiya, Meg, and Solar, alongside a vibrant makers market showcasing independent artists and hand-crafted creations. Built on an ethos of inclusivity, joy, and connection, Tiara Night is a safe and welcoming space that uplifts queer, POC, and emerging artists. Come ready to celebrate expression, discover new work, and share in the warmth and magic that makes Tiara Night unforgettable.",
+  "image": "https://cdn.outsavvy.com/events/d6942351-6b78-44fa-ab27-2433cf1c8743.PNG",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29635/tiara-night-takeover",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "jazz",
+    "soul",
+    "funk"
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607049,
+  "name": "Queer Date n Dine Supperclub",
+  "venue": "Damsel Collective",
+  "address": "70-72 Kingsland Road,  London,  E2 8DP",
+  "time": "13:30-16:00",
+  "date": "Sep 21",
+  "price": "£65",
+  "type": "social",
+  "tags": [
+    "FLINTA",
+    "dating",
+    "food",
+    "intimate",
+
+  ],
+  "description": "Eat Cute is back with September Shenanigans, relaunching its queer date & dine supperclub at Damsel Collective in Hoxton. This intimate Sunday gathering blends delicious cross-cultural dishes by Chef Fatti with rum pairings and storytelling from Dani, creating the perfect space to eat, connect, and flirt. Designed for queer, single, and non-monogamous FLINTA people of the global majority and their allies, the supperclub offers a safe and playful atmosphere where food, culture, and conversation intertwine. With only 15 seats available, expect an unforgettable afternoon of flavour, community, and cute connections.",
+  "image": "https://cdn.outsavvy.com/events/c8d55bf7-706d-4c26-b8b1-d83e90a8e253.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30024/eat-cute-queer-date-n-dine-supperclub",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+   
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607049,
+  "name": "RUNWAY RAVE",
+  "venue": "Damsel Collective",
+  "address": "70-72 Kingsland Road,  London,  E2 8DP",
+  "time": "20:00-23:00",
+  "date": "Sep 20",
+  "price": "FREE",
+  "type": "party",
+  "tags": [
+    "party",
+    "fashion week",
+    "runway show",
+    "interactive"
+
+
+  ],
+  "description": "Runway Rave is where high fashion collides with underground club culture in a one-night takeover at Damsel Collective. Fresh off the catwalk, models from a secret designer will blur the line between show and dancefloor, while the open runway invites everyone to step into the spotlight. With DJs Jojo Goldenx and Fly Psychic Genius fueling the rave energy, and eco-powered Sip Check moments from KeepCup adding a sustainable twist, this afterparty turns London Fashion Week into a full-throttle celebration of style, music, and community.",
+  "image": "https://res.cloudinary.com/dienahliq/image/upload/v1756997771/production/zlwkmsygvq1smfdokhpp.png",
+  "website_link": "",
+  "ticket_link": "https://share.thecliq.app/event/runway-rave",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+   
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607050,
+  "name": "STRAPPED: DIY(KE) NIGHTMARE",
+  "venue": "Coven",
+  "address": "70-72 Kingsland Road,  London,  E2 8DP",
+  "time": "20:00-23:00",
+  "date": "Oct 17",
+  "price": "£11.22",
+  "type": "party",
+  "tags": [
+    "party",
+    "halloween",
+    "performances",
+ 
+
+
+  ],
+  "description": "Think DIY project gone deliciously wrong—overalls, toolbelts, power drills, and plenty of sexy chaos on the dancefloor. Expect a stacked lineup of sultry, sinister performances from London’s hottest dyke talent, alongside DJs spinning R&B, slut pop, gay bops, and filthy remixes all night long. With a welfare team, first aid on hand, and a big outdoor terrace to cool down on, STRAPPED is bringing spooky, scaroused energy to queer Halloween the way only they can.",
+  "website_link": "https://www.instagram.com/strapped.events/?hl=en&g=5",
+  "ticket_link": "https://dice.fm/partner/dice/event/92glad-strapped-diyke-nightmare-17th-oct-coven-london-tickets?dice_id=7098371&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAaeJrIf-UUJHuquT4VKUwWaSsZTnrh7L5s4SqViSwi_HQXAncHtSg-eBhdoZrQ_aem_GGLL38ikp31sGgkcJs-M-A&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXB2wqCMBgA4LfpzkNqZYHEktBMI5knvBGd0w3P%2FxTveva%2Bj63rLG6K0vOxk2tOqNwMijgbOjFNTdOv5b2pSM9r64vyjKlV%2B2F5qtpB9ESopB68GimOPXdbtshI3vGelljk0Qjs4p%2BEgZeE450XbpihkbgrbiX6YPWUQ1iUdCgcx%2Fd1k3ezfhRO2xFPSIGEDj%2BgDQXgY1tUMO2CgmUzmAb6B%2BuLohiuAAAA",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+   
+
   ],
   "age": "18+"
 },

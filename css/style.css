@@ -86,7 +86,7 @@ html, body {
 .filter-btn {
     padding: 6px 14px;
     border: none;
-    border-radius: 25px;
+    border-radius: 0px;
     background: #f0f0f0;
     color: #333333;
     cursor: pointer;
@@ -130,33 +130,32 @@ html, body {
 
 .filter-btn:active {
     background: rgba(255,255,255,0.4);
-    
     transform: translateY(0);
     transition: all 0.1s cubic-bezier(0.4, 0.0, 0.2, 1);
 }
 
 .filter-btn.active {
-    background: black;
-    color: #fff;
+    background: #94F235;
+    color: black;
     transform: translateY(-1px);
-    font-weight: 600;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    /*font-weight: 600;*/
+    /*box-shadow: 0 2px 8px rgba(0,0,0,0.15);*/
 }
 
 
 .filter-btn.active:active {
     background: rgba(255,255,255,0.95);
-    
     transform: translateY(0);
 }
 
 /* Focus state for accessibility */
 .filter-btn:focus {
     outline: none;
+    box-shadow: none;
 }
 
 .filter-btn.active:focus {
-    box-shadow: 0 0 0 2px rgba(255,107,107,0.5), 0 4px 8px rgba(0,0,0,0.2), 0 2px 4px rgba(0,0,0,0.12);
+    box-shadow: none;
 }
 
 /* Events list */
@@ -274,21 +273,19 @@ html, body {
 
 /* Map markers */
 .marker {
-    background-color: #ff6b6b;
+    background-color: #ddf23e;
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    border: 2px solid white;
     cursor: pointer;
     box-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
 .marker-cluster {
-    background-color: #4ecdc4;
+    background-color: #94f235;
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    border: 3px solid white;
     cursor: pointer;
     box-shadow: 0 2px 6px rgba(0,0,0,0.3);
     display: flex;
@@ -297,7 +294,7 @@ html, body {
 }
 
 .marker-count {
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: 12px;
 }
@@ -415,8 +412,8 @@ html, body {
     position: absolute;
     top: 12px;
     right: 12px;
-    background: rgba(255, 107, 107, 0.9);
-    color: white;
+    background: #ddf23e;
+    color: black;
     padding: 6px 12px;
     border-radius: 20px;
     font-size: 12px;
@@ -447,31 +444,33 @@ html, body {
 }
 
 .event-detail-datetime {
-    font-size: 16px;
+    font-size: 18px;
     color: #333;
-    font-weight: 500;
-    margin-bottom: 8px;
+    font-weight: 300;
+    margin: 12px 0 14px 0;
 }
 
 .event-detail-venue {
-    font-size: 14px;
+    font-size: 18px;
     color: #666;
     margin-bottom: 8px;
 }
 
 .event-detail-price {
-    font-size: 16px;
+    font-size: 18px;
     color: #333;
-    font-weight: 600;
+    font-weight: 300;
+    margin-top: 6px;
     margin-bottom: 8px;
 }
 
 .event-detail-venue-section {
-    margin-bottom: 8px;
+    margin-bottom: 14px;
 }
 
 .event-detail-venue {
-    font-size: 16px;
+    font-size: 18px;
+    
     color: #333;
     font-weight: 600;
     margin-bottom: 8px;
@@ -483,12 +482,13 @@ html, body {
 }
 
 .venue-link {
-    color: #ff6b6b;
+    color: #f23a29;
     text-decoration: none;
     display: inline-flex;
     align-items: center;
     gap: 4px;
     transition: color 0.2s;
+    font-weight: 300;
 }
 
 .venue-link:hover {
@@ -506,7 +506,7 @@ html, body {
 .action-btn {
     padding: 12px 16px;
     border: none;
-    border-radius: 8px;
+    border-radius: 0px;
     font-size: 14px;
     font-weight: 500;
     cursor: pointer;
@@ -518,17 +518,17 @@ html, body {
 }
 
 .ticket-btn {
-    background: #ff6b6b;
+    background: black;
     color: white;
 }
 
 .ticket-btn:hover {
-    background: #ff5252;
+    background: #333;
 }
 
 .website-btn {
-    background: #4ecdc4;
-    color: white;
+    background: #94f235;
+    color: black;
 }
 
 .website-btn:hover {
@@ -664,7 +664,7 @@ html, body {
     gap: 6px;
     padding: 8px 40px;
     border: none;
-    border-radius: 20px;
+    border-radius: 0px;
     background: #f0f0f0;
     color: #333;
     font-size: 13px;
@@ -767,7 +767,7 @@ html, body {
     .filter-btn {
         padding: 7px 16px;
         font-size: 13px;
-        border-radius: 20px;
+        border-radius: 0px;
         min-height: 32px;
         flex: 0 0 auto;
     }
@@ -979,7 +979,7 @@ html, body {
 }
 
 .back-btn-sharp:hover {
-    color: #ff6b6b;
+    color: #154df2;
     text-decoration: underline;
 }
 
