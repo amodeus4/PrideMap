@@ -4980,7 +4980,7 @@ const events = [
 
   ],
   "description": "Think DIY project gone deliciously wrong—overalls, toolbelts, power drills, and plenty of sexy chaos on the dancefloor. Expect a stacked lineup of sultry, sinister performances from London’s hottest dyke talent, alongside DJs spinning R&B, slut pop, gay bops, and filthy remixes all night long. With a welfare team, first aid on hand, and a big outdoor terrace to cool down on, STRAPPED is bringing spooky, scaroused energy to queer Halloween the way only they can.",
-  "image": "https://cdn.outsavvy.com/events/92glad-strapped-diyke-nightmare-17th-oct-coven-london-tickets.png",
+  "image": "images/straphalloween.png",
   "website_link": "https://www.instagram.com/strapped.events/?hl=en&g=5",
   "ticket_link": "https://dice.fm/partner/dice/event/92glad-strapped-diyke-nightmare-17th-oct-coven-london-tickets?dice_id=7098371&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAaeJrIf-UUJHuquT4VKUwWaSsZTnrh7L5s4SqViSwi_HQXAncHtSg-eBhdoZrQ_aem_GGLL38ikp31sGgkcJs-M-A&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXB2wqCMBgA4LfpzkNqZYHEktBMI5knvBGd0w3P%2FxTveva%2Bj63rLG6K0vOxk2tOqNwMijgbOjFNTdOv5b2pSM9r64vyjKlV%2B2F5qtpB9ESopB68GimOPXdbtshI3vGelljk0Qjs4p%2BEgZeE450XbpihkbgrbiX6YPWUQ1iUdCgcx%2Fd1k3ezfhRO2xFPSIGEDj%2BgDQXgY1tUMO2CgmUzmAb6B%2BuLohiuAAAA",
   "coordinates": null,
@@ -4989,6 +4989,102 @@ const events = [
   "scraped_date": "2025-09-10T11:20:30.430892",
   "generes": [
    
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607051,
+  "name": "Riposte - THE MUSICAL",
+  "venue": "Electrowerkz",
+  "address": "7 Torrens Street; Islington; London EC1V 1NQ",
+  "time": "21:00-06:00",
+  "date": "Oct 10",
+  "price": "£12 to £30",
+  "type": "party",
+  "tags": [
+    "party",
+    "performances",
+    "playroom",
+    "installations",
+    "market",
+    "camp"
+ 
+
+
+  ],
+  "description": "A rave with a lot of performances. Expect flash mobs, live vocals, singing, dance workshops, and DJs who play with voice as much as beat.",
+  "image": "images/ripostemusical.png",
+  "website_link": "https://www.instagram.com/riposte.london/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2242563",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+    "musical"
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607052,
+  "name": "Glitchtopia",
+  "venue": "Bar A Bar",
+  "address": "133-135 Stoke Newington Road,  London,  N16 8BT",
+  "time": "22:00-04:30",
+  "date": "Sep 26",
+  "price": "£7.50 to £9",
+  "type": "party",
+  "tags": [
+    "party",
+    "community",
+    "undeground techno",
+    "inclusive",
+
+  ],
+  "description": "Founded by Carla and Tracy, Glitchtopia is all about shaking up the scene and giving underrepresented artists the spotlight they deserve. \n\nThis night is for everyone, but let’s be real, we prioritise women, trans, non-binary, and POC artists because the industry doesn’t, and that needs to change. If you’re all about inclusivity and unapologetic vibes, come dance with us!\n\nJoin us for an event featuring the crème de la crème of emerging and renowned dancers and DJs from our community.\n\nAt Glitchtopia, we’re all about high-quality underground electronic music, with Techno served with a twist and dancers who know how to set the floor on fire. \n\nAllies, we love your positive energy, but know this: the space you’re about to enter is as bold as it is exclusive. Get ready to embrace it!",
+  "image": "https://cdn.outsavvy.com/events/e374da64-d3c0-45b5-b173-41a55f412a3b.jpeg",
+  "website_link": "https://www.instagram.com/glitchtopia_/?hl=en&g=5",
+  "ticket_link": "https://www.outsavvy.com/event/29761/glitchtopia-music-dance-queer-event",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607053,
+  "name": "Kinesis B2Bs 4 MAP",
+  "venue": "Four Quarters",
+  "address": "187 Rye Lane, Peckham, SE15 4TP",
+  "time": "19:30-02:30",
+  "date": "Sep 19",
+  "price": "OTD",
+  "type": "party",
+  "tags": [
+    "party",
+    "hardcore",
+    "bass",
+    "fundraiser",
+    "high energy"
+
+  ],
+  "description": "ooooaaahhh we're back with a b2b bonanza to raise money for Medical Aid Palestine! A free entry event with donations on the door with a completely stacked lineup with b2bs never previously seen before: MNDY b2b SlimThic kicking us off with their breaksy debut; FENNA b2b VERTEX getting everyone bouncing; dj ennui b2b Katiaki raising the temp with their eclectic rhythms; Auntie Klockwise b2b classtraitor merging their diverse skills and styles; Engineer b2b Das ist Vas with their LIVE vs DJ hybrid set; our chicas leaf node and NCD_soundsystem with the residents b2b LN++; and wrapping up with a high octane closing by Akira Knightley b2b Fireworks Factory.",
+  "image": "images/kinesis.png",
+  "website_link": "https://www.instagram.com/kinesis_ldn/?hl=en",
+  "ticket_link": "https://ra.co/events/2250145",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
 
   ],
   "age": "18+"
