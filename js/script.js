@@ -16,6 +16,15 @@ async function init() {
     await geocodeAllEvents();
     initializeMap();
     renderEvents(events);
+    // Hide loading overlay if the list is already rendered
+    if (!window._initialLoaded) {
+        const list = document.getElementById('events-list');
+        if (list && list.children.length > 0) {
+            const overlay = document.getElementById('loading-overlay');
+            if (overlay) overlay.style.display = 'none';
+            window._initialLoaded = true;
+        }
+    }
     setupEventListeners();
     
     // Initialize mobile view properly
@@ -416,6 +425,16 @@ function filterEvents(filter) {
 
     renderEvents(filteredEvents);
     addMarkers(filteredEvents);
+
+    // Hide loading overlay after first successful render
+    if (!window._initialLoaded) {
+        const list = document.getElementById('events-list');
+        if (list && list.children.length > 0) {
+            const overlay = document.getElementById('loading-overlay');
+            if (overlay) overlay.style.display = 'none';
+            window._initialLoaded = true;
+        }
+    }
 }
 
 // Add this new function to check if a date is today
