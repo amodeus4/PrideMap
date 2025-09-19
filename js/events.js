@@ -5028,36 +5028,7 @@ const events = [
   ],
   "age": "18+"
 },
-{
-  "id": 4005607052,
-  "name": "Glitchtopia",
-  "venue": "Bar A Bar",
-  "address": "133-135 Stoke Newington Road,  London,  N16 8BT",
-  "time": "22:00-04:30",
-  "date": "Sep 26",
-  "price": "£7.50 to £9",
-  "type": "party",
-  "tags": [
-    "party",
-    "community",
-    "undeground techno",
-    "inclusive",
 
-  ],
-  "description": "Founded by Carla and Tracy, Glitchtopia is all about shaking up the scene and giving underrepresented artists the spotlight they deserve. \n\nThis night is for everyone, but let’s be real, we prioritise women, trans, non-binary, and POC artists because the industry doesn’t, and that needs to change. If you’re all about inclusivity and unapologetic vibes, come dance with us!\n\nJoin us for an event featuring the crème de la crème of emerging and renowned dancers and DJs from our community.\n\nAt Glitchtopia, we’re all about high-quality underground electronic music, with Techno served with a twist and dancers who know how to set the floor on fire. \n\nAllies, we love your positive energy, but know this: the space you’re about to enter is as bold as it is exclusive. Get ready to embrace it!",
-  "image": "https://cdn.outsavvy.com/events/e374da64-d3c0-45b5-b173-41a55f412a3b.jpeg",
-  "website_link": "https://www.instagram.com/glitchtopia_/?hl=en&g=5",
-  "ticket_link": "https://www.outsavvy.com/event/29761/glitchtopia-music-dance-queer-event",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "instagram",
-  "scraped_date": "2025-09-10T11:20:30.430892",
-  "generes": [
-    "techno",
-
-  ],
-  "age": "18+"
-},
 {
   "id": 4005607053,
   "name": "Kinesis B2Bs 4 MAP",
@@ -5079,6 +5050,228 @@ const events = [
   "image": "images/kinesis.png",
   "website_link": "https://www.instagram.com/kinesis_ldn/?hl=en",
   "ticket_link": "https://ra.co/events/2250145",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607054,
+  "name": "UNFOLD CVII",
+  "venue": "FOLD",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "14:00-23:59",
+  "date": "Sep 28",
+  "price": "OTD",
+  "type": "party",
+  "tags": [
+    "party",
+    "undeground",
+    "high energy",
+    "queer",
+    "techno"
+
+  ],
+  "description": "Temperatures outside may be falling into Autumn’s grasp, but UNFOLD is only just warming up…",
+  "image": "images/unfold5.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2261413",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607055,
+  "name": "Halloween with SUZIO, STAMINA & 2CPERREA",
+  "venue": "Colour Factory",
+  "address": "8 Queen's Yard, London E9 5EN",
+  "time": "23:00-06:00",
+  "date": "Oct 31",
+  "price": "£15 to £21.90",
+  "type": "party",
+  "tags": [
+    "party",
+    "halloween",
+    "cunty",
+    "sexy",
+    "perreo"
+
+  ],
+  "description": "3 collectives, 1 night. The underground club royalty of London are joining forces to take over Colour Factory on 31 October. \n\nGuaracha, perreo, techno, RKT, reggaeton +++",
+  "image": "images/suzio2.png",
+  "website_link": "https://www.instagram.com/suzio.ldn/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2260552?fbclid=PAZXh0bgNhZW0CMTEAAaeY3s77r_OLzAwekJh85h2Bhpf-HaZaC-jdIjF2CSCFkntm-7FuAX6mgC8Hcw_aem_eqFRvGN3h2s-amRzK9d1ig",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "raggaeton",
+    "perreo",
+    "guaracha",
+    "techno"
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607056,
+  "name": "Freak Queer Rave",
+  "venue": "New Century - Manchester",
+  "address": "New Century Hall, Corporation Street, Manchester, M60 4ES",
+  "time": "23:00-04:00",
+  "date": "Oct 25",
+  "price": "TBA",
+  "type": "party",
+  "tags": [
+    "party",
+    "cunty",
+    "sexy",
+
+  ],
+  "description": "We're buzzing to be back for our final rave of 2025, taking over the legendary New Century for a night of unapologetic queer energy and cutting-edge electronic music. Expect high-octane performances, fearless sounds, and a dance floor that's all about freedom, expression, and pure chaos.",
+  "image": "https://skiddle.imgix.net/b/0/a/2091339_57fb430d_freak-queer-rave-with-lsdxoxo-sam-quealy-surusinghe-_eflyer_th.jpg?auto=format%2Ccompress",
+  "website_link": "https://www.instagram.com/freak.queer.rave/?hl=en&g=5",
+  "ticket_link": "https://www.skiddle.com/whats-on/Manchester/New-Century/Freak-Queer-Rave/41310695/#lineup",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "house",
+    "pop",
+    "club classics",
+    "techno",
+    "electronic"
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607057,
+  "name": "SEASONED: The biggest EVER!",
+  "venue": "Studio 338",
+  "address": "338 Boord St, London SE10 0PF, UK",
+  "time": "17:00-23:59",
+  "date": "Oct 4",
+  "price": "£20",
+  "type": "party",
+  "tags": [
+    "party",
+    "25+",
+    "pop music",
+    "R&B"
+
+  ],
+  "description": "On Saturday, the 4th of October, from 17:00–00:00, Seasoned will be taking over Studio 338 for our biggest day party yet! Expect immaculate energy, a beautiful 25+ crowd, and a DJ line-up of dreams.",
+  "image": "https://fatsoma.imgix.net/W1siZiIsInB1YmxpYy8yMDI1LzkvMTUvMTgvMjUvNDcvMTE1LzQ0NCAzMzMgMCA5OTkgNjY2IDg4IDAgMjIyIDIgNjYgMCA3NzcgMzMgMiAzIDAgOCA0NCA0NDQgNzc3NyAwIDk5OSA2NjYgODggMCAyIDc3NyAzMyAwIDY2NiA1NTUgMyAwIDMzIDY2IDY2NiA4OCA0IDQ0IDAgMzMzIDY2NiA3NzcgMCA3Nzc3IDMzIDIgNzc3NyA2NjYgNjYgMzMgMyAoMTYwMCB4IDkwMCBweCkuanBnIl1d?w=768&h=432&fit=fillmax&fill=blur&auto=format%2Ccompress",
+  "website_link": "https://www.instagram.com/seasoned.szn/?hl=en&g=5",
+  "ticket_link": "https://www.fatsoma.com/e/843yd1a7/seasoned-the-biggest-ever",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "house",
+    "pop",
+    "classics",
+    "R&B",
+    "afro beats"
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607058,
+  "name": "PLAYBODY",
+  "venue": "TBA",
+  "address": "TBA",
+  "time": "14:00-23:00",
+  "date": "Oct 4",
+  "price": "OTD",
+  "type": "party",
+  "tags": [
+    "party",
+    "art",
+    "design",
+    "techno",
+    "exclusive"
+
+  ],
+  "description": "DM them for ticket access",
+  "image": "images/platbody.png",
+  "website_link": "https://www.instagram.com/playbody.london/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607059,
+  "name": "Silicone Carbide",
+  "venue": "Gut Level",
+  "address": "32-34 Chapel Walk, Sheffield, S1 2PD",
+  "time": "21:00-02:00",
+  "date": "Oct 10",
+  "price": "£8 to £12",
+  "type": "party",
+  "tags": [
+    "party",
+    "breakbeat",
+    "grime",
+    "EP lauch party"
+
+  ],
+  "description": "Silicone Carbide returns to Gut Level in October! It's going to be one to remember, with local legends Betty and TB-316 joined by the iconic Princess Xixi for the launch of her new EP",
+  "image": "images/silicone.png",
+  "website_link": "https://www.instagram.com/silicone_carbide/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2255577?fbclid=PAZXh0bgNhZW0CMTEAAafM1iSQUptX83aGa25LA3Oe82-2kvrn5BImimOW_ED1gzzb0z1npIwVtVG9HQ_aem_HuyO_p0doL2aoKqz8hnPYQ",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    "techno",
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 4005607060,
+  "name": "Soft Butch",
+  "venue": "Club Makossa",
+  "address": "113 Kingsland High Street, London E8 2PB",
+  "time": "14:00-23:00",
+  "date": "Sep 26",
+  "price": "0 to £11.40",
+  "type": "party",
+  "tags": [
+    "party",
+    "house",
+    "raggaeton",
+    "lgbtq+"
+
+  ],
+  "description": "Soft Butch is a night celebrating all butchness, for Women, Non Binary and Trans people to dance freely together. We’re gassed to bring a spontaneously juicy event open to all LGBTQIA+ cuties to Club Makossa. Come to sweat, love and respect. \n\nIf you’re a cis-het man AND an ally, you are welcome to join UNDER THE CONDITION that you bring awareness that this space isn’t centering you and an attitude that reflects this ✸ \n\nHOW WE ROLL \nUnwanted touch, homophobic, biphobic, transphobic, racist, sexist, ableist or ageist behaviour is not allowed. Everyone is invited to have no phones on the dance floor to explore how this can help us be more authentically present.",
+  "image": "images/softbutch.png",
+  "website_link": "https://www.instagram.com/soft_butch_/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2261418",
   "coordinates": null,
   "sellingFast": false,
   "scraped_from": "instagram",
