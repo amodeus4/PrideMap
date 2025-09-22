@@ -4391,7 +4391,7 @@ const events = [
 
 {
   "id": 2487106794,
-  "name": "Queer Creatives Book Club: September Meeting",
+  "name": "Queer Creatives Book Club",
   "venue": "Thingy Cafe",
   "address": "1 Trowbridge Road,  London,  E9 5LD",
   "time": "19:00-21:00",
@@ -4836,7 +4836,7 @@ const events = [
 },
 {
   "id": 4005607047,
-  "name": "CARABINER: HALLOWEEN",
+  "name": "CARABINER: DYKE HALLOWEEN",
   "venue": "Colours Hoxton",
   "address": "2-4 Hoxton Square,  London,  N1 6NU",
   "time": "21:00-02:00",
@@ -5282,5 +5282,199 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 130238842,
+  "name": "Twerk Temple at Dalston Superstore",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-18:00",
+  "date": "Oct 17",
+  "price": "£8.50",
+  "type": "party",
+  "tags": [
+    "dancing",
+    "social",
+    "party",
+    "queer",
+    "poc"
+  ],
+  "description": "Twerk Temple at Dalston Superstore, Bi-Monthly Residency\n We’re beyond thrilled to announce the return of Twerk Temple, our bi-monthly residency at Dalston Superstore, on Friday 17th October, with a brand-new flyer design created by our Popola queen designer Tropidelia. This next chapter is all about re-imagine culture, community power, and shaking that culo like never before.\n Twerk Temple is a deCULOnising sanctuary where diasporic queens, queers, and allies come together for an electrifying night of cultural celebration and body liberation. Expect an unstoppable soundtrack of Reggaeton, Soca, Dancehall, Salsa, Afrobeats, and more, with fire DJs, go-go dancers, and high-energy performances lighting up the dancefloor.\n ✨ Expect a night of joyful, anti-colonial resistance—a caliente journey through self-expression, liberation, and pure, fiery roots 🔥\n \n\nNos vemossss\n ",
+  "image": "https://cdn.outsavvy.com/events/8aaa0700-c0ae-41b1-a54e-f5a65703de5f.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30145/twerk-temple-at-dalston-superstore-bi-monthly-queer-poc-night-in-london",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.137626",
+  "generes": [
+    "afrobeats",
+    "latin",
+    "reggae"
+  ],
+  "age": "18+"
+},
 
+{
+  "id": 1501891462,
+  "name": "🍑 BOTTOM HEAVY 🍑",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-28:00",
+  "date": "Sep 27",
+  "price": "£8 to £10",
+  "type": "party",
+  "tags": [
+    "dancing",
+    "gay",
+    "drag",
+    "music",
+  ],
+  "description": "Superstore daddy Dan Beaumont and Bottom Heavy resident Wes Baggaley are back and bum to bumming all night long in the lazercave for another edition of Bottom Heavy! House music for gays from Chicago and Detroit via Wigan!\nOn the top deck, Superstore favourites Mike Menace, Ross Anderson + FIlius serve disco debauchery and dancefloor hits n misses all damn night!\nShaking their peaches on the bar - East London icons Nyongbella (Rupaul's Drag Race UK) + Lawunda! 🍑\nCUM N PLAY XXX",
+  "image": "https://cdn.outsavvy.com/events/d15c8ccc-f32a-446c-9cc2-869db2021f55.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30138/-bottom-heavy-",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.137913",
+  "generes": [
+    "disco",
+    "house"
+  ]
+},
+{
+  "id": 2407264735,
+  "name": "AFTER LIFE DRAWING",
+  "venue": "Coven",
+  "address": "Queen's Yard,  London,  E9 5EN",
+  "time": "12:00-14:00",
+  "date": "Sep 28",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+    "social",
+    "queer",
+    "art"
+  ],
+  "description": "Queer life drawing @coven (above Fabwick) in Queen’s Yard, Hackney Wick\n To be hosted by Spencer Grimshaw (slpgtattoo), artist and tattoo artist\n After moving to London a year ago Spencer found that the life drawing sessions available either didn’t feature a diverse range of models, didn’t feel like a safe space for queer people or weren’t regular enough to create a community so decided to create that space and community of like minded people\n All abilities are welcome from beginner to experienced! As I will be offering options to be tutored or non-tutored\n\nWe will be here every Sunday\n Materials will be provided however, if there is anything specific that you require please provide this yourself\n Every week we will be hosting a diverse range of queer models\n This weeks model is Averi (@missaveri)\n\nAveri is a gorgeous dancer, fire performer singer and choreographer. She can be found all over London performing for queer and sex positive events serving pure",
+  "image": "https://cdn.outsavvy.com/events/2c1bec75-5483-4f22-96fb-31ea6ce42440.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28974/after-life-drawing",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.138218",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 3614719627,
+  "name": "FLINTA NUDE YOGA AT COVEN",
+  "venue": "COVEN",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "14:30-15:45",
+  "date": "Sep 28",
+  "price": "£5 to £8",
+  "type": "workshop",
+  "tags": [
+    "flinta",
+    "workshop",
+    "wellness"
+  ],
+  "description": "A sanctuary for body, breath, and belonging. This session is created exclusively for FLINTA participants, held in a private space with low lighting, no cameras, and no public access—your safety and welfare are always the priority.\nLed by Zalayka, who integrates the serenity of her traditional Hatha Yoga training with the warm embrace of Yin, each class is infused with mindfulness, meditation, and the calming vibrations of singing bowls. Practising nude, you’re invited to release layers of tension, judgement, and inhibition, and reconnect with your body on your own terms.\nThis is a space of respect, softness, and empowerment—an opportunity to move and breathe freely, guided with care.",
+  "image": "https://cdn.outsavvy.com/events/c180fd90-2b2a-441f-ac94-cb34edb1bdf4.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29708/flinta-nude-yoga-at-coven",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.138278",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 4115146346,
+  "name": "GAY MEN'S NUDE YOGA AT COVEN",
+  "venue": "COVEN",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "18:00-19:15",
+  "date": "Sep 28",
+  "price": "£5 to £8",
+  "type": "workshop",
+  "tags": [
+    "gay",
+    "workshop",
+    "wellness"
+  ],
+  "description": "Gay Men’s Nude Yoga with Toro Manca is a grounding, liberating practice designed to dissolve shame and reconnect body, breath, and spirit. \n Guided by Toro’s deep experience as a Sound Healing Practitioner and Kundalini Hatha Yoga teacher, the class weaves movement, meditation, and vibration into a safe, affirming space for men to show up as they are. Presented in partnership with Yoga Roots and Brewer Street, it’s an invitation to strip away the layers, both literally and energetically and move together in openness and presence.\n Toro is a trained BSL interpreter, so the classes will be available in Sign Language too. ",
+  "image": "https://cdn.outsavvy.com/events/7718ce9f-cf55-4d93-89cc-9e4e93a2ef2f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29975/gay-mens-nude-yoga-with-toro",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.138337",
+  "generes": [
+    "nan"
+  ],
+  "age": "18+"
+},
+{
+  "id": 728319778,
+  "name": "LEATHERETTE vol.5: dyke fantasy den",
+  "venue": "The White Swan Bar",
+  "address": "556 Commercial Road,  London,  E14 7JD",
+  "time": "22:00-12:00",
+  "date": "Oct 11",
+  "price": "£10 to £12",
+  "type": "party",
+  "tags": [
+    "dancing",
+    "party",
+    "queer",
+    "lesbian",
+    "flinta",
+  ],
+  "description": "London's late night dyke dance party LEATHERETTE is back this October for a hot 'n' heavy blowout at brand new home The White Swan!\nLEATHERETTE spotlights the hottest FLINTA* talent from across the capital, with bass-forward DJs, electric live shows and plenty of dark corners to find/lose yourself in. This October, we bring you a lineup of rising stars and scene icons for a night of fantasy and flirtation…\n\nDJs\nChano \nMilk Shandy\nPrincess Julia\n\nPerformances by \nAlison Facun\nHotboiyo\nNova Storm\nTaali Not Charlie\n Saturday 11 October\n10pm - 3am \nThe White Swan \n556 Commercial Road\nE14 7JD\n\nLIMITED PRESALE TICKETS AVAILABLE NOW:\n£8 Mailing list early access\n£10 Earlybird\n£12 Second release\n£15 On the door\n \nLEATHERETTE reserves low/no income tickets for every event - please DM us on Instagram to claim one 🖤\n\n#dyke # lesbian #queer #flinta ",
+  "image": "https://cdn.outsavvy.com/events/8f4dab4d-ec83-4d0d-b3c9-1a0f3f68725e.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30190/leatherette-vol5-dyke-fantasy-den",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.138934",
+  "generes": [
+    "techno"
+  ],
+  "age": "18+"
+},
+{
+  "id": 2924740748,
+  "name": "Queer Tours of London Present: Queer Tour of Soho!:",
+  "venue": "Soho Square",
+  "address": "Soho Square,  London,  W1D 3QN",
+  "time": "12:30-13:45",
+  "date": "Sep 27",
+  "price": "£12 to £15",
+  "type": "social",
+  "tags": [
+    "educational",
+    "queer",
+    "funny",
+ 
+  ],
+  "description": "On this 75 minute walking tour of Soho, discover the hidden Queer history of the night-time spaces in this area; the bars and clubs that operated in the years before decriminalisation, often right under the police's nose. Learn about Soho's leading lesbian power-couple, 'the cult of the clitoris', police entrapment and raids, Polari (the secret gay code) and incredible and inspiring stories of queer people standing up to oppression and their oppressors. \n\nLed by performer and activist Dan de la Motte.\n\nMeeting Point: The 'cottage' in the middle of Soho Square",
+  "image": "https://cdn.outsavvy.com/events/49ea4e92-2ae3-4d7a-a09c-63fbf3e94943.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/2764/queer-tours-of-london-present-queer-tour-of-soho-tickets",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   
+  ]
+},
 ];
