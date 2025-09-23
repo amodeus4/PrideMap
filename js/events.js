@@ -1008,7 +1008,7 @@ const events = [
         "venue": "Retro Bar",
         "address": "2 George Court,  London,  WC2N 6HH",
         "time": "18:30-21:00",
-        "date": "Sep 9",
+        "date": "Sep 23",
         "price": "£10",
         "type": "social",
         "tags": [
@@ -3077,7 +3077,7 @@ const events = [
   "venue": "Coven",
   "address": "Queen's Yard,  London,  E9 5EN",
   "time": "23:00-05:00",
-  "date": "Sep 7",
+  "date": "Sep 28",
   "price": "Pay What You Can",
   "type": "workshop",
   "tags": [
@@ -3886,7 +3886,7 @@ const events = [
   "venue": "COVEN",
   "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
   "time": "14:30-15:45",
-  "date": "Sep 14",
+  "date": "Sep 28",
   "price": "£5 to £8",
   "type": "workshop",
   "tags": [
@@ -3913,7 +3913,7 @@ const events = [
   "venue": "COVEN",
   "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
   "time": "18:00-19:15",
-  "date": "Sep 14",
+  "date": "Sep 28",
   "price": "£5 to £8",
   "type": "workshop",
   "tags": [
