@@ -5477,4 +5477,30 @@ const events = [
    
   ]
 },
+{
+  "id": 2924740749,
+  "name": "Fluide Market",
+  "venue": "Algha's Plantroom",
+  "address": "Smeed Road,London, E3 2NR",
+  "time": "16:00-22:00",
+  "date": "Sep 25",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "market",
+    "tooth gems",
+    "workshop"
+ 
+  ],
+  "description": "fluide market brings together music, creativity, and  second-hand shopping. You can take part in a bedazzling workshop, get  tooth gems, and enjoy the good vibes and tunes that set the tone for the space.",
+  "image": "images/fluid.png",
+  "website_link": "https://www.instagram.com/fluide.market/?hl=en",
+  "ticket_link": "",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   
+  ]
+},
 ];
