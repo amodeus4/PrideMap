@@ -1872,64 +1872,8 @@ const events = [
   ],
   "age": "21+"
 },
-{
-  "id": 177,
-  "name": "FLINTA NUDE YOGA",
-  "venue": "Coven",
-  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-  "time": "14:30-15:45",
-  "date": "Aug 31",
-  "price": "Pay What You Can",
-  "type": "workshop",
-  "tags": [
-      "workshop",
-      "yoga",
-      "meditation",
-      "FLINTA",
 
-  ],
-  "description": "A sanctuary for body, breath, and belonging. This session is created exclusively for FLINTA participants, held in a private space with low lighting, no cameras, and no public access—your safety and welfare are always the priority. \n\nLed by Zalayka, who integrates the serenity of her traditional Hatha Yoga training with the warm embrace of Yin, each class is infused with mindfulness, meditation, and the calming vibrations of singing bowls. Practising nude, you’re invited to release layers of tension, judgement, and inhibition, and reconnect with your body on your own terms. \n\nThis is a space of respect, softness, and empowerment—an opportunity to move and breathe freely, guided with care.",
-  "image": "https://cdn.outsavvy.com/events/c180fd90-2b2a-441f-ac94-cb34edb1bdf4.jpg",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29708/flinta-nude-yoga-at-coven",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-25T09:07:44.880203",
-  "generes": [
-      
-  ],
-  "age": "18+"
-},
-{
-  "id": 178,
-  "name": "GAY MEN'S NUDE YOGA",
-  "venue": "Coven",
-  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-  "time": "10:30-11:45",
-  "date": "Aug 31",
-  "price": "Pay What You Can",
-  "type": "workshop",
-  "tags": [
-      "workshop",
-      "yoga",
-      "meditation",
-      "gay men",
 
-  ],
-  "description": "A sanctuary for body, breath, and belonging. This session is created exclusively for FLINTA participants, held in a private space with low lighting, no cameras, and no public access—your safety and welfare are always the priority. \n\nLed by Zalayka, who integrates the serenity of her traditional Hatha Yoga training with the warm embrace of Yin, each class is infused with mindfulness, meditation, and the calming vibrations of singing bowls. Practising nude, you’re invited to release layers of tension, judgement, and inhibition, and reconnect with your body on your own terms. \n\nThis is a space of respect, softness, and empowerment—an opportunity to move and breathe freely, guided with care.",
-  "image": "https://cdn.outsavvy.com/events/ca9d10e6-e45b-41ee-90c7-c08e5bec236b.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29704/gay-mens-nude-yoga",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-25T09:07:44.880203",
-  "generes": [
-      
-  ],
-  "age": "18+"
-},
 {
   "id": 179,
   "name": "CLUB ARE",
@@ -3880,60 +3824,7 @@ const events = [
   ],
   "age": "18+"
 },
-{
-  "id": 3614719627,
-  "name": "FLINTA NUDE YOGA AT COVEN",
-  "venue": "COVEN",
-  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-  "time": "14:30-15:45",
-  "date": "Sep 28",
-  "price": "£5 to £8",
-  "type": "workshop",
-  "tags": [
-    "flinta",
-    "workshop",
-    "wellness"
-  ],
-  "description": "A sanctuary for body, breath, and belonging. This session is created exclusively for FLINTA participants, held in a private space with low lighting, no cameras, and no public access—your safety and welfare are always the priority.\nLed by Zalayka, who integrates the serenity of her traditional Hatha Yoga training with the warm embrace of Yin, each class is infused with mindfulness, meditation, and the calming vibrations of singing bowls. Practising nude, you’re invited to release layers of tension, judgement, and inhibition, and reconnect with your body on your own terms.\nThis is a space of respect, softness, and empowerment—an opportunity to move and breathe freely, guided with care.",
-  "image": "https://cdn.outsavvy.com/events/c180fd90-2b2a-441f-ac94-cb34edb1bdf4.jpg",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29708/flinta-nude-yoga-at-coven",
-  "coordinates": null,
-  "sellingFast": true,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-10T11:20:30.426080",
-  "generes": [
-    
-  ],
-  "age": "18+"
-},
-{
-  "id": 4115146346,
-  "name": "GAY MEN'S NUDE YOGA AT COVEN",
-  "venue": "COVEN",
-  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
-  "time": "18:00-19:15",
-  "date": "Sep 28",
-  "price": "£5 to £8",
-  "type": "workshop",
-  "tags": [
-    "gay",
-    "workshop",
-    "wellness"
-  ],
-  "description": "Gay Men’s Nude Yoga with Toro Manca is a grounding, liberating practice designed to dissolve shame and reconnect body, breath, and spirit. \n Guided by Toro’s deep experience as a Sound Healing Practitioner and Kundalini Hatha Yoga teacher, the class weaves movement, meditation, and vibration into a safe, affirming space for men to show up as they are. Presented in partnership with Yoga Roots and Brewer Street, it’s an invitation to strip away the layers, both literally and energetically and move together in openness and presence.\n Toro is a trained BSL interpreter, so the classes will be available in Sign Language too. ",
-  "image": "https://cdn.outsavvy.com/events/7718ce9f-cf55-4d93-89cc-9e4e93a2ef2f.jpg",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29975/gay-mens-nude-yoga-with-toro",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-10T11:20:30.426146",
-  "generes": [
-   
-  ],
-  "age": "18+"
-},
+
 
 
 {
