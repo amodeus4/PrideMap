@@ -1127,7 +1127,7 @@ const events = [
   "address": "2-4 Hoxton Square,  London,  N1 6NU",
   "time": "21:30-01:00",
   "date": "Oct 31",
-  "price": "£9",
+  "price": "£10 to £100",
   "type": "party",
   "tags": [
       "dancing",
@@ -1965,37 +1965,7 @@ const events = [
   ],
   "age": "18+"
 },
-{
-  "id": 182,
-  "name": "Riposte - QUEER DAY RAVE",
-  "venue": "Colour factory",
-  "address": "8 Queen's Yard, London E9 5EN",
-  "time": "14:00-23:00",
-  "date": "Sep 14",
-  "price": "£16 to £20",
-  "type": "party",
-  "tags": [
-      "party",
-      "high-energy",
-      "queer",
-      "art",
-      "workshops",
-      "performances"
 
-  ],
-  "description": "",
-  "image": "images/reposte6.png",
-  "website_link": "",
-  "ticket_link": "https://ra.co/events/2224335",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-25T09:07:44.880203",
-  "generes": [
-      
-  ],
-  "age": "18+"
-},
 {
   "id": 3970623993,
   "name": "Singles Night at La Camionera",
@@ -4858,7 +4828,7 @@ const events = [
   "name": "STRAPPED: DIY(KE) NIGHTMARE",
   "venue": "Coven",
   "address": "70-72 Kingsland Road,  London,  E2 8DP",
-  "time": "20:00-23:00",
+  "time": "21:00-02:00",
   "date": "Oct 17",
   "price": "£11.22",
   "type": "party",
@@ -5343,7 +5313,7 @@ const events = [
 },
 {
   "id": 2924740748,
-  "name": "Queer Tours of London Present: Queer Tour of Soho!:",
+  "name": "Queer Tours of London Present: Queer Tour of Soho!",
   "venue": "Soho Square",
   "address": "Soho Square,  London,  W1D 3QN",
   "time": "12:30-13:45",
@@ -5394,4 +5364,30 @@ const events = [
    
   ]
 },
+{
+  "id": 2924740750,
+  "name": "DIY Strap Making Workshop",
+  "venue": "London LGBTQ+ Community Centre",
+  "address": "60-62 Hopton Street Thames Path, Bankside London SE1 9JH ",
+  "time": "13:00-17:00",
+  "date": "Sep 27",
+  "price": "£44.04 to £87.38",
+  "type": "workshop",
+  "tags": [
+    "DIY",
+    "Workshop",
+ 
+  ],
+  "description": "Repurposing second-hand bags and belts into custom straps, fashion your dream harness!",
+  "image": "images/diystrap.png",
+  "website_link": "https://www.instagram.com/the_big_strap_project/?hl=en",
+  "ticket_link": "https://www.eventbrite.co.uk/e/diy-strap-making-workshop-tickets-1710810322729?aff=oddtdtcreator",
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   
+  ]
+},
+
 ];
