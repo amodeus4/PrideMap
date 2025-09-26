@@ -1651,7 +1651,7 @@ const events = [
   "venue": "The Common press",
   "address": "118 Bethnal Green Road,  London,  E2 6DG",
   "time": "19:00 - 21:00",
-  "date": "Sep 30",
+  "date": "Oct 16",
   "price": "FREE to £40",
   "type": "social",
   "tags": [
@@ -5387,6 +5387,168 @@ const events = [
   "scraped_date": "2025-09-22T10:13:38.141091",
   "generes": [
    
+  ]
+},
+{
+  "id": 2924740751,
+  "name": "PUDDLE IV: The Trans Fundraiser",
+  "venue": "The Old Church",
+  "address": "Stoke Newington Church St, N16 9ES, London, UK",
+  "time": "13:00-21:00",
+  "date": "Oct 11",
+  "price": "£15 to £18",
+  "type": "party",
+  "tags": [
+    "Queer",
+    "Inclusive",
+    "Undeground",
+    "Euphoric",
+    "Rave"
+ 
+  ],
+  "description": "† RAVE IN LONDON'S OLDEST ELIZABETHAN CHURCH †\n\nPUDDLE is a celebration of the queer community, of connection, and freedom through music. We’re building a space where everyone is seen, heard, and celebrated. No matter your gender, sexuality, or background—you belong here. \n\nCome exactly as you are. Meet future friends. Meet future lovers. Own the space. Make memories.",
+  "image": "images/puddle.png",
+  "website_link": "https://www.instagram.com/puddle.rave/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2241698?fbclid=PAZXh0bgNhZW0CMTEAAafNT0PCaIN5rRaUyb83Sg7AmRE_D0r-kdEff3mae0AfnwP5fO_QTEPc8p6tVg_aem_S7XpjjtJ2ZQHQkJ7VBHmEQ",
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "techno",
+   "Electro"
+  ]
+},
+{
+  "id": 2924740752,
+  "name": "NOON #1",
+  "venue": "TBA - Peckham",
+  "address": "Peckham, SE15 4BQ",
+  "time": "12:00-22:00",
+  "date": "Oct 18",
+  "price": "£8 OTD",
+  "type": "party",
+  "tags": [
+    "New Party",
+    "Inclusive",
+    "Undeground",
+ 
+  ],
+  "description": "Good vibes only. Entry is at the discretion of our door angels.",
+  "image": "images/noon.png",
+  "website_link": "https://www.instagram.com/noon.12.pm/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2267885?fbclid=PAZXh0bgNhZW0CMTEAAacTkIXiymf7E18Sv0EHNPz3mXrlj8Tquy2wCnJmvOtQioa_UbaXzPGGXEl5Bw_aem_jUNk-wjZfUsTFY-_JCP7LQ",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno",
+   "Bass",
+   "Bootlegs"
+  ]
+},
+{
+  "id": 2924740753,
+  "name": "FAST & Bi-FURIOUS x NOT BAD FOR A GIRL",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High St; Dalston; London E8 2PB; United Kingdom",
+  "time": "22:00-04:00",
+  "date": "Oct 10",
+  "price": "£6 to £7",
+  "type": "party",
+  "tags": [
+    "Inclusive",
+    "Open Decks",
+    "Community",
+  ],
+  "description": "MOVE OVER CHRISTMAS! It’s everyone’s favourite time of year... FAST & Bi-FURIOUS and NOT BAD FOR A GIRL are back for their third annual bisexual reunion. \n\nTaking over 2 floors at the infamous Dalston Superstore, we’re about to bring you a downstairs rammoed with bass bangers and an upstairs for the regulars who loveeeee a bit of classic Superstore vibe. \n\nAS ALWAYS we’re offering 3 DJs a chance to play, applications for our open decks is live!",
+  "image": "images/notbadforagirl.png",
+  "website_link": "https://www.instagram.com/notbadforagirluk/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2257487",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Bass",
+  ]
+},
+{
+  "id": 2924740754,
+  "name": "Queer Sketch + Speed Date",
+  "venue": "Omeara",
+  "address": "OMEARA, 6 O'Meara St, London SE1 1TE",
+  "time": "19:30-22:00",
+  "date": "Oct 7",
+  "price": "£5 to £10",
+  "type": "social",
+  "tags": [
+    "Dating",
+    "Art",
+    "Social",
+    "Queer"
+  ],
+  "description": "Whether you're looking for a muse, a new queer friend, a situationship, or just a good time, this is dating with an arty twist. No drawing skills needed! Just bring your charm, curiosity, and maybe your best pick-up line. We’ll guide you through playful sketching rounds as you meet new people and make messy little masterpieces along the way.",
+  "image": "images/artdating.png",
+  "website_link": "https://www.instagram.com/artdatingclub/?hl=en&g=5",
+  "ticket_link": "https://www.artdatingclub.com/product/queer-sketch-speed-date-tue-7th-oct",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Bass",
+  ]
+},
+{
+  "id": 2924740755,
+  "name": "TUSH",
+  "venue": "Cu",
+  "address": "574, 576 Kingsland Rd, London E8 4AP, United Kingdom",
+  "time": "19:30-22:00",
+  "date": "Oct 3",
+  "price": "£8 to £9.50",
+  "type": "party",
+  "tags": [
+    "Fundraiser",
+    "Community",
+    "Social",
+    "Queer"
+  ],
+  "description": "TUSH invites you to their bassy, breaksy, techy basement session at Cu in Dalston.\n\nPlatforming a diverse lineup of FLINTA DJs (guaranteed to deliver some seriously stompy tunes) & donating all profits to MindOut LGBTQ+ charity, TUSH aims to make a tangible positive difference in the music industry. Join us on 3 October to help them do just that.",
+  "image": "images/tush.png",
+  "website_link": "https://www.instagram.com/tush_tribe/?hl=en",
+  "ticket_link": "https://ra.co/events/2221214",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Bass",
+   "Breaks",
+   "Techno"
+  ]
+},
+{
+  "id": 2924740756,
+  "name": "MID WEEK SESSION XXV",
+  "venue": "M.O.T",
+  "address": "Orion Business Centre, Surrey Canal Rd SE14 5RT",
+  "time": "20:00-02:00",
+  "date": "Oct 16",
+  "price": "£7.50 to £10",
+  "type": "party",
+  "tags": [
+    "Community",
+    "Social",
+    "Inclusive"
+  ],
+  "description": "Mid Week Session marks its 25th edition inside a dark MOT container—an intimate Thursday night of techno, groove, and electro for just 150 dancers. A community-led, inclusive space where music and connection take the lead.",
+  "image": "images/midweeksessions2.png",
+  "website_link": "https://www.instagram.com/midweeksession/?hl=en",
+  "ticket_link": "https://ra.co/events/2258071?fbclid=PAZXh0bgNhZW0CMTEAAad8F4N6VgZ5ztFLeDjfmXpglv9x27cbR8sx13NSo23rEBnt7cYHwjM-tQU4tg_aem_ThvjBqoHKNxQVl7BNf7QFg",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Electro",
+   "Techno"
   ]
 },
 
