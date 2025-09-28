@@ -3483,36 +3483,7 @@ const events = [
   ],
   "age": "18+"
 },
-{
-  "id": 3548994789,
-  "name": "Sanura Dance Salsa Performance Team",
-  "venue": "Studio 68 London",
-  "address": "68 Ewer Street,  London,  SE1 0NR",
-  "time": "18:30-19:30",
-  "date": "Oct 1",
-  "price": "£240",
-  "type": "workshop",
-  "tags": [
-    "dancing",
-    "lgbtq+",
-    "workshop"
-    
-  ],
-  "description": "✨ Step Into The Spotlight With Sanura Dance’S Salsa Performance Team ✨\nFrom 1 Oct – 17 Dec, every Wednesday at 6.30–7.30PM, join Kasia for a unique 12-week training designed to boost your confidence, refine your skills, and (if you choose!) take the stage at the Sanura Dance Xmas Social.\nNo pressure — performing is optional — but this journey is about stepping outside your comfort zone in a supportive, feminist, FLINTA & LGBTQ+ affirming space. 🌈\n 🔑 Requirements:\nYou’ll need to feel confident with Salsa basics — at least Beginner 1 & 2, ideally Beginner 3 with Sanura Dance — and comfortable in both roles (lead & follow).\n 💸 Pricing:\nSalsa Performance Team (12 weeks): £240\n✨ Add-On Option — Advanced Beginners 2 for +£140\nStay on after Performance Team training and dive into Advanced Beginners 2 (7.30–9.30PM). This 8-week course takes you deeper into footwork, body movement, styling, and partner technique — perfect for strengthening your foundations and making you shine on stage and at socials. Normally £140 on its own, but only +£140 when added to Performance Team (instead of £390 total).\n📍 Location: Studio68, London (Southwark Station)\n  🌱 The Sanura Learning Journey\nWe’ve designed a clear path so you always know where you are — and where you’re heading!\n🌱 Foundations\nBeginner 1 — Basics in both roles: timing, rhythm, basic step, right/left turns, and connection.  \nBeginner 2 — Expanding basics: cross-body lead, and basic shines.  \nBeginner 3 — Combining patterns, smoother role transitions, musical awareness.  \n🌿 Development\nAdvanced Beginner 1 — Variations on cross-body lead, inside/outside turns, balance in both roles.  \nAdvanced Beginner 2 — Multi-turns, simple shines, smoother transitions.  \nAdvanced Beginner 3 — Partnerwork flow, dancing whole songs, role fluidity practice.  \n🌸 Growth (early intermediate)\nIntermediate 1 — Complex turn patterns, shines that match the music, leading & following clarity.  \nIntermediate 2 — Incorporating styling (arms, body movement) while keeping timing & connection.  \nIntermediate 3 — Role-switch within the dance, musical interpretation, and confidence in dancing socially.  \n🌺 Expression (upper intermediate / pre-advanced)\nHigh Intermediate 1 — Faster tempo work, syncopation, more intricate shines.  \nHigh Intermediate 2 — Smooth role transitions mid-song, advanced partnerwork techniques.  \nHigh Intermediate 3 — Musicality & expression: playing with breaks, accents, body movement.  \n🌟 Advanced\nAdvanced 1 — Complex musical interpretation, advanced shines & body movement integration.  \nAdvanced 2 — High-level social dancing: improvisation, creativity, seamless role-switch.  \nAdvanced 3 — Performance-ready dancing: stage presence, choreo adaptability, speed mastery.  \n✨ Performance Team fits into this journey once you’ve laid your foundations and want to explore choreography, confidence, and stage presence.\n  ⚠️ IMPORTANT!!\n By participating in the QUEER Salsa Workshops 2025 | Join the PARTY! hosted by Sanura Dance Organisation, I hereby acknowledge and agree to the following:\nContent Creation for Public Diffusion: I am aware and accept that Sanura Dance Organisation creates content for public diffusion on the organization's social media platforms and other marketing and advertising channels.\nData Usage for Marketing Purposes: I am aware and accept that Sanura Dance Organisation may use my data for marketing purposes. This may include, but is not limited to, sending promotional emails, newsletters, and targeted advertisements. I understand that I have the right to withdraw my consent at any time. I can do so by following the provided opt-out instructions in the communications I receive. By providing my data, I acknowledge and agree to the terms outlined in Sanura Dance Organisation's data usage policy for marketing purposes.\nTerms & Conditions\nRefund Policy\n Please let us know if you have any further questions or concerns. We look forward to having you join us for an unforgettable event!\n To stop receiving Sanura Dance communications, please email us at unsubscribe@sanuradance.com.",
-  "image": "https://cdn.outsavvy.com/events/3c6af587-a283-4a3b-bcf0-37f884704b82.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29957/sanura-dance-salsa-performance-team-a-whole-new-experience",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-10T11:20:30.424880",
-  "generes": [
-    "latin",
-    "breaks",
-    "hip hop"
-  ],
-  "age": "18+"
-},
+
 {
   "id": 3350154808,
   "name": "QUEER Salsa Workshop | Advanced Beginner 2",
@@ -5551,5 +5522,174 @@ const events = [
    "Techno"
   ]
 },
+{
+  "id": 2924740757,
+  "name": "KLUB VERBOTEN",
+  "venue": "The Cause",
+  "address": "60 Dock Rd, London E16 1YZ, UK",
+  "time": "22:00-06:00",
+  "date": "Oct 10",
+  "price": "£39",
+  "type": "party",
+  "tags": [
+    "Kinky",
+    "Party",
+    "Inclusive",
+    
+
+  ],
+  "description": "October isn’t the time to slow down. It’s the time to sweat with intention. By then, you’ll have survived our 9th birthday. And we? We’ll thrive through winter together. Just because the leaves fall doesn’t mean you have to. Inside our walls, the heat lingers. Leather sticks to skin. Rope bites deeper. Breath tightens beneath latex. Moans echo between chain links and concrete.",
+  "image": "//d1vq4hxutb7n2b.cloudfront.net/system/files/6887a9/ea342b82225f000fcd/h_1024,dpr_2/lesbird1_copy.jpg",
+  "website_link": "https://www.instagram.com/klubverboten/?hl=en",
+  "ticket_link": "https://shop.weeztix.com/9a2d7e00-6c7a-11f0-a9cb-7e126431635e/tickets?event=0c687ff9-63e0-4f46-af64-6764817b30be",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno"
+  ]
+},
+{
+  "id": 2924740758,
+  "name": "TEARS FOR BEERS x EAST",
+  "venue": "Night Tales",
+  "address": "14 Bohemia Pl, London E8 1DU, UK",
+  "time": "19:00-23:45",
+  "date": "Oct 15",
+  "price": "£15",
+  "type": "social",
+  "tags": [
+    "Kinky",
+    "Social",
+    "Inclusive",
+    
+
+  ],
+  "description": "Tears for Beers is a social event aimed at the curious ones who haven't entered a Klub Verboten membership yet. Cum & meat some other members, put the feelers out and drop those questions that tickle your mind.",
+  "image": "//d1vq4hxutb7n2b.cloudfront.net/system/files/6887ab/82342b82e463000a2b/h_1024,dpr_2/IMG_1748_copy.jpg",
+  "website_link": "https://www.instagram.com/klubverboten/?hl=en",
+  "ticket_link": "https://shop.weeztix.com/9a2d7e00-6c7a-11f0-a9cb-7e126431635e/tickets?event=4b04079b-4f10-4f28-9916-5a9629614604",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno"
+  ]
+},
+{
+  "id": 2924740759,
+  "name": "KLUB VERBOTEN",
+  "venue": "The Cause",
+  "address": "60 Dock Rd, London E16 1YZ, UK",
+  "time": "22:30-06:00",
+  "date": "Nov 8",
+  "price": "£39",
+  "type": "party",
+  "tags": [
+    "Kinky",
+    "Party",
+    "Inclusive",
+    "Connection"
+  ],
+  "description": "November isn’t the time to slow down. It’s the time to sweat with intention. By then, you’ll have survived our 9th birthday. And we? We’ll thrive through winter together. Just because the leaves fall doesn’t mean you have to. Inside our walls, the heat lingers. Leather sticks to skin. Rope bites deeper. Breath tightens beneath latex. Moans echo between chain links and concrete.",
+  "image": "//d1vq4hxutb7n2b.cloudfront.net/system/files/68b871/57342b82c1080017e2/h_1024,dpr_2/MAY5-cmpr.jpg",
+  "website_link": "https://www.instagram.com/klubverboten/?hl=en",
+  "ticket_link": "https://shop.weeztix.com/9a2d7e00-6c7a-11f0-a9cb-7e126431635e/tickets?event=cb010603-c767-4313-a895-8237dd04de5a",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno"
+  ]
+},
+{
+  "id": 2924740760,
+  "name": "Joyride",
+  "venue": "Corsica Studios",
+  "address": "4/5 Elephant Rd, London SE17 1LB",
+  "time": "16:00-23:00",
+  "date": "Oct 5",
+  "price": "£22.61",
+  "type": "party",
+  "tags": [
+    "Kinky",
+    "Play",
+    "Party",
+    "Inclusive",
+    "Connection"
+    
+
+  ],
+  "description": "Joyride is a space to Rave, Play and Connect for the queer and the curious.\n\nCentered on the values of joy, freedom and deviance, Joyride prioritises pleasure and exploration.",
+  "image": "images/joyride5.png",
+  "website_link": "https://www.instagram.com/joyride.rave/?hl=en",
+  "ticket_link": "https://dice.fm/event/92g2mo-joyride-5th-oct-corsica-studios-london-tickets",
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno"
+  ],
+  "age": "21+"
+},
+{
+  "id": 2924740761,
+  "name": "Joyride",
+  "venue": "Corsica Studios",
+  "address": "4/5 Elephant Rd, London SE17 1LB",
+  "time": "16:00-23:00",
+  "date": "Oct 19",
+  "price": "£22.61",
+  "type": "party",
+  "tags": [
+    "Kinky",
+    "Play",
+    "Party",
+    "Inclusive",
+    "Connection"
+    
+
+  ],
+  "description": "Joyride is a space to Rave, Play and Connect for the queer and the curious.\n\nCentered on the values of joy, freedom and deviance, Joyride prioritises pleasure and exploration.",
+  "image": "images/joyride6.png",
+  "website_link": "https://www.instagram.com/joyride.rave/?hl=en",
+  "ticket_link": "https://dice.fm/event/dk6kre-joyride-19th-oct-corsica-studios-london-tickets",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno"
+  ],
+  "age": "21+"
+},
+{
+  "id": 2924740762,
+  "name": "La Monocle: Halloween",
+  "venue": "Little Louie",
+  "address": "14 Ash Avenue,  London,  SE17 1GQ",
+  "time": "18:30-23:59",
+  "date": "Nov 1",
+  "price": "£5 to £6",
+  "type": "party",
+  "tags": [
+    "Halloween",
+    "Party",
+    "FLINTA",
+    
+
+  ],
+  "description": "Step into the shadows… La Monocle invites you to a night where glamour and darkness meet. On All Hallows’ weekend, the monocle gleams sharper than a crescent moon, and the night's stars burn brighter than any lantern.\n\nThis time, we summon LEZTOPIA, creating a world where desire, rhythm, and queer ecstasy reign. Expect smoke, mirrors, and music that pulls you deeper into the night.\n\nDress up is essential…. (But not mandatory) Think spectral elegance, decadent creatures, the ghosts of Parisian cabarets past, or anything that haunts and dazzles. Halloween is the moment to transform. We will be awarding prizes for the best dressed throughout the night. ",
+  "image": "https://cdn.outsavvy.com/events/e44bc493-e386-4785-ae78-cc3932d61230.JPEG",
+  "website_link": "https://www.instagram.com/lamonocle/?hl=en",
+  "ticket_link": "https://www.outsavvy.com/event/30360/la-monocle-halloween",
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno"
+  ],
+  "age": "18+"
+},
+
 
 ];
