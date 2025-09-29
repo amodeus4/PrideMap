@@ -5690,6 +5690,62 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 2924740763,
+  "name": "DOLL WORLD",
+  "venue": "Venue M.O.T",
+  "address": "Surrey Canal Road,  London,  SE14 5RT",
+  "time": "22:00-04:00",
+  "date": "Oct 11",
+  "price": "£15",
+  "type": "party",
+  "tags": [
+    "Cunty",
+    "Sweaty",
+    "Euphoric",
+  ],
+  "description": "Doll World is a new trans-led club night brought to you by Lucia Blayke, co-shaped with Luana Moëz, created to celebrate trans femmes at the centre of London’s queer nightlife. Expect a night of high-energy sets, sweaty dance floors, and the kind of euphoric community space that only happens when dolls run the rave.\n\nThe soundtrack? \nHard-hitting club, bass, and high-voltage. \n\nThe vibe? \nPure freedom, beauty, and chaos in equal measure. Come ready to lose yourself and find your Dolls. ",
+  "image": "https://cdn.outsavvy.com/events/c61f68e9-1795-4a7c-b25e-3cb1f22e6182.jpg",
+  "website_link": "https://www.instagram.com/dollworld___/?hl=en",
+  "ticket_link": "https://www.outsavvy.com/event/30234/doll-world?fbclid=PAZXh0bgNhZW0CMTEAAafAbrn-t8OQh2PS9df-Mbak7aXXpE8yWX2E7dy4UJyKZ3q0PlO_f8q2cp5XEg_aem_My5sdqtXdA8wm9pmwAHWlA",
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Club",
+   "Bass",
+   "High Voltage"
+  ],
+  "age": "18+"
+},
+{
+  "id": 2924740764,
+  "name": "Ziber Halloween Gala",
+  "venue": "Electrowerkz",
+  "address": "7 Torrens Street; Islington; London EC1V 1NQ",
+  "time": "22:30-06:00",
+  "date": "Oct 24",
+  "price": "£12.50 to £16.50",
+  "type": "party",
+  "tags": [
+    "Dark",
+    "Halloween",
+    "Queer",
+    "Performances"
+  ],
+  "description": "Ever kissed a satanic doll in a toilet stall? Wondered what it feels like to get caressed by a demon in latex while Sister Punch eats your soul? Why’s the carpet sticky? Why do u look so hot crying?\n\nSinners, sluts & sweethearts, Ziber is back with OUR FIRST EVER Halloween Gala: The Rosebud Hellraisers. We welcome into the pit Becky Stroke (HTBX) to lead the debauchery, surrounded by our residents Proteus b2b Ruby Quick, Glotzer, Fannar & Szkarlat, feeding your lust and desires till dawn. \n\nAs usual, the CAGE floor will burn brighter with performances from Miss Terri Boxx, Matt Skully & Sister Punch, all under the cursed rose glow of our host Czech Hunter Schafer.",
+  "image": "images/ziber.png",
+  "website_link": "https://www.instagram.com/ziber.klub/?hl=en",
+  "ticket_link": "https://ra.co/events/2261678?fbclid=PAZXh0bgNhZW0CMTEAAacQGufaXuFCNnx6HBGmYcl0uXoTWHFEEtCXmJw3lunQxpMGl9m9ZpfRvFcotA_aem_esLkVAzBUbjKUKHqVtVYHQ",
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno",
+   "Italo Disco",
+  ],
+  "age": "18+"
+},
 
 
 ];
