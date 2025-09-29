@@ -5746,6 +5746,34 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 2924740765,
+  "name": "JUICI 002",
+  "venue": "The Waiting Room",
+  "address": "175 Stoke Newington High Street; Stoke Newington; London N16 0LH",
+  "time": "22:30-03:30",
+  "date": "Oct 11",
+  "price": "£11.40",
+  "type": "party",
+  "tags": [
+    "Groovy",
+    "Collective",
+    "Queer",
+
+  ],
+  "description": "juici returns to the waiting room for its second edition \n\nthis time, we’ve plucked the freshest fruits from Helsinki and Berlin for a lineup bursting with ripe, irresistible energy \n\nalways juici, always sticky, always sweet.",
+  "image": "images/juici.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2253483",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno",
+   "House",
+  ],
+  "age": "18+"
+},
 
 
 ];
