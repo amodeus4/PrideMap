@@ -2057,6 +2057,34 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 2924740769,
+  "name": "DIALOGIA — Edition 01: New Beginnings",
+  "venue": "Dialogue Express Cafe",
+  "address": "96 Gibbins Road London E15 2HU",
+  "time": "14:00-18:00",
+  "date": "Oct 4",
+  "price": "£5.04 to £6.99",
+  "type": "party",
+  "tags": [
+    "BSL",
+    "Techno",
+    "Inclusive",
+    "Community"
+
+  ],
+  "description": "Join us for the very first edition of Dialogia — a new space where sound, silence, and community meet. Hosted at the Carpenters Dialogue Express Café in Stratford, this launch event brings together Deaf and hearing communities through music, rhythm, and connection.",
+  "image": "images/dialogia.png",
+  "website_link": "https://www.instagram.com/dialogia.hub/?hl=en",
+  "ticket_link": "https://www.eventbrite.co.uk/e/dialogia-edition-01-new-beginnings-tickets-1756351908839?aff=oddtdtcreator&fbclid=PAZXh0bgNhZW0CMTEAAaduuB8bItGSZMtlJ5AgtYqlRyhc12C5i1LLlHrqW9VGktTHKslujMC4wTZQCA_aem_4NSTPC8Ei0ePpaZfT5yZjQ",
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-09-22T10:13:38.141091",
+  "generes": [
+   "Techno"
+  ],
+  "age": "18+"
+},
 
 
 ];
