@@ -2864,6 +2864,92 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1124075708,
+  "name": "UNFOLD CVIII",
+  "venue": "FOLD",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "14:00-23:59",
+  "date": "Oct 12",
+  "price": "20 OTD",
+  "type": "party",
+  "tags": [
+      "Party",
+      "Queer",
+      "Techno",
+      "Euphoric",
 
+  ],
+  "description": "As always, the line-up is unannounced and tickets are only available on the door. \n\nDress to sweat.",
+  "image": "images/unfold6.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2272346",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075709,
+  "name": "Net’WERK’ing",
+  "venue": "The Africa Centre",
+  "address": "66 Great Suffolk Street London SE1 0BL",
+  "time": "19:00-22:00",
+  "date": "Nov 13",
+  "price": "£6.30 to £9.64",
+  "type": "social",
+  "tags": [
+      "Networking",
+      "Conversation",
+      "Queer",
+      "Nightlife",
+
+  ],
+  "description": "Join us for a series of panels talks, music and more exploring the changing landscape of Queer Nightlife and Club culture in the UK. Note that this event was initially postponed due to strikes in September.",
+  "image": "images/netwerking3.png",
+  "website_link": "",
+  "ticket_link": "https://www.eventbrite.co.uk/e/roots-n-rhythm-presents-a-new-queer-bruk-netwerking-event-tickets-1777400525819?aff=oddtdtcreator&fbclid=PAZXh0bgNhZW0CMTEAAae0e0YqRR0v4ISkwvUCvV9eZIvZTfNhojeC95afesHdgKDj9vsSLw7rxit0gA_aem_-0vRiyuf1XKJjNO9IP5PXQ",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075710,
+  "name": "𝖍𝖆𝖑𝖑𝖔𝖜𝖊𝖊𝖓: La Campire Diaries",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "19:00-22:00",
+  "date": "Oct 25",
+  "price": "£10 to £15",
+  "type": "party",
+  "tags": [
+      "Party",
+      "Lesbian",
+      "Halloween",
+      "Rowdy",
+
+  ],
+  "description": "Join us for another house-party style evening of dancing at La Camionera. \nIt's Halloween  - La Campire diaries, come vampyric, halloween-y, in any costume you want as long as its spooky, sexy, fun or whatever combination you like.",
+  "image": "https://cdn.outsavvy.com/events/8f963434-a438-458a-bdc4-2d243803be02.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30593/-la-campire-diaries",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
 
 ];
