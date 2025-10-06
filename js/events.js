@@ -2951,5 +2951,34 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1124075711,
+  "name": "SPOOKY SL@GS",
+  "venue": "The Garage",
+  "address": "20-22 Highbury Corner,  London,  N5 1RD",
+  "time": "23:00-04:00",
+  "date": "Oct 31",
+  "price": "£15.50 to £22.50",
+  "type": "party",
+  "tags": [
+      "Party",
+      "Queer",
+      "Halloween",
+      "Performances",
+      "TIBPOC"
 
+  ],
+  "description": "Join us for another house-party style evening of dancing at La Camionera. \nIt's Halloween  - La Campire diaries, come vampyric, halloween-y, in any costume you want as long as its spooky, sexy, fun or whatever combination you like.",
+  "image": "https://cdn.outsavvy.com/events/bfb2f226-3b7e-47f7-b27b-6aa2d19a62be.jpg",
+  "website_link": "https://www.instagram.com/taalinotcharlie/?hl=en",
+  "ticket_link": "https://www.outsavvy.com/event/30621/spooky-slgs",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
 ];
