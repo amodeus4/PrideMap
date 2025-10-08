@@ -3002,10 +3002,41 @@ const events = [
   "website_link": "",
   "ticket_link": "https://www.outsavvy.com/event/12865/queer-board-games-social-deptford",
   "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075713,
+  "name": "Sextou #11",
+  "venue": "Number 90 Lock",
+  "address": "90 wallis rd, London E9 5LN",
+  "time": "23:00-05:00",
+  "date": "Oct 24",
+  "price": "Password Protected",
+  "type": "party",
+  "tags": [
+      "Party",
+      "Queer",
+      "Authentic",
+      "Sweaty",
+      "DM for password"
+
+  ],
+  "description": "Sextou isn’t just a party — it’s a celebration of queer energy, radical inclusivity, and the unifying power of techno. Named after the Brazilian slang for “Happy Friday,” Sextou creates a space where authenticity reigns and the dance floor is electric.",
+  "image": "images/sextou.png",
+  "website_link": "https://www.instagram.com/sextou_london/?hl=en",
+  "ticket_link": "https://app.promotix.com/events/details/CLONE---SEXTOU--11-tickets",
+  "coordinates": null,
   "sellingFast": true,
   "scraped_from": "outsavvy",
   "scraped_date": "2025-10-02T10:33:46.180410",
   "generes": [
+    "Techno",
       
   ],
   "age": "18+"
