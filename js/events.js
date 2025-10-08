@@ -2981,4 +2981,33 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1124075712,
+  "name": "Queer Board Games Social ",
+  "venue": "Badger Badger",
+  "address": "145 Deptford High Street,  London,  SE8 3NU",
+  "time": "18:30-23:00",
+  "date": "Oct 9",
+  "price": "£8",
+  "type": "social",
+  "tags": [
+      "Social",
+      "Queer",
+      "Games",
+      "Community"
+
+  ],
+  "description": "Come solo or bring your crew to this friendly LGBTQ+ & allies board game social — a welcoming space to meet, mingle, and play! All levels are welcome, with game experts ready to guide you. There’s also a first-come, first-served RPG session for those curious to dive in early.",
+  "image": "https://cdn.outsavvy.com/events/71057e7d-129f-4824-925b-a16aac0c6a40.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/12865/queer-board-games-social-deptford",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
 ];
