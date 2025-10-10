@@ -3041,4 +3041,228 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1124075714,
+  "name": "KARMA KLUB",
+  "venue": "Electrowerkz",
+  "address": "7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom",
+  "time": "22:00-05:00",
+  "date": "Nov 28",
+  "price": "£0 to £15",
+  "type": "party",
+  "tags": [
+      "Rave",
+      "Queer",
+      "Energetic",
+
+
+  ],
+  "description": "HOUSE & TECHNO RAVE\nMULTI ROOM EVENT\nLINE UP - she's major.\n\n HOUSE RULES: EVERYONE IS WELCOME, PROVIDING YOU RESPECT THE HOUSE RULES OF ELECTROWERKZ AND COME WITH GOOD INTENTIONS TO RAVE AND ENJOY THE QUEER ENERGY THAT RUNS THROUGH OUR EVENT.",
+  "image": "images/karmaklub3.png",
+  "website_link": "https://www.instagram.com/karmaklub__/?hl=en",
+  "ticket_link": "https://ra.co/events/2276733?fbclid=PAZXh0bgNhZW0CMTEAAafYP7uu-Qj9t6fpeLbOMlmPpZiElhm3JCRkYsQVdcMk8XHT3Z11-TSpELVw6Q_aem_t-G8dvaB-Y-wpyxWy3fHAA",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+    "Techno",
+    "House"
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075715,
+  "name": "Dyke March Socials",
+  "venue": "The Alpaca",
+  "address": "84-86 Essex Road, Islington, London, N1 8LU",
+  "time": "18:00-close",
+  "date": "Oct 15",
+  "price": "FREE",
+  "type": "social",
+  "tags": [
+      "Social",
+      "Drinks",
+      "Community",
+      "Crafts",
+      "Trans",
+      "Dyke",
+
+
+  ],
+  "description": "Come join us for some pints, crafts and community 🤝\nFree entry, no tickets needed. Just rock up and enjoy the d¥kes ⛓️\n\nThis month we will have some zine making for you lot hosted by @itsgivingdylan ✂️🎨\n\nThe Alpaca has an accessible loo and step free access to the bar and smoking area ♿️\n\nAs always, we’re a trans inclusive space so don’t come if you’re not on board! 🏳️‍⚧️⚧️",
+  "image": "images/dykemarch5.png",
+  "website_link": "https://www.instagram.com/dyke_march/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+    "Techno",
+    "House"
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075716,
+  "name": "Tech Couture",
+  "venue": "FOLD",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "23:00-10:00",
+  "date": "Nov 21",
+  "price": "£14 to £19",
+  "type": "party",
+  "tags": [
+      "Rave",
+      "Community",
+      "Cunty",
+      "Queer",
+
+
+  ],
+  "description": "And the parties just keep coming, bbz.\n\nFor our last party of the year, we're bringing you SXC techno excellence with a lineup that celebrates TC at its core.\n\nAfter a nonstop year that's taken us from Amsterdam to the fields of Burgess Park, we're ending where we began - at our spiritual home, FOLD.\n\nWe're welcoming back all of our residents together under the same roof for the first time, alongside TC favourite Quelza for his long-awaited return.\n\nPlus, we're bringing several local and international icons for their TC debuts: Grace Dahl, Temudo, Mika, and Nina Pixina are all gracing our decks for the very first time.\n\nIt's going to be emotional. It's going to be sweaty. And as always, it's going to be SXC af.\n\nOne last dance for 2025 - let's make it count.\n\nSee you there!",
+  "image": "images/techcouture5.png",
+  "website_link": "https://www.instagram.com/techcouture_ldn/?hl=en",
+  "ticket_link": "https://ra.co/events/2276919",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+    "Techno",
+    "House"
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075717,
+  "name": "Angel D'lite (All Night Long)",
+  "venue": "M.O.T",
+  "address": "Orion Business Centre, Surrey Canal Rd SE14 5RT",
+  "time": "23:00-06:00",
+  "date": "Nov 14",
+  "price": "£13 to £16",
+  "type": "party",
+  "tags": [
+      "Euphoric",
+      "Allies welcome",
+      "Queer",
+      "Sweaty",
+
+
+  ],
+  "description": "For the first time ever in London, South London’s rave angel goes all night long—a full-throttle journey through time-warped genres, euphoric highs with a a sweet n soft centre - an all-night journey through her signature blend of genre-bending rave, breakbeat, house, garage, and beyond.\n\nFrom euphoric peak-time moments at Panorama Bar, De School, and Draaimolen, to intimate, sweat-soaked sets at Club Raum, La Noche, and her own Party SUGAR (who she runs with underground icon Bethan) Angel D’lite has built a reputation for fearless, emotionally-charged selections and deep dancefloor knowledge.\n\nRooted in London’s underground and shaped by years behind the decks across Europe, she brings fearless, playful skill, deep digging instincts, and a distinct sound that connects eras and energies <3\n\nExpect a kaleidoscopic trip through lucious downtempo, trance, all of the breakbeats, freaky electro, hi-NRG Synth pop, thumpin house, and hardcore all laced with fabulous femme energy, BASS and pure joy.\n\nCome for the bargain-bin bangers, stay for the heart-led hedonism from start to finish.\n\nThis is her first all-nighter — get ready for dancefloor delirium",
+  "image": "images/angeldlite.png",
+  "website_link": "https://www.instagram.com/angel_d_lite/?hl=en&g=5",
+  "ticket_link": "https://ra.co/events/2272335",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+    "Breaks",
+    "House",
+    "Techno"
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075718,
+  "name": "Queer Edge Live",
+  "venue": "Nico's Bar, Hackney Bridge",
+  "address": "East Bay Lane,  Hackney Wick,  London,  E15 2SJ",
+  "time": "18:00-23:00",
+  "date": "Oct 16",
+  "price": "£10",
+  "type": "social",
+  "tags": [
+      "Cabaret",
+      "Entertainment",
+      "Comedy",
+      "Music",
+
+
+  ],
+  "description": "So bring your crew, your energy and your true identity for some incredible live music and entertainment... We're here to celebrate self-expression for both our artists and our crowd, and we can not wait to see you on the third Thursday of every month (as well as the first Friday- see our other events on Outsavvy 😉)",
+  "image": "https://cdn.outsavvy.com/events/175b9dcc-fc4c-4dd2-8a9d-1d5eb52a7ed8.jpeg",
+  "website_link": "https://www.instagram.com/qe_london/?hl=en&g=5",
+  "ticket_link": "https://www.outsavvy.com/event/29548/queer-edge-live",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+  
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075719,
+  "name": "Queer Edge Late",
+  "venue": "Block C Hackney Bridge",
+  "address": "Echo Building, E Bay Lane,  Hackney Wick,  London,  E15 2SJ",
+  "time": "20:00-02:00",
+  "date": "Nov 7",
+  "price": "£10 to £15",
+  "type": "party",
+  "tags": [
+      "Party",
+      "Community",
+      "Queer",
+      "Social",
+      "DJs",
+
+
+  ],
+  "description": "Please join us, Friday 7th November, at Block C Hackney Bridge, 8pm-2am. These nights fill the gap between a bar and a rave, making it a great place to meet people within your local queer community.",
+  "image": "https://cdn.outsavvy.com/events/4d0ba655-32b4-4ac4-8b94-29bdfe326bf7.png",
+  "website_link": "https://www.instagram.com/qe_london/?hl=en&g=5",
+  "ticket_link": "https://www.outsavvy.com/event/30151/queer-edge-late",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+  
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1124075720,
+  "name": "Club Are",
+  "venue": "Hackney Bridge, Units 1-28",
+  "address": "Echo Building, E Bay Ln, London E15 2SJ, UK",
+  "time": "15:00-02:00",
+  "date": "Oct 25",
+  "price": "£17.50 to £27.50",
+  "type": "party",
+  "tags": [
+      "Rave",
+      "Movement",
+      "Queer",
+      "Social",
+      "Community"
+
+  ],
+  "description": "Club Are is back on 25th of October for our second Autumn Edition, returning to Hackney Bridge, our home base and the place where it all began, celebrating pagan traditions of the season.\nWe’re taking over for 12 hours, from afternoon into late night, with music, movement, and community driving everything we do.",
+  "image": "images/clubare6.png",
+  "website_link": "https://www.instagram.com/club_are/?hl=en",
+  "ticket_link": "https://www.clubare.org/events/club-are-october-edition",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+    "Techno",
+      
+  ],
+  "age": "18+"
+},
 ];
