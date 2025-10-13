@@ -3360,7 +3360,7 @@ const events = [
   "name": "CELESTIAL BODIES",
   "venue": "Dalston Superstore",
   "address": "117 Kingsland High Street,  London,  E8 2PB",
-  "time": "22:00-19:00",
+  "time": "22:00-04:00",
   "date": "Oct 18",
   "price": "£8 to £10",
   "type": "party",
