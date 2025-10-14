@@ -4139,6 +4139,65 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 3944077079,
+  "name": "soft systems ★ tm8.club x bluparti",
+  "venue": "Reference Point",
+  "address": "2 Arundel Street, London, WC2R 3DA",
+  "time": "19:00-23:59",
+  "date": "Nov 7",
+  "price": "£5.50 to £17.10",
+  "type": "social",
+  "tags": [
+      "Ambient",
+      "Experimental",
+      "Inclusive",
+      "Music",
+      "Visuals"
+  ],
+  "description": "We’re delighted to collaborate with our chosen family from bluparti for a community gathering, Soft Systems. All ticket profits will go to Not a Phase, which supports trans+ and gender diverse adults.Shared ethos and values have always guided our collaborations, especially those that nurture connection off the dancefloor. bluparti embodies this spirit through their commitment to safety, radical respect, and artistic expression grounded in freedom and countercultural play. It’s an honour to come together with the London-based collective for the first time this November.\n\nAs well as showcasing DJs, bluparti spotlights performance and visual artists through their event series. By promoting artists from the underground scenes and supporting marginalised people, bluparti creates a sense of family and connection through music and art, both inside and outside of the club.\n\nWe’ve teamed up to curate live sets and performances from AM sin and CITYTRONIX and a panel discussion. We’ll close our gathering with an Open Decks session selected via our open call (more to come soon!).\n\nJoin us from 1900 - 00.00 at Reference Point.\n\nAll Pay What You Can ticket profits will be donated to Not a Phase in full. ⋆✴︎˚｡⋆\n",
+  "image": "images/softsystem.png",
+  "website_link": "https://www.instagram.com/tm8.club/?hl=en",
+  "ticket_link": "https://ra.co/events/2278103",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     
+  ],
+  "age": "18+"
+},
+
+{
+  "id": 3944077080,
+  "name": "SOAK & Soft Domination",
+  "venue": "Fabric",
+  "address": "77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom",
+  "time": "23:00-04:00",
+  "date": "Oct 26",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "Community",
+      "Underground",
+      "Collectives",
+      "Music",
+  ],
+  "description": "We’re delighted to collaborate with our chosen family from bluparti for a community gathering, Soft Systems. All ticket profits will go to Not a Phase, which supports trans+ and gender diverse adults.Shared ethos and values have always guided our collaborations, especially those that nurture connection off the dancefloor. bluparti embodies this spirit through their commitment to safety, radical respect, and artistic expression grounded in freedom and countercultural play. It’s an honour to come together with the London-based collective for the first time this November.\n\nAs well as showcasing DJs, bluparti spotlights performance and visual artists through their event series. By promoting artists from the underground scenes and supporting marginalised people, bluparti creates a sense of family and connection through music and art, both inside and outside of the club.\n\nWe’ve teamed up to curate live sets and performances from AM sin and CITYTRONIX and a panel discussion. We’ll close our gathering with an Open Decks session selected via our open call (more to come soon!).\n\nJoin us from 1900 - 00.00 at Reference Point.\n\nAll Pay What You Can ticket profits will be donated to Not a Phase in full. ⋆✴︎˚｡⋆\n",
+  "image": "images/softdom.png",
+  "website_link": "https://www.instagram.com/soft_domination/?hl=en",
+  "ticket_link": "https://ra.co/events/2264721?p=softdomination&fbclid=PAZXh0bgNhZW0CMTEAAaeyfGdhPlEYMpMLAPtswceLNZtHxcF0iRH0e8EZsI84QS4KaF-TJpmpSWmrvQ_aem_yWksfjH2gE52rBuoP0TpmA",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     "Techno",
+     "Multi-Genre"
+  ],
+  "age": "18+"
+},
 
 
 ];
