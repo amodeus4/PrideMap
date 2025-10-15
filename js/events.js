@@ -4198,6 +4198,144 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 3944077081,
+  "name": "BODYSWAP",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-02:30",
+  "date": "Oct 15",
+  "price": "PWYC",
+  "type": "party",
+  "tags": [
+      "Community",
+      "Trans",
+      "Music",
+  ],
+  "description": "Dalston Superstore’s weekly party for the trans+ community BodySwap!\n\nEvery Wednesday from 10pm, curators Harietta and Karlie Marx play Transgender Dance Music along with guest DJs, gogos and cvnty club kids. It’s the only place to be on a Wednesday night in Dalston! \n\nThis is a space for trans* power, rage, beauty, resilience, and joy. BodySwap celebrates and platforms trans* artists from diverse backgrounds, while raising crucial funds. BodySwap is by and for trans people. Each week we raise money for a trans person’s healthcare fundraiser with our door profits, so come through and party in community with the transexuals of Kingsland Road. ",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/06/generic-IG-819x1024.png",
+  "website_link": "https://dalstonsuperstore.com/",
+  "ticket_link": "https://dalstonsuperstore.com/event/bodyswap-98/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     "Techno",
+     "Multi-Genre"
+  ],
+  "age": "18+"
+},
+{
+  "id": 3944077082,
+  "name": "BODYCON",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-02:30",
+  "date": "Oct 16",
+  "price": "Free to £7",
+  "type": "party",
+  "tags": [
+      "Community",
+      "High Energy",
+      "Camp",
+  ],
+  "description": "Back to Back to Basics. We get so sweaty that any dress becomes a BODYCON. We’re dancing like everyone’s washing. At BODYCON no pleasure is guilty, no outfit is cringey and no no, no no no no, no no no no, no no there’s no limit.",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/09/Bodycon-IG-819x1024.png",
+  "website_link": "https://dalstonsuperstore.com/",
+  "ticket_link": "https://dalstonsuperstore.com/event/bodycon-34/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+  
+  ],
+  "age": "18+"
+},
+{
+  "id": 3944077083,
+  "name": "BODYSWAP",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-02:30",
+  "date": "Oct 22",
+  "price": "PWYC",
+  "type": "party",
+  "tags": [
+      "Community",
+      "Trans",
+      "Music",
+  ],
+  "description": "Dalston Superstore’s weekly party for the trans+ community BodySwap!\n\nEvery Wednesday from 10pm, curators Harietta and Karlie Marx play Transgender Dance Music along with guest DJs, gogos and cvnty club kids. It’s the only place to be on a Wednesday night in Dalston! \n\nThis is a space for trans* power, rage, beauty, resilience, and joy. BodySwap celebrates and platforms trans* artists from diverse backgrounds, while raising crucial funds. BodySwap is by and for trans people. Each week we raise money for a trans person’s healthcare fundraiser with our door profits, so come through and party in community with the transexuals of Kingsland Road. ",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/06/generic-IG-819x1024.png",
+  "website_link": "https://dalstonsuperstore.com/",
+  "ticket_link": "https://dalstonsuperstore.com/event/bodyswap-98/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     "Techno",
+     "Multi-Genre"
+  ],
+  "age": "18+"
+},
+{
+  "id": 3944077084,
+  "name": "LUCKY DIP",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-02:30",
+  "date": "Oct 23",
+  "price": "Free to £7",
+  "type": "party",
+  "tags": [
+      "Community",
+      "Emerging Talent",
+      "Garage",
+  ],
+  "description": "LUCKY DIP: Showcasing East London’s finest queer talent with names both established and new. With garage, house and bassline at the heart of our residents’ musical offerings, LUCKY DIP is also an opportunity for other sounds to be heard alongside 133bpm classics. It’s a lucky dip… expect the unexpected x \n\nChampioning emerging creative talent with Hub 16.",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/06/Lucky-Dip-Logo-819x1024.png",
+  "website_link": "https://dalstonsuperstore.com/",
+  "ticket_link": "https://dalstonsuperstore.com/event/lucky-dip-7/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 3944077085,
+  "name": "GET A GRIP!",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-04:00",
+  "date": "Oct 24",
+  "price": "Free to £10",
+  "type": "party",
+  "tags": [
+      "Hard",
+      "Fast",
+      "Sexy",
+  ],
+  "description": "A brand new party bursts through the doors of The Mothership on Friday 24th October: GET A GRIP!  Produced by our fave CRYSTAL…\n\nHigh-speed diva dubs and booty bass from Shirley Temper (Jungyals and Gays resident). Intercontinental ass-shakers from Glasgow’s Salam Kitty (host of SWANA/MENA party WSHWSH). Twisted bumpers from LDN dance chameleon Shivum Sharma (Foundation FM). And sweet ’n’ sexy euphoria from Manchester’s Bollibubbles!\n\nSetting the pace: your GAG pit girls Anna Gold, Crystal & Oddrun. Hosting: East London’s most raring-to-go-gos.",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/10/250930-MM-GetAGrip-3-copy-723x1024.jpg",
+  "website_link": "https://dalstonsuperstore.com/",
+  "ticket_link": "https://dalstonsuperstore.com/event/get-a-grip/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+
 
 
 ];
