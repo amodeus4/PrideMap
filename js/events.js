@@ -1560,8 +1560,8 @@ const events = [
 {
   "id": 2924740752,
   "name": "NOON #1",
-  "venue": "TBA - Peckham",
-  "address": "Peckham, SE15 4BQ",
+  "venue": "Bermondsey Social Club",
+  "address": "19 Almond Road, London, SE16 3LR",
   "time": "12:00-22:00",
   "date": "Oct 18",
   "price": "£8 OTD",
