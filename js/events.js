@@ -4335,7 +4335,157 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 3944077086,
+  "name": "Riposte - Fight Club",
+  "venue": "Electrowerkz",
+  "address": "7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom",
+  "time": "21:00-06:00",
+  "date": "Nov 14",
+  "price": "£12 to £20",
+  "type": "party",
+  "tags": [
+      "Fun",
+      "Community",
+      "LGBTQ+",
+      "Techno",
+      "Footwork"
+  ],
+  "description": "Riposte is a queer art rave that celebrates radical self-expression, body positivity, and community care through immersive events that blend music, visual art, and activism. Each party is a manifesto of queer resistance — challenging norms, amplifying marginalised voices, and transforming dancefloors into sites of liberation and connection.",
+  "image": "images/fightclub.png",
+  "website_link": "https://www.instagram.com/riposte.london/",
+  "ticket_link": "https://ra.co/events/2280771",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 3944077087,
+  "name": "UNFOLD CIX",
+  "venue": "FOLD",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "14:00-23:59",
+  "date": "Oct 26",
+  "price": "£20 OTD",
+  "type": "party",
+  "tags": [
+      "Party",
+      "Blck history month",
+      "LGBTQ+",
+      "Techno",
+      "Euphoric",
 
+  ],
+  "description": "UNFOLD returns on Sunday 26th October with a Special Edition to celebrate Black History Month and honour the contributions of Black artists to dance music.",
+  "image": "images/unfold7.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2272622",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
 
+{
+  "id": 3944077088,
+  "name": "Club Stamina",
+  "venue": "Barbican Centre",
+  "address": "Silk Street, London, EC2Y 8DS",
+  "time": "22:45-03:00",
+  "date": "Nov 29",
+  "price": "£16",
+  "type": "party",
+  "tags": [
+      "Music",
+      "Fashion",
+      "Visual Art",
+      "Trans-femme",
+      "LGBTQ+",
+
+  ],
+  "description": "Club Stamina takes over Dirty Weekend with a night where music, fashion and visual art collide. Known for championing trans-femme talent and pushing global club culture forward, Stamina unites artists whose vision defines a generation. The night unfolds as a 360° show, with Mina Galán’s live performance debut and an exclusive glimpse into her forthcoming project, blending Latin and experimental electronic sounds into a bold new direction.\n\nA full visual curation transforms the space with performances from artists shaping Mina’s sound: Merca Bae driving the floor with pulsating dembow; CRYSTALLMESS conjuring intensity with genre-defying sets; and New York, the London underground pop duo, weaving experimental textures.\n\nIn true Club Stamina style, these voices converge in an experience that channels the raw energy of underground club culture.",
+  "image": "images/stamina.png",
+  "website_link": "https://www.barbican.org.uk/whats-on/2025/event/club-stamina-presents-mina-galan-18?previewToken=2m9CQAmp6OXE50274xXEmLdLDPGT8VzvVTMJPV5JeRo&fbclid=PAZXh0bgNhZW0CMTEAAacc8fbCrNKupRkACIIkQxMnBcBTm7XLqqA2dZWGNxZLu6YIXWd1AMTTehzXmQ_aem_FcuxmKY6gYfYPukG5g7WNg",
+  "ticket_link": "https://www.barbican.org.uk/whats-on/2025/event/club-stamina-presents-mina-galan-18?previewToken=2m9CQAmp6OXE50274xXEmLdLDPGT8VzvVTMJPV5JeRo&fbclid=PAZXh0bgNhZW0CMTEAAacc8fbCrNKupRkACIIkQxMnBcBTm7XLqqA2dZWGNxZLu6YIXWd1AMTTehzXmQ_aem_FcuxmKY6gYfYPukG5g7WNg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 3944077089,
+  "name": "Fèmmme Fraîche",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "21:00-04:00",
+  "date": "Nov 8",
+  "price": "£5 to £10",
+  "type": "party",
+  "tags": [
+      "DJs",
+      "LGBTQ+",
+      "High Energy"
+
+  ],
+  "description": "We’re back at the Mothership Dalston Superstore On Sat 8th Nov for our final Kiki of the year.\n\nDown in the Basement, we have one of Glasgow’s finest joining us, Frankie Elyse is a standout figure in the Scottish electronic music scene, BBC broadcaster, mother of queer FLINTA party Polka Dot Disco and all high-energy selector, she’ll be closing out the basement with Big Bouncy Bangers. On warm up duties is HOLY C, one of London queer scenes most exciting new up-and-coming DJ’s and of course, sandwiched between the two, our beloved resident Michelle Manetti with their regular 90’s infused cunty, percussive beats. \n\nUp in the bar we see the return of DJ, Vogue mother and all round Sassy angel Bambi, as well as regular FF fave Areola Grande Latte and of course our resident duo of Fraicheness Darren & Linzi Expect bootlegs, mashups, twisted pop, trash-tastic faves, and Cunty Slut-Pop bangers. \n\nFor gogo duties, we have two of our Femmme Fraiche firm faves, regular Sabrina Jade and Than The Freak with, ass-shakin’ sexy, stupendous bar-top antics. ",
+  "image": "https://cdn.outsavvy.com/events/40d9a1ef-119b-4206-83bb-cd3bcff893ad.jpg",
+  "website_link": "https://www.instagram.com/femmmefraiche/",
+  "ticket_link": "https://www.outsavvy.com/event/30911/femmme-fraiche-058-with-michelle-manetti-frankie-elyse-holy-c-bambi-areola-grande-latte-more",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      "Trance",
+      "Techno",
+      "House",
+  ],
+  "age": "18+"
+},
+{
+  "id": 3944077089,
+  "name": "Queer Pub Crawl - Dyke March",
+  "venue": "Hackney Road",
+  "address": "NA",
+  "time": "13:00-03:00",
+  "date": "Oct 25",
+  "price": "Donations",
+  "type": "social",
+  "tags": [
+      "Social",
+      "LGBTQ+",
+      "Pub Crawl",
+      "FLINTA",
+      "Trans"
+
+  ],
+  "description": "Pub crawling on Hackney Road. Saturday 25 October 2025. From @thenelsonspub to @loveaffairbasement to @thequeenadelaide.I am curating a small and concise market with some of my favourite creatives at LAB (love affair basement) from 2pm till 6pm. The brilliant @queerbrewing are supplying the beer. Are you coming?? Entry on donation only. 💎💎💎",
+  "image": "images/pubcrawl.png",
+  "website_link": "https://www.instagram.com/dyke_march/",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      "Trance",
+      "Techno",
+      "House",
+  ],
+  "age": "18+"
+},
 
 ];
