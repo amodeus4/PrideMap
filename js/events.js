@@ -2873,7 +2873,7 @@ const events = [
   "name": "𝖍𝖆𝖑𝖑𝖔𝖜𝖊𝖊𝖓: La Campire Diaries",
   "venue": "La Camionera",
   "address": "243 Well Street,  London,  E9 6RG",
-  "time": "19:00-22:00",
+  "time": "15:00-23:59",
   "date": "Oct 25",
   "price": "£10 to £15",
   "type": "party",
@@ -4456,7 +4456,7 @@ const events = [
   "age": "18+"
 },
 {
-  "id": 3944077089,
+  "id": 3944077090,
   "name": "Queer Pub Crawl - Dyke March",
   "venue": "Hackney Road",
   "address": "NA",
