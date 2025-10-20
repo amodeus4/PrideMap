@@ -4487,5 +4487,35 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 3944077091,
+  "name": "FEEL IT",
+  "venue": "Omeara",
+  "address": "6 O'Meara Street, SE1 1TE, Londo",
+  "time": "22:30-05:00",
+  "date": "Oct 24",
+  "price": "£22 OTD",
+  "type": "party",
+  "tags": [
+      "Party",
+      "LGBTQ+",
+      "Vibrant",
+      "Diverse",
 
+  ],
+  "description": "Queer Super-Party 3 Rooms of pleasure 10:30 till 5am Last entry 3am £22 on the door, no pre-sale",
+  "image": "images/feelit3.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2269840",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      "House",
+      "Pop",
+      "Disco",
+  ],
+  "age": "18+"
+},
 ];
