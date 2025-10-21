@@ -4518,4 +4518,65 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 3944077092,
+  "name": "Sappho’s Circle Book Club",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "14:00-17:00",
+  "date": "Nov 9",
+  "price": "£5",
+  "type": "social",
+  "tags": [
+      "Book Club",
+      "Sapphic",
+      "Chill",
+      "Social",
+      "Friendly",
+      "Chatty"
+
+  ],
+  "description": "Join us for our Sapphic book club where every month we join together and discuss sapphic literature!\n\n📚This month’s book: Hungerstone by Kat Dunn   (Sexy lesbian vampires) \n📍La Camionera\n\n⏱️Time and date: Sunday 9th November @ 2pm \n\nAn afternoon of wine and amazing conversation as we sip, yap and analyse amongst the loveliest of company 💕\n\nExpect baked goods and immaculate vibes \n\nIf you're not in the WhatsApp group chat, message me at: 07852695922\n\nSappho's circle is a super fun community where queer women and non binary people are all welcome!",
+  "image": "https://cdn.outsavvy.com/events/3fb709f7-5d53-4e1c-be82-1f18c4b78fe7.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29578/sapphos-circle-book-club",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  
+},
+{
+  "id": 3944077093,
+  "name": "Sapphic Scribblings: A Creative Writing Workshop",
+  "venue": "The Post Bar",
+  "address": "316 High Road,  London,  N15 4BN",
+  "time": "18:30-20:30",
+  "date": "Oct 22",
+  "price": "£10",
+  "type": "social",
+  "tags": [
+      "Writing Club",
+      "Sapphic",
+      "Chill",
+      "Social",
+      "Friendly",
+
+  ],
+  "description": "Inspired by the writing of queer women and power of the written word to express joy, desire and complex inner thoughts, Sapphic Scribblings offers a welcoming community space to put pen to paper. Whether you are an experienced writer, or curious to try something new, all are encouraged to come along.\n\nThis 2-hour session will feature reading and discussing others' work, and being guided in the process of creating our own. The event is aimed at queer women and non-binary people, and is emphatically trans-inclusive.\n\nWhere: The Post Bar N15 \nWhen: 22nd October @ 6:30-8:30pm \nThis event is part of Sappho's Circle, if you would like to be added to the group chat please message me on 07852695922",
+  "image": "https://cdn.outsavvy.com/events/1b69b43f-d1aa-403f-b8c7-c63f56f889e3.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30718/sapphic-scribblings-a-creative-writing-workshop",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  
+},
 ];
