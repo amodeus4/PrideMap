@@ -4579,4 +4579,32 @@ const events = [
   ],
   
 },
+{
+  "id": 3944077094,
+  "name": "DYKE Mechanics sessions and Film screening",
+  "venue": "Piehouse Co-Op",
+  "address": "213-214 Edward Place London SE8 5HD",
+  "time": "15:00-21:00",
+  "date": "Nov 16",
+  "price": "Donation",
+  "type": "workshop",
+  "tags": [
+      "Mechanics",
+      "Sapphic",
+      "Social",
+
+  ],
+  "description": "Inspired by the writing of queer women and power of the written word to express joy, desire and complex inner thoughts, Sapphic Scribblings offers a welcoming community space to put pen to paper. Whether you are an experienced writer, or curious to try something new, all are encouraged to come along.\n\nThis 2-hour session will feature reading and discussing others' work, and being guided in the process of creating our own. The event is aimed at queer women and non-binary people, and is emphatically trans-inclusive.\n\nWhere: The Post Bar N15 \nWhen: 22nd October @ 6:30-8:30pm \nThis event is part of Sappho's Circle, if you would like to be added to the group chat please message me on 07852695922",
+  "image": "images/dykemechanics.png",
+  "website_link": "",
+  "ticket_link": "https://www.eventbrite.co.uk/e/dike-mechanics-sessions-and-film-screening-tickets-1846048714399?aff=oddtdtcreator&fbclid=PAZXh0bgNhZW0CMTEAAacDGpevcR3G6NpA-rLRTxCQV_26_AQPTOAqipwgAGf1pBwrioRGCwNGiRPhmQ_aem_phHNiE0Tq772mCQ03z25Aw",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  
+},
 ];
