@@ -3702,7 +3702,7 @@ const events = [
   "name": "Black History Month Gig with Currls & More",
   "venue": "Piehouse Co-Op",
   "address": "213-214 Edward Place,  London,  SE8 5HD",
-  "time": "19:00-25:00",
+  "time": "19:00-01:00",
   "date": "Oct 24",
   "price": "£8 to £20",
   "type": "social",
