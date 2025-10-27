@@ -5407,5 +5407,32 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1945952338,
+  "name": "AMBIENT SAUNA",
+  "venue": "Sauna Social Club",
+  "address": "Railway Arch 842 Brayards Road, Peckham, London, SE15 2AG",
+  "time": "18:00-22:00",
+  "date": "Nov 15",
+  "price": "£24.99 to £29.99",
+  "type": "social",
+  "tags": [
+    "Wellness",
+    "Ice Bath",
+    "Sauna",
+    "Ambient",
+    "Social"
+  ],
+  "description": "On 15th November, we are absolutely delighted to invite you to join us for an evening of healing, blissful connection and ambient music at @sauna_socialclub in Peckham. \n\n🫧Having attended this magical space many times since its opening, we can't wait to host an evening of ambient DJs sets, featuring talented FLINTA* artists 💫 who will be soundtracking your sauna sessions with deep frequencies. 🪷",
+  "image": "images/ambient.png",
+  "ticket_link": "https://www.saunasocialclub.co.uk/?fbclid=PAZXh0bgNhZW0CMTEAAadkok9pT1r19El4FJS-TJPEhR6aLzednmf4rmMob8YAoExj27PWtzPy2BSo1A_aem_Iq4Tj8klaFSB2sCzyGAUEw",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
 
 ];
