@@ -898,7 +898,7 @@ const events = [
 
 {
   "id": 4005607046,
-  "name": "QueerSwap Book Swap & Socials",
+  "name": "QueerSwap Book Swap & Open Mic Night!",
   "venue": "Theatre Deli",
   "address": "107 Leadenhall Street,  London,  EC3A 4AFQ",
   "time": "19:00-22:00",
@@ -933,7 +933,7 @@ const events = [
   "address": "2-4 Hoxton Square,  London,  N1 6NU",
   "time": "21:00-02:00",
   "date": "Oct 24",
-  "price": "£12 to £20",
+  "price": "Sold Out",
   "type": "party",
   "tags": [
     "halloween",
@@ -2088,38 +2088,6 @@ const events = [
   "age": "18+"
 },
 
-
-{
-  "id": 1481970485,
-  "name": "FLINTA Salsa Contemporary Fusion | Workshop and Sauna | Open Level",
-  "venue": "Husky Studios",
-  "address": "29a Amelia Street,  London,  SE17 3PY",
-  "time": "15:00-17:00",
-  "date": "Nov 30",
-  "price": "£22 to £25",
-  "type": "workshop",
-  "tags": [
-      "dancing",
-      "social",
-      "queer",
-      "flinta",
-      "workshop",
-  ],
-  "description": "📣 Salsa Contemporary Fusion 🎉\nDate: Sunday 30th  November 2025\nTime: 3:00 – 5:00 PM \nLocation: Husky Studio, Elephant and Castle\nJoin Sanura Dance for a one-off workshop blending the rhythm of salsa with the innovation of contemporary dance. 💃✨ Taught by the wonderful Gaby (@gabriellaclementinasandoval), this workshop is designed for dancers to brush up on salsa fundamentals while exploring the freedom and expression of contemporary styles. Think fast footwork, flowing turns, and a fresh perspective! \nWhat to expect:\n💡 A practical introduction to both salsa and contemporary\n💃 Unique choreography blending both styles\n🌟 Connection and exploration in a safe, inclusive, and affirming space.\n🌈 This is your space to shine - no partner, no rules, just pure queer joy and movement without limits.\n ✨ But wait, there's more! ✨\nThis event has two parts:\nDance Workshop (open to everyone)\nCommunity Sauna Session (FLINTA-only venue and event)\nJoin us at the sauna from 6 - 7:30pm to relax with new workshop friends who are Female, Lesbian, Intersex, Non-binary, Trans, or Agender (FLINTA).  Sauna tickets are sold separately, though we encourage you to join us for the workshop and the sauna afterwards! The sauna location is just a 15-minute bus ride from the studio 🚌\nBook your sauna tickets here: COMMUNITY SAUNA BOOKING LINK\n✨ Sanura Dance is a FLINTA-led, feminist and LGBTQ+ affirming dance space. We prioritise inclusivity and breaking stereotypes — where everyone can move, connect, and belong.\n👉 BOOK YOUR PLACE NOW — spaces are limited!\n For full details on our policies, including your rights, please refer to our Terms & Conditions.\nBy attending the event, you acknowledge and accept these terms. For questions, contact us at info@sanuradance.com.\nTo unsubscribe from Sanura Dance communications, email unsubscribe@sanuradance.com.",
-  "image": "https://cdn.outsavvy.com/events/2bddb2fd-155a-414e-8937-9e2c1b6e53d5.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/30108/queer-salsa-workshop-intro-to-salsa-contemporary-fusion",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-02T10:33:46.175628",
-  "generes": [
-      "latin",
-  ],
-  "age": "18+"
-},
-
-
 {
   "id": 1078365180,
   "name": "Twerk Temple Brighton Halloween Special",
@@ -2480,41 +2448,6 @@ const events = [
       "nan"
   ],
   "age": "18+"
-},
-
-{
-  "id": 4065017976,
-  "name": "Queer Book Club - London",
-  "venue": "Retro Bar",
-  "address": "2 George Court,  London,  WC2N 6HH",
-  "time": "19:00-20:00",
-  "date": "Oct 27",
-  "price": "£4 to £6",
-  "type": "social",
-  "tags": [
-      "dancing",
-      "social",
-      "lgbtq+",
-      "queer",
-      "lesbian",
-      "nb",
-      "flinta",
-      "trans",
-      "bisexual",
-      "drinks",
-      "book club"
-  ],
-  "description": "Calling all queer book-lovers - join us for an evening of sapphic bookish chats!\nEvery month, we will be reading a new piece of sapphic literature and coming together at Retro Bar, London to discuss over a cuppa or mocktail with the Sappho Events community.\n25 August - Bury Our Bones in the Midnight Soil by V.E Schwab (we recommend you listen to the audio-book on Audible!)\n22 September - Palm Meridian by Grace Flahive (author, Grace will be joining us)\n27 October - The Light and Shade of Ellen Swithin by DG Coutinho (author, DG will be joining us)\nSappho founder Maryann Wright will lead the discussion. \nTime: 7-8pm with further drinks and chats after in the bar\nLocation: Retro Bar, 2 George Court, Westminster, WC2N 6HH (3 minutes walk from Charring Cross underground station)\nPrice: £6 standard, £4 concession\nAccessibility: The venue is not step-free, please contact us for access requirements.\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nPlease note that Sappho Events welcomes LGBTQIA+ women, trans and non-binary people.",
-  "image": "https://cdn.outsavvy.com/events/6d6d1c40-254a-4f8a-8515-b865b224189b.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29127/queer-book-club-london",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-02T10:33:46.177656",
-  "generes": [
-      "nan"
-  ]
 },
 
 
@@ -3327,35 +3260,6 @@ const events = [
   "age": "18+"
 },
 {
-  "id": 1078365180,
-  "name": "Twerk Temple Brighton Halloween Special - A deculonising queer sanctuary of booty shake beats",
-  "venue": "Volks Club",
-  "address": "3 Madeira Drive,  Brighton and Hove,  BN2 1PS",
-  "time": "16:00-22:00",
-  "date": "Nov 2",
-  "price": "£6",
-  "type": "party",
-  "tags": [
-      "dancing",
-      "party",
-      "queer"
-  ],
-  "description": "Twerk Temple Halloween Special - Brighton launch. A deculonising queer sanctuary of booty shake beats!\n\nAmoresss! Popola is bringing our decolonising sanctuary, Twerk Temple, to Brighton for the very first time! Join us for a special Halloween edition at Volks on Saturday, November 2nd.\n From 4 PM until 10 PM, get ready for a fiery daytime celebration. We're teaming up with the Puppy Playgrnd babes for a takeover that will set the dance floor en fuegoooo.\n Come together with diasporic queens, QPOC babes, and allies to celebrate the vibrant spirit of Latinx and Afro-Caribbean culture. Our DJs will take you on a journey fuelled of booty shaking riddims by reggaeton, soca, bouyon, dancehall, latin bass and more.\nThis Halloween, we honor our heritage, celebrate our culture, and unleash pure ancestral fire.\n\nDon't miss out on Brighton's most caliente launch event! <3 \n\nGet your PRE-SALES tix at £6\n\n Nos vemosssss",
-  "image": "https://cdn.outsavvy.com/events/72039103-741c-4aae-b076-b4c7a2365e2f.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/30409/popola-twerk-temple-halloween-special-a-decolonising-queer-sanctuary-of-booty-shake-beats",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-13T12:50:00.686122",
-  "generes": [
-      "afrobeats",
-      "latin",
-      "reggae"
-  ],
-  "age": "18+"
-},
-{
   "id": 4083505031,
   "name": "CELESTIAL BODIES",
   "venue": "Dalston Superstore",
@@ -3822,38 +3726,6 @@ const events = [
   ]
 },
 
-
-
-
-{
-  "id": 2477598948,
-  "name": "ACESPEC Sapphic Mix & Mingle",
-  "venue": "Vagina Museum",
-  "address": "275 Poyser Street,  London,  E2 9HD",
-  "time": "19:30-22:30",
-  "date": "Nov 13",
-  "price": "£5 to £10",
-  "type": "workshop",
-  "tags": [
-      "speed dating",
-      "social",
-      "lgbtq+",
-      "asexual",
-      "aromantic",
-
-  ],
-  "description": "MEET SOME CUTIES & CHECK OUT THE VAGINA MUSEUM! \nThis month's Mingle is run in collaboration with ACESPACELDN 💚💜🤍🖤\nACESPACELDN is a community group for asexual & aromantic spectrum adults based in London. The group focuses on building community through running events and raising awareness and visibility of the asexual & aromantic spectrum. \n***\n✨ A low pressure mix & mingle event for sapphic queers of all genders & sexualities looking for connection - whether that's friendship, dating &/or community \n✨ You can expect a room full of lovely lgbtq+ babes, some conversation cards and CONNECTION! \n✨ It's the type of event where you can come alone, or bring along your queer friends! \n✨ This event is trans and NB inclusive and welcomes anyone of any gender who sits somewhere under the sapphic umbrella \n✨Please choose the reduced cost ticket price if you need to and if you need a free ticket - let me know via email: urawholeorange@gmail.com I'll give you one \n✨ I WANT YOU THERE MORE THAN I WANT YOUR MONEY! \n***\nYou can expect to be put in groups of 6, you’ll chat for 30mins, then half of the table switch to another table and it continues - here is the schedule: \n7:00-7:30 - Doors open (cushion time for late arrivals) \n7:30-8:00 - ROUND 1 \n8:00-8:30 - ROUND 2 \n8:30-8:45 - Break \n8:45-9:15 - ROUND 3 \n9:15-9:45 - ROUND 4 \n9:45-10:00 - Break \n10:00-11:00 - Free mix and mingle time \nVenue Details: Open friendly vibe. The bar will be open throughout serving non-alcoholic & alcoholic drinks. I always lay out some fidget/stim toys to keep any nervous hands occupied. Low lighting - no flashing. Low-level background music. T﻿here is a separate section up some stairs, used as a ‘quieter space’ to go to if you need a break.\nKim (they/she) is the founder of A Whole Orange - a matchmaking and events biz that brings you singles/ready to mingles events, workshops on dating & 1 to 1 matchmaking and relationship coaching. AWO events aim to be accessible & low-stress, with lots of touches and adjustments to make meeting new people a bit easier <3",
-  "image": "https://cdn.outsavvy.com/events/19698c5c-621b-4514-8a6b-81bef4af1fde.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/30106/acespec-sapphic-mix-mingle",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-13T12:50:00.689978",
-  "generes": [
-     
-  ]
-},
 {
   "id": 222391215,
   "name": "DISABLED QUEER XMAS PARTY!",
@@ -3884,33 +3756,6 @@ const events = [
      
   ],
   "age": "18+"
-},
-{
-  "id": 2200227672,
-  "name": "Monthly Sapphic Mix & Mingle",
-  "venue": "Vagina Museum",
-  "address": "275 Poyser Street,  London,  E2 9RF",
-  "time": "19:00-22:30",
-  "date": "Dec 11",
-  "price": "£5 to £10",
-  "type": "workshop",
-  "tags": [
-      "speed dating",
-      "social",
-      "sapphic",
-    
-  ],
-  "description": "MEET SOME CUTIES & CHECK OUT THE VAGINA MUSEUM! \n✨ A low pressure mix & mingle event for sapphic queers of all genders & sexualities looking for connection - whether that's friendship, dating &/or community \n✨ You can expect a room full of lovely lgbtq+ babes, some conversation cards and CONNECTION! \n✨ It's the type of event where you can come alone, or bring along your queer friends! \n✨ This event is trans and NB inclusive and welcomes anyone of any gender who sits somewhere under the sapphic umbrella \n✨Please choose the reduced cost ticket price if you need to and if you need a free ticket - let me know via email: urawholeorange@gmail.com I'll give you one \n✨ I WANT YOU THERE MORE THAN I WANT YOUR MONEY! \nYou can expect to be put in groups of 6, you’ll chat for 30mins, then half of the table switch to another table and it continues - here is the schedule: \n7:00-7:30 - Doors open (cushion time for late arrivals) \n7:30-8:00 - ROUND 1 \n8:00-8:30 - ROUND 2 \n8:30-8:45 - Break \n8:45-9:15 - ROUND 3 \n9:15-9:45 - ROUND 4 \n9:45-10:00 - Break \n10:00-11:00 - Free mix and mingle time \n Venue Details: Open friendly vibe. The bar will be open throughout serving non-alcoholic & alcoholic drinks. I always lay out some fidget/stim toys to keep any nervous hands occupied. Low lighting - no flashing. Low-level background music. T﻿here is a separate section up some stairs, used as a ‘quieter space’ to go to if you need a break.\nKim (they/she) is the founder of A Whole Orange - a matchmaking and events biz that brings you singles/ready to mingles events, workshops on dating & 1 to 1 matchmaking and relationship coaching. AWO events aim to be accessible & low-stress, with lots of touches and adjustments to make meeting new people a bit easier <3\n>>> <<<\nSAVE THE VAGINA MUSEUM FUNDRAISER",
-  "image": "https://cdn.outsavvy.com/events/9b25b3c7-4406-4da9-baf3-6b44784f8d81.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/25358/sapphic-mix-mingle",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-13T12:50:00.690136",
-  "generes": [
-     
-  ]
 },
 
 {
@@ -4541,7 +4386,7 @@ const events = [
   "website_link": "",
   "ticket_link": "https://www.outsavvy.com/event/29578/sapphos-circle-book-club",
   "coordinates": null,
-  "sellingFast": false,
+  "sellingFast": true,
   "scraped_from": "outsavvy",
   "scraped_date": "2025-10-02T10:33:46.180410",
   "generes": [
@@ -4605,6 +4450,962 @@ const events = [
   "generes": [
       
   ],
-  
+
 },
+{
+  "id": 1766574493,
+  "name": "Life Drawing",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "11:00-13:15",
+  "date": "Nov 8",
+  "price": "£15",
+  "type": "workshop",
+  "tags": [
+    "FLINTA",
+    "art",
+    "drinks"
+  ],
+  "description": "•⁠ ⁠casual, informal, open to all abilities and experience!\n •⁠ special, experienced models and teachers!\n\n•⁠  ⁠11-1.15, with a 15 min break!\n •⁠ our cafe menu, soft drinks, and more available!\n\n•⁠  ⁠newsprint and charcoal provided, please bring sketch pads and other materials if you would like them!\n xxxxxx",
+  "image": "https://cdn.outsavvy.com/events/4642b4fc-a094-4576-befe-c81195a067e3.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31086/life-drawing-at-la-camionera-081125",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.940865",
+  "generes": [
+    "nan"
+  ],
+  "age": "18+"
+},
+
+
+{
+  "id": 1044516754,
+  "name": "FLINTA Salsa Musicality & Footwork | Workshop and Sauna",
+  "venue": "Husky Studios",
+  "address": "29a Amelia Street,  London,  SE17 3PY",
+  "time": "15:00-17:00",
+  "date": "Nov 2",
+  "price": "£25",
+  "type": "workshop",
+  "tags": [
+    "dancing",
+    "all levels",
+    "lgbtq+",
+    "lesbian",
+    "flinta"
+  ],
+  "description": " 🎶Salsa Musicality & Footwork 💃\n📅Date: Sunday 2nd  November 2025\n🕒Time: 3:00 – 5:00 PM \n📍Location: Husky Studio, Elephant and Castle\nJoin Sanura Dance for a one-off workshop exploring the art of salsa musicality ✨ Taught by the exceptional Kasia - a dancer and accomplished musician who brings both warmth and expertise to class - the day is designed to deepen your connection to salsa music and elevate your dancing. \nWhat to expect:\n💃 Music-led footwork and body movement\n💡 Theoretical and practical understandings of musicality, including active listening and enhanced musical connection\n🌟 Confidence in interpreting and responding to common salsa rhythms\nThis is your space to shine - no partner, no pressure, just movement and knowledge without limits. All experience levels are welcome, from beginners to regulars. Come as you are 🌈\n ✨ But wait, there's more! ✨\nThis event has two parts:\nDance Workshop (open to everyone)\nCommunity Sauna Session (FLINTA-only venue and event)\nJoin us at the sauna to relax with new workshop friends who are Female, Lesbian, Intersex, Non-binary, Trans, or Agender (FLINTA). Sauna tickets are purchased separately, though we encourage you to join us for the workshop and the sauna afterwards! The sauna location is just a 15-minute bus ride from the studio 🚌\n👉 Book your sauna tickets here: COMMUNITY SAUNA BOOKING LINK\n✨ Sanura Dance is a FLINTA-led, feminist and LGBTQ+ affirming dance space. We prioritise inclusivity and breaking stereotypes — where everyone can move, connect, and belong.\n ",
+  "image": "https://cdn.outsavvy.com/events/beced880-2507-4a5e-b62f-066e9e8b8591.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30109/queer-salsa-workshop-musicality-and-footwork",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.947545",
+  "generes": [
+    "latin"
+  ],
+  "age": "18+"
+},
+
+{
+  "id": 1481970485,
+  "name": "FLINTA Salsa Contemporary Fusion | Workshop and Sauna",
+  "venue": "Husky Studios",
+  "address": "29a Amelia Street,  London,  SE17 3PY",
+  "time": "15:00-17:00",
+  "date": "Nov 30",
+  "price": "£22 to £25",
+  "type": "workshop",
+  "tags": [
+    "dancing",
+    "social",
+    "lesbian",
+    "flinta"
+  ],
+  "description": "📣 Salsa Contemporary Fusion 🎉\nDate: Sunday 30th  November 2025\nTime: 3:00 – 5:00 PM \nLocation: Husky Studio, Elephant and Castle\nJoin Sanura Dance for a one-off workshop blending the rhythm of salsa with the innovation of contemporary dance. 💃✨ Taught by the wonderful Gaby (@gabriellaclementinasandoval), this workshop is designed for dancers to brush up on salsa fundamentals while exploring the freedom and expression of contemporary styles. Think fast footwork, flowing turns, and a fresh perspective! \nWhat to expect:\n💡 A practical introduction to both salsa and contemporary\n💃 Unique choreography blending both styles\n🌟 Connection and exploration in a safe, inclusive, and affirming space.\n🌈 This is your space to shine - no partner, no rules, just pure queer joy and movement without limits.\n ✨ But wait, there's more! ✨\nThis event has two parts:\nDance Workshop (open to everyone)\nCommunity Sauna Session (FLINTA-only venue and event)\nJoin us at the sauna from 6 - 7:30 PM to relax with new workshop friends who are Female, Lesbian, Intersex, Non-binary, Trans, or Agender (FLINTA).  Sauna tickets are sold separately, though we encourage you to join us for the workshop and the sauna afterwards! The sauna location is just a 15-minute bus ride from the studio 🚌\nBook your sauna tickets here: COMMUNITY SAUNA BOOKING LINK\n✨ Sanura Dance is a FLINTA-led, feminist and LGBTQ+ affirming dance space. We prioritise inclusivity and breaking stereotypes — where everyone can move, connect, and belong.\n👉 BOOK YOUR PLACE NOW — spaces are limited!\n For full details on our policies, including your rights, please refer to our Terms & Conditions.\nBy attending the event, you acknowledge and accept these terms. For questions, contact us at info@sanuradance.com.\nTo unsubscribe from Sanura Dance communications, email unsubscribe@sanuradance.com.",
+  "image": "https://cdn.outsavvy.com/events/2bddb2fd-155a-414e-8937-9e2c1b6e53d5.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30108/queer-salsa-workshop-intro-to-salsa-contemporary-fusion",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.952546",
+  "generes": [
+    "latin"
+  ],
+  "age": "18+"
+},
+{
+  "id": 626594376,
+  "name": "QUEER Salsa & Bachata XMAS Social 2025",
+  "venue": "Studio 68 London",
+  "address": "68 Ewer Street,  London,  SE1 0NR",
+  "time": "18:00-22:00",
+  "date": "Dec 13",
+  "price": "£17 to £25",
+  "type": "workshop",
+  "tags": [
+    "dancing",
+    "social",
+    "party",
+    "queer",
+    "trans",
+    "workshop",
+    "christmas"
+  ],
+  "description": "✨ QUEER Salsa & Bachata XMAS Social ✨\nSaturday 13 December · 18:00–22:00\nStudio 68, London\n🌈 One of the biggest nights of the Sanura Dance calendar is here — our QUEER Salsa & Bachata XMAS Social! 🎄🪩\nThis isn’t just a party. It’s a celebration of queer joy, community togetherness, and the power of the dance floor. Join us for a night of movement, sparkle, and connection in a safe, affirming space where everyone leads and everyone follows.\n 💃 What To Expect\n✨ Four festive workshops: Salsa (Beginner + Improver) and Bachata (Beginner + Improver)\n✨ A secret surprise workshop to spice things up 🎁\n✨ Two full hours of social dancing — Salsa, Bachata & Merengue tunes to keep the floor alive\n✨ A special performance from the Sanura Salsa Performance Team 🔥\n✨ Dress code: Fancy & festive — bring your sparkle, sequins, or whatever makes you shine ✨\n Sanura’s socials are more than just dancing. They’re a chance to connect, flirt, unwind, and celebrate being yourself. Whether you come to learn, to dance the night away, or simply to be surrounded by queer joy, this is your dance floor.\n✨ No partner needed.\n✨ First-timers welcome.\n✨ Shy babes, extroverts, and everyone in between — all belong here.\n 👉 Book now and join us for one unforgettable festive night. Let’s close the year the way we live it — bold, queer, and sparkling together 🌈\n  OUR VIBES & VALUES\nAt Sanura Dance, we centre and celebrate FLINTA, feminist, and LGBTQ+ communities, with a special and heartfelt welcome and support for trans women. Now more than ever, it’s vital that we stand united and stand together. We believe firmly that “there’s no LGB without the T” - trans women are an essential and treasured part of our community, and our space is committed to uplifting and empowering you.\nThis event is more than just dancing - it’s about creating a safe, respectful, and empowering space for everyone. Safety and respect are collective responsibilities, and we ask all attendees to help maintain an environment where everyone can express themselves freely, joyfully, and without fear.\n 🌈 Everyone is welcome here - come as you are, ready to dance, learn, and celebrate together in solidarity and pride!\nJoin us for an unforgettable evening of rhythm, pride, and community spirit - where every step is a celebration of identity, connection, and joy!\n  For full details on our policies, including your rights, please refer to our Terms & Conditions.\nBy attending the event, you acknowledge and accept these terms. For questions, contact us at info@sanuradance.com.\nTo unsubscribe from Sanura Dance communications, email unsubscribe@sanuradance.com",
+  "image": "https://cdn.outsavvy.com/events/3fe624a3-113b-480d-b571-fe65be8d102b.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30483/queer-salsa-bachata-xmas-social-2025-dance-event",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.953087",
+  "generes": [
+    "latin"
+  ]
+},
+
+
+{
+  "id": 1078365180,
+  "name": "Twerk Temple Brighton Halloween Special - Queer Afro Perreo Party",
+  "venue": "Volks Club",
+  "address": "3 Madeira Drive,  Brighton and Hove,  BN2 1PS",
+  "time": "16:00-22:00",
+  "date": "Nov 2",
+  "price": "£6",
+  "type": "party",
+  "tags": [
+    "perreo",
+    "party",
+    "queer"
+  ],
+  "description": "Amoresss! 😍\n\nPopola is bringing our, Twerk Temple hottest edition, to Brighton for the very first time! Join us for a special Halloween edition at Volks on SUNDAY, November 2nd.\n From 4 PM until 10 PM, get ready for a fiery Halloween daytime celebration. \n\nWe're teaming up with the Puppy Playgrnd babes for a takeover that will set the dance floor en fuegoooo.\n Come together with diasporic queens, QPOC babes, and allies to celebrate the vibrant spirit of Latinx and Afro-Caribbean culture. Our DJs will take you on a journey fuelled of booty shaking riddims by reggaeton, soca, bouyon, dancehall, latin bass and more.\n\nThis Halloween, we honor our heritage, celebrate our culture, and unleash pure ancestral fire.\n\nDon't miss out on Brighton's most caliente launch event! <3 \n\nGet your PRE-SALES tix at £6\nOTD £9\n Nos vemosssss 💋💋💋",
+  "image": "https://cdn.outsavvy.com/events/72039103-741c-4aae-b076-b4c7a2365e2f.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30409/popola-twerk-temple-halloween-special-a-decolonising-queer-sanctuary-of-booty-shake-beats",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.954590",
+  "generes": [
+    "afrobeats",
+    "latin",
+    "reggae"
+  ],
+  "age": "18+"
+},
+{
+  "id": 500575128,
+  "name": "Popola Sober Club: Open Decks",
+  "venue": "The Common Press Bookshop",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-22:00",
+  "date": "Nov 27",
+  "price": "£5 to £8",
+  "type": "social",
+  "tags": [
+    "dancing",
+    "social",
+    "queer",
+    "music"
+  ],
+  "description": " ✨ Popola Sober Club: Open Decks ✨\n Thursday, November 27th | The Common Press, London\nThursday, December 18th | The Common Press, London\n London’s favourite queer sober event returns with Open Decks #5 & 6. A night where diasporic queers, womxn, and allies come together to share music, culture, and connection in a substance-free nightlife experience like no other.\n Bring your diasporic rhythms to the decks, from Afro-Caribbean, Latinx, and SWANA beats to South Asian, African, and Global sounds that move your soul. This is your chance to play, experiment, and connect through music in a supportive, inclusive DJ community.\n Whether you’re stepping up for your first DJ set or bringing your seasoned energy, Popola’s decks are open for everyone. Expect warm vibes, soulful connections, and a night of dancing rooted in joy, connections, and cultural pride!\n Alcohol-free | Substance-free | Queer-led | Diasporic joy\n 🎟️ Tickets: £5 online / £8 OTD\n📍 Venue: The Common Press, Shoreditch, London\n Come experience London’s most authentic sober queer night, where the energy is pure, the music is global, and the vibe is all love 💜 ",
+  "image": "https://cdn.outsavvy.com/events/77eaf7ed-9ce5-4d08-b2c3-0daa4c5b1940.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31158/popola-sober-club-open-decks-5",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.961596",
+  "generes": [
+    "disco",
+    "afrobeats",
+    "latin"
+  ],
+  "age": "18+"
+},
+{
+  "id": 2632764418,
+  "name": "Twerk Temple at Dalston Superstore ",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-04:00",
+  "date": "Dec 19",
+  "price": "£8.50",
+  "type": "party",
+  "tags": [
+    "dancing",
+    "party",
+    "queer",
+    "POC"
+  ],
+  "description": "Your fav Dalston Superstore residency Twerk Temple returns  Friday 19th December serving the same culo-shaking fiery energy.\n\nTwerk Temple is a deCULOnising sanctuary where diasporic queens, queers, and allies unite for a night of cultural celebration and body liberation. Expect an unstoppable soundtrack of Reggaeton, Soca, Bouyon, Dancehall, Latin Club and more. with fiery DJs and very caliente go-go dancers igniting the dancefloor.\n\nLine-up\nTBC\n\n\nNos vemos xxx",
+  "image": "https://cdn.outsavvy.com/events/f7329cbc-574b-4917-a527-5b04baeece5c.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31077/twerk-temple-at-dalston-superstore-bi-monthly-queer-poc-night-in-london",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.962410",
+  "generes": [
+    "latin",
+    "reggae"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1183877597,
+  "name": "dyke speed friending x clay date",
+  "venue": "Mud Gang Pottery C.I.C",
+  "address": "Arch 190 Hercules Road,  London,  SE1 7LD",
+  "time": "18:30-21:30",
+  "date": "Oct 26",
+  "price": "Waiting List",
+  "type": "workshop",
+  "tags": [
+    "queer",
+    "lesbian",
+    "workshop",
+    "art",
+    "drinks"
+  ],
+  "description": "🚨ONLY TAKES ONE NIGHT TO START UR UHAUL JOURNEY! 🚨\nHOT + BOTHERED X MUDGANG\nRough Schedule\n 6:45-7:30 mini speed friending\n7:45-9:30 clay workshop\nBYOB - we'll have tea on, but feel free to bring wine/beer/etc\nWho's welcome?\nAnyone queer of any gender! \nThis is a one off workshop for queer folks, including all materials. If you wish to have some of your pieces glazed and fired you can pay extra on the day.  Firings of items are priced according to Mudgang's Terms and Conditions.\n Please arrive promptly! \n This venue is step free, and wheelchair accessible (with a wheelchair accessible loo)- there is a section of the space up a flight up stairs, so please let us know ahead of time if this would be an issue so we can adjust accordingly. There is a resident cat.  \nFor sliding scale/PWYC - please contact us directly. \n  ",
+  "image": "https://cdn.outsavvy.com/events/84926e2d-eff8-483b-810d-31e005daba21.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30927/dyke-speed-friending-x-clay-date",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.963016",
+  "generes": [
+    "nan"
+  ]
+},
+
+{
+  "id": 319331938,
+  "name": "Therapeutic Space With Jennifer",
+  "venue": "VFD",
+  "address": "64 Stoke Newington Road,  London,  N16 7XB",
+  "time": "Oct 27",
+  "date": "18:30-20:30",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "social",
+    "wellness",
+    "experience",
+    "queer"
+  ],
+  "description": "A safer, low-pressure therapeutic space for trans & non-binary people to come together, talk, and support one another.\nPart of MANAKI a ten month queer creative health and social justice project funded by Arts Council England.\n\nJennifer, who is welcoming you into this weekly space has 7 years experience working as a therapist, 3 years experience working with a gender specialist in gender-affirming healthcare. She also has a BA from the University of Michigan, A PGDip in Psychology from London South Bank University, \n\nMore information about our resident therapist here: https://www.bacp.co.uk/therapists/394970/jennifer-todd/\n\nMondays | 13th October – 24 November\nDoors 6:30PM | Sessions 7:00-8:30PM\nThe Outsider’s Gallery at VFDalston (Accessible Venue)\n18+ Only | FREE | Reserve A Spot | Max 10 people  per session\n Each week we hold space to:\n\nShare lived experiences\nTalk about gender and identity\nNavigate day-to-day realities\nOffer practical advice + peer support\nConnect with others in a supportive, facilitated environment\nThere’s no set agenda, no pressure to speak, and no expectation to commit every week, just an open door for honest conversation, care, and community\nPre-booking is required - registration closes the Sunday before each session Sessions are FREE but limited to 10 participants per week\nBy the end of the 7 weeks, we will provide a one-page resource of collective learnings, signposting, and support networks.\nVenue Info:\nThe Outsider’s Gallery at VFDalston is a fully accessible space. For any additional access needs, feel free to get in touch.\nOpen hearts, open minds, no expectations. Just a space to be.",
+  "image": "https://cdn.outsavvy.com/events/e44b8ca8-5096-43ec-9754-381e4591b404.PNG",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30169/therapeutic-space-with-jennifer",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.974783",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+{
+  "id": 1748099298,
+  "name": "FRÉDÉRIQUE DEVAUX \"LETTRIST PHOTOGRAPHY\" & FRÉDÉRIQUE ATHÉNAÏS-DALMORE",
+  "venue": "VFD The Outsiders Gallery",
+  "address": "64 Stoke Newington Road,  London,  N16 7XB",
+  "time": "12:00-18:00",
+  "date": "Nov 1",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "art",
+    "photography",
+    "gallery"
+  ],
+  "description": "FRÉDÉRIQUE DEVAUX \"LETTRIST PHOTOGRAPHY\" (1981-1991) FRÉDÉRIQUE ATHÉNAÏS-DALMORE \"JOURNAL OF A TRANSFORMATION\" (2004-2025)\nLA PLAQUE TOURNANTE (composers and sound artists FRÉDÉRIC ACQUAVIVA and LORÉ LIXENBERG) are delighted to present every first Saturday of the month (from April 5 to Dec 6) a series of 9 exhibitions and events at THE OUTSIDERS GALLERY in London, after their initial location in Berlin-Neukölln.\nLA PLAQUE TOURNANTE supports the fight of all invisible, disappeared and marginalised people, especially AVANT-GARDE artists that are forgotten or still unknown. We are proud to welcome to London, for this 8th show, two solo exhibitions of two photographers of very different style.\nFRÉDÉRIQUE DEVAUX (born in 1956 in Paris and from KABYLE ORIGINE) joined the lettrist group in 1980. She became an important LETTRIST photographer, creating around a thousand photoworks from 1981 to 1995, most of them with the lettrist Michel Amarger, her partner, as a male model. She also wrote numerous books, specialising in experimental cinema. After leaving the lettrist group, she stopped doing photography but will continued realising experimental cinema and video. Her photographic work, that anticipates the iranian calligraphic photographer SHIRIN NESHAT was recently put into light in Acquaviva's monographic issue of OEI on \"LETTRIST & PHOTOGRAPHY\". The vitrine shows her active participation to the french 1993 Legislative elections, where she presented herself as a member of Isidore Isou's YOUTH UPRISING mouvement, the same year she was taking part to the VENEZIA BIENNALE with the lettrists.\nFRÉDÉRIQUE ATHÉNAÏS-DALMORE was born in Honfleur and started painting and photography at the age of 17. In the early 2000s, F.A.D. decided to change gender, partly because he felt in need of a subject - a model that would always be within reach. She then realised the first known art piece documenting all the steps of her gender transformation. Her \"JOURNAL OF A TRANSFORMATION\" is a ground breaking artwork, questionning the boundaries between art and reality as well as gender issues, realised during more than twenty years and, if partly shown in Barcelona, Paris and Toulouse, exhibited for the first time in London.\nIn the vitrine, one can discover another dimension of FRÉDÉRIQUE ATHÉNAÏS-DALMORE with her striking and surconceptual work from 2021 titled \"15F Le Verseau\", a canvas deliberately shown on reverse, with the one word SODOMY written on the wooden frame.\nMEET FRÉDÉRIQUE DEVAUX (AND MICHEL AMARGER) AT 5PM COME IN YOUR MASSES ON NOVEMBER 1!",
+  "image": "https://cdn.outsavvy.com/events/3b361118-8613-4339-b8cd-d2f9f2538738.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30762/frdrique-devaux-lettrist-photography-1981-1991-frdrique-athnas-dalmore-journal-of-a-trans",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.976398",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 2407264735,
+  "name": "AFTER LIFE DRAWING",
+  "venue": "E8 4EN",
+  "address": "295-297 Haggerston Road,  London,  E8 4EN",
+  "time": "12:00-14:00",
+  "date": "Nov 2",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+    "queer",
+    "art",
+    "workshop",
+    "drawing"
+  ],
+  "description": "Queer life drawing @coven in Haggerston E8 4EN\n This week hosted by Phil Douglas (@thesensitiveline).\n\nPhil has been life drawing for the last 11 years most notably focusing on the male form through his page and pseudonym ‘the sensitive line’ inspired by traditional forms and classical posing his approach highlights the sensitivity of the nude figure.\n All abilities are welcome from beginner to experienced! As I will be offering options to be tutored or non-tutored\n\nWe will be here every Sunday\n Materials will be provided however, if there is anything specific that you require please provide this yourself\n Every week we will be hosting a diverse range of queer models\n This weeks model TBA",
+  "image": "https://cdn.outsavvy.com/events/2c1bec75-5483-4f22-96fb-31ea6ce42440.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28974/after-life-drawing",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.978489",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+{
+  "id": 3614719627,
+  "name": "FLINTA NUDE YOGA AT COVEN",
+  "venue": "COVEN",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "15:00-16:15",
+  "date": "Oct 26",
+  "price": "£5 to £8",
+  "type": "workshop",
+  "tags": [
+    "flinta",
+    "workshop",
+    "wellness"
+  ],
+  "description": "A sanctuary for body, breath, and belonging. This session is created exclusively for FLINTA participants, held in a private space with low lighting, no cameras, and no public access—your safety and welfare are always the priority.\nLed by Zalayka, who integrates the serenity of her traditional Hatha Yoga training with the warm embrace of Yin, each class is infused with mindfulness, meditation, and the calming vibrations of singing bowls. Practising nude, you’re invited to release layers of tension, judgement, and inhibition, and reconnect with your body on your own terms.\nThis is a space of respect, softness, and empowerment—an opportunity to move and breathe freely, guided with care.",
+  "image": "https://cdn.outsavvy.com/events/c180fd90-2b2a-441f-ac94-cb34edb1bdf4.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29708/flinta-nude-yoga-at-coven",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.979109",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+{
+  "id": 3020976560,
+  "name": "COVEN LAUNCH PARTY - THE FEMALE GREMLIN",
+  "venue": "COVEN",
+  "address": "295-297 Haggerston Road,  London,  E8 4EN",
+  "time": "19:00-31:00",
+  "date": "Oct 30",
+  "price": "£10",
+  "type": "party",
+  "tags": [
+    "halloween",
+    "party",
+    "live music",
+    "DJs"
+  ],
+  "description": "COVEN returns with a Halloween Extravaganza at our new Haggerston home. \n Expect incredible DJs, live music and Gremlin Vibes. \n Full lineup to be announced. 295-297 Haggerston Road, E8 4EN.",
+  "image": "https://cdn.outsavvy.com/events/466aa742-2bd6-4a5e-902c-553c797c55b8.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31176/coven-launch-party-the-female-gremlin",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.979629",
+  "generes": [
+  
+  ],
+  "age": "18+"
+},
+{
+  "id": 4115146346,
+  "name": "GAY MEN'S NUDE YOGA AT COVEN",
+  "venue": "COVEN",
+  "address": "Unit 4 Queen's Yard,  London,  E9 5EN",
+  "time": "18:00-19:15",
+  "date": "Nov 2",
+  "price": "£5 to £8",
+  "type": "workshop",
+  "tags": [
+    "experience",
+    "gay",
+    "workshop",
+    "wellness"
+  ],
+  "description": "Gay Men’s Nude Yoga with Toro Manca is a grounding, liberating practice designed to dissolve shame and reconnect body, breath, and spirit. \n Guided by Toro’s deep experience as a Sound Healing Practitioner and Kundalini Hatha Yoga teacher, the class weaves movement, meditation, and vibration into a safe, affirming space for men to show up as they are. Presented in partnership with Yoga Roots and Brewer Street, it’s an invitation to strip away the layers, both literally and energetically and move together in openness and presence.\n Toro is a trained BSL interpreter, so the classes will be available in Sign Language too. ",
+  "image": "https://cdn.outsavvy.com/events/7718ce9f-cf55-4d93-89cc-9e4e93a2ef2f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29975/gay-mens-nude-yoga-with-toro",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:09.985785",
+  "generes": [
+    "nan"
+  ],
+  "age": "18+"
+},
+
+{
+  "id": 1112567229,
+  "name": "Queer Game Club",
+  "venue": "The Green House | Ethical Property",
+  "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+  "time": "18:00-21:00",
+  "date": "Oct 30",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "POC",
+    "gaming",
+    "queer",
+    "social"
+
+  ],
+  "description": "🎲 Queer Game Night: Let the Games Begin! 🎮\nGrab your tokens, shuffle your cards, and get ready for a night of games, snacks, and queer joy! This Queer Game Night is for queer migrants and queer people of colour, so bring your best game face and let’s play! 🌈\n 🗓 Date: Thursday, 30th of October 2025\n📍 Location: The Green House, Bethnal Green, London\n⏰ Time: 6:00 PM doors, 6:15 PM game starts\n💸 Cost: FREE\n Whether you’re a board game newbie or a seasoned pro who always “accidentally” wins at Monopoly, this night is for you. We’ll have some games ready, and you can also bring your own favorites to share! Snacks and refreshments will keep your energy up, no matter how intense the competition gets.\n What’s in store?\n🎲 Meet amazing people and maybe even new gaming buddies\n🎉 Level up your social skills IRL\n🥂 Gobble snacks like Pac-Man\n🩺 Bonus treasure: Grab free sexual health resources and STI self-test kits to take home\n Accessibility: The venue is wheelchair accessible, so no obstacles to fun here!\n Spaces are limited, so don’t miss out! Bring your A-game (or just your love of snacks) and let’s have a blast.\n 💌 Questions? Send us a message. We can’t wait to play with you!\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. \n ",
+  "image": "https://cdn.outsavvy.com/events/afe6e149-1acf-4905-920f-9cdebb2920b8.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/23860/free-queer-game-club-for-queer-migrants-and-queer-people-of-colour",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.008690",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 931212688,
+  "name": "Queer Book Club",
+  "venue": "The Common Press Bookshop",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:30-21:00",
+  "date": "Nov 10",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "social",
+    "queer",
+    "book club"
+  ],
+  "description": "📅 Dates: 10th November, 8th December, 12th January, 9th February\n🕡 Time: 19:30 - 21:00\n📍 Location: Common Press, 118 Bethnal Grn Rd, London E2 6DG \n The Love Tank's official Book Club is back, bigger, and in a brand new venue! Join us for our monthly meetings at the Common Press Bookshop for some in-depth readings and discussions on authors of African, Carribbean, SWANA, Asian, and Latine descent, led by esteemed writer and journalist Elias Jahshan.  \n 📕 November's Book 📕\n“This Brutal House\"  by Niven Govinden\nOn the steps of New York's City Hall, five ageing Mothers sit in silent protest. They are the guardians of the vogue ball community - queer men who opened their hearts and homes to countless lost Children, providing safe spaces for them to explore their true selves.\n\nThrough epochs of city nightlife, from draconian to liberal, the Children have been going missing; their absences ignored by the authorities and uninvestigated by the police. In a final act of dissent the Mothers have come to pray: to expose their personal struggle beneath our age of protest, and commemorate their loss until justice is served.\n\nWatching from City Hall's windows is city clerk, Teddy. Raised by the Mothers, he is now charged with brokering an uneasy truce.\n How it works: \n Once you sign up, we ask you to get yourself a copy of this month's book, and to have as much of a read through it as you can ahead of the group meeting. It's up to you if you'd like to get a paper copy, an e-book, or an audiobook (if available). \n\nPlease let us know if you need help in covering the cost of a book - we do not want this to be a barrier to being involved!\n Come as you are and join us for an enriching literary experience filled with warmth, inclusivity, and celebration of queer narratives. Reserve your free ticket now! 🌈🎬\n Upcoming Dates\n10th November\n8th December\n12th January\n9th February\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\n Accessibility Information: \n🏠 Accessible Venue: The event takes place at the Common Press bookshop, which is wheelchair accessible and has an accessible toilet onsite. \nAbout our FREE events\n We like to keep the events free so they are easily accessible to our communities! If you want to donate please use this link. \nSpaces at our events are limited, and there is a cost implication for every event we produce or take you along to. To ensure fair access, if you can no longer attend, please let us know so we can offer your spot to someone on the waiting list. Repeated no-shows without prior cancellation may result in being unable to attend future events. \nTo ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \nAlongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \nBy signing up to this event, you accept being added to MAUREEN's newsletter. You can opt out at anytime. ",
+  "image": "https://cdn.outsavvy.com/events/2cef1775-ab9d-49d8-90d4-f2d5c21aa09f.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/26962/queer-book-club",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.022941",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 2982308914,
+  "name": "Second Tuesday Monologues - Legacy",
+  "venue": "The Common Counter",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "18:30-21:00",
+  "date": "Nov 11",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+    "experience",
+    "social",
+    "lgbtq+",
+    "art",
+    "drinks"
+  ],
+  "description": "📅 Tuesday, 11th of November 2025\n⏰ Doors 6:30 PM, Monologues start at 7:00 PM SHARP (don't be late)\n📍 The Common Press, 118 Bethnal Green Rd, London E2 6DG\n⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️\nPlans changed? Let us know or cancel your ticket. No-shows aren’t sexy and stop others from joining. Repeat no-shows won’t get future bookings.\n Our November theme is Legacy 🌿✨\nThis month, our monologuists take the stage to reflect on what we inherit, what we pass on, and the marks we leave behind. From personal stories of lineage and community to the legacies we’re building in queer culture today - join us for an evening of powerful storytelling that honours the past while imagining the future.\n HOW IT WORKS:\n\n🎭 Monologists have up to 10-15 minutes to share their unique take on the theme.\n🛋️ After the performances, we settle in for an open group discussion.\n🎟️ FREE ENTRY - but pre-booking is required!\n🍸 Support The Common Press - grab a drink from the bar and enjoy the night!\n🐶 Dog-friendly venue\n♿ Fully wheelchair accessible (both entrance and toilet)\n 💬 WANT TO PERFORM?\n\nWe’re always on the lookout for new voices! Email Rob at maureen@thelovetank.info if you’d like to be a monologuist at this or future editions. Monologuists receive a small fee as a token of gratitude.\n ✨ UPCOMING THEMES:\n\n📅 Nov 11: Legacy 🕊️\n📅 Dec 9: Chosen 🎁🫂\n📅 Jan 13 2026: Neurodivergence\n 📢 Follow @thelovetankcic for updates on this and other free queer community events! 🌈💜\n 💕 Join us for a night of queer creativity, community, and connection. RSVP now to reserve your spot - space is limited!\n  About our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/3b5a4a53-be7a-4ca4-ba8a-33ebb745ae2c.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31101/second-tuesday-monologues-legacy",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.023928",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 1498230172,
+  "name": "Trans Sauna Peckham 11th November",
+  "venue": "Sauna Social Club",
+  "address": "842 Brayards Road,  (Railway Arch),  London,  SE15 2AG",
+  "time": "19:45-22:15",
+  "date": "Nov 11",
+  "price": "Pay what you can",
+  "type": "social",
+  "tags": [
+    "social",
+    "trans",
+    "wellness",
+    "sauna"
+  ],
+  "description": "Sweat, soak, and unwind! Trans Sauna is back in South London 🔥 And this time it's our very first Tuesday sauna session!\nA night for trans+ people (transgender, non-binary, intersex or gender non-conforming) to warm up, cool down, and connect. Expect hot hot saunas, icy cold plunges and a space that’s entirely ours for the evening. This is not a cruising event - it’s a care, rest, and community event. \nSee you in the steam. ❤️‍🔥\nWhat’s new:\nA step-free sauna \nWarm showers!\nIndoor changing facilities and bathrooms you can use without having to get dressed \nBoth indoor and outdoor trans-only social spaces outside the sauna \nThis month's reminders:\nYou're welcome to be in the venue from 7:45pm till 10:30pm, although there may be cis people in the space from the previous sauna session until 8pm\nIf you're feeling unwell, please consider not attending this event in order to protect others. Take a Covid-19 test if you have any symptoms. We are able to transfer your ticket to a future event in these cases.\nBe mindful of our wristband system. If the sauna cabins are busy, prioritise those wearing wristbands for the current session. You are welcome to hang around the indoor and outdoor hangout spaces if the saunas are full.\nWe will not have a quiet sauna or BPOC sauna for this event at South London but we are taking feedback on whether it would work for an hour at the beginning or end of the event :)\nCLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open.\nCheck below for the details, including event policy and what to bring. If there are any changes, we will update ticket holders by email, modify this description and share on our Instagram @trans.sauna and WhatsApp community.\nWhat to bring\n• swimwear \n• two towels, one to sit on in sauna and one to dry off with \n• sandals/ sliders/ flip flops\n• a padlock for locker (optional)\n• bathrobe (optional) \n• sauna hat (optional)\nSauna Etiquette\n• CLOSE THE DOOR! - don't let the heat escape. Enter and leave the sauna cabins as quickly as possible, never leave the door open. This is especially important for electric saunas as they are slower to heat back up again than wood fire saunas.\n• Make space for others to sit where possible. \n• Check with everyone in the sauna before adding water to the stones. Nothing unusual on the stones, water is great. \n• Spreading the heat with a whisk/towel/fan is allowed, but check with those around you. \n• Rinse off in the shower before your first cold plunge. We recommend sauna then rinse then plunge then back to sauna. \n• Listen to your body when inside the sauna, it is not recommended to stay in the sauna for over 15 minutes, there is no need to push yourself. Strictly no sauna competitions. \n• No glass bottles are allowed in the changing rooms, shower room, or the sauna itself. \n• There are two medium-sized electric saunas, unlike the range of sizes we have at Hackney Wick events. This has its pros and cons, please be patient with things being different to what we’re used to and work with us to make this as nourishing an experience as we can ♥️\nNudity Policy\n• As this is a closed space, attendees are free to be as dressed/ undressed as they would like. Just be considerate of how close you are to other attendees if you aren’t wearing anything on your lower half! The venue are also writing their own guideline around navigating spaces with nudity that we will share round to ticketholders once it’s ready.\nSafer Spaces Policy\n• No racism, cis-sexism, transmisogyny, transphobia, ableism, fatphobia, or body commentary. \n• No harassment of any kind, this includes touching without consent, excessive or inappropriate staring, verbal abuse, explicit gesturing, and more.\n• Do not take photos within the sauna space. Be mindful of who may be in the background of your photos and ask for permission.\n• This is a drug and alcohol-free event. Avoid drinking when using saunas.\n• Please show up only when you are healthy and have no flu symptoms.\nTicketing\n• All tickets for any time slot will allow access to the venue for the duration of the event, from 7:45pm till 10:30pm (though we can only guarantee that it will be trans-only after 8pm). \n• The priority slots are to ensure everyone gets a chance to spend time in the sauna, however you are welcome to be at the event outside your slot! You can even enter saunas outside of your slot if there is space, but please prioritise those wearing wristbands for the current session.\n• You are welcome to purchase more than one time slot if you want to guarantee more time within the sauna.\nAccessibility Information\nFor Sauna Social Club, 842 Brayards Rd, London SE15 2AG. There is level access from the street, a car or taxi can pull up directly outside the archway. Shared car parking with other arches in loading bays with a blue badge. There is also a secure rail to lock bikes to.\nThe nearest step-free station is Queens Road Peckham (14 min walk), with Peckham Rye about 12 mins away but not step-free. There are also bus routes serving Nunhead Green, Rye Lane and Peckham high street, all approx 5-10 minutes away.\nVenue Access\nThe sauna area is indoors, with a private outdoor space for plunges, showers and chats. The entrance is step-free, and the entire ground floor is step-free including one of the saunas, the lockers and an accessible toilet. Outdoors the social area and changing rooms are step-free and there is a step to reach the plunges and showers.\nThere is a 15-step flight of stairs to reach the mezzanine, which has a second sauna (with one step), an additional bathroom, additional changing facilities and unlocked storage units.\nThe space has low lighting, with smooth floors - sandals are recommended though you can be barefoot.\nFacilities\n     • Saunas: 2 in total, the ground-level sauna is step-free with a 940mm-wide door, and the mezzanine-level sauna has a step to enter. The upstairs sauna is cooler, the lights are brighter, and no water or essential oils are used on the rocks. The downstairs sauna is hotter and has music playing, with essential oils used sometimes (with consent of all in the sauna at the time).\n     • Cold plunges: four in total - one barrel at 3 degrees Celsius and three metal baths at 6 degrees Celsius each. There are two steps up to the plunging area, with a 2ft lip to step into each of the baths.\n     • Showers: 2 electric showers with adjustable temperatures, all are outdoors and not private. Each shower tray is raised by 10cm.\n     • Changing rooms:  4 private stalls; 2 are step-free and outdoors, the other 2 are indoors on the mezzanine level. All have seating.\n     • Lockers: Bring a padlock.\n     • Toilets: The accessible toilet is indoors at the end of the corridor by the cafe, there is another toilet upstairs.\n     • Seating: Available indoors (sofas, chairs and floor cushions) and outdoors (sofa).\n     • Café: This is not managed by the Trans Sauna team, but you are welcome to buy teas and soft drinks. Standard teas are currently £1.95, with other options ranging up to £3.95.\n• Additional Notes\n     • Do not attend if you have Covid-19 symptoms or have tested positive - we can transfer your ticket to a future event in these cases.\n     • Not all staff members are trans themselves but they are all aware of the importance of a trans-safe space and committed to protecting our community.\n     • For access assistance or questions, contact us, or ask our team/ venue staff on site.\nFeel free to contact us with any questions you may have.\nThe event is organised by the Trans Sauna team - Fey, Jeng and Oran. \nDesign by Jeng Au.",
+  "image": "https://cdn.outsavvy.com/events/190ee772-3155-45da-99a2-3f3024411aa0.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31127/trans-sauna-peckham-11th-november",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.025046",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+{
+  "id": 4065017976,
+  "name": "Queer Book Club - London",
+  "venue": "Retro Bar",
+  "address": "2 George Court,  London,  WC2N 6HH",
+  "time": "19:00-20:00",
+  "date": "Oct 27",
+  "price": "£4 to £6",
+  "type": "social",
+  "tags": [
+    "social",
+    "lgbtq+",
+    "drinks",
+    "book club"
+  ],
+  "description": "Calling all queer book-lovers - join us for an evening of sapphic bookish chats!\nEvery month, we will be reading a new piece of sapphic literature and coming together at Retro Bar, London to discuss over a cuppa or mocktail with the Sappho Events community.\n25 August - Bury Our Bones in the Midnight Soil by V.E Schwab (we recommend you listen to the audio-book on Audible!)\n22 September - Palm Meridian by Grace Flahive (author, Grace will be joining us)\n27 October - The Light and Shade of Ellen Swithin by DG Coutinho (author, DG will be joining us)\nSappho founder Maryann Wright will lead the discussion. \nTime: 7-8pm with further drinks and chats after in the bar\nLocation: Retro Bar, 2 George Court, Westminster, WC2N 6HH (3 minutes walk from Charring Cross underground station)\nPrice: £6 standard, £4 concession\nAccessibility: The venue is not step-free, please contact us for access requirements.\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nPlease note that Sappho Events welcomes LGBTQIA+ women, trans and non-binary people.",
+  "image": "https://cdn.outsavvy.com/events/6d6d1c40-254a-4f8a-8515-b865b224189b.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29127/queer-book-club-london",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.027618",
+  "generes": [
+   
+  ]
+},
+{
+  "id": 535314283,
+  "name": "In-person Speed Dating for Queer Women in London",
+  "venue": "The Railway",
+  "address": "18 Clapham High Street,  London,  SW4 7UR",
+  "time": "19:30-21:00",
+  "date": "Nov 11",
+  "price": "£10 to £20",
+  "type": "social",
+  "tags": [
+    "speed dating",
+    "social",
+    "nb",
+    "flinta",
+    "trans",
+    "bisexual",
+    "drinks"
+  ],
+  "description": "Enjoy a relaxed in-person speed dating event for LGBTQ+ women, trans and non-binary people at The Railway Clapham, London.\nFor each date, you’ll have 5 minutes to spark up a good conversation. We will start the event with some ice-breaker conversations to ease off any nerves. \nYou’ll get a digital form at the end of the evening to fill out, and we’ll use that to send your mutual matches so you can keep the conversation going without us. We will give you the options of date or friend on the form, so no pressure on finding love you could also find a friend!\nWhen you arrive, feel free to get a drink (non-alcoholic options and tea/coffee available) or snack at the bar and we will make an announcement when the event begins.\nAt the end of the speed dating, you will get the opportunity to grab a drink all together at the bar.\nPlease note we create the space so that it won't be an overly overwhelming audio and visual environment, and please let us know if you have any accessibility needs and we can ensure you can remain in the same seated location through the event.\nDates: \nTuesday 11 November\nTuesday 2 December\nTime: 7:30-9pm\nLocation: The Railway Clapham, 18 Clapham High Street, Clapham, London, SW4 7UR\nAccessibility: The venue and toilets are only accessible via a staircase. \nCost: £20 standard, £15 concession, £10 low income\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQ+ women, trans and non-binary people to our events.",
+  "image": "https://cdn.outsavvy.com/events/22140861-a739-4116-97de-42a92688447d.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/27644/in-person-speed-dating-for-queer-women-in-london",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.039005",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+
+{
+  "id": 61583745,
+  "name": "Mothership x Gaytorade Fundraiser",
+  "venue": "Old Nun's Head",
+  "address": "15 Nunhead Green,  London,  SE15 3QQ",
+  "time": "21:00-15:00",
+  "date": "Nov 14",
+  "price": "£5 to £15",
+  "type": "social",
+  "tags": [
+    "queer",
+    "performance",
+    "party",
+    "activism"
+  ],
+  "description": "💚WHAT ARE YE DOING IN MY DYKE SPACE SWAMP?💚\n@gaytorade and @mothership are bringing you the cuntiest fundraising collab of the year... come shake ur behinds at the south london's hottest 👽space swamp*💦 (*@theoldnunshead) on Friday November 14th.\nWe're inviting u to get wet, queer, weird and out of this world with us.\n£5 donation entry via outsavvy or on the door - all proceeds will be donated 50/50 to trans kids deserve better and the Palestinian children's relief fund. Larger donations are of course welcome <3\nDJs: \n@iamjessymac b2b @kafn.music\n@eula.xo b2b @dee.dee_licious\nGogos and performance to be announced shortly 💦👽",
+  "image": "https://cdn.outsavvy.com/events/033bd26c-9517-4509-bd40-6718e5460820.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31125/mothership-x-gaytorade-fundraiser",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.044358",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+
+{
+  "id": 946073458,
+  "name": "Lez Get Writing - November",
+  "venue": "The Mill (Community Centre)",
+  "address": "7-11 Coppermill Lane,  London,  E17 7HA",
+  "time": "19:00-21:00",
+  "date": "Nov 11",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+    "social",
+    "queer",
+    "lesbian",
+    "nb",
+    "flinta",
+    "workshop"
+  ],
+  "description": "Join us for a laid back, supportive, sapphic creative writing workshop. \n\nWe’ll do some facilitated writing exercises, using different lesbian and queer prompts each month. \nEach session will be a mix of quiet time to write and chances to reflect and connect, with a tea break and snacks. \n\nThere will be no pressure to read aloud, but some opportunities to share if you would like to.\n\nYou can come along to any session for the first time. Whether you want to write fiction, poetry, drama, or have no idea, everyone is welcome. \n\nFeedback from previous sessions:\n“Emma always brings inventive ways of getting us to flex our creative muscles and get writing.”\n“I liked how unjudged I felt during this session - everyone is so welcoming, open, and supportive of each other.”\n\"Thank you so much – this has been the best pay what you can activity I have ever attended.\"\n\nThis workshop  welcomes lesbians, queer and bisexual women, trans and non-binary people.\n\nPay what you can from £5 - if cost is a barrier please email me at lavenderdiscoevents@gmail.com \n\nThe Mill is accessible with a flat entrance, wheelchair-friendly doors, and a single-level ground floor. \nThe front door is heavy and not power-assisted - assistance is available via a doorbell. \nNo induction loop system is available. \nLighting is flicker-free.\nAssistance dogs are welcome.\nToilet facilities are gender neutral, wheelchair and baby-friendly accessible.\nSee full access details here: https://themille17.org/whats-on/contact-us-accessibility-information/ ",
+  "image": "https://cdn.outsavvy.com/events/79284da4-9756-4442-8e95-af835e4b1c31.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30939/lez-get-writing-november",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.047426",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 996938165,
+  "name": "Queer House Party - Brighton w/ Dykes on Decks & Crushed",
+  "venue": "Concorde 2",
+  "address": "286A Madeira Drive,  Brighton and Hove,  BN2 1EN",
+  "time": "23:00-16:00",
+  "date": "Nov 15",
+  "price": "£11 to £16",
+  "type": "party",
+  "tags": [
+    "social",
+    "party",
+    "lgbtq+"
+  ],
+  "description": "HOLD TIGHT 🌊 🏳️‍⚧️ ⛴️\nAs part of our fifth birthday celebrations, Queer House Party is docking in Brighton for the biggest night we’ve ever thrown outside of London!\nWe’re bringing you five hours of unrelenting queer energy, sea-loving slags. Expect gorgeous vendors, the campest chaos on the dancefloor, and gogos serving fierce and face all night long. We can’t wait to bring some big gay chaos to our OG hometown, Brighton, at the iconiqueee @concorde2!!\n\nDJs, dancers, vendors - we’ve got it all, bbs 💅\nCollectives @queerhouseparty @dykes_on_decks & @crushed.btn \n\nDJs @harrygay.dj @passerpasserpasser @alexberrrry27 @lebby_leb_ & @djemandliv\n\nHOSTS @lydialscabies & @taalinotcharlie\n\nDANCERS @dazvandyke_ @luke_haley @sxbrinajade & @xanderok_\n\nVENDORS Tattoos, piercings, tooth gems and more all tba!\nAlongside the QHP residents, we’ve got takeovers throughout the night from these local legends:\n\nDykes on Decks aims to create a safe space for the LGBTQIA+ community to explore genres, flirt, dance, and express themselves freely. Allies are welcome to come and must respect the safe space they have been welcomed into.\nExpect a playful fusion of bouncy electronic genres all upholding a state of flow that feels seductive and silly. Riding the BPM as it shape-shifts its way up throughout the night from 120 to 140 plus. Each DJ gets to platform their own style and genre; however, the general array of music genres at the event are; old school garage, speed garage, horny 90’s house tracks, hectic hard-groove, ceiling-smacking baselines and transformative trance and techno. With most importantly… epic edits of the songs people know and love. You’ll come away feeling in touch with your sexiest self.\n CRUSHED is the newest, hottest lesbian night on the bloc.\nCRUSHED is first and foremost a lesbian night, creating a fun and safe party space for lesbians; however, we do allow all LGBTQ+ members and understanding allies into the party. All we ask is to be respectful and party hard! 💗\n Brighton is such a special place for our team, most of us either grew up in Brighton, or lived there for formative years. We are beyond excited to celebrate our fifth year as a collective at Concord 2, throwing down and getting naughty by the sea with some of the most gorgeous sapphic babes you'll ever meet. xoxox\nConcorde2 has step-free access throughout the venue, including access to the box office, bar, main room and accessible toilet.\nOn-street disabled parking is situated directly opposite the venue.\nWe are happy to provide a complimentary assistant ticket for any Deaf or disabled visitor with a purchased ticket. To arrange your complimentary ticket please follow the process below:\nPurchase your own ticket as you usually would, either through concorde2.co.uk or your preferred ticketing outlet\nOnce you have received your booking confirmation by email, you simply need to forward that email to hello@concorde2.co.uk with the following information; the name of the person who you would like to bring as your assistant and an a scan or photo of a proof of eligibility document. This could be a PIP document, blue badge or similar.\nWe will respond with confirmation that your assistant’s name has been added to the house guestlist for free entry\nOn arrival at the venue, your assistant should give their name on the door to gain entry\nEnjoy the show!\nWe also regularly work with organisations such as Gig Buddies - https://gigbuddies.org.uk/",
+  "image": "https://cdn.outsavvy.com/events/fb56d7c3-f6bf-4bdb-a129-8324d0676561.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29613/queer-house-party-does-brighton",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.050027",
+  "generes": [
+    "techno",
+    "house",
+    "electronic"
+  ],
+  "age": "18+"
+},
+
+{
+  "id": 1368433060,
+  "name": "DRAG RACE UK WATCH PARTY WITH NYONGBELLA",
+  "venue": "The Jago",
+  "address": "440 Kingsland Road,  London,  E8 4AA",
+  "time": "20:00-21:00",
+  "date": "Nov 20",
+  "price": "£8 to £10",
+  "type": "social",
+  "tags": [
+    "drag",
+    "queer",
+    "social",
+    "art"
+  ],
+  "description": "Bledi returns with a star-studded watch party of Drag Race UK Season 7! Come celebrate Nyongbella with us, who gave us LIFE with her insane performance at Bledi Heat! We’ll be watching episode 9 together with Nyongbella at the Jago in Dalston, and chatting shit about all things drag! We'll be taking over from 8pm til 1am with QTIBPOC DJs, performances, and stalls, with the episode airing at 9pm. This is one not to miss - get your tickets now! 🎟️ \n Non-QTIBPOC allies are welcomed and encouraged to pay for the higher entry fee. Reminder that this is a space prioritising QTIBPOC, be aware of the space you are taking. We will be allocating a number of tickets for people who are low income (priority will be given to refugees and people who are seeking asylum), please email blediparty@gmail.com to arrange this. There will be photographers at the event taking consented footage and photographs, but consent can be withdrawn at any time for any images/videos on the Bledi social media (just send us a DM).\n Bledi is The Queer SWANA Art Space, a dedicated collective and night out centring QTIBPOC (Queer, Trans/Non-Binary, and/or Intersex, Black people and People of Colour) from the SWANA region (South West Asia/North Africa - commonly referred to as 'the Middle East'). Bledi (Arabic for ‘My Homeland’) has created a space for SWANA Queers to celebrate our lives and showcase our talents, as underrepresented artists of typically marginalised backgrounds.\n LINEUP ANNOUNCEMENTS COMING SOON!\n ",
+  "image": "https://cdn.outsavvy.com/events/70e700be-74bc-4202-969b-135ae28339d6.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30875/drag-race-uk-watch-party-with-nyongbella",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.051852",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 2477598948,
+  "name": "ACESPEC Sapphic Mix & Mingle",
+  "venue": "Vagina Museum",
+  "address": "275 Poyser Street,  London,  E2 9HD",
+  "time": "19:30-22:30",
+  "date": "Nov 13",
+  "price": "£5 to £10",
+  "type": "workshop",
+  "tags": [
+    "speed dating",
+    "social",
+    "lgbtq+",
+    "FLINTA"
+    
+  ],
+  "description": "MEET SOME CUTIES & CHECK OUT THE VAGINA MUSEUM! \nThis month's Mingle is run in collaboration with ACESPACELDN 💚💜🤍🖤\nACESPACELDN is a community group for asexual & aromantic spectrum adults based in London. The group focuses on building community through running events and raising awareness and visibility of the asexual & aromantic spectrum. \n***\n✨ A low pressure mix & mingle event for sapphic queers of all genders & sexualities looking for connection - whether that's friendship, dating &/or community \n✨ You can expect a room full of lovely lgbtq+ babes, some conversation cards and CONNECTION! \n✨ It's the type of event where you can come alone, or bring along your queer friends! \n✨ This event is trans and NB inclusive and welcomes anyone of any gender who sits somewhere under the sapphic umbrella \n✨Please choose the reduced cost ticket price if you need to and if you need a free ticket - let me know via email: urawholeorange@gmail.com I'll give you one \n✨ I WANT YOU THERE MORE THAN I WANT YOUR MONEY! \n***\nYou can expect to be put in groups of 6, you’ll chat for 30mins, then half of the table switch to another table and it continues - here is the schedule: \n7:00-7:30 - Doors open (cushion time for late arrivals) \n7:30-8:00 - ROUND 1 \n8:00-8:30 - ROUND 2 \n8:30-8:45 - Break \n8:45-9:15 - ROUND 3 \n9:15-9:45 - ROUND 4 \n9:45-10:00 - Break \n10:00-11:00 - Free mix and mingle time \nVenue Details: Open friendly vibe. The bar will be open throughout serving non-alcoholic & alcoholic drinks. I always lay out some fidget/stim toys to keep any nervous hands occupied. Low lighting - no flashing. Low-level background music. T﻿here is a separate section up some stairs, used as a ‘quieter space’ to go to if you need a break.\nKim (they/she) is the founder of A Whole Orange - a matchmaking and events biz that brings you singles/ready to mingles events, workshops on dating & 1 to 1 matchmaking and relationship coaching. AWO events aim to be accessible & low-stress, with lots of touches and adjustments to make meeting new people a bit easier <3",
+  "image": "https://cdn.outsavvy.com/events/19698c5c-621b-4514-8a6b-81bef4af1fde.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30106/acespec-sapphic-mix-mingle",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.061665",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 1335000955,
+  "name": "MONTHLY MIX & MINGLE",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "19:00-21:30",
+  "date": "Nov 19",
+  "price": "Pay what you can",
+  "type": "social",
+  "tags": [
+    "speed dating",
+    "social",
+    "lgbtq+",
+    "friendship"
+  ],
+  "description": "A low pressure mix & mingle event for queers looking for connection - whether that's friendship, dating &/or community\nYou can expect a room full of lovely lgbtq+ babes, some conversation cards and CONNECTION! \nChat in groups of 6 for 30 mins at a time, with half of the group switching tables for each round so you get to meet lots of people in a more relaxed way \nIt's the type of event where you can come alone, or bring along your queer friends! \nAllys welcome if they are with you!\nA Whole Orange events are all open to anyone of any gender who sits somewhere under the lgbtqia+ or queer umbrella \n✨Please choose the reduced cost ticket price if you need to and if you need a free ticket - let me know via email and I'll give you one ✨\nI WANT YOU THERE MORE THAN I WANT YOUR MONEY!\nVenue Details:\nOpen friendly vibe\nI always lay out some fidget/stim toys to keep any nervous hands occupied\nConversation cards\nLow lighting - no flashing\nLow-level background music\nT﻿here is a separate section up some stairs, used as a ‘quieter space’ to go to if you need a break\nThere is one 20 cm step up to the entrance from street level - there is a ramp, let us know if you'll be using the ramp\nThe event takes place in the main ground floor bar/restaurant area - there is level access to all facilities on this floor.\nThere is one toilet on this floor - at the back of the venue - it is step free but not wheelchair accessible\nClick here for further accessibility info\n ",
+  "image": "https://cdn.outsavvy.com/events/a1922722-4d7a-454a-a0b6-9a726043ca86.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/16424/monthly-mix-mingle",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.063891",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+
+{
+  "id": 2200227672,
+  "name": "Monthly Sapphic Mix & Mingle",
+  "venue": "Vagina Museum",
+  "address": "275 Poyser Street,  London,  E2 9RF",
+  "time": "19:00-22:30",
+  "date": "Dec 11",
+  "price": "£5 to £10",
+  "type": "social",
+  "tags": [
+    "speed dating",
+    "social",
+    "lesbian",
+    "flinta"
+  ],
+  "description": "MEET SOME CUTIES & CHECK OUT THE VAGINA MUSEUM! \n✨ A low pressure mix & mingle event for sapphic queers of all genders & sexualities looking for connection - whether that's friendship, dating &/or community \n✨ You can expect a room full of lovely lgbtq+ babes, some conversation cards and CONNECTION! \n✨ It's the type of event where you can come alone, or bring along your queer friends! \n✨ This event is trans and NB inclusive and welcomes anyone of any gender who sits somewhere under the sapphic umbrella \n✨Please choose the reduced cost ticket price if you need to and if you need a free ticket - let me know via email: urawholeorange@gmail.com I'll give you one \n✨ I WANT YOU THERE MORE THAN I WANT YOUR MONEY! \nYou can expect to be put in groups of 6, you’ll chat for 30mins, then half of the table switch to another table and it continues - here is the schedule: \n7:00-7:30 - Doors open (cushion time for late arrivals) \n7:30-8:00 - ROUND 1 \n8:00-8:30 - ROUND 2 \n8:30-8:45 - Break \n8:45-9:15 - ROUND 3 \n9:15-9:45 - ROUND 4 \n9:45-10:00 - Break \n10:00-11:00 - Free mix and mingle time \n Venue Details: Open friendly vibe. The bar will be open throughout serving non-alcoholic & alcoholic drinks. I always lay out some fidget/stim toys to keep any nervous hands occupied. Low lighting - no flashing. Low-level background music. T﻿here is a separate section up some stairs, used as a ‘quieter space’ to go to if you need a break.\nKim (they/she) is the founder of A Whole Orange - a matchmaking and events biz that brings you singles/ready to mingles events, workshops on dating & 1 to 1 matchmaking and relationship coaching. AWO events aim to be accessible & low-stress, with lots of touches and adjustments to make meeting new people a bit easier <3\n>>> <<<\nSAVE THE VAGINA MUSEUM FUNDRAISER",
+  "image": "https://cdn.outsavvy.com/events/9b25b3c7-4406-4da9-baf3-6b44784f8d81.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/25358/sapphic-mix-mingle",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.066274",
+  "generes": [
+    
+  ]
+},
+
+{
+  "id": 1736791827,
+  "name": "ORAL - Spooky Sensual Edition",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Oct 27",
+  "price": "Pay what you can",
+  "type": "social",
+  "tags": [
+    "queer",
+    "erotic readings",
+    "literary"
+    
+  ],
+  "description": "Your favourite erotic reading night is BACK! ORAL returns for this SPOOKY SEASON, with host Prince joined by a stunning line up of salacious-tongued performers. \nThis time around, we may make you wet yourself, how we get there is up to you to find out!\nORAL is the smutty erotic reading event of your dreams (or nightmares). Drop by on Monday 27th of October from 7pm - 9pm for a sensual and potentially horrifying night in bookshop. Come and delve deep into some of the best smut you've ever heard\nThe perfect foreplay for your night, or the main event itself. \nPerformers will be reading from a selection of their own work, plus excerpts from our naughtiest books.\n READING FOR YOU:\nL'Or NOS: \nL’or (they, él) is a queer, mixed writer born, raised, and still residing in Brooklyn, New York. They self publish two zines on transness, mental health, and belonging that are available at punk shows and queer bookstores across North America and Europe at irregular intervals; and have read to sold out audiences across the US and Europe. Updates can be found on the instagram @IntimateFragments, and substack @FKNtransplants.\n BoiWyfe:\nBoiWyfe is a burlesque performer and drag clown with a penchant for devilish delights. Their practice centres genderqueer identities, neurodivergence, and eroticising the absurd.",
+  "image": "https://cdn.outsavvy.com/events/41ffbdc3-4007-4471-9416-cf87eebe9cd9.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31061/oral-spooky-sensual-edition",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.069532",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 2329614490,
+  "name": "Book Launch: The Queer Politics of Pride: Global LGBTQ+ Activism and Homocapitalism",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Nov 13",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+    "social",
+    "lgbtq+",
+    "book launch"
+  ],
+  "description": "The Common Press are excited to host the launch of The Queer Politics of Pride: Global LGBTQ+ Activism and Homocapitalism by author Dr Daniel Conway. Join us for the launch of the first book to explore the queer politics of LGBTQ+ Pride in global terms, exploring the impacts, controversies, and potential of Pride across the world.\nThe evening will include a discussion with Dr Daniel Conway and activists / grassroots organisations., Wiggy (London Trans+ Pride), Sharan Dhaliwal (Middlesex Pride),  Olimpia Burchiellaro (Save the Joiners Arms Campaign ) and Aisha Shaibu-Lenoir (Host / The Common Press).  \n\n13 November from 19:00 - 21:00\nA stunning, enlightening and vast deep dive into how diverse global movements are fueling the masses to live with Pride with integrity and passion - and to stop the dismantling of this revolution that we hold so dear. Daniel Conway is an LGBTQIA+ luminary the world needs right now.\" --Dan Glass, ACT UP activist and Author\n About The Book\nConway's vital ethnography challenges the universalizing narratives of Pride, revealing the complex, locally rooted forms of queer resistance and belonging that flourish across the Global South.\" -Petrus Liu, Boston University, USA\n Drawing from extensive fieldwork in South Africa, South and East Asia, Cuba and New York, The Queer Politics of Pride explores and conceptualises the contemporary politics of LGBTQ+ Pride and queer activism in global contexts. Building on critical queer scholarship, the book includes the perspectives and critiques of grassroots queer activists and applies contemporary social, political and international theory to conceptualise Pride as part of the global processes of capitalism and the socio-political and spatial dynamics of gentrification.\n\nBy exploring the politics and controversies of Pride, Conway addresses broader questions about the contemporary LGBTQ+ advocacy movement including the influence and place of corporate sponsorship and advocacy, relationship with state and international institutions and the rise of an LGBTQ+ global elite.\n About Daniel Conway (Author)\nDaniel Conway is Reader in Politics and International Relations at the University of Westminster, UK and a Research Associate at the Wits Centre for Diversity Studies, University of the Witwatersrand, Johannesburg. He has published extensively on LGBTQ+ activism and South African politics and society. He is the author of Migration, Space and Transnational Identities: The British in South Africa (with Pauline Leonard, 2014) and Masculinities, Militarisation and the End Conscription Campaign: War Resistance in Apartheid South Africa, (2012). Conway is a previous chair of the Feminist Theory and Gender Section of the International Studies Association.\n About Sharan Dhaliwal (Middlesex Pride)\n Sharan Dhaliwal (she/her) is the founder of Burnt Roti magazine and Middlesex Pride. She is a freelance journalist, commissioning editor, and activist, concentrating on politics, immigration and race. She was named on BBC 100 Women 2019, DIVA Power List 2022 and 2023, featured on the cover of Attitude magazine, front page of the Guardian. She was nominated for Broadcast, Journalist or Host at the British LGBT Awards in 2023 and Ethnicity Awards 2025. Her debut book Burning My Roti was published in 2022.\n About Wiggy (London Trans+ Pride)\n\nMiggy is a disabled queer performer, writer and activist. They have been a member of the London Trans Pride team for 3 years specifically working on the access of our yearly event. Outside of LTP they of a drag King and clown, creating art around disability, queerness and solidarity.\n About \nOlimpia Burchiellaro (she/her) is an anthropologist and senior lecturer at the University of Essex, teaching ethnographic methods, social economies, and community organizing. Her research focuses on queer political economy, LGBTQ+ activism, gentrification, and homocapitalism, with fieldwork in cities including London, São Paulo, Nairobi, and Buenos Aires. She is the author of The Gentrification of Queer Activism and serves on leadership roles in the ISA LGBTQA Caucus and community cooperative projects.\n About Aisha Shaibu-Lenoir (Host / The Common Press)\nAisha Shaibu-Lenoir is a queer social entrepreneur dedicated to building inclusive, social justice-driven communities through travel, spaces, and advocacy. She is a Director at The Common Press, Founder of LGBTQ+ Travel & Nightlife Company Moonlight Experiences and Head of Community Engagement at UK Black Pride. Aisha’s work is rooted in equity and focused on creating resources globally for queers and BIPOC voices to thrive culturally, socially, and economically.\n Event information\nDoors opens at 7pm\nDiscussion from 7:15pm - 8:00 pm\nNetworki, Signings and book sales until 9pm\nThe Common Press is wheelchair accessible.",
+  "image": "https://cdn.outsavvy.com/events/3a2533cc-9a37-4243-8846-262a2a77d774.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31070/book-launch-the-queer-politics-of-pride-global-lgbtq-activism-and-homocapitalism",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.075034",
+  "generes": [
+    "hip hop"
+  ]
+},
+{
+  "id": 3987884378,
+  "name": "Disability and the Publishing Industry",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Nov 16",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+    "disability",
+    "learning"
+  ],
+  "description": "Join three Elspeth Wilson, Jo Morey and Charlotte Paradise for a conversation about their debut novels, their writing lives and accessibility within the publishing industry. As part of Disability History Month, this conversation will centre new and exciting disabled voices at a time when they are still too often overlooked in literature. \n Authors:\n Elspeth \nElspeth Wilson is a writer interested in exploring the limitations and possibilities of the body. Her poetry pamphlet, Too Hot to Sleep, is published by Written Off Publishing and was shortlisted for the Saltire Society’s 2023 Poetry Book of the Year Award. Her debut novel, These Mortal Bodies, is published with Simon and Schuster and was described by The Bookseller as \"an absorbing, clever and twisty debut\". She runs the Neurodivergent Notes on Writing Subtack and can usually be found in or near the sea.\n Jo Morey\nJO MOREY is a graduate of the Faber Academy and Curtis Brown Mentoring Scheme. She has a BA in English Literature and French from the University of Leeds. The manuscript for The Night Lagoon was awarded the 2023 Claire Mannion Literary Endeavour Prize, came runner-up in the Cheshire Novel Prize, and was shortlisted for the Primadonna Prize, the Plaza First Pages Award and Killer Nashville's Claymore Award in the literary category. Jo has written for The Sunday Times Style and Prima. The Night Lagoon was a Sunday Times 'Pick of the Month' and one of Good Housekeeping's '20 Hottest Books of Summer'. Jo lives in West Sussex with her husband, two boys, and two Portuguese Water Dogs. The Night Lagoon is her first novel.\n Charlotte Paradise \nCharlotte Paradise is a Disabled author and award-winning screenwriter. Her short films have won awards at UK and international film festivals. Overspill is her first novel. ",
+  "image": "https://cdn.outsavvy.com/events/d364a0ae-7eec-45eb-b5ec-97211cc18868.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31108/disability-and-the-publishing-industry",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.075413",
+  "generes": [
+   
+  ]
+},
+{
+  "id": 3360708118,
+  "name": "Bi Speed Dating - Festive Edition",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-22:00",
+  "date": "Dec 13",
+  "price": "£13 to £18",
+  "type": "workshop",
+  "tags": [
+    "speed dating",
+    "social",
+    "bisexual"
+  ],
+  "description": "Festive Bi+ Speed Dating\n Bored of biphobia and dating apps? It's not too late to ring out 2025 with an IRL meet-cute under the mistletoe…\nCalling all bi+ singles! THIS is the cute bookshop romance you’ve been waiting for the whole year: join London’s most eligible bisexuals in one very steamy room…\n What? \nFestive ice-breaker bingo\nMultiple speed dating rounds with conversational prompts\nLow-pressure mingling for friendship AND romance!\nStress-free support to woo your crush (or future bestie) — via matching service\nBreaks (with alcoholic drinks available) & accessible seating \n Who?\nAll singles who identify as bi+ (inclusive of trans and non-binary people) and want to grow their bi-specific community, while finding romance.\nThis space is open to those seeking all relationship types, and you’ll have the opportunity to express what you’re looking for (e.g. monogamous, ENM) on the night.\n Why?\nBiphobic stereotypes show up most in dating, due to their sexualised nature, and we experience this from all sides. \nSo, it’s a relief to meet people *who just get it*! This is your chance to have cathartic chinwags about dating dramas and meet future wing-folk for support on your bi+ journey. \nAnd, who knows, maybe sparks will fly just in time for an end of year romance…\n About the facilitator: \nFlorence Scordoulis (she/her) is the founder of Bi Bitch: bi-specific events in London and online, which aim to empower the bi+ community, foster connection and help you say bye to biphobia, from speed-friending to singles nights and more.\nShe is also a writer specialising in LGBTQ+ and bisexual experiences. You can follow her work here, sign up for the Bi Bitch newsletter and join the community to stay up to date with upcoming events.",
+  "image": "https://cdn.outsavvy.com/events/4b7e3fab-dc7e-4d86-8620-4168032b9e49.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/27558/bi-speed-dating",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.075858",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 645873396,
+  "name": "Sound Bath for Wellbeing: An Evening of Radical Self-Love, Embodied Healing & Intentional Rest",
+  "venue": "The Common press",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-21:00",
+  "date": "Feb 4",
+  "price": "£9 to £15",
+  "type": "workshop",
+  "tags": [
+    "wellness"
+  ],
+  "description": "Step into a sanctuary for the soul. These deeply restorative sessions are designed to gently guide you back to your true self through the healing power of sound. Rooted in both ancient traditions and modern vibrational therapy, each experience is a chance to realign body, mind, and spirit—inviting profound harmony and inner peace.\nAt the heart of this practice is the activation of the parasympathetic nervous system—your body’s natural state of rest and repair. Through intentional sound and frequency, we soften the nervous system, quiet the mind, and open the spirit.\n What to Expect\nYou’ll be held in a serene, energetically clear space, lying down or seated comfortably as you’re bathed in healing sound. Each instrument is carefully chosen to support your nervous system, energy field, and emotional body:\nGong – deep energetic clearing & vibrational alignment\nRAV Vast Drum – melodic, heart-opening resonance\nTibetan & Crystal Singing Bowls – chakra cleansing & balance\nChimes & Tingsha Bells – elevating awareness & shifting stagnant energy\nConch – awakening ancient wisdom and soul remembrance\nKalimba & Percussion – grounding rhythms for embodied presence\nTuning Forks – cellular resonance & energetic tuning\nVocal Entrainment – intuitive voice work that mirrors your unique energetic signature\nThe Evening Flow\nLed by acclaimed facilitator, writer, and artist Livia Kojo Alour, this immersive event offers a unique journey through the body and mind—where stillness becomes a source of renewal and strength.\nOpening Practice (20 min): Guided Breath Work or Yoga Nidra to ground and center\nSound Bath Journey (40 min): A meditative experience to release, reset, and reconnect\nWhether you're new to somatic practice or deepening your existing journey, this space is open to all—welcoming you just as you are.\n\n Please bring water, a pillow and a blanket if you need. We have the mats! \n\n Livia Kojo Alour \nYoga Teacher | Sound Bath Practitioner | Artist\nLivia is a multidisciplinary artist, certified yoga teacher, and sound healer with over two decades of experience across movement, music, and performance. Her work blends ancient wisdom with lived experience, offering heart-centered spaces for relaxation through Yin Yoga, sound, and voice. Rooted in depth, creativity, and a lifelong devotion to transformation, her offerings invite others to reconnect with themselves through embodied practice. Livia, who just returned from Nada Yoga (sound) studies in India, will offer a sound bath with an array of instruments inspired by traditional Tibetan and contemporary practices. ",
+  "image": "https://cdn.outsavvy.com/events/2bab4a0e-b0d6-4f10-a7e1-104f8d7b4a94.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/28823/sound-bath-for-wellbeing-an-evening-of-radical-self-love-embodied-healing-intentional-rest",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.084048",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 1251392965,
+  "name": "Booters Dyke+Trans Woodworking Class",
+  "venue": "Garden of Earthly Delights",
+  "address": "161 Graham Road,  London,  E8 1BT",
+  "time": "12:00-17:00",
+  "date": "Nov 8",
+  "price": "FREE to £22",
+  "type": "workshop",
+  "tags": [
+    "social",
+    "queer",
+    "flinta",
+    "workshop",
+    "hands-on"
+  ],
+  "description": "*FOR MERCH - SCROLL DOWN TO “ADD-ONS” SECTION*\nBooters is teaming up with The Woodshop of Recycled Delights to deliver a Dyke & Trans Woodworking Class! This will be a beginner-friendly session focusing on queer people who are often left out of woodworking spaces: dykes and trans people, inclusive of bisexual, asexual, nonbinary and gender-nonconforming identities. We'll learn the skills needed to design our own woodworking projects from reclaimed materials, and each participant will come away with their own custom toolbox - that doubles as a picnic basket/ beer holder!\nHackney has a proud history of lesbians and queer people using woodworking and DIY skills to build for themselves and their community: for example, fixing up derelict buildings in London Fields in the 1980s. Teaching and sharing these skills is part of our culture, and it gives us a chance to personalise and improve our homes and community spaces even with limited financial resources.\nThe workshop will take place over 4-5 hours with a break midway, where we'll go over the basics of using tools like drills and saws as taught by WoRD instructors. There'll be a focus on using repurposed materials like pallet wood, so that you can help the planet while saving money on your future projects! By the end, you'll have built your own multipurpose toolbox, customised to your own purposes whether it's beer cans, sex toys or poetry books. You'll even have the option to varnish it and come back when it's dried on Wednesday the 8th (International Lesbian Day) and decorate it further with the Booters and WoRD squad :)\nCheck out our Instagram for more info on our vibe: @bootersbutchbar\nREFUNDABLE DEPOSIT\nThanks to the support of Hackney Council's Pride 365 funding, the costs of the workshop including materials have been fully covered! To secure your place, we just ask for a deposit to secure your place, of which £10 will be refunded to you on attendance at the workshop.\nIf you choose to add more than £10, the excess will go towards pay-it-forward scheme to subsidise meals for low-income butches/studs/trans people at our dining events.\nACCESSIBILITY\nThe workshop is mostly outdoors with a covered area for workshops, all level access with rough terrain at parts. There will be capacity for PAs to attend free of charge. More info including photos will be shared on our Instagram: @bootersbutchbar\nThere is no toilet on the site, only an outhouse allowing for peeing only. The closest accessible toilet is at Oslo Bar near Hackney Central station which opens at 4pm on Saturdays. There are accessible public toilets at nearby parks (Hackney Downs or London Fields) which may be on your way to/from the venue. \nThe nearest step-free station is Hackney Central, there are also lots of bus routes that run to nearby stops in the area.\nDIETARY NEEDS/ ALLERGIES/ ACCESSIBILITY NEEDS\nIf you have any allergies/ dietary requirements for snacks, or accessibility needs for getting the most of the space, there will be an option to tell us at checkout. We will do our best to accommodate or contact you directly if needs be :)\nMERCHANDISE\nWe have merchandise! You can buy your very own Booters tees as seen on our servers, in two colour options. We even have a line of hats and mugs  - just scroll down to “Add-ons” below :) We also ship worldwide!",
+  "image": "https://cdn.outsavvy.com/events/0b4b93a1-1a98-47ff-98bb-911e2d198b8d.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29442/booters-dyketrans-woodworking-class",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.099324",
+  "generes": [
+   
+  ]
+},
+{
+  "id": 1945952337,
+  "name": "The \"Performative Femme\" Contest",
+  "venue": "Old Nunshead",
+  "address": "15 Nunhead Green,  London,  SE15 3QQ",
+  "time": "19:00-01:00",
+  "date": "Nov 8",
+  "price": "FREE to £22",
+  "type": "social",
+  "tags": [
+    "competition",
+    "lesbian",
+    "flinta"
+  ],
+  "description": "Move over butches! It's time for... THE PERFORMATIVE FEMME CONTEST!!\nPresented by:\n🦉🧡 Booters Butch Bar\n✨🩷Curly Femme Fashion\nAfter our packed-to-the-rafters “Performative Butch” contest for Straptober, we had to mark Novfemmeber with a femme edition of the event! We're on a mission to find the most performative femme in London - with the winner receiving a £50 bar tab and a basket of goodies \nTo enter the contest, you just need to register in person by 7.45pm. You do not need to identify as femme outside of the contest, just make sure you come channeling your most performative femme energy!\nThere'll be three rounds in total, including a gameshow-inspired round we're calling “The Butchelor” 🌹 If you would like to be one of our femme-loving butchelors, you can also sign up! You don't need to be butch to be a butchelor (we also love femme4femme!!) though we would recommend being single and/or poly, or else having a very secure monogamous partner lol\nThe contest is free to watch, we'd just suggest getting down early to guarantee a good view (or flag with us when RSVPing if you have access needs that require seating). Please consider tipping your judges for their work on this event!\nOnce the most performative femme has ben crowned, we'll have a free party til late with dyke DJs on the decks all night long 🪩\nGood luck to all of our contestants!! \n TIMINGS\nDoors/ registration start 7pm\nContestant registration ends 7.45pm\nContest starts at 8pm, with breaks between each of the three rounds\nWinner announced around at approx. 10pm\nThen FREE afterparty with dyke DJs from 11pm til 1am ",
+  "image": "https://cdn.outsavvy.com/events/ec277976-e698-487b-9205-8a6a0cfcd8a1.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30840/the-performative-femme-contest",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+
 ];
