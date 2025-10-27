@@ -5434,5 +5434,33 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1945952339,
+  "name": "DeepHER Breaths",
+  "venue": "Damsel Collective",
+  "address": "70-72 Kingsland Road,  London,  E2 8DP",
+  "time": "18:00-19:00",
+  "date": "Oct 29",
+  "price": "£8",
+  "type": "social",
+  "tags": [
+    "Wellness",
+    "Breathwork",
+    "Relaxation",
+    "Women",
+    "Social"
+  ],
+  "description": "DeepHER Breaths is a soft midweek reset for busy London women - an hour to pause, reconnect, and breathe. Hosted in the warm and intimate downstairs space at Damsel Collective, you’ll be guided through gentle breathwork, introspective journaling prompts, and connection rituals - all over hot Moroccan mint tea :)",
+  "image": "https://images.squarespace-cdn.com/content/v1/679f8127338a5878f152e6f2/1761572153429-JJFF3Y4KACVBPWSO27HZ/5.jpg?format=1500w",
+  "website_link": "https://www.damselcollective.com/",
+  "ticket_link": "https://www.damselcollective.com/events-page/deepher-breaths",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
 
 ];
