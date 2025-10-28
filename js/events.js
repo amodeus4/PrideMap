@@ -306,34 +306,7 @@ const events = [
   ],
   "age": "18+"
 },
-{
-  "id": 200,
-  "name": "Booters Dyke+Trans Woodworking Class",
-  "venue": "Garden of Earthly Delights",
-  "address": "161 Graham Road,  London,  E8 1BT",
-  "time": "12:00-05:00",
-  "date": "Oct 4",
-  "price": "Sold Out",
-  "type": "Workshop",
-  "tags": [
-      "woodworking",
-      "dyke",
-      "queer",
-      "trans",
-      "flinta",
-  ],
-  "description": "Booters is teaming up with The Woodshop of Recycled Delights to deliver a Dyke & Trans Woodworking Class! This will be a beginner-friendly session focusing on queer people who are often left out of woodworking spaces: dykes and trans people, inclusive of bisexual, asexual, nonbinary and gender-nonconforming identities. We'll learn the skills needed to design our own woodworking projects from reclaimed materials, and each participant will come away with their own custom toolbox - that doubles as a picnic basket/ beer holder! \n\nHackney has a proud history of lesbians and queer people using woodworking and DIY skills to build for themselves and their community: for example, fixing up derelict buildings in London Fields in the 1980s. Teaching and sharing these skills is part of our culture, and it gives us a chance to personalise and improve our homes and community spaces even with limited financial resources. \n\nThe workshop will take place over 4-5 hours with a break midway, where we'll go over the basics of using tools like drills and saws as taught by WoRD instructors. There'll be a focus on using repurposed materials like pallet wood, so that you can help the planet while saving money on your future projects! By the end, you'll have built your own multipurpose toolbox, customised to your own purposes whether it's beer cans, sex toys or poetry books. You'll even have the option to varnish it and come back when it's dried on Wednesday the 8th (International Lesbian Day) and decorate it further with the Booters and WoRD squad :)\n\nCheck out our Instagram for more info on our vibe: @bootersbutchbar",
-  "image": "https://cdn.outsavvy.com/events/adf9cb8f-a558-42ec-a605-57275d4d263c.png",
-  "ticket_link": "https://www.outsavvy.com/event/29442/booters-dyketrans-woodworking-class?fbclid=PAZXh0bgNhZW0CMTEAAadHWqzLeR2AufRXIqAkTPi95ly35c4G2YZCwGlDbcVd3Z-FbVrgizhj3IGy5g_aem_x-cvbpCDuMuWQVp1FC4Lyg",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-29T18:04:00.584697",
-  "generes": [
-   
-  ],
-  "age": "18+"
-},
+
 
 {
   "id": 726164558,
@@ -3867,35 +3840,7 @@ const events = [
       "hip hop"
   ]
 },
-{
-  "id": 1251392965,
-  "name": "Booters Dyke+Trans Woodworking Class",
-  "venue": "Garden of Earthly Delights",
-  "address": "161 Graham Road,  London,  E8 1BT",
-  "time": "12:00-17:00",
-  "date": "Nov 8",
-  "price": "FREE to £22",
-  "type": "workshop",
-  "tags": [
 
-      "trans",
-      "FLINTA",
-      "workshop",
-      "art",
-
-  ],
-  "description": "*FOR MERCH - SCROLL DOWN TO “ADD-ONS” SECTION*\nBooters is teaming up with The Woodshop of Recycled Delights to deliver a Dyke & Trans Woodworking Class! This will be a beginner-friendly session focusing on queer people who are often left out of woodworking spaces: dykes and trans people, inclusive of bisexual, asexual, nonbinary and gender-nonconforming identities. We'll learn the skills needed to design our own woodworking projects from reclaimed materials, and each participant will come away with their own custom toolbox - that doubles as a picnic basket/ beer holder!\nHackney has a proud history of lesbians and queer people using woodworking and DIY skills to build for themselves and their community: for example, fixing up derelict buildings in London Fields in the 1980s. Teaching and sharing these skills is part of our culture, and it gives us a chance to personalise and improve our homes and community spaces even with limited financial resources.\nThe workshop will take place over 4-5 hours with a break midway, where we'll go over the basics of using tools like drills and saws as taught by WoRD instructors. There'll be a focus on using repurposed materials like pallet wood, so that you can help the planet while saving money on your future projects! By the end, you'll have built your own multipurpose toolbox, customised to your own purposes whether it's beer cans, sex toys or poetry books. You'll even have the option to varnish it and come back when it's dried on Wednesday the 8th (International Lesbian Day) and decorate it further with the Booters and WoRD squad :)\nCheck out our Instagram for more info on our vibe: @bootersbutchbar\nREFUNDABLE DEPOSIT\nThanks to the support of Hackney Council's Pride 365 funding, the costs of the workshop including materials have been fully covered! To secure your place, we just ask for a deposit to secure your place, of which £10 will be refunded to you on attendance at the workshop.\nIf you choose to add more than £10, the excess will go towards pay-it-forward scheme to subsidise meals for low-income butches/studs/trans people at our dining events.\nACCESSIBILITY\nThe workshop is mostly outdoors with a covered area for workshops, all level access with rough terrain at parts. There will be capacity for PAs to attend free of charge. More info including photos will be shared on our Instagram: @bootersbutchbar\nThere is no toilet on the site, only an outhouse allowing for peeing only. The closest accessible toilet is at Oslo Bar near Hackney Central station which opens at 4pm on Saturdays. There are accessible public toilets at nearby parks (Hackney Downs or London Fields) which may be on your way to/from the venue. \nThe nearest step-free station is Hackney Central, there are also lots of bus routes that run to nearby stops in the area.\nDIETARY NEEDS/ ALLERGIES/ ACCESSIBILITY NEEDS\nIf you have any allergies/ dietary requirements for snacks, or accessibility needs for getting the most of the space, there will be an option to tell us at checkout. We will do our best to accommodate or contact you directly if needs be :)\nMERCHANDISE\nWe have merchandise! You can buy your very own Booters tees as seen on our servers, in two colour options. We even have a line of hats and mugs  - just scroll down to “Add-ons” below :) We also ship worldwide!",
-  "image": "https://cdn.outsavvy.com/events/adf9cb8f-a558-42ec-a605-57275d4d263c.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29442/booters-dyketrans-woodworking-class",
-  "coordinates": null,
-  "sellingFast": true,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-13T12:50:00.691392",
-  "generes": [
-      
-  ]
-},
 {
   "id": 4183581357,
   "name": "Queer Creatives Book Club: October Meeting",
