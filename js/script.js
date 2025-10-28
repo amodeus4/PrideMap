@@ -564,9 +564,9 @@ function showEventsList() {
     sidebar.innerHTML = `
         <div class="header">
             <h1>On My Gaydar</h1>
-            <div class="header-subtitle-section">
+            <!-- newsletter <div class="header-subtitle-section">
                 <h5>The best local queer events, updated daily. <a href="https://mailchi.mp/54e006ea8469/gaydar-newsletter-sign-up" target="_blank" class="newsletter-link">Sign up for weekly roundups</a></h5>
-            </div>
+            </div>-->
             <div class="filters">
                 <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>
                 <button class="filter-btn tags-filter-btn ${selectedTags.length > 0 ? 'active' : ''}" onclick="toggleTagFilter()">
@@ -582,7 +582,7 @@ function showEventsList() {
             ${isMobile ? `
                 <div class="mobile-view-toggle">
                     <button class="view-toggle-btn" data-view="map">
-                        <span class="toggle-icon">🗺️</span>
+                        <span class="toggle-icon">📍</span>
                         <span class="toggle-text">Map View</span>
                     </button>
                 </div>

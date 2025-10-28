@@ -163,9 +163,9 @@ html, body {
     display: flex;
     flex-wrap: nowrap;
     gap: 8px;
-    margin-top: 15px;
+    margin-top: 8px;
     position: sticky;
-    top: 60px;
+    top: 40px;
     z-index: 21;
     background: white;
     padding-bottom: 10px;
@@ -849,7 +849,7 @@ html, body {
     /* Mobile-specific filter adjustments */
     .filters {
         gap: 8px;
-        padding-bottom: 8px;
+        padding-bottom: 6px;
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
     }
