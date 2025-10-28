@@ -4571,35 +4571,7 @@ const events = [
 },
 
 
-{
-  "id": 1078365180,
-  "name": "Twerk Temple Brighton Halloween Special - Queer Afro Perreo Party",
-  "venue": "Volks Club",
-  "address": "3 Madeira Drive,  Brighton and Hove,  BN2 1PS",
-  "time": "16:00-22:00",
-  "date": "Nov 2",
-  "price": "£6",
-  "type": "party",
-  "tags": [
-    "perreo",
-    "party",
-    "queer"
-  ],
-  "description": "Amoresss! 😍\n\nPopola is bringing our, Twerk Temple hottest edition, to Brighton for the very first time! Join us for a special Halloween edition at Volks on SUNDAY, November 2nd.\n From 4 PM until 10 PM, get ready for a fiery Halloween daytime celebration. \n\nWe're teaming up with the Puppy Playgrnd babes for a takeover that will set the dance floor en fuegoooo.\n Come together with diasporic queens, QPOC babes, and allies to celebrate the vibrant spirit of Latinx and Afro-Caribbean culture. Our DJs will take you on a journey fuelled of booty shaking riddims by reggaeton, soca, bouyon, dancehall, latin bass and more.\n\nThis Halloween, we honor our heritage, celebrate our culture, and unleash pure ancestral fire.\n\nDon't miss out on Brighton's most caliente launch event! <3 \n\nGet your PRE-SALES tix at £6\nOTD £9\n Nos vemosssss 💋💋💋",
-  "image": "https://cdn.outsavvy.com/events/72039103-741c-4aae-b076-b4c7a2365e2f.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/30409/popola-twerk-temple-halloween-special-a-decolonising-queer-sanctuary-of-booty-shake-beats",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-24T14:13:09.954590",
-  "generes": [
-    "afrobeats",
-    "latin",
-    "reggae"
-  ],
-  "age": "18+"
-},
+
 {
   "id": 500575128,
   "name": "Popola Sober Club: Open Decks",
@@ -4802,7 +4774,7 @@ const events = [
   "name": "COVEN LAUNCH PARTY - THE FEMALE GREMLIN",
   "venue": "COVEN",
   "address": "295-297 Haggerston Road,  London,  E8 4EN",
-  "time": "19:00-31:00",
+  "time": "19:00-02:00",
   "date": "Oct 30",
   "price": "£10",
   "type": "party",
