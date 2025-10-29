@@ -2903,7 +2903,7 @@ const events = [
   "price": "£0 to £15",
   "type": "party",
   "tags": [
-      "Rave",
+      "Techno Rave",
       "Queer",
       "Energetic",
 
@@ -5379,5 +5379,115 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1945952340,
+  "name": "London Leather Dykes Social",
+  "venue": "All my Gods",
+  "address": "253 paradise row, bethnal green. E2 9LE",
+  "time": "19:00-late",
+  "date": "Nov 5",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "Dyke",
+    "Leather & Kink casual",
+    "Cruising",
+    "Dive Bar",
+    "LGBTQ+",
+  ],
+  "description": "For leatherdykes of all genders expressions and persuasions. New leatherdykes & friends always welcome.",
+  "image": "images/leatherdyke.png",
+  "website_link": "https://www.instagram.com/londonleatherdykes/?hl=en",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952341,
+  "name": "London Leather Dykes - Cowgirl Sexbang",
+  "venue": "The Lord Clyde",
+  "address": "9 Wotton Road,London, SE8 5TQ",
+  "time": "TBA",
+  "date": "Nov 23",
+  "price": "TBA",
+  "type": "social",
+  "tags": [
+    "Dyke",
+    "Cruising",
+    "Play Party",
+    "LGBTQ+",
+  ],
+  "description": "Hello perverts. We have some very exciting news! \n\nOn Sunday 23rd November we’re putting on a cruising and play party at The Lord Clyde as part of London Leather Weekend - 🤠 ‼️ Cowgirl Sexbang ‼️ 🤠Timings tbc but likely to be late afternoon into the evening. Tickets will be on sale soon for vetted attendees, to get the link to the vetting form just ask one of your leatherdyke friends in our community (if you don’t know anyone yet there’s still plenty of time to come to our social on the 5th November and meet some of us!)\n\nAny questions, feel free to drop a DM!",
+  "image": "images/leatherdyke2.png",
+  "website_link": "https://www.instagram.com/londonleatherdykes/?hl=en",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952342,
+  "name": "GHOULS JUST WANNA HAVE FUN",
+  "venue": "Distillery N17",
+  "address": "Unit 25, Millmead Industrial Estate",
+  "time": "22:00-05:00",
+  "date": "Oct 31",
+  "price": "£17.10",
+  "type": "party",
+  "tags": [
+    "Halloween",
+    "Allies",
+    "LGBTQ+",
+    "Hardcore",
+    "Bass"
+  ],
+  "description": "Join us this Halloween as Jungyals and Gays, Militant music, Da Demolition Squad and Hardcore Babes go head to head this spooky season! Expect a jampacked night by some of the best upcoming DJs from across the UK!! \n\nExpect Jungle Tek, Hardcore, Bailé, Footwork, Techstep, Bassline and beyond this Halloween. \n\nDust off those costumes and come meet us in the dance <3 \n\nPowered by Albion Audio!",
+  "image": "images/jungyals.png",
+  "website_link": "https://www.instagram.com/jungyalsngays/?hl=en",
+  "ticket_link": "https://ra.co/events/2253794?fbclid=PAZXh0bgNhZW0CMTEAAadEcM5yQitZ3CovCqs5F8fxzcUKIpgOSlzXnIYihkomrraVwPsKIsDLfLmcuA_aem_dAoJfccU8BhX-ExBmjY8wg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952343,
+  "name": "All my friends are witches",
+  "venue": "Damsel Collective",
+  "address": "70-72 Kingsland Road, London, E2 8DP",
+  "time": "18:00-late",
+  "date": "Nov 7",
+  "price": "£17.10",
+  "type": "social",
+  "tags": [
+    "Exhibition",
+    "Film",
+    "Feminism",
+  ],
+  "description": " ‘All My Friends Are Witches’ summons a night of spellbinding film and feminist resistance from the Cinenova archive. Featuring:\n\nKeep Your Laws Off My Body (1990) — Catherine Saalfield & Zoe Leonard\nBack Inside Herself (1984) — S. Pearl Sharp\nFirst Communion (1985) — Martine Thoquenne\nNight Dances (1995) & Eerie (1992) — Sandra Lahire\n\nThrough moving image, installation, and collective practice, the witch emerges as an emblem of care, defiance, and radical kinship.\n\nExhibiting Artists - Rebecca Foster-Clarke, Harriet Foster-Clarke and Nell Alcraft.\n\nA student-led project from MA Culture, Criticism and Curation students at Central Saint Martins.",
+  "image": "images/allmyfriendsarewitcher.png",
+  "website_link": "https://www.instagram.com/damsel.collective/?hl=en",
+  "ticket_link": "https://share.thecliq.app/event/all-my-friends-are-witches?fbclid=PAZXh0bgNhZW0CMTEAAacTTiRjBbZsHiG4hBuA_2snFoS3aulnANze_3sbYBSJo_O9NBBwBRgnrR0ylQ_aem_b2D-ODJisHm7WLZ9w_Urmg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+
 
 ];
