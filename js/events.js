@@ -150,6 +150,33 @@ const events = [
         ],
          "age": "21+"
       },
+      {
+        "id": 1945952344,
+        "name": "LEATHER BALL Pre-Drinks ",
+        "venue": "La Camionera",
+        "address": "243 Well Street, London, E9 6RG",
+        "time": "19:30-22:30",
+        "date": "Nov 7",
+        "price": "Free",
+        "type": "social",
+        "tags": [
+          "Pre-drinks",
+          "Lesbian",
+          "Social",
+          "LGBTQ+",
+        ],
+        "description": " Pre- drinks @camionera.e9 from 7.30pm - 10 min overground ride (Homerton - Highbury & Islington) to The Garage (let’s take over a whole train??) Free entry but space can be limited - so get there early. \n\nLet’s be right where we should be - supporting our spaces - owned and run.",
+        "image": "images/leatherballpres.png",
+        "website_link": "https://www.instagram.com/butchpleaselondon/?hl=en&g=5",
+        "ticket_link": "",
+        "coordinates": null,
+        "sellingFast": false,
+        "scraped_from": "ra",
+        "scraped_date": "2025-10-24T14:13:10.100556",
+        "generes": [
+        ],
+        "age": "18+"
+      },
       
     {
       "id": 3124206308,
@@ -5480,6 +5507,120 @@ const events = [
   "image": "images/allmyfriendsarewitcher.png",
   "website_link": "https://www.instagram.com/damsel.collective/?hl=en",
   "ticket_link": "https://share.thecliq.app/event/all-my-friends-are-witches?fbclid=PAZXh0bgNhZW0CMTEAAacTTiRjBbZsHiG4hBuA_2snFoS3aulnANze_3sbYBSJo_O9NBBwBRgnrR0ylQ_aem_b2D-ODJisHm7WLZ9w_Urmg",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952345,
+  "name": "The Mothershubz 3.0",
+  "venue": "Dalston superstore",
+  "address": "117 Kingsland High St; Dalston; London E8 2PB; United Kingdom",
+  "time": "22:00-04:00",
+  "date": "Nov 7",
+  "price": "£7 to £8",
+  "type": "party",
+  "tags": [
+    "House party vibes",
+    "POC centered",
+    "LGBTQ+",
+    "Jungle",
+    "Footwork",
+    "Bass"
+  ],
+  "description": " BUMPAH is back for another reload taking over Superstore aka The MotherShip for THE MOTHERSHUBZ 3.0 on Friday 7th November! \n\nWe’re letting loose and going FULL IN on the sexy silly house party vibes for this edition, spotlighting London’s finest bass baddie DJs, MCs and gogos to get you shakin ass all night long! We are SO excited for this lineup, it’s giving a full on family affair, iykyk you’re in for a real treat. Come thru for jungle, dnb, footwork, garage, funky, grime, bassline, booty bass bangers and more from 10pm-4am. Bring your crew and get ready to feel the BUMPAH vibrations! \n\nBUMPAH is a LDN rave, collective, and platform centring Queer & POC communities in underground bass music, truly made for and by the community. We party with purpose: reclaiming space and highlighting all the people involved in creating raves for revolution, from soundsystem builders to MC's, multigenre selectors down to the crowd we vibrate with. We bring together a collective dancefloor movement. Come thru and see your summer off right with BUMPAH's unmatched energy and authenticity!",
+  "image": "images/bumpah3.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2286653?fbclid=PAZXh0bgNhZW0CMTEAAafPgMCQdUwdvAujZ7MTHhcIoEMeSRuRhNEjV-PPg7jb7zwPLvteHW7VMcEiyw_aem_1NVAVszTK7ZJfaMMQsT65g",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952346,
+  "name": "Mix Nights - Open Decks",
+  "venue": "Dalston superstore",
+  "address": "117 Kingsland High St; Dalston; London E8 2PB; United Kingdom",
+  "time": "19:00-23:00",
+  "date": "Nov 11",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "Open Decks",
+    "DJs",
+    "LGBTQ+",
+    "Social",
+
+  ],
+  "description": "Open decks slots are first come first served. Sign up from 7pm 🕖 \n\nFREE, 18 + , for women, trans, non-binary and gender non-conforming folks",
+  "image": "images/opendecks3.png",
+  "website_link": "https://www.instagram.com/mixnights/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952347,
+  "name": "Coven Karaoke",
+  "venue": "COVEN",
+  "address": "295-297 Haggerston Road, London, E8 4EN",
+  "time": "19:00-02:00",
+  "date": "Oct 31",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "Karaoke",
+    "DJs",
+    "Social"
+
+  ],
+  "description": "Free entry, DJ sets through the night",
+  "image": "images/covenkaraoke.png",
+  "website_link": "https://www.instagram.com/covenhackney/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952348,
+  "name": "The Dyke Project",
+  "venue": "Hampstead Heath",
+  "address": "Hampstead Heath, London, NW3 3ER",
+  "time": "10:30-13:00",
+  "date": "Nov 8",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "Activism",
+    "Screen Printing",
+    "Social",
+    "Foraging",
+    "Sports",
+    "Games"
+
+  ],
+  "description": "🏳️‍⚧️ Whose Ponds? Our Ponds! 🏳️‍⚧️ \n\nJoin the Dyke Project from 10.30am until 1pm on Saturday 8th November for a morning of trans joy and community celebration on the heath. \n\n❌ We are horrified by the public consultation on trans inclusion in the ponds. This is part of a wider move from well-funded terf groups to exclude trans people from public life. But let’s make one thing clear. The dignity and right to nature for trans and gender nonconforming members of our community is not up for debate! \n\n💪 That’s why on 8th November, The Dyke Project and some of our friends have organised a morning of celebration to reclaim Hampstead Heath from the terfs. How will we do this? By having a fabulous time! \n\n🥳 We have organised a morning of activities (sports, foraging, queer history, screen printing + more!) to celebrate some of the beautiful things about our community and resist the transphobia of the consultation. \n\nDykey activities up for grabs from 10.30-1.30pm on 8th November >>> \n* Screen print your own dyke-power t-shirt (bring your own t-shirt to be printed!) \n* Foraging walk with queer forager \n* Queer history walk- learn about the radical history of the Heath \n* Sports and games with our fave queer football team \n* Visual intervention from dyke artists \n* Showing up in numbers to say… Whose Ponds? Our Ponds! \n* + more!! \n\nREGISTER YOUR FREE TICKET TODAY TO GIVE US AN IDEA OF NUMBERS! 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ \nhttps://www.outsavvy.com/event/31280/whose-ponds-our-ponds-a-morning-of-trans-joy-and-community-on-the-heath \n\nSee you on the Heath. More deets + location coming soon. \n",
+  "image": "images/thedykeproject.png",
+  "website_link": "https://www.instagram.com/thedykeproject/?hl=en",
+  "ticket_link": "",
   "coordinates": null,
   "sellingFast": false,
   "scraped_from": "ra",
