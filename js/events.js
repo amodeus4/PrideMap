@@ -5629,6 +5629,61 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1945952349,
+  "name": "Bitching Hour - Post Halloween Rave",
+  "venue": "Coven",
+  "address": "295-297 Haggerston Road, London, E8 4EN",
+  "time": "20:00-late",
+  "date": "Nov 1",
+  "price": "Free",
+  "type": "party",
+  "tags": [
+    "Rave",
+    "LGBTQ+",
+    "Halloween",
+
+  ],
+  "description": "",
+  "image": "images/bitchinhour.png",
+  "website_link": "https://www.instagram.com/covenhackney/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952350,
+  "name": "HYPOXIA - ONLY FIRE, MISS JAY, HDMIRROR",
+  "venue": "Colour Factory",
+  "address": "8 Queen's Yard, London E9 5EN",
+  "time": "23:00-04:00",
+  "date": "Nov 8",
+  "price": "£16 to £20",
+  "type": "party",
+  "tags": [
+    "High Energy",
+    "LGBTQ+",
+    "Rave",
+    "Community"
+
+  ],
+  "description": "",
+  "image": "images/hypoxia.png",
+  "website_link": "https://www.instagram.com/hypoxia________/?hl=en",
+  "ticket_link": "https://ra.co/events/2275870",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
 
 
 ];
