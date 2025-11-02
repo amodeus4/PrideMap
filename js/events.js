@@ -5684,6 +5684,34 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1945952351,
+  "name": "UNFOLD CX",
+  "venue": "Fold",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "14:00-00:00",
+  "date": "Nov 9",
+  "price": "£20",
+  "type": "party",
+  "tags": [
+    "Day Party",
+    "Community",
+    "Techno",
+    "Euphoric"
+
+  ],
+  "description": "No rest for the wicked; UNFOLD returns on Sunday 9th November for Edition CX. \n\nAs 2026 draws ever closer, a hazy yet familiar figure also begins to take shape on the horizon...\n\nDoors open for Edition CX at 14:00. As always, the line-up is unannounced and tickets are only available on the door.\n\nDress to sweat.\n\nNO RACISM, NO SEXISM, NO HOMOPHOBIA, NO TRANSPHOBIA, NO ABLEISM.",
+  "image": "images/unfold7.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2284248",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "21+"
+},
 
 
 ];
