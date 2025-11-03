@@ -5712,6 +5712,38 @@ const events = [
   ],
   "age": "21+"
 },
+{
+  "id": 1945952352,
+  "name": "SAPPHIC SOUNDS x FEELD Social",
+  "venue": "Strongroom Bar",
+  "address": "120-124 Curtain Rd, Shoreditch, London EC2A 3SQ, UK",
+  "time": "19:00-23:00",
+  "date": "Nov 25",
+  "price": "£9.18",
+  "type": "social",
+  "tags": [
+    "Live Music",
+    "Friendship",
+    "Dating",
+    "DJs",
+    "Market"
+
+  ],
+  "description": "SAPPHIC SOUNDS is so excited to collaborate with FEELD for a night of FLINTA live music excellence! Expect a 12/10 spicy lineup, with a DJ set from the iconic Trojan. We’ll also have a cute popup market, vendors TBA! Then maybe get your flirt on a little? It’s a FEELD Social after all ;)",
+  "image": "images/sapphicsounds2.png",
+  "website_link": "https://www.instagram.com/537_events/?hl=en",
+  "ticket_link": "https://dice.fm/partner/tickets/event/xek653-sapphic-sounds-x-feeld-social-25th-nov-strongroom-bar-london-tickets?dice_id=7520449&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAaeR3ckSkFZLtbj1YKqqYuAlbXt0pujWnb0S_IXW8VyTysJ4VxWSsgR9-_ktqw_aem_7VuPhsSCvKtWl3VLDQPQtg&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXB2wqCMAAA0L%2FpLTWUrEBiWEFp4Q2nvgw3p%2FOu26x86ds7h0k5iZOqdvXQKkVNqFL2am8Y%2B5IWpk5IcS4x6erC8kCWMA1XL5ZBzX5GVwByGuikDdtb5krc7FJnntMFdDiR2rQ0cMBaiO4JPMRrtIqHEX9hKKrguEWtnD8opz0y48VjIrTfjoSdHrsX3%2FNltflxWlLO66FCmI8fQbllMz729A8vldAfrgAAAA%3D%3D",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+    "Pop",
+    "Latin",
+    "Dance"
+  ],
+  "age": "18+"
+},
 
 
 ];
