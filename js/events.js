@@ -5744,6 +5744,65 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1945952353,
+  "name": "Cyber B*tch",
+  "venue": "Vespers Club Peckham",
+  "address": "133A Rye Lane, London, SE15 4BQ, UK",
+  "time": "23:00-04:00",
+  "date": "Nov 8",
+  "price": "£7 to £20",
+  "type": "party",
+  "tags": [
+    "FLINTA artists",
+    "Hardcore",
+    "Gabber",
+    "Cybernetic",
+
+  ],
+  "description": "CYBER BITCH is a FLINTA-focused hardcore techno event built for those who live between metal and flesh. Expect kicks, cyber aesthetics, and an atmosphere charged with queer defiance. \n\nOur dancefloor runs on respect everyone is welcome as long as you play by the rules. This is a space for FLINTA artists to take up volume, glitch the system, and melt circuits together. \n\nLeave your ego at the door, plug into the mainframe, and prepare for a night of robotic chaos, sweat, and solidarity. \n\nSounds: Hardcore, Gabber, Techno \nDress Code: Cybernetic, Futuristic \n",
+  "image": "images/cyberbitch.png",
+  "website_link": "https://www.instagram.com/charjeworldwide/?hl=en",
+  "ticket_link": "https://ra.co/events/2290217?fbclid=PAZXh0bgNhZW0CMTEAAafPp8qmeksRFPqBZaHX1yuOnEQlhaBieVDZQdloAl_JKrb4es1Yqok6fy8eTQ_aem_wE3psA_cervfL3m5frKckA",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+    "Techno",
+    "Gabber",
+    "Hardcore"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952354,
+  "name": "DIY Strap Harness Workshop",
+  "venue": "Damsel Collective",
+  "address": "133A Rye Lane, London, SE15 4BQ, UK",
+  "time": "14:00-18:00",
+  "date": "Nov 8",
+  "price": "£40 to £80",
+  "type": "workshop",
+  "tags": [
+    "FLINTA artists",
+    "Hardcore",
+    "Gabber",
+    "Cybernetic",
+
+  ],
+  "description": "Come make your own custom strap harness with THE BIG STRAP PROJECT. They run playful workshops where you'll learn the basic skills required to cut out, rivet press and fashion your dream harness... \n\nWe have a huge collection of second-hand bags, belts, buckles, book covers, balls and hardware which our straps are created from. From scrap to strap, there's something so satisfying about creating something cheeky from an outdated clutch. \n\nJoin us for the next workshop at Damsel Collective and make your own strap that fits your unique body and feels euphoric to wear!",
+  "image": "https://res.cloudinary.com/dienahliq/image/upload/v1761672559/development/alc332fpg1bxdzizp6ty.jpg",
+  "website_link": "https://www.instagram.com/charjeworldwide/?hl=en",
+  "ticket_link": "https://share.thecliq.app/event/diy-strap-harness-workshop",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
 
 
 ];
