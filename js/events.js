@@ -5785,10 +5785,8 @@ const events = [
   "price": "£40 to £80",
   "type": "workshop",
   "tags": [
-    "FLINTA artists",
-    "Hardcore",
-    "Gabber",
-    "Cybernetic",
+    "workshop",
+    "social",
 
   ],
   "description": "Come make your own custom strap harness with THE BIG STRAP PROJECT. They run playful workshops where you'll learn the basic skills required to cut out, rivet press and fashion your dream harness... \n\nWe have a huge collection of second-hand bags, belts, buckles, book covers, balls and hardware which our straps are created from. From scrap to strap, there's something so satisfying about creating something cheeky from an outdated clutch. \n\nJoin us for the next workshop at Damsel Collective and make your own strap that fits your unique body and feels euphoric to wear!",
