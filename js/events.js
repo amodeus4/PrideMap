@@ -4219,7 +4219,7 @@ const events = [
   "address": "Silk Street, London, EC2Y 8DS",
   "time": "22:45-03:00",
   "date": "Nov 29",
-  "price": "£16",
+  "price": "Sold Out",
   "type": "party",
   "tags": [
       "Music",
@@ -5795,6 +5795,63 @@ const events = [
   "image": "https://res.cloudinary.com/dienahliq/image/upload/v1761672559/development/alc332fpg1bxdzizp6ty.jpg",
   "website_link": "https://www.instagram.com/charjeworldwide/?hl=en",
   "ticket_link": "https://share.thecliq.app/event/diy-strap-harness-workshop",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952355,
+  "name": "Uhaul Dyke Rescue: The Rear View Dyke Rave",
+  "venue": "Distillery N17",
+  "address": "Unit 25, Millmead Industrial Estate",
+  "time": "22:00-04:00",
+  "date": "Dec 12",
+  "price": "£10 to £15",
+  "type": "party",
+  "tags": [
+    "FLINTA",
+    "House",
+    "Techno",
+
+
+  ],
+  "description": "A night by and for the FLINTA (female, lesbian, intersex, nonbinary, trans, agender) community",
+  "image": "images/dykerave4.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2297702",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 1945952356,
+  "name": "Soma People 1st Birthday: All-Night Techno Ritual",
+  "venue": "Distillery N17",
+  "address": "Unit 25, Millmead Industrial Estate",
+  "time": "21:00-05:00",
+  "date": "Nov 8",
+  "price": "£20",
+  "type": "party",
+  "tags": [
+    "FLINTA",
+    "Industrial",
+    "Techno",
+    "Art"
+
+
+  ],
+  "description": "We’d love to invite you to celebrate our first birthday on Saturday, 8 November 2025, at Distillery N17, an intimate rave — and our final event of the year.\n\nInfused with the warmth of Persia, the freedom of Berlin and inspired by Berghain.\n\nIt all started less than a year ago — between two friends who wanted to create a platform where music, art, and freedom collide. A safe haven built by and for our queer and FLINTA community.",
+  "image": "images/soma10.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2267981",
   "coordinates": null,
   "sellingFast": false,
   "scraped_from": "ra",
