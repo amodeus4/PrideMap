@@ -241,40 +241,6 @@ const events = [
   "age": "18+"
 },
 
-
-{
-  "id": 170,
-  "name": "Queer House Party does Brighton",
-  "venue": "Concorde 2",
-  "address": "286A Madeira Drive,  Brighton and Hove,  BN2 1EN",
-  "time": "23:00-04:00",
-  "date": "Nov 15",
-  "price": "£6 to £16",
-  "type": "party",
-  "tags": [
-      "party",
-      "lgbtqia+",
-      "dress to sweat",
-      "speed garage",
-      "hard groove",
-      "90's house"
-
-
-  ],
-  "description": "Summer has been full of festivals, takeovers and sexy times but we’re back at the Mothership Dalston Superstore On Sat 13th Sep for a sen-of-summer sweaty affair. A super solid line-up of absolute queer scene Icons.  \n\nWe have a QUEEN Headlining the Basement, someone we’ve been trying to book for a while, and finally she’s gonna be shakin up the lazer-pit, all the way from Chicago we have Ariel Zetina in the house. A producer, DJ and writer, considered mostly as a Technno DJ, but who takes clear inspiration from Chicago House, Belizean genres punta and brukdown, and the queer club scene worldwide, Her ruthless, cross genre DJs sets have been heard worldwide. She is a resident at the legendary house club Smartbar, and on infamous Discwoman’s roster, expect twists, turns and all the feels for her closing set with us. Joining her for warm-up duties is Bristol based LEXX, daddy of mid-week Bristol dyke party Soft Butch a DJ with a semantics k!nk. and of course, sandwiched between the two, our beloved resident Michelle Manetti closing out the with hi-NRG fuelled house. \n\nUp in the bar we see the return of FF fave Bad Pal Lili on closing duties, alongside a debut from Gal Pals head pal DJ XZAN an open format DJ, known for their hyperactive, genre-defying sets - expect bootlegs, mashups and all your party faves seamlessly blended for your listening pleasure. On warm up we have a solo set from one half of our resident duo of Fraicheness Darren. (minus Linzi) Expect twisted pop, trash-tastic faves, and Cunty Slut-Pop bangers.  \n\nFor gogo duties, we have Femmme Fraiche regular and fave superbabe Danni Spooner and Party-Starter Than The Freak with, ass-shakin’ sexy, stupendous bar-top antics. ",
-  "image": "https://cdn.outsavvy.com/events/87c164a4-a654-41b9-98e4-409dc247f9ff.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/29613/queer-house-party-does-brighton",
-  "coordinates": null,
-  "sellingFast": true,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-08-21T14:44:54.715629",
-  "generes": [
-     
-  ],
-  "age": "18+"
-},
-
 {
   "id": 2363973101,
   "name": "In Signo Stellae: A Community Tarot Initiative",
@@ -5786,7 +5752,7 @@ const events = [
   "type": "workshop",
   "tags": [
     "workshop",
-    "social",
+    "social"
 
   ],
   "description": "Come make your own custom strap harness with THE BIG STRAP PROJECT. They run playful workshops where you'll learn the basic skills required to cut out, rivet press and fashion your dream harness... \n\nWe have a huge collection of second-hand bags, belts, buckles, book covers, balls and hardware which our straps are created from. From scrap to strap, there's something so satisfying about creating something cheeky from an outdated clutch. \n\nJoin us for the next workshop at Damsel Collective and make your own strap that fits your unique body and feels euphoric to wear!",
@@ -5858,6 +5824,618 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1945952357,
+"name": "9 YEARS OF LICK",
+  "venue": "Electric Brixton",
+  "address": "Town Hall Parade,Brixton Hill,London SW2 1RJ",
+  "time": "23:00-04:00",
+  "date": "Dec 5",
+  "price": "£20",
+  "type": "party",
+  "tags": [
+    "Lesbian",
+    "Party",
+    "Performances",
+    "Mainstream"
 
+  ],
+  "description": "December 5th, from 23.00 – 4.00am, LICK will be heading back home to Electric Brixton to celebrate the huge achievement of our 9th birthday.",
+  "image": "images/lick.png",
+  "website_link": "",
+  "ticket_link": "https://www.everythinglick.com/event/9-years-of-lick/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-24T14:13:10.100556",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 3181907772,
+  "name": "La Camionera: HOUSE PARTY! w Special Guests.. 💋",
+  "venue": "Vespers Nightclub",
+  "address": "Rye Lane Cornerhouse,  Rye Lane,  London,  SE15 4BQ",
+  "time": "21:00-04:00",
+  "date": "Dec 6",
+  "price": "£20",
+  "type": "party",
+  "tags": [
+    "Dancing",
+    "Party",
+    "FLINTA",
+  ],
+  "description": "Join us for a whole bar/club takeover at VESPERS Nightclub in Peckham on Saturday the 6th of December for La Cami's house party for our biggest party of the year..\n We're flying in New York City's hottest line cook Giovanni (and Addison Rae's ex bf..), have performers from Sex n Rage up on the stage, a big line up of fun DJs, and some secret special regulars from the bar playing…!!\n Expect house party classics, rnb, reggaeton, remixes, hot girl punch, merch and drinks giveaways, and sexy dancers! \n We have £5 tickets for universal credit babes <3 all costs go back into making the crazy party of your dreams.. !! email us at info@lacamionera.com if you have any burning questions or really want to come xxxx \n lots of love and kisses\nla cami xoxo\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢼⣿⣟ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣭⣽⡏ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡠⢤⣤⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡔⠋⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣶⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣎⣘⣶⢤⣶⣾⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⢹⣿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠀⠀⢠⢎⣼⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣹⣿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⠀⣠⣧⣾⣿⣿⣿⣿⣿⣿⢟⣿⣿⣿⣿⣿⠿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢻⣿⣿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⡗⢿⣿⣿⣿⣿⠏⠀⢿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡝⢿⣿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀⠀⢰⢇⣠⣿⣿⣿⣿⣿⣿⢿⣷⣿⣿⣿⣿⠼⠟⠁⢘⣻⢿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠸⢿⣿⣿⡇ ⠀⠀⠀⠀⠀⠀⠀⠀⣼⠞⣾⣿⣾⡏⢹⣿⡿⡄⠙⣾⠿⠿⠛⠀⠀⢀⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁ ⠀⠀⠀⠀⠀⠀⠀⣰⢏⣴⣿⣿⣿⡷⢸⣿⡇⠘⢾⡁⠀⠀⠀⠀⢤⣍⠛⣿⣿⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢀⡴⣧⣾⣿⣿⣿⣿⣷⣿⣿⡇⠀⢸⠈⠁⠀⠀⠀⠼⠋⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⡤⣞⣡⣾⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⡀⢸⠀⠀⠀⠶⠶⡶⢀⣼⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⢀⡤⢋⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢿⣿⣾⣅⡀⠀⠀⠀⣠⣿⣿⣿⣿⠙⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣠⣴⣽⣿⡿⢟⣿⣿⣿⣿⣿⣿⣿⣿⠠⠘⣿⡹⣿⣿⣷⣦⣾⣿⣿⣿⣿⣿⣇⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠊⣱⠿⣻⠏⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⠐⠀⠸⣧⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀ ⡜⢡⡞⠁⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⢀⣹⣖⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠄⠈⠁⠀⠀ ⢠⡏⠀⠀⣠⠖⣋⣉⣉⣙⣛⡟⠛⠒⠺⣿⡉⠉⠀⠀⠉⠉⠉⠀⠀⠙⠛⠻⠿⠿⣿⣿⣿⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⡏⠀⠀⢰⢡⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⣶⢦⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⡇⠀⠀⡟⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣧⣄⣠⠤⠤⠤⠤⢶⣦⣄⠀⠀⠀⢠⠤⡄⠀⠀⣽⠀⠈⠛⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⡇⠀⠀⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠁⣹⠁⠉⠙⠒⠶⢦⣄⡠⠤⠝⠳⣄⠀⠀⠀⠀⠀⢀⡟⡀⠀⠀⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠱⠀⢰⡇⡇⠀⠀⠀⠀⢻⣦⡀⠀⡘⠀⢰⠃⠀⠀⠀⠀⠐⢤⠏⠙⠷⣦⡀⠹⣦⡀⠀⠀⣠⡾⡞⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⢠⣷⣷⡇⠀⠀⠀⠀⢸⣿⣿⣦⣧⠀⡏⢀⢀⠴⠋⠁⠀⠀⠀⠀⠀⠈⠻⣷⡿⣿⣿⣾⣿⢤⠀⠀⠀⠀⣰⠋⠀⠀⠀⠀⠀⠀⠐⠁⠈⠀⠀⠀⠀⠀ ⠀⠀⣿⠟⡇⠀⠀⠀⠀⢸⣿⣿⣿⣿⣦⡇⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢙⣾⣿⣿⢾⠿⠿⠿⢷⣶⣶⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⢰⡇⠀⣿⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡝⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⡿⠋⠀⠈⣆⠀⠀⠀⠀⠀⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀ ⠀⢸⡀⠀⠻⡆⠀⠀⠀⢸⡏⠻⣿⣿⣿⣿⣿⣦⣤⣀⣀⣀⣠⣤⣶⣿⠟⠋⠀⠀⠀⠀⠸⡄⠀⠀⠀⠀⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠑⠈⠀⠀⠀⠀⠀ ⠀⠀⢧⠀⢠⢹⠀⠀⠀⢸⠇⠀⠹⣿⣿⠹⣿⡟⠉⠉⠉⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⢹⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠈⠳⢼⠈⣇⠀⠀⢸⠀⠀⠀⢻⡿⠀⠸⣿⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⡀⠀⠀⠀⢸⠀⢸⡀⠀⣸⠀⠀⢀⠞⠁⠀⢀⡏⠀⠈⠳⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠ ⣿⣆⠀⠀⢸⠃⡆⡇⠀⡿⠀⠀⠀⠀⠀⠀⠊⠀⠀⠀⠀⠀⠈⢳⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠫⡑⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠸ ⣿⣿⣄⡀⠘⠀⣷⡄⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣆⠀⠀⠀⠀⠀⠀⠙⢦⡈⠙⠒⠀⠀⠀⠀⠀⠀⠀ ⣿⣿⣿⣷⠄⠀⡇⠁⠀⢸⠀⠀⠀⠠⡀⠀⠀⠀⠀⠀⠀⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡆⠀⠀⠀⠀⠀⠀⠈⢳⡀⠀⠀⠀⠀⠀⠀⠈⠁ ⣿⣿⣿⣿⠀⢠⠇⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠇⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠈⣷⣄⠀⠀⠀⠀⠀⠀⠀ ⣿⣿⣿⣿⠀⢸⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⡄⠀⠀⠀⠀⠀⠀ ⣿⣿⣿⣿⠀⢸⠀⠀⢸⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠏⠀⠀⠀⠈⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⡟⠹⡄⠀⠀⠀⠀⠀ ⣿⣿⣿⣿⠀⢸⠀⠀⣾⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⡰⠷⠶⣦⣤⣀⣈⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⣿⣿⣿⣿⡏⠀⠀⠘⡄⠀⠀⠀⠀ ⣿⣿⣿⣿⠀⠈⠀⢰⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⢰⢃⣀⣀⣤⣤⣟⡛⡻⠿⢿⣶⣶⣦⣤⣤⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⢹⡀⠀⠀⠀ ⣿⣿⣿⣿⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⡼⠛⠉⠉⠉⢹⢉⡻⣟⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⢳⠀⠀⠀ ⣿⣿⣿⣿⠀⡟⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣼⠃⠀⠀⠀⠀⢼⡞⠋⠁⠀⠀⠈⠉⠛⠟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠘⡆⠀⠀ ⡾⠙⠛⠿⠀⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⢷⠀⠀ ⠀⠀⠀⠀⠀⡷⢿⣿⣿⣿⣿⣿⡿⠟⠿⠿⠿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠢⠤⠀⠀⠀⢀⠀⢀⠀⠀⠉⠹⢿⣿⣿⣿⣿⣿⣷⣶⠀⠀⠀⠀⢸⠀⠀ ⠀⠀⠀⠀⢠⠃⠼⢿⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠒⠦⣀⠈⠻⣿⣿⣿⣿⣿⠀⠠⠀⠀⢸⠀⠀",
+  "image": "https://cdn.outsavvy.com/events/e24dabd3-2b71-49d9-bb50-e09de58f2ffb.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31425/la-camionera-house-party-w-special-guests-",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.489572",
+  "generes": [
+    "house",
+    "latin",
+    "reggae"
+  ],
+  "age": "18+"
+},
+{
+  "id": 658272963,
+  "name": "PLASTYK: December",
+  "venue": "Venue MOT Unit 18",
+  "address": "Surrey Canal Road,  London,  SE14 5RT",
+  "time": "22:00-04:00",
+  "date": "Dec 19",
+  "price": "£13 to £20.50",
+  "type": "party",
+  "tags": [
+    "Dancing",
+    "Party",
+    "FLINTA",
+    "Trans"
+   
+  ],
+  "description": "Did you miss us? Catch us at MOT for a single room party before we hibernate for the winter…\n Get your tix ASAP, they’ll sell out quick xoxo\n Black trans femmes go free - use code PLASTYKLIST.\nIf you are TRANS, POC or DISABLED and need a discount code, check out the info pinned to our Instagram @plastyk__\n Who is this event for? This event prioritizes dykes, trans people, bi femmes and anyone who wants to party with us - anyone EXCEPT cis het men. All queers welcome - but if you are not trans please be mindful of the way you carry yourself in the space.\n  Anyone disrupting the safety/comfort of the space will be removed.\n Full access info is on our Instagram.",
+  "image": "https://cdn.outsavvy.com/events/c740c968-5fbd-4ae2-bbfe-66a6a43ee80f.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31194/plastyk-december",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.489706",
+  "generes": [
+   
+  ]
+},
+{
+  "id": 3533031101,
+  "name": "all queer supper club",
+  "venue": "The Table Café",
+  "address": "83 Southwark Street,  London,  SE1 0HX",
+  "time": "19:00-22:00",
+  "date": "Nov 13",
+  "price": "Ticket Resell",
+  "type": "social",
+  "tags": [
+    "queer",
+    "food",
+    "drinks",
+    "social"
+  ],
+  "description": "one night. queer chef. queer venue. queer organisers. \n it's going to be cute, cozy, and absolutely delicious. \na local sourced and ingredient led dinner.\n please message about dietaries. \nwine pairing will be available to add at the venue, non alc options as well ",
+  "image": "https://cdn.outsavvy.com/events/28a29aec-6866-4941-9255-85efe45713d9.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31196/all-queer-supper-club",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.489927",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+{
+  "id": 3474958323,
+  "name": "Str!p Night!",
+  "venue": "The Cavendish Arms",
+  "address": "128 Hartington Road,  London,  SW8 2HJ",
+  "time": "19:00-22:30",
+  "date": "Nov 16",
+  "price": "£14 to £16",
+  "type": "social",
+  "tags": [
+    "sapphic",
+    "queer",
+    "cabaret",
+    "social",
+    "burlesque",
+    "drag kings"
+  ],
+  "description": "Pack all of your dollar bills and pound notes and get ready to make it rain. We're curating a sizzling sapphic lineup and sexy vibes for the night of your queerest dreams. We run our night cabaret style, with time between acts to drink, chat, and meet new people. \nPut your name into the draw for a hot lap dance on stage, or buy one ahead of time for ur cheekiest pal! Our acts range in vibe from traditional skripping to burlesque to drag kings, encompassing many different ways to feel and be fucking hot as a queer person. \nSTRIP NIGHT DOLLARS ARE CASH ONLY AT THE VENUE! Get them ahead of time on Outsavvy and pick up at the door. \n CONSENT IS KEY! Please respect all of our performers both on the stage and after. \n FAQ AND ACCESSIBILITY\n PWYC/Low income tickets - please pm us! ",
+  "image": "https://cdn.outsavvy.com/events/0ded9ca9-7489-4c62-b420-a46376adfcac.JPG",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31187/strp-night",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.489992",
+  "generes": [
+    "nan"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1325186329,
+  "name": "The Gossip",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-04:00",
+  "date": "Nov 15",
+  "price": "£10",
+  "type": "party",
+  "tags": [
+    "Dyke",
+    "Sapphic",
+    "Dancing"
+  ],
+  "description": "It's the dyke night on everyone's lips.\nThe Gossip returns 15th November 2025.\nClaude Knight\nCheza Lucina\nSassy Wylie\nBethan\nSamantha\nScarba\nJay They Stallion\nPoppy Jasmine\nYou're nobody until you're talked about.",
+  "image": "https://cdn.outsavvy.com/events/94936fef-70cb-488b-b854-6af54e5e698c.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31502/the-gossip",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.490059",
+  "generes": [
+  
+  ]
+},
+{
+  "id": 2881191474,
+  "name": "🍑 BOTTOM HEAVY 🍑",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-04:00",
+  "date": "Nov 22",
+  "price": "£8 to £10",
+  "type": "party",
+  "tags": [
+    "party",
+    "gay",
 
+  ],
+  "description": "Superstore daddy Dan Beaumont and Bottom Heavy resident Wes Baggaley are back and bum to bumming all night long in the lazercave for another edition of Bottom Heavy! House music for gays from Chicago and Detroit via Wigan!\nOn the top deck, Superstore favourites JeonQ, Archi + Misterrcha serve disco debauchery and dancefloor hits n misses all damn night!\nShaking their peaches on the bar - East London queenies Akiş Ka + Big Natchurals! 🍑\nCUM N PLAY XXX",
+  "image": "https://cdn.outsavvy.com/events/5496bcd1-bb1c-49a0-93de-052690c6e529.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31538/-bottom-heavy-",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.490128",
+  "generes": [
+    "disco",
+    "house"
+  ]
+},
+{
+  "id": 1241822076,
+  "name": "HOMOSTASH Rave",
+  "venue": "Colours Hoxton",
+  "address": "2-4 Hoxton Square,  London,  N1 6NU",
+  "time": "21:30-03:30",
+  "date": "Jan 10",
+  "price": "£9",
+  "type": "party",
+  "tags": [
+    "Rave",
+    "Gay",
+    "High Energy",
+
+  ],
+  "description": "Dry January? Not with HOMOSTASH!\nHOMOSTASH returns with its iconic annual WET JANUARY party to Colours Hoxton with an EXTRA HOT LINE-UP! \nExpect to get wet & sweaty! :D\nFeaturing resident DJ TAFKANIK & many more tba! Hosted by Jvst Tina, Julian Capolei & more!\nLet's get wild and let's get wet!",
+  "image": "https://cdn.outsavvy.com/events/5c5fad77-9866-464a-a519-3add4cdf3812.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31290/homostash-wet-january-rave-2026",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.490453",
+  "generes": [
+    "House",
+    "Techno"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1887373012,
+  "name": "SURVIVING BABYLON: let’s build a shrine",
+  "venue": "Shaes London",
+  "address": "83 Smeed Road,  London,  E3 2NR",
+  "time": "14:00-21:00",
+  "date": "Nov 23",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+    "Social",
+    "Community",
+    "Hands-On",
+    "Queer",
+    "Art",
+    "Performances",
+  ],
+  "description": "Surviving Babylon is a full day of multi-sensory gathering: combining art, performance, technology, and ancestral veneration. Centring and exploring Black survival in its many forms. Exploring the magic and the mystery that emerges when you survive something very very difficult. As Black people who have been forced to find home in Babylon, to survive in this world we are coerced into turning our back on our own cultures, people and histories. The chaos of this world is overwhelming. Yet when did this world exist without chaos? Our ancestors were survivors of so much violence and disruption, they fell back on community and creativity as a source to strive forward. Surviving Babylon is in their spirit of collective strength and survival. How can we find beauty within late stage capitalism? How can we honour the past, present and future within our art?\n What to expect:\n2-6pm – Collective Shrine Building: We begin by creating a shared shrine of Gratitude. Gratitude is the thread that connects us to our ancestors, to cherish and acknowledge the hard work that brought us into this world.  Everyone who attends is encouraged to bring an offering. This can look like personal objects, fruit, honey, flowers, chalk, sound, memory. At the end of the day we will all take our objects back home.\n – Virtual Reality Experience: Scan a QR code to enter a live VR world. As you move your phone, digital sculptures and shapes will appear in real time, merging physical and virtual reality.\n\n5-6pm – Intergenerational Conversations/ Reflections: A dialogue with Dorothea Smartt and Munya exploring community-building across generations. Weaving the interpersonal with the political across time.\n 7.30-8.30pm– Non-Linear Performance: Our curation of Black Poets, vocalists, and musicians will perform collaboratively, blending soundscape and improvisation throughout the space.\nFeaturing:\nChloe Filani| Edward Adonteng| Dirg Aaab Richard| Makella Ama| Oduenyi| Wura| Bukky| Bartholomew Benzar| Fungsdae| Dorothea Smartt| Munya|\nThis event explores how we create connection and meaning through chaos, as the world keeps tilting its floors. How can we build knowledge and acknowledge the synchronicities and harmonies that can be accessed while still living in the ruins of Babylon. \nJoin us on the 23rd of November 2025 |  2PM – 9PM for a beautiful exploration.\n\n \n ",
+  "image": "https://cdn.outsavvy.com/events/4a21967d-77e4-4948-aeea-243600daa7c3.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31306/surviving-babylon-lets-build-a-shrine",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.490517",
+  "generes": [
+
+  ]
+},
+{
+  "id": 3187184720,
+  "name": "Queer book binding workshop",
+  "venue": "Betty & Joan’s",
+  "address": "9 Hewson Way,  London,  SE17 1JS",
+  "time": "19:00-20:30",
+  "date": "Dec 16",
+  "price": "£30",
+  "type": "workshop",
+  "tags": [
+    "workshop",
+    "art",
+    "queer"
+  ],
+  "description": "A beginner's guide to book binding. \nThis workshop will teach you the classic book binding technique, and instruct you through step-by-step to bind an A5 notebook. We will provide all the tools and materials needed, and you will get to take home the notebook you made. We'll also provide some colouring and drawing materials should you wish to decorate your front cover during the class. \nThis workshop is suitable for anyone! Both beginners and those with experience are welcome. \nFacilitated by Rebecca Meltzer\nDate:  Tuesday 16 December 2025\nTime: 7-9:30pm\nLocation: Betty and Joan's, Hewson Way, Elephant Park, London, SE17 1JS (a 6 minute walk from Elephant and Castle Station, Zone 1)\nAccessibility: The venue and bathrooms are accessible with step-free access\nCost: £30\nJoin our WhatsApp community group for regular updates about Sappho Events via this link.\nSappho Events welcomes LGBTQ+ women, trans and non-binary people to our events.\nAbout your facilitator\nRebecca Meltzer works in Opera as a Director, Movement Director, Choreographer and Teacher. She is an interdisciplinary artist. She studied Music at Durham University followed by a MA in Movement: Directing and Teaching at the Royal Central School of Speech and Drama. She also works as a landscape painter, having exhibited work with the Royal Institute of Oil Painters and the Southwest Academy of Fine Art.\nhttps://www.rebeccameltzer.co.uk",
+  "image": "https://cdn.outsavvy.com/events/8de2a56b-27b6-41d5-b7c2-75878dd73d5d.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31267/queer-book-binding-workshop",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.491833",
+  "generes": [
+   
+  ],
+  "age": "18+"
+},
+{
+  "id": 2432717309,
+  "name": "Queer Open Decks - Monday 17th Nov",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "18:30-22:30",
+  "date": "Nov 17",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "social",
+    "networking",
+    "lgbtq+",
+    "djing"
+  
+  ],
+  "description": "Queer Open Decks is a free support and networking event for any LGBTQ+ DJs working within London/Online or those looking to learn basic DJ skills. Started as a small meet up at the London LGBTQ+ Centre, we are now a community of genre-fluid LGBTQ+ DJs meeting monthly. \n For this month, we'll be exploring awakening(s). Songs that marked turning points, new chapters, self-discovery and ✨realisations✨\n Equipment details: We are able to accommodate both Vinyl, CDJs & Digital DJS (using either USB or laptops - with or without controllers).\n Sign up details: During the night, we have 1x 30 minute slots from 6.30-7.00pm & 3 x 20 min slots that you can sign up in advance using this link, followed by 5 x 30 minute slots from 8.00-10.30pm that you can sign up for on the night.\n The venue will be in the upstairs bar of Dalston Superstore. Full access details are available on Dalston Superstore's website. \n Guidelines:\nPlease note that this is primarily a social/community-oriented event rather than a club night - the space is there for those wishing to learn to DJ in a supportive environment alongside more experienced DJs. We welcome complete beginners - just come as you are and bring your interest! Friends of DJs are very much welcome.\nAs mentioned above, we are primarily a queer social group. We’ d encourage you to avoid arriving for your set and leaving straight afterwards. Mingle with the other DJs, make friends, and hype up the other DJs for their sets!\nWe are a queer space. This means fostering a space that is inclusive and respectful of all backgrounds, particularly those marginalised from mainstream gay spaces. We are anti-racist, trans positive and care about making the space accessible to all. \nIf you'd like to contact us before the event, please message us on @queeropendecksldn on instagram",
+  "image": "https://cdn.outsavvy.com/events/dc152a66-ad29-4839-b337-baa7c13a9051.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31522/queer-open-decks-monday-17th-nov",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.492823",
+  "generes": [
+    "disco"
+  ]
+},
+{
+  "id": 391971643,
+  "name": "🍂 November at the Scrapbook Sanctuary 🍁",
+  "venue": "The Owl & Hitchhiker",
+  "address": "471 Holloway Road,  London,  N7 6LE",
+  "time": "19:00-22:00",
+  "date": "Nov 13",
+  "price": "Pay what you can",
+  "type": "workshop",
+  "tags": [
+    "arts & crafts",
+    "lgbtq+",
+    "queer",
+    "scrapbooking"
+  ],
+  "description": "🍁November at the Scrapbook Sanctuary🍁\n 🗓️ Date: Thursday, November 13th\n🕖 Time: 7:00–10:00pm\n📍 Location: The Owl and Hitchhiker, Holloway\n❤️‍🩹 Pay What You Can - all profits donated to QueerSwap\n Join us for the very first Scrapbook Sanctuary, a new monthly junk journalling and scrapbooking club! Whether you’re a seasoned scrapbooker or have never picked up a glue stick before, this relaxed, cosy evening is about slowing down, connecting with others and body-doubling our way into starting (or finishing!) the crafting we’ve been putting off! 👩‍🎨\n We provide all the supplies - paper, magazines, scissors, stickers, and more - to help you collage and journal as much as you wish. However, although it’s not necessary, we do recommend you bringing your own scrapbook or journal to work in! 📚\n Our first session will be themed around the month of November - think autumn leaves, moving into winter and extra gratitude. 🍁🧣\n Drinks and food will be available to purchase at the bar - we encourage supporting our lovely venue! ☕️\n All profits from the night will go toward fundraising for QueerSwap, paying the rent for our future permanent swapstore!\n 💞 Come solo or bring a friend! This is a space where anyone can chat, connect, and meet new people in a relaxed setting.\n🫂 To help keep the space safe and respectful for all, please be mindful of conversations that could be triggering or make others feel uncomfortable.\n🌈 This is a queer-led event centring LGBTQIA+ joy and creativity! Allies are warmly welcome - we just ask that you remain mindful and help us keep this a safe and affirming space for everyone.",
+  "image": "https://cdn.outsavvy.com/events/9e3b28d0-dcb4-4fa1-a64f-42aad7a67d2e.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31219/-november-at-the-scrapbook-sanctuary-",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.493468",
+  "generes": [
+  
+  ],
+  "age": "18+"
+},
+{
+  "id": 579785113,
+  "name": "QueerSwap Book Swap & Open Mic Night!",
+  "venue": "Theatre Deli",
+  "address": "107 Leadenhall Street,  London,  EC3A 4AF",
+  "time": "19:00-22:00",
+  "date": "Nov 21",
+  "price": "Pay what you can",
+  "type": "social",
+  "tags": [
+    "queer",
+    "books",
+    "music",
+    "comedy"
+  ],
+  "description": "Join us for a Queer Book Swap and Social! Bring up to 5 pre-loved books to swap, and enjoy mixing and mingling with other bookish queers in this cozy, inclusive space. The books do not have to be specifically queer, but if they are, even better!  \nEach book swap is paired with an activity to help break the ice and get your creative energy flowing. The activities will begin about an hour into the event. \n Wednesday, September 24\nCustom Collage Bookmarks with Amelie/@QueerCollaging\nMake a one-of-a-kind bookmark using upcycled materials. \nAll supplies are provided, and no experience is needed!\n Friday, November 21\nPoetry Workshop & Open Mic Night\nJoin a brief poetry workshop led by PJ, followed by an open-mic!\nSlots are 2 minutes for poetry/prose and 4 minutes for live music or comedy. \nYou can sign-up upon arrival. Music must be sent to queerswap@gmail.com in advance. \n   How Does It Work?\nWhen you arrive you will drop the books you have brought to swap in the swap-zone. You are free to “shop” the books that others have brought. Please only take as many as you brought. Since these events are run with minimal volunteer power, we operate on the honour system.\n Any items remaining at the end of the swap may be kept for the next event, or donated. Please bring books that other people would enjoy. The general rule of swapping is to bring the kind of quality items you would like to bring home with you! Most people do not want outdated textbooks, books that are missing pages, have heavy water damage, etc. \n If you have more than 5 items, please hold onto the rest for another swap event! We, unfortunately, do not have the space to store so many books in our personal home in conjunction with the clothing swap items. \n Tickets are PWYC - Suggested donation of £5. We are a nonprofit and all proceeds are used to cover overhead costs and put on future events. \n ❤️ 🧡 💛 💚 💙 💜 🖤 ❤️ 🧡 💛 💚 💙 💜 🖤 ❤️ 🧡 💛 💚 💙 💜 🖤 \n Accessibility Guide for Theatre Deli\nPlease note that we do not have a BSL interpreter available for our workshops or for the open mic. If you would like a copy of written instructions, please reach out to us 2-3 days before the event and we can provide them for you. You can message us on outsavvy, or email us at queerswap@gmail.com.\n ",
+  "image": "https://cdn.outsavvy.com/events/a7b3e227-d6f3-4a1b-b09e-130de92567f7.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30033/queerswap-book-swap-socials-at-theatre-deli",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.493613",
+  "generes": [
+    "techno"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1783035087,
+  "name": "QueerSwap Free Clothes Shop",
+  "venue": "Deptford Lounge",
+  "address": "9 Giffin Street,  London,  SE8 4RJ",
+  "time": "11:00-16:00",
+  "date": "Nov 22",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "shopping",
+    "queer",
+    "second hand",
+  ],
+  "description": "Join us for a special free clothes shop at the Deptford Lounge. Browse and take home anything you like, and it's all completely free. We’re redistributing some of our overstock from past swaps, so this is your chance to give great clothes a new home and keep them in circulation.\n We are local to the area, and Deptford is the birthplace of QueerSwap, so it only makes sense that we give back to the place that helped us get our start.\nThis isn’t a swap, and we won’t be taking clothing donations at this event. Our storage facilities are full.\nWe have a clothing swap on December 14 in Borough, if you would like to swap.\nThis event is open to all members of the community, but is a queer-centred space. We ask that everyone be respectful of one another, and any issues be reported to the QueerSwap and Deptford Lounge team.\nIf the free clothes shop area is too busy, you may be asked to wait elsewhere in the library/come back at a later time for safety/to prevent overcrowding.\n Accessibility: The Deptford Lounge is step-free and wheelchair accessible with accessible toilets. Clothing will be hung on industrial rails, which will be about 1.65m high, and some items will be on normal height tables. Additional accessibility information to be added after our full access review. \n  ",
+  "image": "https://cdn.outsavvy.com/events/a34d5bfa-b91b-4c7f-877b-c947d18fad50.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31235/queerswap-free-clothes-shop",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.493676",
+  "generes": [
+    
+  ]
+},
+{
+  "id": 2845894444,
+  "name": "QueerSwap Holigay Fest!",
+  "venue": "The Ministry, Borough | Workspace & Members' Club | South London",
+  "address": "79-81 Borough Road,  London,  SE1 1DN",
+  "time": "12:00-18:00",
+  "date": "Dec 14",
+  "price": "Pay what you can",
+  "type": "social",
+  "tags": [
+    "holidays",
+    "workshops",
+    "lgbtq+",
+    "cabaret",
+    "speed dating",
+  ],
+  "description": "QueerSwap is a non-profit CIC providing sustainable events for the LGBTQ+ community and our allies. This holigay season, we are bringing you our second annual Holigay Fest with a huge clothes swap paired with TONS of workshops and activities from both the QueerSwap team and amazing local queer facilitators - see the full lineup below! We have arts and crafts, dance workshops, speed mating, festive TTRPG one-shots, and holiday film screenings, all in one cozy spot. \n Entry into the swap/festival is pay-what-you-can and supports QueerSwap, and helps us continue to create these incredible community events and open our new physical space, coming soon. Tickets to workshops can be purchased as add-ons. If you cannot afford a ticket to a workshop but would like to attend, please message us about concession ticket options.\n The Ministry will be serving soft and hot drinks, as well as sandwiches and salads if you'd like to settle in for a bite or a bevvie. \n  ❄️❄️❄️   WORKSHOPS + ACTIVITIES  ❄️❄️❄️\n Embroidery Workshop - Pride Flag Patches!\n12-1:45 PM\n£5/pp\n Furoshiki/Japanese Fabric Gift Wrapping Techniques\nwith Sierra from @QueerSwap\n12-1:30 PM\n£3/pp\n TTRPG - Thirsty Sword Lesbians\nPlay as a fey at the Court of Winter’s annual yuletide celebration, where an important artefact has gone missing. Through dice rolls, swordfighting, and flirting, it is up to you to rescue the festival.\n£10/pp\n12:15 - 2:45 & 3:15 - 5:45 PM\n Slow Speed Mating & Dating\nwith Bella from @awholeorange.matchmaking\n12 - 3 PM & 3 - 6 PM\n£7/pp\n Festive Burlesque for Beginners\nwith @lucie_liquor\n1-2:30 PM\n£12/pp\n Holiday Card Collage Workshop\nwith Amelie + Jamie from  @QueerCollaging\n2-4 PM\n£7/pp\n Lino Print Gift Making Workshop\nwith Dylan from @rough.edges.arts\n2-3 PM & 3-4 PM\n£12/pp\n Wood Ornament Painting \nwith Nyx from @QueerSwap\n4-6 PM\n£5/pp\n New Year's Vision Board Collage\n with Amelie + Jamie from  @QueerCollaging\n4-6 PM\n£7/pp\n ❄️❄️❄️  FREE FESTIVE FILM SCREENINGS FROM @QUEERSWAP ❄️❄️❄️\n*Limited capacity, first-come, first-served*\nA Charlie Brown Christmas (1965) 3:00-3:30 PM\nFrosty the Snowman (1969) 3:45 - 4:15 PM\nHow the Grinch Stole Christmas (1966) 4:30-5:00 PM\nRudolph the Red-Nosed Reindeer (1964) 5:10-6:00 PM \n  ❄️❄️❄️   THE SWAP ❄️❄️❄️\nQueerSwap Clothing Swap\n12-6 PM\nSwap participants are welcome to bring up to 10 items of gently-used clothing and exchange them for new-to-you items that suit their current style. When you arrive, you will exchange your swappable items for tokens. You can then browse items brought by others, and “check out” at the end by “cashing in” your tokens for those items. \n1 item = 1 token to exchange 🔄\nOnce the items are traded for tokens, they go straight onto the floor, so make sure you are 100% sure before you pass them over.\n Then, you can look at all the items brought by other people, take a break to check out some of the workshops or grab a bite, do another lap to see if anything else you like has been added, and “check out” with your chosen items whenever you are finished. We encourage people to arrive earlier so they can get the most out of the event and see more items that come into the swap before they are snagged by someone else. \n What to Bring: We will not accept any dirty items, stained, torn (with the exception of “distressed” items), missing buttons, have broken zips, etc. We also will not accept underwear(pants), socks, tights/hosiery, or earrings/piercings unless new in packaging. We do not accept children's items.  Shoes and coats must be in great condition or better, and clean!\nWe do allow hats, scarves, belts, bracelets, necklaces, binders, corsets, bodysuits, and bags.\nIf you have more than 10 items, you may bring the excess as a donation. You will still be capped at 10 swapping tickets in order to help ensure everyone can find items.\n ❄️❄️❄️ Accessibility ❄️❄️❄️\nThe Ministry provides step-free access to all the spaces QueerSwap will be using for the Holigay Festival. Clothing will be hung on industrial rails, which will be about 1.65m high, and some items will be on standard height tables. See here for additional access information.\nCOVID Testing is recommended before attending. Please do not attend if you are ill. Masks are encouraged. ",
+  "image": "https://cdn.outsavvy.com/events/ef9de26a-1af8-458c-b525-636536e73f51.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31451/queerswap-holigay-fest",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.493742",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 956826889,
+  "name": "The Big Queer Festive Pub Quiz",
+  "venue": "Old Nunshead",
+  "address": "15 Nunhead Green,  London,  SE15 3QQ",
+  "time": "20:00-22:00",
+  "date": "Dec 3",
+  "price": "£5",
+  "type": "social",
+  "tags": [
+    "social",
+    "queer",
+    "games night"
+
+  ],
+  "description": "Ready to get into the festive season with a good old fashioned pub quiz (but make it really, really gay)?\n 🎄THE BIG QUEER FESTIVE QUIZ🎄\nWednesday 3 December\nThe Old Nuns Head, Peckham\n This quiz will have you join your fellow BQP community members in teams to run at a chance to win fabulously queer prizes and make friends at the same time! A WhatsApp group chat will be created for you to meet friends in advance, and solo quiz goers are welcomed and will be placed into teams. \n Come along, Christmas jumpers are encouraged (the queerer the better) and have a silly evening of quizzing with other members of the BQP community.\n This quiz is open to queer people of all genders, but centres queer women, trans and non-binary people.\n Paper copies of the quiz will be available for those that are D/deaf or hard of hearing. Please choose an access ticket if you need these or have any other access requirements - we'll do our best to meet these as much as possible. The Nuns Head is step free with a disabled loo.\n Happy quizzing!\n ",
+  "image": "https://cdn.outsavvy.com/events/cd779368-95cf-44a8-8db9-79b4005b0d7b.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31537/the-big-queer-festive-pub-quiz",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.493886",
+  "generes": [
+  
+  ],
+  "age": "18+"
+},
+{
+  "id": 1216119352,
+  "name": "CARABINER: NYE",
+  "venue": "Strongroom Bar",
+  "address": "120-124 Curtain Road,  London,  EC2A 3SQ",
+  "time": "22:00-03:00",
+  "date": "Dec 31",
+  "price": "£7.50 to £20",
+  "type": "party",
+  "tags": [
+    "party",
+    "lesbian",
+    "community"
+  ],
+  "description": "  IT'S NEW YEAR'S EVE, NOT NEW YEAR'S STEVE\nA Dyke NYE Party\nWednesday 31st December\n10pm-3am\n(doors at 9pm for a pre-drinks hour at the venue where solo queers are welcome and there will be lots of opportunities to make friends!)\nStrongroom, Shoreditch\n Calling all dykes and daddies, enbys and newbies, brats and bottoms, Carabiner is everyone's favourite dyke club night with, no exclusivity, just good music and a room full of dykes. And this time it's our biggest night ever with a whole venue takeover and FOUR party rooms to celebrate in the new year together.\n As always, if you've got no-one to come with, no worries! We run a social hour at the beginning of the night for those wanting to meet new people, lots of people come on their own and I promise you won't be the only one. There will be people there to help you make friends.\n Featuring our usual feast of temporary tattoos, a glitter station, and a few more fun surprises to be revealed, come celebrate New Queers Eve with us.\n The dress code is EXTRAVAGANZA and gender euphoria. All that glitters ain't gold but we want it here in the room with us. We want you to feel your absolute best babyyy. (this basically means, dress up a little bit but still feel like yourself and euphoric in your queerness)\n Featuring DJ sets from KING PRAUN and SCARBA, expect a mix of gay pop, slutty bangers and R&B. Performers will be announced on insta really soon!\n Strongroom is wheelchair accessible and has a disabled loo - wheelchair access entrance is to the side of the venue. The club room is wheelchair accessible, but there is a bar room next to it that is only accessible by a small flight of stairs. There will be a lowered access bar available in the club room. The smoking area is wheelchair accessible. We have an access co-ordinator available at all times throughout the night if you need any help with this. Please purchase an ‘access ticket’ if you have access needs and someone will email you to check in and see what we can do to make you comfy on the night. \n Further access details will be posted in a dedicated instagram post on @bigqueerpicnic\n Carabiner is a night for queer women, trans and non-binary people. Please do not bring cis male guests. ",
+  "image": "https://cdn.outsavvy.com/events/26e994d7-80ea-4e8e-902f-1f73251ed887.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31452/carabiner-nye",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.493965",
+  "generes": [
+ 
+  ],
+  "age": "18+"
+},
+{
+  "id": 280098626,
+  "name": "Queer Edge Live",
+  "venue": "Nico's Bar, Hackney Bridge",
+  "address": "East Bay Lane,  Hackney Wick,  London,  E15 2SJ",
+  "time": "18:00-23:00",
+  "date": "Nov 20",
+  "price": "£10",
+  "type": "social",
+  "tags": [
+    "performances",
+    "social",
+    "lgbtq+",
+    "cabaret",
+    "art",
+    "music",
+    "comedy"
+  ],
+  "description": "Queer Edge is an East London queer collective, holding inclusive spaces for the local queer community, irrespective of age, gender or sexuality. We throw monthly parties, live shows, panel discussions, and have a queer CoWorking space (+ photography studio) open every day.\n\nClub nights - 1st Friday of every month\nLive shows - 3rd Thursday of every month\n--\n QE LIVE is a variety show full to the brim of of live entertainment showcasing the talent of our local queer community. Expect entertainment from spoken word to comedy, cabaret to live music, at Nico's Cocktail Bar on the riverside at Hackney Bridge, on the third Thursday of every month. \n NEXT UP, THURSDAY 20th NOVEMBER.\n\nSo bring your crew, your energy and your true identity for some incredible live music and entertainment... We're here to celebrate self-expression for both our artists and our crowd, and we can not wait to see you on the third Thursday of every month (as well as the first Friday- see our other events on Outsavvy 😉)\n--\n Things to note: \n\nCommunity support: We have a QE community WhatsApp group, as a space to help integrate our community/ arrange socials / come to QE together etc. Link to join is in our Instagram bio @qe_london\n\nTicketing: Whilst this remains less than half of your average live music ticket price, if it's too expensive please message us, as accessibility is an important value to us. We also offer pay-it-forward tickets on our website for those who can or are feeling generous. \n\nProtection: There may be photography or videos during the event, if you do not want to be featured on social pages, please let one of the organizers know so we can protect your identity.",
+  "image": "https://cdn.outsavvy.com/events/175b9dcc-fc4c-4dd2-8a9d-1d5eb52a7ed8.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30152/queer-edge-live",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494038",
+  "generes": [
+
+  ]
+},
+{
+  "id": 1897483487,
+  "name": "Queer Edge Late",
+  "venue": "Block C Hackney Bridge",
+  "address": "Echo Building, E Bay Lane,  Hackney Wick,  London,  E15 2SJ",
+  "time": "20:00-02:00",
+  "date": "Dec 5",
+  "price": "£10 to £15",
+  "type": "party",
+  "tags": [
+    "party",
+    "lgbtq+",
+  ],
+  "description": "Queer Edge is an East London queer collective, holding inclusive spaces for the local queer community, irrespective of age, gender or sexuality. We throw monthly parties, live shows, panel discussions, and have a queer CoWorking space (+ photography studio) open every day.\n\nClubnights - 1st Friday of every month\nLive variety shows - 3rd Thursday of every month\n Please join us, Friday 5th December, at Block C Hackney Bridge, 8pm-2am. These nights fill the gap between a bar and a rave, making it a great place to meet people within your local queer community.\n Thank you so much for showing up, supporting, and believing in our ethos and vision! Welcome to the QE community.\n Things to note: \n OUR SUNFLOWER PHILOSOPHY:\nIf you are coming solo / nervous / want to make more queer friends / just need a cuddle, meet our hosts on the terrace at the sunflower table at 8pm. \n\nCOMMUNITY SUPPORT: \nWe have a QE community WhatsApp group, as a space to help integrate our community/ arrange socials / come to QE together etc. Link to join is in our Instagram bio @qe_london\n\nSKIP THE PRE-DRINKS:\nLondon’s independent venues have faced immense challenges in recent years. They rely on bar sales to keep the venue running, so by skipping the pre-drinks and grabbing a drink at Block C instead, you’re directly supporting the space that brings these incredible queer nights to life. Come down early, catch the sunset, support the opening act, and help keep the spirit of London’s music scene alive!\n\nTICKETING: \nTickets are available online until 1 hour before we open, then tickets are available first come first serve on the door. \n\nPROTECTION:\nThere may be photography or videos during the event, if you do not want to be featured on social pages, please let one of the organizers know so we can protect your identity.",
+  "image": "https://cdn.outsavvy.com/events/4d0ba655-32b4-4ac4-8b94-29bdfe326bf7.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/30703/queer-edge-late",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494110",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 500351858,
+  "name": "Queer Edge Live",
+  "venue": "Nico's Bar, Hackney Bridge",
+  "address": "East Bay Lane,  Hackney Wick,  London,  E15 2SJ",
+  "time": "18:00-23:00",
+  "date": "Jan 15",
+  "price": "£10",
+  "type": "social",
+  "tags": [
+    "social",
+    "lgbtq+",
+    "cabaret",
+    "art",
+    "music",
+    "comedy"
+  ],
+  "description": "Queer Edge is an East London queer collective, holding inclusive spaces for the local queer community, irrespective of age, gender or sexuality. We throw monthly parties, live shows, panel discussions, and have a queer CoWorking space (+ photography studio) open every day.\n\nClub nights - 1st Friday of every month\nLive shows - 3rd Thursday of every month\n--\n QE LIVE is a variety show of live entertainment showcasing the talent of our local queer community. Expect entertainment from spoken word to comedy, cabaret to live music, at Nico's Cocktail Bar on the riverside at Hackney Bridge, on the third Thursday of every month. \n NEXT UP AND FIRST OF THE YEAR IS, THURSDAY 15TH JANUARY!\n\nSo bring your crew, your energy and your true identity for some incredible live music and entertainment... We're here to celebrate self-expression for both our artists and our crowd, and we can not wait to see you on the third Thursday of every month (as well as the first Friday- see our other events on Outsavvy 😉)\n--\n Things to note: \n\nCommunity support: We have a QE community WhatsApp group, as a space to help integrate our community/ arrange socials / come to QE together etc. Link to join is in our Instagram bio @qe_london\n\nTicketing: Whilst this remains less than half of your average grass-roots live-music ticket price, if it's too expensive please message us, as accessibility is an important value to us. We also offer pay-it-forward tickets on our website for those who can or are feeling generous. \n\nProtection: There may be photography or videos during the event, if you do not want to be featured on social pages, please let one of the organizers know so we can protect your identity.",
+  "image": "https://cdn.outsavvy.com/events/175b9dcc-fc4c-4dd2-8a9d-1d5eb52a7ed8.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31055/queer-edge-live",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494177",
+  "generes": [
+   
+  ]
+},
+{
+  "id": 3817909195,
+  "name": "Queer Edge Late",
+  "venue": "Block C Hackney Bridge",
+  "address": "Echo Building, E Bay Lane,  Hackney Wick,  London,  E15 2SJ",
+  "time": "20:00-02:00",
+  "date": "Feb 6",
+  "price": "£10 to £15",
+  "type": "party",
+  "tags": [
+    "dancing",
+    "social",
+    "lgbtq+",
+    "art",
+    "music",
+    "drinks"
+  ],
+  "description": "Queer Edge is an East London queer collective, holding inclusive spaces for the local queer community, irrespective of age, gender or sexuality. We throw monthly parties, live shows, panel discussions, and have a queer CoWorking space (+ photography studio) open every day.\n\nClubnights - 1st Friday of every month\nLive variety shows - 3rd Thursday of every month\n PLEASE JOIN US FOR THE FIRST BACK OF THE YEAR, FRIDAY 6TH FEB, at Block C Hackney Bridge, 8pm-2am. These nights fill the gap between a bar and a rave, making it a great place to meet people within your local queer community.\n Thank you so much for showing up, supporting, and believing in our ethos and vision! Welcome to the QE community.\n Things to note: \n OUR SUNFLOWER PHILOSOPHY:\nIf you are coming solo / nervous / want to make more queer friends / just need a cuddle, meet our hosts on the terrace at the sunflower table at 8pm. \n\nCOMMUNITY SUPPORT: \nWe have a QE community WhatsApp group, as a space to help integrate our community/ arrange socials / come to QE together etc. Link to join is in our Instagram bio @qe_london\n\nSKIP THE PRE-DRINKS:\nLondon’s independent venues have faced immense challenges in recent years. They rely on bar sales to keep the venue running, so by skipping the pre-drinks and grabbing a drink at Block C instead, you’re directly supporting the space that brings these incredible queer nights to life. Come down early, catch the sunset, support the opening act, and help keep the spirit of London’s music scene alive!\n\nTICKETING: \nTickets are available online until 1 hour before we open, then tickets are available first come first serve on the door. \n\nPROTECTION:\nThere may be photography or videos during the event, if you do not want to be featured on social pages, please let one of the organizers know so we can protect your identity.",
+  "image": "https://cdn.outsavvy.com/events/4d0ba655-32b4-4ac4-8b94-29bdfe326bf7.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31056/queer-edge-late",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494249",
+  "generes": [
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 2917479417,
+  "name": "Queer Sketch + Speed Date - Dalston Superstore - 18th November",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "19:30-22:00",
+  "date": "Nov 18",
+  "price": "Pay what you can",
+  "type": "social",
+  "tags": [
+    "speed dating",
+    "queer",
+    "art"
+  ],
+  "description": "Queer Sketch + Speed Date @ Dalston Superstore ❤️\nJoin us for a night where quick sketches meet quick connections! Whether you're after a muse, a situationship, or just a fabulous night out, this is speed dating with an arty queer twist. No drawing skills needed, just bring your charm, curiosity, and maybe your cheekiest pick-up line.\nWe’ll guide you through playful sketching rounds as you meet new people and create messy little masterpieces along the way. Everyone’s welcome (18+).\n📍 Dalston Superstore, 117 Kingsland High St, London E8 2PB\n🕒 7:30 – 10pm, Tues 18th Nov\nFollow us on Instagram for more events + updates: @artdatingclub\n✨ Tickets are non-refundable. Please visit our policies page for more info.",
+  "image": "https://cdn.outsavvy.com/events/db5c35d2-5186-4bea-95c3-6a68f0bf5af0.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31124/queer-sketch-speed-date-dalston-superstore-18th-november",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+}
 ];
