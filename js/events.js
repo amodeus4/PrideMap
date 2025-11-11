@@ -831,38 +831,6 @@ const events = [
   "age": ""
 },
 {
-  "id": 4005607039,
-  "name": "Against The Horrors",
-  "venue": "The old Nun's Head",
-  "address": "15 Nunhead Green, London, SE15 3QQ",
-  "time": "21:30-02:00",
-  "date": "Nov 15",
-  "price": "£5 to £10",
-  "type": "party",
-  "tags": [
-    "fundraiser",
-    "free palestine",
-    "halloween",
-    "community",
-    "dance"
-
-
-  ],
-  "description": "Against The Horrors: Dyke March X theflavouroftears \n\nWe are hosting a big halloween party at the Old Nun's Head to raise money for Palestinian causes and community gender care! \n\nCome in solidarity, come in protest and come in costume! Dyke March and theflavouroftears present to you a sapphic south london spooky soiree to sink your teeth into. \n\nFull list of DJs and activities to be announced but expect arm wrestling, crafts and a COSTUME CONTEST with PRIZES (of course including theflavouroftears tattoo vouchers!) \n\nDykes, come dance and raise some money, because we only have each other. \n\nAll the money from ticket sales and merch will be split 50/50 between Palestinian causes and gender care fundraisers.",
-  "image": "https://cdn.outsavvy.com/events/73a62b51-ce8f-43aa-9726-6d08c0e777de.jpg",
-  "website_link": "https://www.instagram.com/dyke_march/?hl=en&g=5",
-  "ticket_link": "https://www.outsavvy.com/event/30100/against-the-horrors-dyke-march-x-theflavouroftears?utm_campaign=linkinbio&utm_medium=referral&utm_source=later-linkinbio",
-  "coordinates": null,
-  "sellingFast": true,
-  "scraped_from": "instagram",
-  "scraped_date": "2025-09-10T11:20:30.430892",
-  "generes": [
-    
-  ],
-  "age": "18+"
-},
-
-{
   "id": 4005607046,
   "name": "QueerSwap Book Swap & Open Mic Night!",
   "venue": "Theatre Deli",
