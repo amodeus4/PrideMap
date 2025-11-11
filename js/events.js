@@ -1,9 +1,6 @@
 const events = [
   
- 
-      
-      
-      
+
       {
         "id": 4285862734,
         "name": "London's Legacy Queer Cabaret: Black History Month Edition",
@@ -6130,34 +6127,6 @@ const events = [
   "age": "18+"
 },
 {
-  "id": 579785113,
-  "name": "QueerSwap Book Swap & Open Mic Night!",
-  "venue": "Theatre Deli",
-  "address": "107 Leadenhall Street,  London,  EC3A 4AF",
-  "time": "19:00-22:00",
-  "date": "Nov 21",
-  "price": "Pay what you can",
-  "type": "social",
-  "tags": [
-    "queer",
-    "books",
-    "music",
-    "comedy"
-  ],
-  "description": "Join us for a Queer Book Swap and Social! Bring up to 5 pre-loved books to swap, and enjoy mixing and mingling with other bookish queers in this cozy, inclusive space. The books do not have to be specifically queer, but if they are, even better!  \nEach book swap is paired with an activity to help break the ice and get your creative energy flowing. The activities will begin about an hour into the event. \n Wednesday, September 24\nCustom Collage Bookmarks with Amelie/@QueerCollaging\nMake a one-of-a-kind bookmark using upcycled materials. \nAll supplies are provided, and no experience is needed!\n Friday, November 21\nPoetry Workshop & Open Mic Night\nJoin a brief poetry workshop led by PJ, followed by an open-mic!\nSlots are 2 minutes for poetry/prose and 4 minutes for live music or comedy. \nYou can sign-up upon arrival. Music must be sent to queerswap@gmail.com in advance. \n   How Does It Work?\nWhen you arrive you will drop the books you have brought to swap in the swap-zone. You are free to “shop” the books that others have brought. Please only take as many as you brought. Since these events are run with minimal volunteer power, we operate on the honour system.\n Any items remaining at the end of the swap may be kept for the next event, or donated. Please bring books that other people would enjoy. The general rule of swapping is to bring the kind of quality items you would like to bring home with you! Most people do not want outdated textbooks, books that are missing pages, have heavy water damage, etc. \n If you have more than 5 items, please hold onto the rest for another swap event! We, unfortunately, do not have the space to store so many books in our personal home in conjunction with the clothing swap items. \n Tickets are PWYC - Suggested donation of £5. We are a nonprofit and all proceeds are used to cover overhead costs and put on future events. \n ❤️ 🧡 💛 💚 💙 💜 🖤 ❤️ 🧡 💛 💚 💙 💜 🖤 ❤️ 🧡 💛 💚 💙 💜 🖤 \n Accessibility Guide for Theatre Deli\nPlease note that we do not have a BSL interpreter available for our workshops or for the open mic. If you would like a copy of written instructions, please reach out to us 2-3 days before the event and we can provide them for you. You can message us on outsavvy, or email us at queerswap@gmail.com.\n ",
-  "image": "https://cdn.outsavvy.com/events/a7b3e227-d6f3-4a1b-b09e-130de92567f7.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/30033/queerswap-book-swap-socials-at-theatre-deli",
-  "coordinates": null,
-  "sellingFast": true,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-11-10T16:31:40.493613",
-  "generes": [
-    "techno"
-  ],
-  "age": "18+"
-},
-{
   "id": 1783035087,
   "name": "QueerSwap Free Clothes Shop",
   "venue": "Deptford Lounge",
@@ -6432,5 +6401,169 @@ const events = [
   "generes": [
   ],
   "age": "18+"
-}
+},
+{
+  "id": 2917479419,
+  "name": "S2CPERREA: DALE CALIENTE",
+  "venue": "Number 90",
+  "address": "90 Main Yard; Wallis Road; London E9 5LN",
+  "time": "22:00-08:00",
+  "date": "Dec 5",
+  "price": "£18.30 to £24.60",
+  "type": "party",
+  "tags": [
+    "Perreo",
+    "Rowdy",
+    "Latin Bass",
+    "Raggaeton",
+
+  ],
+  "description": "LONDON, ARE YOU READY TO TURN UP THE HEAT? \n\nOur final dance of the year is here - DALE CALIENTE.\n\nEight hours of latineo heat to keep London sweating through the cold.\n\nLINE UP\nTBA\n\nLet's close the year the only way we know how - with sweat, sass and bendiciones.",
+  "image": "images/2cperrea4.png",
+  "website_link": "https://www.instagram.com/2c_perrea/?hl=en",
+  "ticket_link": "https://ra.co/events/2292777",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 2917479420,
+  "name": "S2CPERREA: DALE CALIENTE",
+  "venue": "Number 90",
+  "address": "90 Main Yard; Wallis Road; London E9 5LN",
+  "time": "22:00-08:00",
+  "date": "Dec 5",
+  "price": "£18.30 to £24.60",
+  "type": "party",
+  "tags": [
+    "Perreo",
+    "Rowdy",
+    "Latin Bass",
+    "Raggaeton",
+
+  ],
+  "description": "LONDON, ARE YOU READY TO TURN UP THE HEAT? \n\nOur final dance of the year is here - DALE CALIENTE.\n\nEight hours of latineo heat to keep London sweating through the cold.\n\nLINE UP\nTBA\n\nLet's close the year the only way we know how - with sweat, sass and bendiciones.",
+  "image": "images/2cperrea4.png",
+  "website_link": "https://www.instagram.com/2c_perrea/?hl=en",
+  "ticket_link": "https://ra.co/events/2292777",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 2917479421,
+  "name": "Ghetec X ?",
+  "venue": "Cu Dalston",
+  "address": "574, 576 Kingsland Rd, London E8 4AP, United Kingdom",
+  "time": "22:30-03:00",
+  "date": "Nov 14",
+  "price": "£13",
+  "type": "party",
+  "tags": [
+    "Sexy Dance Music",
+    "party",
+    "Art",
+
+  ],
+  "description": "Our next party is an extremely special collaboration with a very very special guest, one of dance musics most iconic DJs! more info coming soon .. trust us on this. \n\nAlongside Ruthlss,a classically trained electronic producer, DJ and composer, who captivates crowds with her hi-energy, versatile and thrilling sets that effortlessly combine techno, trance and breaks, with a heavy nod to 90s rave, bass music and hard house. \n\nBoo's will be playing, Hyper sexy dance muisc, finding the cathartic zone between 90s rave, pop, experimental and y2k house. Hyper Feminine merch will be available on the door. \n\nLAST ENTRY IS 12:30. Protect the space, be kind, no negativity is tolerated. 18 + valid ID for entry. No screenshots of tickets accepted please use the RA App.",
+  "image": "images/cudalston.png",
+  "website_link": "https://www.instagram.com/gh3tec/?hl=enn",
+  "ticket_link": "https://ra.co/events/2295558",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 2917479422,
+  "name": "Colours of Wellness",
+  "venue": "Waking Dreams Broadway Market",
+  "address": "6 Ada Street, Hackney, London, E8 4QU, United Kingdom",
+  "time": "22:30-03:00",
+  "date": "Nov 22",
+  "price": "£6.12",
+  "type": "workshop",
+  "tags": [
+    "Wellness",
+    "POC",
+    "Social"
+  ],
+  "description": "The QPOCRPOJECT & 537 Events presents the launch of Colours of Wellness - a wellness day for queer black and brown people to meet, connect and recharge with likeminded community. \n\nThe venue has two rooms, the yoga studio and a separate space which we will be turning into a pop-up market!",
+  "image": "https://dice-media.imgix.net/attachments/2025-10-23/12f2189d-f343-4c4a-886c-38db1247ef1e.jpg?rect=0%2C135%2C1080%2C1080&auto=format%2Ccompress&q=40&w=328&h=328&fit=crop&crop=faces%2Ccenter&dpr=2",
+  "website_link": "https://www.instagram.com/qpocproject/?hl=en",
+  "ticket_link": "https://dice.fm/partner/tickets/event/bbnylv-colours-of-wellness-22nd-nov-waking-dreams-broadway-market-london-tickets?dice_id=7457831&dice_channel=web&dice_tags=organic&dice_campaign=537+Media&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnCNji-3zY1nxu9mxFMAPsaQjVR3-eEQMrzjyvZRdnUmpsJt5JPhNrYpLijTc_aem_dowrChjJtm-V_Vz9jhP74g&_branch_match_id=1287494257629300288&utm_source=web&utm_campaign=537+Media&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXB0W6CMBQA0L%2FxDUERCCbGdMzNEEvAAAovBEqhrbaQCwrysG%2FfOWwc%2B2Gv60%2BuHuuaE7pupN65tk1cx7Zsxzo2FXny%2BhCi%2FM6Mqg1YfjM8HJ8QMX0jm3JGzl9NeYswFskWi3bG39EUxMkOoV%2FlBYJr5pJt1Pxy5fyDUTiUkUivpkZPEYZFfN75tVaJ7Ad%2FtPyQBZD1Fy5iUpRUFnU3gceEP0otLdLFFSx0du3qD2hDAbhqiwq6aaBw8Bh0kv4DSgeQJM8AAAA%3D",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 2917479423,
+  "name": "Fluide Market",
+  "venue": "Alghas's Plantroom",
+  "address": "Hackney Wick, E3 2NR",
+  "time": "16:30-22:00",
+  "date": "Nov 26",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "Second Hand Clothing",
+    "Market",
+    "Tooth Gems",
+    "Music"
+  ],
+  "description": "We’re back, babes… Fluide Market returns to Alghas Plantroom for a late-November… and yes, it’s FREE ENTRY for everyone. \n\nCome browse, flirt, shop and support a gorgeous lineup of independent makers serving fashion, jewellery, art, and irresistible bits you definitely don’t need but absolutely will take home. 🫵🏻 \n\nAnd of course, our resident @toothgems_cutie will be there to bedazzle your smile, because why not leave shinier than you arrived? ✨ \n\nExpect, warm hugs, soft chaos, and plenty of reasons to stay longer than planned. Bring your friends, your crush, your lover(s), or just bring your fabulous self. 🫰🏻 \n",
+  "image": "images/fluidemarket3.png",
+  "website_link": "https://www.instagram.com/qpocproject/?hl=en",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+},
+{
+  "id": 2917479424,
+  "name": "Boudica x Gegen",
+  "venue": "FOLD",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "23:59-07:00",
+  "date": "Nov 14",
+  "price": "Free",
+  "type": "party",
+  "tags": [
+    "Debauchery",
+    "Techno",
+    "House",
+  ],
+  "description": "Boudica and Gegen unite for one last night of pure debauchery, with two rooms overflowing with house and techno and yes, our playarea makes its return. \n\nThis is a special moment for us as it marks the beginning of having a playarea at all of our FOLD events. 2026 will be a steamy year, get ready. \n\nBut first... \n\n2025 has been nothing short of extraordinary for us at Boudica and it’s all thanks to you for believing in our vision, showing up, bringing your unmatched energy and making every single night unforgettable. \n\nTo celebrate our love affair, we’ve curated a lineup that feels like the perfect way to close this year’s story....",
+  "image": "images/boudica5.png",
+  "website_link": "https://www.instagram.com/theonlyboudica/?hl=en",
+  "ticket_link": "https://ra.co/events/2254137",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+},
+
+
 ];
