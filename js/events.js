@@ -6564,6 +6564,32 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 2917479425,
+  "name": "STRUT Queer Line-Dancing",
+  "venue": "London Irish Centre",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "19:00-22:30",
+  "date": "Nov 20",
+  "price": "£10.50",
+  "type": "workshop",
+  "tags": [
+    "Line Dancing",
+    "Drinks",
+    "Social",
+  ],
+  "description": "Boudica and Gegen unite for one last night of pure debauchery, with two rooms overflowing with house and techno and yes, our playarea makes its return. \n\nThis is a special moment for us as it marks the beginning of having a playarea at all of our FOLD events. 2026 will be a steamy year, get ready. \n\nBut first... \n\n2025 has been nothing short of extraordinary for us at Boudica and it’s all thanks to you for believing in our vision, showing up, bringing your unmatched energy and making every single night unforgettable. \n\nTo celebrate our love affair, we’ve curated a lineup that feels like the perfect way to close this year’s story....",
+  "image": "https://dm7lxewn39lms.cloudfront.net/as-assets/variants/do7ogruijn0ytnsbqt5ghzil3158/7790667b1499641e0a482fd470ef3a3eb0b7d17469237a4cb9f28a097afaa2aa",
+  "website_link": "",
+  "ticket_link": "https://londonirishcentre.ticketsolve.com/ticketbooth/shows/1173668909?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnF7O8PytgmeWoiqQ-S6-VEpLi8gTVbRXTMVTdfLocGFqV-JzT7suQs7y4dkA_aem_qH6OMYt1fCo3pPYZa7-Ozg",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-10T16:31:40.494313",
+  "generes": [
+  ],
+  "age": "18+"
+},
 
 
 ];
