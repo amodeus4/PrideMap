@@ -6431,34 +6431,6 @@ const events = [
   "age": "18+"
 },
 {
-  "id": 2917479420,
-  "name": "S2CPERREA: DALE CALIENTE",
-  "venue": "Number 90",
-  "address": "90 Main Yard; Wallis Road; London E9 5LN",
-  "time": "22:00-08:00",
-  "date": "Dec 5",
-  "price": "£18.30 to £24.60",
-  "type": "party",
-  "tags": [
-    "Perreo",
-    "Rowdy",
-    "Latin Bass",
-    "Raggaeton",
-
-  ],
-  "description": "LONDON, ARE YOU READY TO TURN UP THE HEAT? \n\nOur final dance of the year is here - DALE CALIENTE.\n\nEight hours of latineo heat to keep London sweating through the cold.\n\nLINE UP\nTBA\n\nLet's close the year the only way we know how - with sweat, sass and bendiciones.",
-  "image": "images/2cperrea4.png",
-  "website_link": "https://www.instagram.com/2c_perrea/?hl=en",
-  "ticket_link": "https://ra.co/events/2292777",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-11-10T16:31:40.494313",
-  "generes": [
-  ],
-  "age": "18+"
-},
-{
   "id": 2917479421,
   "name": "Ghetec X ?",
   "venue": "Cu Dalston",
