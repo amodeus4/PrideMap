@@ -2960,8 +2960,8 @@ const events = [
   "tags": [
       "Euphoric",
       "Allies welcome",
-      "Queer",
-      "Sweaty",
+
+
 
 
   ],
@@ -4908,10 +4908,9 @@ const events = [
   "price": "£5 to £15",
   "type": "social",
   "tags": [
-    "queer",
-    "performance",
     "party",
-    "activism"
+    "fundraiser",
+    "performance"
   ],
   "description": "💚WHAT ARE YE DOING IN MY DYKE SPACE SWAMP?💚\n@gaytorade and @mothership are bringing you the cuntiest fundraising collab of the year... come shake ur behinds at the south london's hottest 👽space swamp*💦 (*@theoldnunshead) on Friday November 14th.\nWe're inviting u to get wet, queer, weird and out of this world with us.\n£5 donation entry via outsavvy or on the door - all proceeds will be donated 50/50 to trans kids deserve better and the Palestinian children's relief fund. Larger donations are of course welcome <3\nDJs: \n@iamjessymac b2b @kafn.music\n@eula.xo b2b @dee.dee_licious\nGogos and performance to be announced shortly 💦👽",
   "image": "https://cdn.outsavvy.com/events/033bd26c-9517-4509-bd40-6718e5460820.jpg",
