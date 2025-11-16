@@ -6498,7 +6498,7 @@ const events = [
     "Music"
   ],
   "description": "We’re back, babes… Fluide Market returns to Alghas Plantroom for a late-November… and yes, it’s FREE ENTRY for everyone. \n\nCome browse, flirt, shop and support a gorgeous lineup of independent makers serving fashion, jewellery, art, and irresistible bits you definitely don’t need but absolutely will take home. 🫵🏻 \n\nAnd of course, our resident @toothgems_cutie will be there to bedazzle your smile, because why not leave shinier than you arrived? ✨ \n\nExpect, warm hugs, soft chaos, and plenty of reasons to stay longer than planned. Bring your friends, your crush, your lover(s), or just bring your fabulous self. 🫰🏻 \n",
-  "image": "images/fluidemarket3.png",
+  "image": "images/fluidemarket7.png",
   "website_link": "https://www.instagram.com/qpocproject/?hl=en",
   "ticket_link": "",
   "coordinates": null,
