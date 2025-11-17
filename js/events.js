@@ -1408,32 +1408,7 @@ const events = [
    
   ]
 },
-{
-  "id": 2924740749,
-  "name": "Fluide Market",
-  "venue": "Algha's Plantroom",
-  "address": "Smeed Road,London, E3 2NR",
-  "time": "16:00-22:00",
-  "date": "Sep 25",
-  "price": "Free",
-  "type": "social",
-  "tags": [
-    "market",
-    "tooth gems",
-    "workshop"
- 
-  ],
-  "description": "fluide market brings together music, creativity, and  second-hand shopping. You can take part in a bedazzling workshop, get  tooth gems, and enjoy the good vibes and tunes that set the tone for the space.",
-  "image": "images/fluidemarket3.png",
-  "website_link": "https://www.instagram.com/fluide.market/?hl=en",
-  "ticket_link": "",
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-09-22T10:13:38.141091",
-  "generes": [
-   
-  ]
-},
+
 {
   "id": 2924740750,
   "name": "DIY Strap Making Workshop",
@@ -4473,38 +4448,6 @@ const events = [
   ]
 },
 
-
-
-{
-  "id": 500575128,
-  "name": "Popola Sober Club: Open Decks",
-  "venue": "The Common Press Bookshop",
-  "address": "118 Bethnal Green Road,  London,  E2 6DG",
-  "time": "19:00-22:00",
-  "date": "Nov 27",
-  "price": "£5 to £8",
-  "type": "social",
-  "tags": [
-    "dancing",
-    "social",
-    "queer",
-    "music"
-  ],
-  "description": " ✨ Popola Sober Club: Open Decks ✨\n Thursday, November 27th | The Common Press, London\nThursday, December 18th | The Common Press, London\n London’s favourite queer sober event returns with Open Decks #5 & 6. A night where diasporic queers, womxn, and allies come together to share music, culture, and connection in a substance-free nightlife experience like no other.\n Bring your diasporic rhythms to the decks, from Afro-Caribbean, Latinx, and SWANA beats to South Asian, African, and Global sounds that move your soul. This is your chance to play, experiment, and connect through music in a supportive, inclusive DJ community.\n Whether you’re stepping up for your first DJ set or bringing your seasoned energy, Popola’s decks are open for everyone. Expect warm vibes, soulful connections, and a night of dancing rooted in joy, connections, and cultural pride!\n Alcohol-free | Substance-free | Queer-led | Diasporic joy\n 🎟️ Tickets: £5 online / £8 OTD\n📍 Venue: The Common Press, Shoreditch, London\n Come experience London’s most authentic sober queer night, where the energy is pure, the music is global, and the vibe is all love 💜 ",
-  "image": "https://cdn.outsavvy.com/events/77eaf7ed-9ce5-4d08-b2c3-0daa4c5b1940.png",
-  "website_link": "",
-  "ticket_link": "https://www.outsavvy.com/event/31158/popola-sober-club-open-decks-5",
-  "coordinates": null,
-  "sellingFast": false,
-  "scraped_from": "outsavvy",
-  "scraped_date": "2025-10-24T14:13:09.961596",
-  "generes": [
-    "disco",
-    "afrobeats",
-    "latin"
-  ],
-  "age": "18+"
-},
 {
   "id": 2632764418,
   "name": "Twerk Temple at Dalston Superstore ",
@@ -6498,8 +6441,8 @@ const events = [
     "Music"
   ],
   "description": "We’re back, babes… Fluide Market returns to Alghas Plantroom for a late-November… and yes, it’s FREE ENTRY for everyone. \n\nCome browse, flirt, shop and support a gorgeous lineup of independent makers serving fashion, jewellery, art, and irresistible bits you definitely don’t need but absolutely will take home. 🫵🏻 \n\nAnd of course, our resident @toothgems_cutie will be there to bedazzle your smile, because why not leave shinier than you arrived? ✨ \n\nExpect, warm hugs, soft chaos, and plenty of reasons to stay longer than planned. Bring your friends, your crush, your lover(s), or just bring your fabulous self. 🫰🏻 \n",
-  "image": "images/fluidemarket7.png",
-  "website_link": "https://www.instagram.com/qpocproject/?hl=en",
+  "image": "images/fluidemarket10.png",
+  "website_link": "https://www.instagram.com/fluide.market/?hl=en",
   "ticket_link": "",
   "coordinates": null,
   "sellingFast": false,
@@ -6560,6 +6503,202 @@ const events = [
   "generes": [
   ],
   "age": "18+"
+},
+{
+  "id": 69295602,
+  "name": "XMAS - BUTCH DAY PARTY",
+  "venue": "The Divine",
+  "address": "33-35 Stoke Newington Road,  London,  N16 8BJ",
+  "time": "15:00-20:00",
+  "date": "Dec 13",
+  "price": "£15",
+  "type": "party",
+  "tags": [
+      "dancing",
+      "party",
+      "high energy",
+      "queer",
+      "lesbian",
+      "cabaret"
+  ],
+  "description": "XMAS BUTCH DAY PARTY \n I'm dreaming of a butch Xmas….\n It's the most wonderful time to be queer…\n come get festive and warm daytime style\nand then rave like it's midnight in the basement. \n reclaim Xmas our way. surreal, intense, forgettable. freaky.\n COME HAVE A GAY OLE BUTCH TIME!\n >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nPerformance & DJ's TBA\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n This is a night for lesbian and bisexual women, trans and non-binary people. We celebrate butches and butch culture. Please help us hold this space and do not bring cis-male partners and friends. Cis men will not be permitted entry. \n\nACCESS:\nSadly, The Divine is currently not fully accessible, but does now have an accessible toilet on the ground floor. \nThe cabaret and club space are in the basement of the venue. There are 17 wide steps with slip resistant treads down to the space with sturdy handrails either side. There are two steps up to the stage. \n\nIf you need further information, please refer to The Divine ‘About’ page on the website. www.thedivine.co.uk\n ",
+  "image": "https://cdn.outsavvy.com/events/47974f31-a4ec-461b-b30a-57321bc58833.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31615/-xmas-butch-day-party",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-17T14:56:03.952545",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 500575128,
+  "name": "Popola Sober Club: Open Decks - London Queer, Sober, Diasporic Nightlife",
+  "venue": "The Common Press Bookshop",
+  "address": "118 Bethnal Green Road,  London,  E2 6DG",
+  "time": "19:00-22:00",
+  "date": "Nov 27",
+  "price": "£5 to £8",
+  "type": "party",
+  "tags": [
+      "social",
+      "open decks",
+      "queer",
+      "music"
+  ],
+  "description": "We’re back for our 5th edition 💞\nThursday, November 27th @ The Common Press, London 🌸\n This time, expect an even deeper blend of sounds, stories, and energy, our decks are open for all diasporic babes bringing their roots to the rhythm 🎶 Whether you vibe with Latinx, Afro-Caribbean, SWANA, South Asian, or any global majority sounds that speak to your identity, this is your space to express, experiment, and celebrate culture through music.\n Want to play? Please DM us! <3 Whether it’s your first time behind decks or you’re already seasoned, you’re welcome here, it’s a relaxed, supportive vibe for everyone to share their sound and show their beat 😘 \n As always, this is a sober, substance-free night for diasporic queers, womxn, and allies who want to experience connection, diasporic rhythm, and liberation in a fresh new way 🫶🏾 \n Healing or simply opting out of what nightlife once demanded, Popola Sober Club is your space. 💞\n 🎟️ Tickets:\nOnline £5 | OTD £8\n Nos vemos 💋💋💋",
+  "image": "https://cdn.outsavvy.com/events/4f14d945-bb87-43a8-bf8f-f745a2e41a85.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31158/popola-sober-club-open-decks-5",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-17T14:56:03.952708",
+  "generes": [
+      "afrobeats",
+      "latin"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1504501069,
+  "name": "HUNNY'S WORLD: WHERE BAD GIRLS GO TO HEAVEN",
+  "venue": "VFD",
+  "address": "66 Stoke Newington Road,  London,  N16 7XB",
+  "time": "20:00-12:00",
+  "date": "Dec 11",
+  "price": "£5",
+  "type": "party",
+  "tags": [
+      "party",
+      "queer",
+      "flinta",
+      "drag",
+      "music",
+      "comedy"
+  ],
+  "description": "Welcome to Hunny's World - where bad girls go to heaven. Step into a night of queer liberation, expression and celebration. Join Hunny and her iconic lineup of FLINTA* performers for a night of music, movement and magic. \n\nLook forward to stripteases, drag, DJ's and comedy. Dress up as your dream self x\n\nO.T.D tix are £10!",
+  "image": "https://cdn.outsavvy.com/events/44904bf7-c7cd-49c5-a7e3-2e7176044f54.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31497/hunnys-world-where-bad-girls-go-to-heaven",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-17T14:56:03.953083",
+  "generes": [
+      
+  ]
+},
+{
+  "id": 2710000298,
+  "name": "t'ARTopia",
+  "venue": "VFD",
+  "address": "66 Stoke Newington Road,  London,  N16 7XB",
+  "time": "19:30-21:30",
+  "date": "Dec 17",
+  "price": "£8 to £19",
+  "type": "social",
+  "tags": [
+      "queer",
+      "art",
+      "music",
+      "drag",
+      "poetry"
+  ],
+  "description": "Join us in t'ARTopia for a queer-curated night of drag, comedy, poetry, cabaret and music from some of our most delicious t'ARTs.\n We have invited some of our favourite performers to entertain you all, at a night that will be nothing short of t'ARTopian. \n We will be raising money for gender affirming surgery funds with this evening's raffle, so come with a couple of quid, win art and raise money for good causes!\n Let's get mouth-watering\n ",
+  "image": "https://cdn.outsavvy.com/events/c9935dba-5da9-4a62-93b2-72abd9e84c8e.png",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31638/tartopia",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-17T14:56:03.953156",
+  "generes": [
+  ]
+},
+{
+  "id": 1241822076,
+  "name": "HOMOSTASH Wet January Rave 2026",
+  "venue": "Colours Hoxton",
+  "address": "2-4 Hoxton Square,  London,  N1 6NU",
+  "time": "21:30-03:30",
+  "date": "Jan 10",
+  "price": "£9",
+  "type": "party",
+  "tags": [
+      "party",
+      "high energy",
+      "gay"
+  
+  ],
+  "description": "Dry January? Not with HOMOSTASH!\nHOMOSTASH returns with its iconic annual WET JANUARY party to Colours Hoxton with an EXTRA HOT LINE-UP! \nExpect to get wet & sweaty! :D\nFeaturing resident DJ TAFKANIK & many more tba! Hosted by Jvst Tina, Julian Capolei & more!\nLet's get wild and let's get wet!",
+  "image": "https://cdn.outsavvy.com/events/5c5fad77-9866-464a-a519-3add4cdf3812.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31290/homostash-wet-january-rave-2026",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-17T14:56:03.953373",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 2505150492,
+  "name": "Queer Boxing Classes",
+  "venue": "Sobell Leisure Centre",
+  "address": "Tollington Road,  London,  N7 7NY",
+  "time": "13:00-14:00",
+  "date": "Nov 29",
+  "price": "Free",
+  "type": "workshop",
+  "tags": [
+      "boxing",
+      "lgbtq+",
+      "sports",
+     
+  ],
+  "description": "For Queer Migrants And Queer People Of Colour\n📍 Venue: Sobell Leisure Centre, Tollington Road, London, N7 7NY\n🚇 Transport: Finsbury Park and Holloway Road are the nearest stations. \n🗓 Dates: 29th November, 20th December\n🕒 Time: 1pm to 2pm (Please arrive 10 minutes before the start of the class to get changed and ready for the class, and so the coach can welcome you and help with handwraps.)  \n Want to give boxing a try? Now's your chance!\n Over the next few months, in collaboration with our friends at Knockout, Londons' LGBTQ+ amateur boxing club, we'll be running a series of FREE introductory boxing lessons, exclusively for queer migrants and queer people of colour.  \n\nEach session will consist of a one-hour boxing lesson with a trained instructor from the team at Knockout, including a warmup and cooldown. All equipment is provided, you just need to bring yourself and some comfortable sports clothing.\n The next few sessions will be taking place on:\nSat 29th November\nSat 20th December\n We'll be releasing new tickets for each month's session around a fortnight in advance of each, so if the class below is full, don't worry, there's plenty of opportunity to join the next one! This event is being run by The Love Tank in partnership with Knockout, London's LGBTQ+ amateur boxing club. \n 🌟 Want to get started and learn how to spar? Reserve your spot today! 🌟\n Important:\n🔒 Spaces are limited, so please only sign up if you’re certain you can attend. If you can no longer make it, kindly cancel your spot or inform us so we can offer it to someone else. 🙏🏽\n ♿️ Accessibility: The event takes place at a leisure centre, with accessible toilets and wheelchair accessibility. For more information, check out the venue website at: https://www.better.org.uk/leisure-centre/london/islington/sobell\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n 💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to MAUREEN's newsletter. You can opt out at any time. ",
+  "image": "https://cdn.outsavvy.com/events/15a0651e-2de2-488a-9037-afca01240ed6.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/23894/queer-boxing-classes",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-17T14:56:03.953658",
+  "generes": [
+      
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567229,
+  "name": "FREE Queer Game Club for queer migrants and queer people of colour",
+  "venue": "The Green House | Ethical Property",
+  "address": "244-254 Cambridge Heath Road,  London,  E2 9DA",
+  "time": "18:00-21:00",
+  "date": "Dec 1",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+      "board games",
+      "queer",
+      "social",
+  ],
+  "description": "🎲 Queer Game Night: Let the Games Begin! 🎮\nGrab your tokens, shuffle your cards, and get ready for a night of games, snacks, and queer joy! This Queer Game Night is for queer migrants and queer people of colour, so bring your best game face and let’s play! 🌈\n 🗓 Date: Monday, 1st of December 2025\n📍 Location: The Green House, Bethnal Green, London\n⏰ Time: 6:00 PM doors, 6:15 PM game starts\n💸 Cost: FREE\n Whether you’re a board game newbie or a seasoned pro who always “accidentally” wins at Monopoly, this night is for you. We’ll have some games ready, and you can also bring your own favorites to share! Snacks and refreshments will keep your energy up, no matter how intense the competition gets.\n What’s in store?\n🎲 Meet amazing people and maybe even new gaming buddies\n🎉 Level up your social skills IRL\n🥂 Gobble snacks like Pac-Man\n🩺 Bonus treasure: Grab free sexual health resources and STI self-test kits to take home\n Accessibility: The venue is wheelchair accessible, so no obstacles to fun here!\n Spaces are limited, so don’t miss out! Bring your A-game (or just your love of snacks) and let’s have a blast.\n 💌 Questions? Send us a message. We can’t wait to play with you!\n Stay Connected: \nFollow us on Instagram @thelovetankcic for updates on this event and other exciting free projects and events you can be a part of!\nAbout our FREE events\n💜 Our events are free to ensure they remain accessible to our communities. However, organizing them comes with costs. If you'd like to support our work, please consider donating via this link. \n💜 To make sure as many people as possible can attend, we ask that you cancel your ticket if you can no longer make it. Failing to show up without prior cancellation takes a spot from someone else and wastes resources, including food and venue costs. We track attendance, and individuals who miss three events without cancelling will be unable to register for our future events. Please be considerate and let us know if you can’t attend. \n💜 To ensure a smooth and respectful experience for everyone, please arrive on time. Our events are not drop-in sessions, meaning attendees must arrive at the start time and stay for the duration. We allow a 10-minute grace period for late arrivals - after that, entry will not be permitted as it can be disruptive to the group. Additionally, the entrance is not monitored after the grace period, so there will be no one available to let latecomers in. The event hours are clearly stated in the description, so please plan accordingly. Thank you for understanding and helping us create a welcoming space for all! \n💜 Alongside this, we appreciate it if you could respond to any communication by the given response deadline so we can make the necessary arrangements for the event. \n💜 By signing up to this event, you accept being added to The Love Tank’s newsletter. You can opt out at any time. \n ",
+  "image": "https://cdn.outsavvy.com/events/afe6e149-1acf-4905-920f-9cdebb2920b8.jpg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/23860/free-queer-game-club-for-queer-migrants-and-queer-people-of-colour",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-11-17T14:56:03.953794",
+  "generes": [
+      "house"
+  ]
 },
 
 
