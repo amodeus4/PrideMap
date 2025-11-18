@@ -6783,5 +6783,65 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1112567233,
+  "name": "UNFOLD CXI",
+  "venue": "FOLD",
+  "address": "Gillian House, Stephenson St, London E16 4SA, UK",
+  "time": "14:00-23:59",
+  "date": "Nov 23",
+  "price": "£20 OTD",
+  "type": "party",
+  "tags": [
+      "Party",
+      "Queer",
+      "Techno",
+      "Euphoric",
+  ],
+  "description": "Doors open at 14:00. As always, the line-up is unannounced and tickets are only available on the door. \n\nDress to sweat. \n\nNO RACISM, NO SEXISM, NO HOMOPHOBIA, NO TRANSPHOBIA, NO ABLEISM.",
+  "image": "images/unfold101.png",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2284252",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     "Techno",
+     "Multi-Genre"
+  ],
+  "age": "21+"
+},
+{
+  "id": 1112567234,
+  "name": "Dyke March Social",
+  "venue": "All My Gods",
+  "address": "253 Paradise Row, Bethnal Green, E2 9LE",
+  "time": "18:00-23:59",
+  "date": "Nov 19",
+  "price": "Free",
+  "type": "social",
+  "tags": [
+    "social",
+    "inclusive",
+    "community",
+    "crafts"
+
+
+  ],
+  "description": "We’re back on the 19th November @allmygodsbar in Bethnal Green for our monthly social! 🍺 \n\nCome take shelter from the cold weather and flirt, chat and organise with some hot dykes ❤️‍🔥 \n\nWe’ll also have some crafts by @rough.edges.arts so you have something to do with your hands ✂️",
+  "image": "images/dykemarchsocial40.png",
+  "website_link": "https://www.instagram.com/dyke_march/?hl=en&g=5",
+  "ticket_link": "",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+
 
 ];
