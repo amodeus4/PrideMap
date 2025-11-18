@@ -6700,6 +6700,61 @@ const events = [
       "house"
   ]
 },
+{
+  "id": 1112567230,
+  "name": "BODYSWAP",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-02:30",
+  "date": "Nov 19",
+  "price": "PWYC",
+  "type": "party",
+  "tags": [
+      "Community",
+      "Trans",
+      "Music",
+  ],
+  "description": "Dalston Superstore’s weekly party for the trans+ community BodySwap!\n\nEvery Wednesday from 10pm, curators Harietta and Karlie Marx play Transgender Dance Music along with guest DJs, gogos and cvnty club kids. It’s the only place to be on a Wednesday night in Dalston! \n\nThis is a space for trans* power, rage, beauty, resilience, and joy. BodySwap celebrates and platforms trans* artists from diverse backgrounds, while raising crucial funds. BodySwap is by and for trans people. Each week we raise money for a trans person’s healthcare fundraiser with our door profits, so come through and party in community with the transexuals of Kingsland Road. ",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/06/generic-IG-819x1024.png",
+  "website_link": "https://dalstonsuperstore.com/event/bodyswap-103/",
+  "ticket_link": "https://dalstonsuperstore.com/event/bodyswap-98/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     "Techno",
+     "Multi-Genre"
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567231,
+  "name": "Haute Mess: Dexter’s Lobotomy",
+  "venue": "Dalston Superstore",
+  "address": "117 Kingsland High Street,  London,  E8 2PB",
+  "time": "22:00-04:00",
+  "date": "Nov 21",
+  "price": "£8 to £10",
+  "type": "party",
+  "tags": [
+      "Community",
+      "Party",
+  ],
+  "description": "ENTER AT YOUR OWN PERIL! Decontaminate your mind, take off that biohazard masc, and join Haute Mess as we polish that smooth brain to a mirror shine at DEXTER’S LOBOTOMY!! Nobel prize laureate @donna.the.first and international govermence scientician @acid.sally invite you to the finest convention of the dullest minds since our last soirée a la 2024!!!??In the laser pit @dan.na.reyes & @houseofdvey will be finger-blasting your eardrums with sleazy rhythms before @marceldune scrambles your brain cells into omelette du fromagge. Upstairs in the Sloperating Theatre, our bonk boffins @romeomacneil , @djdoll & @tobremusic will sound and probe our mutant lab-rats @die.lemma, @biogal and @glenrutter to show you the true meaning of sexpriMENTAL.",
+  "image": "https://dalstonsuperstore.com/wp-content/uploads/2025/10/Dexters-Lobotomy-POSTER2-1-copy-724x1024.png",
+  "website_link": "https://www.instagram.com/hautemessparty/",
+  "ticket_link": "https://dalstonsuperstore.com/event/haute-mess-16/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     "Techno",
+     "Multi-Genre"
+  ],
+  "age": "18+"
+},
 
 
 ];
