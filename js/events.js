@@ -6755,6 +6755,33 @@ const events = [
   ],
   "age": "18+"
 },
-
+{
+  "id": 1112567232,
+  "name": "CAYA by fabric with SOFT DOMINATION",
+  "venue": "Fabric",
+  "address": "77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom",
+  "time": "23:00-04:00",
+  "date": "Nov 30",
+  "price": "0 to £16",
+  "type": "party",
+  "tags": [
+      "Community",
+      "Underground",
+      "Collectives",
+  ],
+  "description": "CAYA : “come as you are” is fabric's weekly Sunday night party presenting forward thinking house and techno and everything in between. Independent record label showcase , DJ collectives and hand picked up and coming talent as well as international DJs. \n\nCome as you are offers a limited amount of free tickets to each event making it accessible to everyone.",
+  "image": "images/cayafabric.png",
+  "website_link": "hhttps://www.instagram.com/soft_domination/?hl=en",
+  "ticket_link": "https://ra.co/events/2288235?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnafGPhK3J8wtzllGZed-AnYZsZ7SMNBtFjrD_VmL-pS6gK1yedwTPI8NLg0A_aem_Sv9WzExHt21OLQrR4r--9A",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "ra",
+  "scraped_date": "2025-10-13T12:50:00.691792",
+  "generes": [
+     "Electronic",
+     "Multi-Genre"
+  ],
+  "age": "18+"
+},
 
 ];
