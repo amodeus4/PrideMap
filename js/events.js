@@ -6843,5 +6843,219 @@ const events = [
   "age": "18+"
 },
 
+{
+  "id": 1112567236,
+  "name": "Skate Lates - Sue Veneers",
+  "venue": "Somerset House",
+  "address": "Strand, London WC2R 1LA",
+  "time": "20:00-23:59",
+  "date": "Nov 19",
+  "price": "£18",
+  "type": "social",
+  "tags": [
+    "Ice Skating",
+    "inclusive",
+    "DJs",
+    "Drinks",
+    "Outdoor"
+
+  ],
+  "description": "London nightlife royalty, Sue Veneers, are bringing their signature good-time energy to Skate Lates. The crew behind the unmissable parties at Glastonbury and Mighty Hoopla will be providing a thumping house and HI-NRG soundtrack for your session on the ice.",
+  "image": "https://admin.somersethouse.org.uk/images/ZtI6Bhezjgg8FmkPuya3jGArC4E=/5380/format-webp%7Cwidth-1600/Sue-Veneers.jpg",
+  "website_link": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house?utm_content=linkstream_link&utm_source=ig",
+  "ticket_link": "https://www.somersethouse.org.uk/whats-on/skate-lates-with-aperol-spritz-sue-veneers",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567237,
+  "name": "Skate Lates - SUZIO",
+  "venue": "Somerset House",
+  "address": "Strand, London WC2R 1LA",
+  "time": "20:00-23:59",
+  "date": "Nov 20",
+  "price": "£18",
+  "type": "social",
+  "tags": [
+    "Ice Skating",
+    "inclusive",
+    "DJs",
+    "Drinks",
+    "Outdoor"
+
+  ],
+  "description": "Get ready to get SUZIO. London’s most exciting Latin American underground collective are bringing their signature hedonistic energy to the rink. The SUZIO DJs are here to serve up the real sounds of the diaspora, from hard-hitting Reggaeton and blown-out Brazilian Funk to hypnotic Cumbia. Founded by Manuka Honey and Baby Cocada, this queer-led party is a haven for pure, unfiltered energy.",
+  "image": "https://admin.somersethouse.org.uk/images/lu0KggVonaUChR_KXkeehFDm7OM=/5381/format-webp%7Cwidth-1600/SUZIO-webheader.jpg",
+  "website_link": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house?utm_content=linkstream_link&utm_source=ig",
+  "ticket_link": "https://www.somersethouse.org.uk/whats-on/skate-lates-with-aperol-spritz-suzio",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567238,
+  "name": "Sapphic Winter Nights",
+  "venue": "Apples & Pears Cocktail Bar",
+  "address": "26 Osborn Street, London E1 6TD",
+  "time": "20:00-23:59",
+  "date": "Dec 19",
+  "price": "£8.30",
+  "type": "party",
+  "tags": [
+    "Party",
+    "DJ's",
+    "Games",
+    "Festive",
+    "Sapphic",
+ 
+
+  ],
+  "description": "Join us for our Winter night of queer silliness!! We've got some amazing DJ's lined up along with the return of our favourite games! We've even added a couple extra festive games 👀💃 we can't wait to see you all there so get your tickets now!!!!",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170683951%2F273182823859%2F1%2Foriginal.20251111-131346?w=600&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C133%2C1600%2C800&s=8f35541f36b207cb3b377a3a1b14dbb2",
+  "website_link": "https://www.instagram.com/sapphic_nights_/?hl=en",
+  "ticket_link": "https://www.eventbrite.co.uk/e/sapphic-winter-nights-tickets-1968145203284?aff=oddtdtcreator&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn_mSh-PpCUdm6N--zOapHxi8DzS_ykm82wti-gZkLNYZUqOjVaslvQBMaNpc_aem_pz0ZGDatnZbvQ4_7_xbzzw",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567239,
+  "name": "Kinesis",
+  "venue": "Vespers Club Peckham",
+  "address": "133A Rye Lane, London, SE15 4BQ, UK",
+  "time": "23:00-04:00",
+  "date": "Nov 22",
+  "price": "£12.60 to £15",
+  "type": "party",
+  "tags": [
+    "Party",
+    "DJ's",
+    "Games",
+    "Festive",
+    "Sapphic",
+ 
+
+  ],
+  "description": "Following our packed-out fundraiser last month, we're back at our favourite newly-rebranded venue Vespers for another highly kinetic knees up shindig. This time we're bringing our bassiest lineup to date, starring SANA, Ting Run Run and Mo3rphious, alongside residents NCD b2b SlimThic and the long-awaited return of VL++ \n\nLast entry 1am, so get down early!! \n\n+++++ \n\nWe have a limited number of free tickets for those who can't afford one. DM @kinesis_ldn on IG or email kinesisldn@gmail.com if you need one, no questions asked :) \n\nKinesis is a queer-friendly space for everyone to have fun and feel free - we have a zero tolerance to transphobia, racism, homophobia, sexism, ableism, harassment, violence and oppression of any form.",
+  "image": "https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vNzlmNzQwNzVjODYwYzU1ZmQ5ZDliMWFjMjlhZjg3YzY3ODgwODJmYy5qcGc=",
+  "website_link": "https://www.instagram.com/kinesis_ldn/?hl=en",
+  "ticket_link": "https://ra.co/events/2286611",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+    
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567240,
+  "name": "Sappho’s Circle Book Club",
+  "venue": "La Camionera",
+  "address": "243 Well Street,  London,  E9 6RG",
+  "time": "18:00-21:00",
+  "date": "Dec 7",
+  "price": "£5",
+  "type": "social",
+  "tags": [
+      "Books",
+      "Sapphic",
+      "Chill",
+      "Social",
+      "Friendly",
+      "Chatty"
+
+  ],
+  "description": "Join us for our Sapphic book club where every month we join together and discuss sapphic literature! \n\n📚This month’s book: Heap Earth Upon It by Chloe Michelle Howarth \n📍La Camionera \n\n⏱️Time and date: Sunday 7th December @ 6pm \n\nAn afternoon of wine and amazing conversation as we sip, yap and analyse amongst the loveliest of company 💕 \n\nExpect baked goods and immaculate vibes \n\nIf you're not in the WhatsApp group chat, message me at: 07852695922 \n\nSappho's circle is a super fun community where queer women and non binary people are all welcome!",
+  "image": "https://cdn.outsavvy.com/events/3fb709f7-5d53-4e1c-be82-1f18c4b78fe7.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/29578/sapphos-circle-book-club",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  
+},
+{
+  "id": 1112567241,
+  "name": "Sapphic Book Crawl",
+  "venue": "Waterstones",
+  "address": "82 Gower Street,  London,  WC1E 6EQ",
+  "time": "15:30-18:30",
+  "date": "Dec 14",
+  "price": "£3",
+  "type": "social",
+  "tags": [
+      "Books",
+      "Sapphic",
+      "Social",
+      "Friendly",
+      "Community"
+
+  ],
+  "description": "Imagine this - a matcha in hand, your favourite empty tote bag (that doesn’t slip down your arm) ready to be filled with books on your shoulder, and sapphic women all around you asking “what are you currently reading?” as we stroll around Bloomsbury’s best book stores, ending of course with the cold air ushering us into a cosy pub for a red wine. If this sounds like your dream date then join us for a cute book shop crawl around the dreamy neighbourhood of Bloomsbury - starting at the huge Waterstones and winding our way to Gay’s The Word 💕 then ending at a cute pub for a show and tell of the goods we’ve foraged in the wild (the books we bought) 📚 \n\nStarting point: Waterstones Gower Street \n\nTime: 2pm \n\nDate: Sunday 14th December \n\nIf you’re not already part of Sappho’s Circle group chat, message me on: 07852695922 to join! More details on where exactly to meet will be on the gc",
+  "image": "https://cdn.outsavvy.com/events/3335f346-e432-4c2b-9ba5-431515fddfb2.jpeg",
+  "website_link": "",
+  "ticket_link": "https://www.outsavvy.com/event/31726/sapphic-book-crawl",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  
+},
+{
+  "id": 1112567242,
+  "name": "Bizzaro New Romantic Caba-Rave",
+  "venue": "Bethnal Green Workingmen's Club",
+  "address": "44-46 Pollard Row; Bethnal Green; London E2 6NB; United Kingdom",
+  "time": "20:00-02:00",
+  "date": "Nov 22",
+  "price": "£8 to £14.90",
+  "type": "party",
+  "tags": [
+      "Party",
+      "New Wave",
+      "Post-Punk",
+      "Contest",
+      "Community"
+
+  ],
+  "description": "Come one, come all to the first ever NEW ROMANTIC Bizzaro. A rave that will blast you into the past as the decadent divas take the stage and the club. We will be transporting you back into a time of drama and extravagance where everyone will get to be bisexual. Androgyny is encouraged since makeup has no gender and we want everyone to be their most fabulous self. \n\nOur selected performers and djs will be guiding you through this retro sequin filled journey, giving the drama that is needed for a night to never forget. We will be spinning 80s New Romantic music and a little New Wave to transport the dance floor back in time. \n\nWe are looking for everyone to show up and show out because there will be a LOOKS contest were the 3 people with the fiercest look will get a prize! \n\nThere is more info to come out about this AMAZING EVENT!!!",
+  "image": "https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vNjM3NjJiODc5ZTY2ODQ4MzdjMDAxM2ZlYzc2YWU1OTdmZDFkYWUzNC5qcGc=",
+  "website_link": "https://www.instagram.com/esotericangelx/?hl=en",
+  "ticket_link": "https://ra.co/events/2287444?p=67sigmaballs&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnVQCYENbvPZ3EPYGMO0i_iEk-k09ow-43UcaphH7xwgAhFbsBq3w7FCtAbBM_aem_E7LhSTYIGkx7HQHNHJRJ7Q",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+  
+},
+
 
 ];
