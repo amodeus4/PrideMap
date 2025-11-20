@@ -7155,7 +7155,7 @@ const events = [
       "Allies",
 
   ],
-  "description": "Pony Party returns for our 1 Year Anniversary! ₊˚⊹♡ \n\nExpect a night full of prizes, giveaways, vendors, fun music and most of all PONIES! \n\nWith a lineup sure to get you trotting all night long make sure you don’t miss out on what every artist has to offer. \n\nCome in your best cosplay, get your photo taken and give yourself an unforgettable experience. \n\nPony Party is an unofficial MLP themed event, focused on community and fun. We are LGBTQ+ led and focused and will aim to provide a safe space for all.",
+  "description": "Hey there gorgeous you look like you’re up for a good time ;)\n\nCLUB SMOOCH is opening its doors for a party NOT TO BE MISSED. 6 hours of non-stop SEXY VIBES in a DIRTY Dalston basement curated by four of the underground community’s FINEST SELECTORS\n\nSLUTTY techno, HOT latin flavours, booty shakin BASS and NASTY beats to get all the ravers HOT UNDER THE COLLAR. Dress for the HEAT\n\nDon’t be shy, come party with us xoxo\n\n—————————————————\n\nThis is a queer friendly event, any unsexy nonsense will not be tolerated.",
   "image": "https://imgproxy.ra.co/_/quality:66/w:320/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODM3YWZlYWUzNWFhNmVlN2FkMzFjMjMyOWNmMmVhYTFiYWZlN2YwMi5qcGc=",
   "website_link": "",
   "ticket_link": "https://ra.co/events/2279371",
