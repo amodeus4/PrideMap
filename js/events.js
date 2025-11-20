@@ -6944,11 +6944,8 @@ const events = [
   "price": "£12.60 to £15",
   "type": "party",
   "tags": [
-    "Party",
-    "DJ's",
-    "Games",
-    "Festive",
-    "Sapphic",
+    "Hardcore",
+    "Bass"
  
 
   ],
