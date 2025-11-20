@@ -7056,6 +7056,63 @@ const events = [
   ],
   
 },
+{
+  "id": 1112567243,
+  "name": "SEXTOU #12",
+  "venue": "Number 90 Lock",
+  "address": "90 Wallis Rd, London E9 5LN",
+  "time": "23:00-06:00",
+  "date": "Nov 28",
+  "price": "TBA",
+  "type": "party",
+  "tags": [
+      "Party",
+      "High Energy",
+      "Inclusive",
+      "Techno",
+
+  ],
+  "description": "Sextou isn’t just a party — it’s a celebration of queer energy, radical inclusivity, and the unifying power of techno. Named after the Brazilian slang for “Happy Friday,” Sextou creates a space where authenticity reigns and the dance floor is electric. \n\nThe final edition of the year is here — yes, you heard it right! 2025 has flown by in a flash, and before we roll into 2026, we’re throwing one last dance to remember. Join us for SEXTOU Number 12, our grand finale of the year, packed with energy, love, and that signature SEXTOU magic. Let’s close out the year the only way we know how — together on the dancefloor.",
+  "image": "https://promotix.s3.us-east-1.amazonaws.com/event-images/43859/SEXTOU--12-tickets-1.jpg?t=1763632614059",
+  "website_link": "https://www.instagram.com/sextou_london/?hl=en",
+  "ticket_link": "https://app.promotix.com/events/details/SEXTOU--12-tickets?referrer=dashboard",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+},
+{
+  "id": 1112567244,
+  "name": "CLUB ARE",
+  "venue": "Hackney Bridge",
+  "address": "Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, UK",
+  "time": "15:00-02:00",
+  "date": "Nov 29",
+  "price": "£17.50 to £22.50",
+  "type": "party",
+  "tags": [
+      "Party",
+      "High Energy",
+      "Inclusive",
+      "House Music",
+      "Techno"
+
+  ],
+  "description": "Club Are turns two! On 29 November, we return to Hackney Bridge for our anniversary edition, a day-to-night edition at the place where it all began. Two years in, we’re proud of what the community has built with us. Thank you to everyone who’s been part of this journey. Looking forward to celebrating together. \n\nFor 11 hours, we’ll be taking over the space with sound, movement, and a focus on the community that continues to shape each edition. \n\nThe venue will feature a large scale installation, light, and set design, developed by our selected visual artist alongside the Club Are team and long-term collaborators. \n\nExpect a high-energy programme across progressive house, hard house, tech-house, and techno, delivered by a lineup of DJs and artists who know how to push the room. \n\nAs always, Club Are is built around community. We hold space for queer joy at the centre, and we welcome everyone who comes with respect for the people and the environment around them. \n\nWe operate a zero-tolerance policy for harassment or discrimination. \n\nRespect the space. Respect each other.",
+  "image": "https://static.wixstatic.com/media/16e7fb_7bd736915e114856a99a6be406a56b51~mv2.png/v1/fill/w_979,h_552,fp_0.50_0.50,q_90,usm_0.66_1.00_0.01,enc_auto/16e7fb_7bd736915e114856a99a6be406a56b51~mv2.png",
+  "website_link": "https://www.instagram.com/club_are/?hl=en",
+  "ticket_link": "https://www.clubare.org/events/club-are-two-year-anniversary",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+},
 
 
 ];
