@@ -7113,6 +7113,89 @@ const events = [
       
   ],
 },
+{
+  "id": 1112567245,
+  "name": "Pony Party! ✧˖° 1 Year Anniversary °˖✧",
+  "venue": "Vauxhall Arches",
+  "address": "South Lambeth Road, Vauxhall, London SW8 1RT, United Kingdom",
+  "time": "23:00-05:00",
+  "date": "Nov 21",
+  "price": "£18.40 to £20",
+  "type": "party",
+  "tags": [
+      "High Energy",
+      "Nightcore",
+      "Happy Hardcore",
+      "Donk",
+      "Brony"
 
+  ],
+  "description": "Pony Party returns for our 1 Year Anniversary! ₊˚⊹♡ \n\nExpect a night full of prizes, giveaways, vendors, fun music and most of all PONIES! \n\nWith a lineup sure to get you trotting all night long make sure you don’t miss out on what every artist has to offer. \n\nCome in your best cosplay, get your photo taken and give yourself an unforgettable experience. \n\nPony Party is an unofficial MLP themed event, focused on community and fun. We are LGBTQ+ led and focused and will aim to provide a safe space for all.",
+  "image": "https://imgproxy.ra.co/_/quality:66/w:320/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vNzEzZjA5NWNhNTg4NDRmYjliODVmYmY1NmMzZDQ5NWY3MjgwMWE4Ni5qcGc=",
+  "website_link": "https://www.instagram.com/ponyparty_ldn?igsh=ZHluNTN5OG5vYTI1&utm_source=qr",
+  "ticket_link": "https://ra.co/events/2242525",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+},
+{
+  "id": 1112567246,
+  "name": "nektar X CONTRA PRESENTS: CLUB SMOOCH",
+  "venue": "Club 8",
+  "address": "8 Stoke Newington Rd, London N16 7XN",
+  "time": "22:00-03:00",
+  "date": "Nov 21",
+  "price": "£7 to £11.40",
+  "type": "party",
+  "tags": [
+      "Slutty",
+      "Latin Bass",
+      "Techno",
+      "Allies",
+
+  ],
+  "description": "Pony Party returns for our 1 Year Anniversary! ₊˚⊹♡ \n\nExpect a night full of prizes, giveaways, vendors, fun music and most of all PONIES! \n\nWith a lineup sure to get you trotting all night long make sure you don’t miss out on what every artist has to offer. \n\nCome in your best cosplay, get your photo taken and give yourself an unforgettable experience. \n\nPony Party is an unofficial MLP themed event, focused on community and fun. We are LGBTQ+ led and focused and will aim to provide a safe space for all.",
+  "image": "https://imgproxy.ra.co/_/quality:66/w:320/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODM3YWZlYWUzNWFhNmVlN2FkMzFjMjMyOWNmMmVhYTFiYWZlN2YwMi5qcGc=",
+  "website_link": "",
+  "ticket_link": "https://ra.co/events/2279371",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+},
+{
+  "id": 1112567247,
+  "name": "MID WEEK SESSION XXVI",
+  "venue": "AMP Studios",
+  "address": "Arches 68-71, next to 899 Old Kent Rd, Old Kent Rd, London, SE15 1NL",
+  "time": "19:00-00:00",
+  "date": "Nov 20",
+  "price": "£10 to £20",
+  "type": "party",
+  "tags": [
+      "Community",
+      "Techno",
+      "Allies",
+
+  ],
+  "description": "Join us for the last Mid Week Session of the year at an undisclosed location in south east London. \n\nExpect deep, diverse sounds from some of London’s finest selectors, brought together for a night that celebrates community, rhythm, and connection. The musical journey will focus on hardgroove and electro. \n\nOur venue will be open space, warm atmosphere, and a solid soundsystem. \n\nAs always, we want everyone to feel welcome. If you can’t afford a ticket but still want to join us, get in touch at @midweeksession — no one gets left behind. \n\nThanks for the amazing year so far - let’s make the last one of the year special.",
+  "image": "https://imgproxy.ra.co/_/quality:66/w:320/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vYjZkZjY2NDhkNWJmZjJiNmRmODcxMmI1NzgyNDk3ZjBmNjJmMDAyOS5wbmc=",
+  "website_link": "https://www.instagram.com/midweeksession?igsh=MXJ5czZ5eGJhNHk1ag%3D%3D&utm_source=qr",
+  "ticket_link": "https://ra.co/events/2285312",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+      
+  ],
+},
 
 ];
