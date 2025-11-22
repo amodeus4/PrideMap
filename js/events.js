@@ -7329,6 +7329,32 @@ const events = [
   "generes": [
   ],
 },
+{
+  "id": 1112567252,
+  "name": "Humbug! The Muppets Christmas Carol Cabaret",
+  "venue": "The Clapham Grand",
+  "address": "21-25 ST JOHN’S HILL, BATTERSEA, LONDON, SW11 1TT",
+  "time": "18:30-22:30",
+  "date": "Dec 10",
+  "price": "£20 to £23",
+  "type": "social",
+  "tags": [
+      "Festive",
+      "Cabaret",
+      "Fundraiser",
+      "Drag",
+  ],
+  "description": "Award winning producer Daddy Pecs brings their take on The Muppets Christmas Carol to Clapham Grand. Co-director of Pecs Drag Kings and renowned Edinburgh Fringe producer, this show is set to be a spectacular queermas parody cabaret. \n\nHUMBUG! \n\nWhen a cold wind blows it chills you, chills you to the bone. So come in from the cold and join Daddy Pecs aka Gonzo the Great aka Charles Dickens in this completely unclassic retelling of the beloved Muppet’s Christmas Carol with the drag and cabaret legends of London past, present and future. \n\n‘Tis the season to be jolly and joyous, fa(g) la la! So don your favourite christmas jumper and get yourself to this queermas parody cabaret with Miss Piggy, Kermit, Rizzo and the whole gang. \n\nPromise to share the wealth, because in coming you’re also helping one of London’s favourite drag dads, Daddy Pecs fundraise for his top surgery. And wow, does trans healthcare feel like Christmas. \n\nBless us all, boots. \n\n",
+  "image": "https://claphamgrand.com/wp-content/uploads/2025/11/HUMBUG-The-Muppets-Christmas-Carol-Cabaret-1300x1300.jpg",
+  "website_link": "",
+  "ticket_link": "https://claphamgrand.com/event/humbug-the-muppets-christmas-carol-cabaret/",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "outsavvy",
+  "scraped_date": "2025-10-02T10:33:46.180410",
+  "generes": [
+  ],
+},
 
 
 
