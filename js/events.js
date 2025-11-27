@@ -7827,6 +7827,64 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1112567270,
+  "name": "The DYKE SANTA Contest",
+  "venue": "Old Nunshead",
+  "address": "15 Nunhead Green,  London,  SE15 3QQ",
+  "time": "23:00-04:00",
+  "date": "Dec 11",
+  "price": "Free",
+  "type": "party",
+  "tags": [
+    "FLINTA+",
+    "Contest",
+    "Festive",
+  ],
+  "description": "Dyke the halls for… THE DYKE SANTA CONTEST! \n\nBooters are back at The Old Nun's Head to turn on their Xmas lights, and we'll crown the most festive rugmuncher in South London 🎄 After our 2 packed Performative Butch and Performative Femme contests at the Old Nun's Head, we want to close the year with one last contest: finding London's own DYKE SANTA. \n\nJoined by our special guest all the way over from New York City's neighbourhood dyke dive bar, Cubbyhole!! And a third special guest judge TBA ;)",
+  "image": "https://cdn.outsavvy.com/events/8db5f2c0-0d60-4ac7-b874-0333fab19a94.png",
+  "website_link": "https://www.instagram.com/bootersbutchbar/?hl=en&g=5",
+  "ticket_link": "https://www.outsavvy.com/event/31946/the-dyke-santa-contest",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567271,
+  "name": "3o6 x DoTB: P3RRITAS A P3RR3AR",
+  "venue": "Algha's Plantroom",
+  "address": "Floor 2 Algha Works, 83 Smeed Road, E3 2NR",
+  "time": "18:00-23:00",
+  "date": "Dec 12",
+  "price": "Free",
+  "type": "party",
+  "tags": [
+    "Queer",
+    "Party",
+    "Latincore",
+    "Cunty",
+    "Speed dating",
+    "Tattoos",
+    "Clothing"
+  ],
+  "description": "Perritas in LDN we are ready 2 make you sweat :*we are teaming up with Dolls on The Block, to bring you a c*nty night of perreo, latincore and underground latin sounds <333\n\non the line up we have:\nSANTZZ\nHONDABBY\nKMILA\n\n6-7PM we will have girls and gays speed d8ing, meet a friend and meet a lover or a new bestie.\n\n6-10 we have a lineup of sxc stall:\n@333o666 (ofc ;))\n@kaboclothing\n@pixel.garmz\n@trashyxtreasure\n@uiiba.club\n\ntooth gems by\n@toothgems_cutie\n\n&&& custom ta2s with\n@yitapokes\n\n────୨ৎ────\n\nabout dolls on the block:\n\nborn and thriving in the italian part of switzerland, Dolls on The Block isn't just an event, but cutural resistance, they are redefining club spaces by centring marginalised voices.\n\nthey create a space where those who are often silenced, particularly trans people, are celebrated and given a platform. in a time where queer existence is under attack, they fight back to joy and unapologetic expression.",
+  "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vMGQ4ZjI1MWRjZTg0N2QzOGVjMGM1MjgyYzU2MTJjZWY0ZDM0ZDQyYi5wbmc=",
+  "website_link": "https://www.instagram.com/333o666/?hl=en",
+  "ticket_link": "https://ra.co/events/2311795",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+
+  ],
+  "age": "18+"
+},
 
 
 ];
