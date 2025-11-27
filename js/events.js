@@ -7742,6 +7742,91 @@ const events = [
   ],
   "age": "18+"
 },
+{
+  "id": 1112567267,
+  "name": "Warme Brüder: A Queer Christmas",
+  "venue": "The Post Bar",
+  "address": "316 High Road, N15 4BP",
+  "time": "22:00-03:00",
+  "date": "Dec 6",
+  "price": "Free to £5.50",
+  "type": "party",
+  "tags": [
+    "Dance Party",
+    "Queer",
+    "Techno",
+    "House",
+    "Community",
+  ],
+  "description": "Queer Christmas is coming early!\n\nSlide into the festive season with Tottenham’s favourite local queer dance party.\n\n- December 6th\n- 10pm - 3am(ish)\n- Free shot for ticket holders\n- Tottenham’s (London‘s?) finest smoking area\n- A queer neighbourhood boogie\nEvent",
+  "image": "https://imgproxy.ra.co/_/quality:66/w:1028/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vMWE5N2M1YWZhNjY1ODIwZmIyNDNiZThmOTY3OTBiN2M1YWI4ZmU1NS5qcGc=",
+  "website_link": "https://www.instagram.com/warmebrudertottenham/?hl=en",
+  "ticket_link": "https://ra.co/events/2299058",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567268,
+  "name": "R.U... Looking?",
+  "venue": "VFD Dalston",
+  "address": "64 Stoke Newington Road,  London,  N16 7XB",
+  "time": "19:30-22:30",
+  "date": "Dec 14",
+  "price": "£10 to £13",
+  "type": "social",
+  "tags": [
+    "Singles Night",
+    "Gay Men",
+    "Sober",
+    "Connection",
+  ],
+  "description": "Queer/Gay Mens Sober Singles night! Come and connect, chat, make friends, find love! Online dating is rubbish- lets try meeting people!\n\nAre you sick of online dating apps? Are you over the endless messaging that leads nowhere? Ghosts and the genral hopelessness. Enough! Try something new by taking a chance on the old way. Meeting people in person! With clubs, pubs and events often so geared around the consumption of alcohol “R.U... Looking?” is a new singles night (for queer/gay men) looking to create a space to meet like minded sober guys and people looking for connection love and everything in-between.\n\nAfter the success of the first night in Nov R.U…Looking is back! We're are Vogue Fabrics Dalston this time. The event will be much like other singles nights popping up, a bunch of guys in a bar (serving non-alcoholic drinks and nibbles) some music, optional light ice breakers,a rafel and good vibes.",
+  "image": "https://cdn.outsavvy.com/events/6f896eff-069d-42a7-a146-54400e0375f0.jpg",
+  "website_link": "https://www.instagram.com/r.u_areyou/?hl=en",
+  "ticket_link": "https://www.outsavvy.com/event/31859/ru-looking",
+  "coordinates": null,
+  "sellingFast": true,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+
+  ],
+  "age": "18+"
+},
+{
+  "id": 1112567269,
+  "name": "SISSIES at Christmas",
+  "venue": "Ballie Ballerson London",
+  "address": "97-113 Curtain Road,  London,  EC2A 3BS",
+  "time": "23:00-04:00",
+  "date": "Dec 11",
+  "price": "£12.50 to £17",
+  "type": "party",
+  "tags": [
+    "Singles Night",
+    "Gay Men",
+    "Sober",
+    "Connection",
+  ],
+  "description": "Forget Silent Night, we’re swapping carols for confetti and taking over Ballie Ballerson for a full throttle SISSIES CHRISTMAS! 🎅\n\nThe SISSIES are back on Thursday 11th December 2025 at London’s ICONIC Ballie Ballerson, for one big festive blow out before the year's over. \n\nOur stars DJ TeTe Bang and DJ Raul Botella are on the decks from 11pm, joined by dancers from the incredible queer collective Homoparody. With confetti cannons, CO₂ bursts, and Ballie’s legendary adult ball pit, we are so excited to spend the holidays with you. \n\nNow it wouldn't be Christmas without a little gift giving... We’re giving away £250 CASH on the night so make sure you grab a £1 xmas raffle ticket when you arrive on the door. \n\nThis is SISSIES Christmas, babe. Be there.",
+  "image": "https://cdn.outsavvy.com/events/6954a462-8c06-47d0-b194-ed88d64dca7b.png",
+  "website_link": "https://www.instagram.com/sissies.party/?hl=en",
+  "ticket_link": "https://www.outsavvy.com/event/31221/sissies-at-christmas?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnNhIkVZS2pyu_LZZGlzi0zzn7zOTIbFnaJ0ibM9tG_USVXd61Lfz9ImcnosY_aem_BXwuRTAbQlqYKlyrm9k-Og",
+  "coordinates": null,
+  "sellingFast": false,
+  "scraped_from": "instagram",
+  "scraped_date": "2025-09-10T11:20:30.430892",
+  "generes": [
+
+  ],
+  "age": "18+"
+},
 
 
 ];
