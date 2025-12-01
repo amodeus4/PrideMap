@@ -6374,7 +6374,7 @@ const events = [
 },
 {
   "id": 2917479419,
-  "name": "S2CPERREA: DALE CALIENTE",
+  "name": "2CPERREA: DALE CALIENTE",
   "venue": "Number 90",
   "address": "90 Main Yard; Wallis Road; London E9 5LN",
   "time": "22:00-08:00",
@@ -7592,33 +7592,6 @@ const events = [
   "ticket_link": "https://www.outsavvy.com/event/31836/strut-x-do-si-dontcha-feat-ponyboy?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn94-MlF2pNzVeLiL-CxxMxMB43qmx26PXA7lr0WlrSUlvmi-ZEpxaSyheVfc_aem_NvY6T9pncoUEAO-Sc8CDBA",
   "coordinates": null,
   "sellingFast": true,
-  "scraped_from": "instagram",
-  "scraped_date": "2025-09-10T11:20:30.430892",
-  "generes": [
-
-  ],
-  "age": "18+"
-},
-{
-  "id": 1112567262,
-  "name": "Queer Edge Late",
-  "venue": "Block C Hackney Bridge",
-  "address": "Echo Building, E Bay Lane,  Hackney Wick,  London,  E15 2SJ",
-  "time": "20:00-02:00",
-  "date": "Dec 5",
-  "price": "£10 to £15",
-  "type": "party",
-  "tags": [
-    "Party",
-    "Queer",
-    "Community",
-  ],
-  "description": "Queer Edge is an East London queer collective, holding inclusive spaces for the local queer community, irrespective of age, gender or sexuality. We throw monthly parties, live shows, panel discussions, and have a queer CoWorking space (+ photography studio) open every day. \n\nClubnights - 1st Friday of every month \nLive variety shows - 3rd Thursday of every month \n\nPlease join us, Friday 5th December, at Block C Hackney Bridge, 8pm-2am. These nights fill the gap between a bar and a rave, making it a great place to meet people within your local queer community.",
-  "image": "https://cdn.outsavvy.com/events/6d5ca5ac-0138-49c9-a80e-e85a5808e4f4.jpg",
-  "website_link": "https://www.instagram.com/qe_london/?hl=en",
-  "ticket_link": "https://www.outsavvy.com/event/30703/queer-edge-late",
-  "coordinates": null,
-  "sellingFast": false,
   "scraped_from": "instagram",
   "scraped_date": "2025-09-10T11:20:30.430892",
   "generes": [
